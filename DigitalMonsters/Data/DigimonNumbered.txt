@@ -1,0 +1,574 @@
+ORANGE=Needs to appear in Anime     CYAN=Re-color that needs to appear in Anime
+D#,English Name,Level,Group,Type,Size,English Technique
+1,Koromon,I-T,Micro,-,10.0,Bubble Blow
+2,Tsunomon,I-T,Micro,-,10.0,Bubble Blow
+3,Yokomon,I-T,Micro,-,4.0,Bubble Blow
+4,Motimon,I-T,Micro,-,8.0,Bubble Blow
+5,Tanemon,I-T,Micro,-,10.0,Bubble Blow
+6,Bukamon,I-T,Micro,-,7.0,Bubble Blow
+7,Tokomon,I-T,Micro,-,10.0,Bubble Blow
+8,Agumon,R,Reptile,Vaccine,20.0,Pepper Breathe
+9,Gabumon,R,Reptile,Data,20.0,Blue Blaster
+10,Biyomon,R,Bird,Vaccine,15.0,Spiral Twister
+11,Tentomon,R,Insectoid,Vaccine,15.0,Super Shocker
+12,Palmon,R,Vegetation,Data,15.0,Poison Ivy
+13,Gomamon,R,Sea Animal,Vaccine,15.0,Marching Fishes
+14,Patamon,R,Mammel,Data,20.0,Boom Bubble
+15,Kuwagamon,C,Insectoid,Virus,20.0,Scissor Claw
+16,Greymon,C,Dinosaur,Vaccine,30.0,Nova Blast
+17,Shellmon,C,Sea Animal,Data,30.0,Hydro Blaster
+18,Garurumon,C,Animal,Vaccine,20.0,Howling Blaster
+19,Seadramon,C,Sea Animal,Data,20.0,Ice Blast
+20,Monochromon,C,Dinosaur,Data,30.0,Volcanic Strike
+21,Birdramon,C,Bird,Vaccine,30.0,Meteor Wing
+22,Meramon,C,Fire,Data,18.0,Fireball
+23,Kabuterimon,C,Insectoid,Vaccine,30.0,Electro Shocker
+24,Andromon,U,Android,Vaccine,25.0,Lightning Blade
+25,Togemon,C,Vegetation,Data,20.0,Needle Spray
+26,Numemon,C,Mollusk,Virus,10.0,Party Time
+27,Monzaemon,U,Puppet,Vaccine,40.0,Hearts Attack
+28,Ikkakumon,C,Sea Animal,Vaccine,25.0,Harpoon Torpedo
+29,Unimon,C,Mythical Animal,Vaccine,30.0,Aerial Attack
+30,Leomon,C,Animal,Vaccine,20.0,Fist Of The Beast King
+31,Ogremon,C,Evil,Virus,20.0,Pummel Whack
+32,Devimon,C,Evil,Virus,15.0,Touch Of Evil
+33,Frigimon,C,Icy,Vaccine,30.0,Subzero Ice Punch
+34,Mojyamon,C,Rare Animal,Vaccine,20.0,Ice Cloud
+35,Sukamon,C,Mutant,Virus,10.0,Bomber
+36,Centarumon,C,Animal,Data,20.0,Solar Ray
+37,Bakemon,C,Ghost,Virus,30.0,Dark Claw
+38,Elecmon,R,Mammel,Data,20.0,Super Thunder Strike
+39,Botamon,I-T,Micro,-,5.0,Bubble Blow
+40,Punimon,I-T,Micro,-,5.0,Bubble Blow
+41,Poyomon,I-T,Micro,-,5.0,Bubble Blow
+42,Yuramon,I-T,Micro,-,5.0,Bubble Blow
+43,Angemon,C,Angel,Vaccine,20.0,Hand Of Fate
+44,Whamon,C,Sea Animal,Vaccine,40.0,Blasting Spout
+45,Drimogemon,C,Animal,Data,40.0,Iron Drill Spin & Crusher Bone
+46,Etemon,U,Puppet,Virus,20.0,Dark Network & Concert Crush
+47,Gazimon,R,Mammel,Virus,15.0,Electric Stun Blast
+48,Pagumon,I-N,Micro,-,8.0,Bubble Blow
+49,Skullgreymon,U,Skelton,Virus,40.0,Dark Shot
+50,Kokatorimon,U,Skelton,Virus,40.0,Dark Shot
+51,Tyrannomon,C,Dinosaur,Data,20.0,Blaze Blast
+52,Piximon,U,Pixie,Data,5.0,Pit Bomb
+53,Datamon,U,Machine,Virus,5.0,Digital Bomb
+54,Metalgreymon,U,Android,Vaccine,40.0,Giga Blaster
+55,Demidevimon,R,Evil,Virus,8.0,Demi Dart
+56,Weregarurumon,U,Animal,Vaccine,18.0,Wolf Claw
+57,Digitamamon,U,Perfect,Data,10.0,Nightmare Syndromer
+58,Vegiemon,C,Vegetation,Virus,10.0,Compost Bomber
+59,Myotismon,U,Ghost,Virus,18.0,Grisly Wing
+60,Vademon,U,Alien,Virus,20.0,Unidentified Flying Kiss
+61,Pabumon,I-T,Micro,-,5.0,Bubble Blow
+62,Gekomon,C,Amphibian,Virus,15.0,Symphony Crusher
+63,Otamamon,R,Amphibian,Virus,10.0,Stun Bubble
+64,Shogungekomon,U,Amphibian,Virus,20.0,Musical Fist
+65,Garudamon,U,Bird,Vaccine,25.0,Wing Blade
+66,Flymon,C,Insectiod,Virus,20.0,Brown Stinger
+67,Gatomon,C,Animal,Vaccine,10.0,Lightning Claw
+68,Nanimon,C,Invader,Virus,10.0,Power Punch
+69,Devidramon,C,Dark Dragon,Virus,30.0,Crimson Claw
+70,Dokugumon,C,Insectiod,Virus,30.0,Poison Thread
+71,Mammothmon,U,Anicent Animal,Vaccine,40.0,Tusk Crusher
+72,Gesomon,C,Mollusk,Virus,30.0,Coral Crusher
+73,Raremon,C,Ghost,Virus,20.0,Breathe Of Decay
+74,Skullmeramon,U,Fire,Data,20.0,Metal Fireball
+75,Wizardmon,C,Wizard,Data,15.0,Thunder Ball
+76,Pumpkinmon,U,Puppet,Data,20.0,Trick Or Treat
+77,Gotsumon,R,Rock,Data,20.0,Rock Fist
+78,Lillymon,U,Pixie,Data,16.0,Flower Cannon
+79,Phantomon,U,Ghost,Virus,15.0,Shadow Scythe
+80,Darktyrannomon,C,Dinosaur,Virus,40.0,Fire Blast
+81,Gizamon,R,Mammel,Data,15.0,Spiral Saw
+82,Zudomon,U,Sea Animal,Vaccine,35.0,Vulcan's Hammer
+83,Megaseadramon,U,Sea Animal,Data,25.0,Lightning Javelin
+84,Angewomon,U,Angel,Vaccine,20.0,Celestail Arrow
+85,Tuskmon,C,Dinosaur,Virus,40.0,Slamming Tusk
+86,Snimon,C,Insectoid,Vaccine,30.0,Twin Snickles
+87,Megakabuterimon,U,Insectoid,Vaccine,30.0,Horn Buster
+88,Magnaangemon,U,Angel,Vaccine,24.0,Gate Of Destiny
+89,Venommyotismon,M,Evil,Virus,38.0,Venom Infusion
+90,Wargreymon,M,Dragon,Vaccine,20.0,Terra Force
+91,Metalgarurumon,M,Android,Vaccine,28.0,Metal Wolf Claw
+92,Nyaromon,I-T,Micro,-,6.0,Tail Whip
+93,Salamon,R,Mammel,Vaccine,10.0,Puppy Howling
+94,Parrotmon,U,Bird,Vaccine,20.0,Sonic Destroyer
+95,Chuumon,R,Animal,Virus,-,Cheese Bomb
+96,Metalseadramon,M,Android,Data,30.0,River Of Power
+97,Machinedramon,M,Android,Virus,40.0,Giga Cannon
+98,Piedmon,M,Evil,Virus,18.0,Trump Sword
+99,Puppetmon,M,Puppet,Virus,10.0,Puppet Pummel
+100,Scorpiomon,U,Crustacean,Data,20.0,Tail Blade
+101,Divermon,U,Sea Animal,Data,20.0,Striking Fish
+102,Kiwimon,C,Ancient Bird,Data,15.0,Pummel Peck
+103,Mushroomon,R,Vegetation,Virus,12.0,Fungus Crusher
+104,Blossomon,U,Vegetation,Data,20.0,Sprial Flower
+105,Floramon,U,Vegetation,Data,10.0,Rain Of Pollen
+106,Deramon,U,Bird,Data,25.0,Royal Smasher
+107,Cherrymon,U,Vegetation,Virus,40.0,Pit Pelter
+108,Garbagemon,U,Mutant,Virus,15.0,Junk Chunker
+109,Metaletemon,M,Android,Virus,30.0,Banana Slip
+110,Saberleomon,M,Ancient Animal,Data,20.0,Howling Crusher
+111,Redvegiemon,C,Vegetation,Virus,12.0,Rotten Rainballs
+112,Mekanorimon,C,Machine,Virus,35.0,Twin Beam
+113,Tankmon,C,Android,Data,35.0,Hyper Cannon
+114,Hagurumon,R,Machine,Virus,12.0,Darkness Gear
+115,Warumonzaemon,U,Puppet,Virus,24.0,Hearts Break Attack
+116,Ladydevimon,U,Evil,Virus,20.0,Darkness Wave
+117,Vilemon,C,Evil,Virus,10.0,Nightmare Shocker
+118,Apocalymon,M,Evil,Virus,-,Total Annihilation
+119,Kunemon,R,Larva,Virus,20.0,Electro Thread
+120,Musyamon,C,Wizard,Virus,20.0,Shogun Sword
+121,Kimeramon,U,Composition,Data,20.0,Poison Wing
+122,Golemon,C,Rock,Virus,40.0,Rock Punch
+123,Tortomon,C,Reptile,Vaccine,20.0,Strong Carapace
+124,Starmon,C,Mutant,Data,15.0,Meteor Shower
+125,Triceramon,U,Dinosaur,Data,30.0,Tri-Horn Attack
+126,Okuwamon,U,Insectoid,Virus,25.0,Double Scissor Claw
+127,Herculeskabuterimon,M,Insectoid,Vaccine,30.0,Giga Scissor Claw
+128,Dolphmon,C,Sea Animal,Vaccine,15.0,Pulse Blast
+129,Coelamon,C,Ancient Fish,Data,20.0,Fossil Bite
+130,Octomon,C,Mollusk,Virus,25.0,Spurting Ink
+131,Marinedevimon,U,Sea Animal,Virus,25.0,Evil Wind
+132,Pukumon,M,Mutant,Virus,20.0,Needle Squall
+133,Candlemon,R,Fire,Data,8.0,Flame Bomber
+134,Apemon,C,Animal,Vaccine,20.0,Mega Bone Stick
+135,Kokuwamon,R,Machine,Data,-,Mini Scissor Claws
+136,Icedevimon,C,Evil,Virus,-,Frost Claw
+137,Deputymon,C,Mutant,Vaccine,-,Justice Bullet
+138,Plesiomon,M,Dragon,Data,-,Water Tail Blaster
+139,Bigmamemon,U,Mutant,Data,-,Big Smily Bomb
+140,Megadramon,U,Dark Dragon,Virus,50.0,Dark Side Attack
+141,IceLeomon,U,Animal,Vaccine,-,Fist Of Ice
+142,BlueMeramon,U,Fire,Data,-,Ice Phantom
+143,Magnadramon,M,Sea Animal,Vaccine,40.0,Fire Tornado
+144,Ebidramon,C,Sea Animal,Data,25.0,Twin Sciccors
+145,Gorillamon,C,Animal,Data,30.0,Power Lifting
+146,Minotarumon,U,Animal,Virus,-,Darkside Quake
+147,Roachmon,C,Insectoid,Virus,15.0,Dream Dust
+148,Asuramon,U,Wizard,Vaccine,20.0,Fist Of Asura
+149,Jagamon,U,Vegetation,Vaccine,25.0,Potato Smash
+150,Crabmon,R,Crustacean,Data,10.0,Scissor Magic
+151,Syakomon,R,Crustacean,Virus,10.0,Black Pearl Blast
+152,Dragomon,U,Sea Animal,Virus,30.0,Tentacle Claw
+153,Marineangemon,M,Pixie,Vaccine,5.0,Ocean Love
+154,Tapirmon,R,Animal,Vaccine,20.0,Waking Dream
+155,SkullMammothmon,M,Ghost,Vaccine,30.0,Sprial Bone Crusher
+156,Boltmon,M,Android,Data,25.0,Tomahawk Crush
+157,Mamemon,U,Mutant,Data,5.0,Smiley Bomb
+158,Metalmamemon,U,Android,Data,5.0,Energetic Bomb
+159,Giromon,U,Machine,Vaccine,5.0,Big Bang Boom
+160,Extyrannomon,U,Puppet,Vaccine,40.0,Pretty Attack
+161,Deltamon,C,Composition,Virus,30.0,Triple Forces
+162,Cyclonemon,C,Dinosaur,Virus,40.0,Hyper Heat
+163,Veedramon,C,Mythical,Vaccine,25.0,V-Nova Blast
+164,Woodmon,C,Vegetation,Virus,18.0,Twig Tap
+165,Aeroveedramon,U,Holy Dragon,Vaccine,30.0,V-Wing Blade
+166,Fugamon,C,Evil,Virus,-,Evil Hurricane
+167,JungleMojyamon,C,Rare Animal,Data,-,Jungle Punch
+168,Phoenixmon,M,Animal,Vaccine,30.0,Crimson Flame
+169,Gryphonmon,M,Mythical Animal,Data,35.0,Legendary Blade
+170,ToyAgumon,R,Puppet,Vaccine,-,Toy Flame
+171,Betamon,R,Amphibian,Virus,-,Electric Shock
+172,Clockmon,C,Machine,Data,-,Chrono Breaker
+173,Guardromon,C,Machine,Virus,32.0,Protect Grenade
+174,Knightmon,U,Warrior,Data,-,Berserk Sword
+175,Penguinmon,R,Bird,Vaccine,-,Eternal Slapping
+176,DoKunemon,R,Larva,Virus,-,Worm Venom
+177,PlatinumSukamon,C,Mutant,Virus,-,Metal Bomber
+178,Psychemon,R,Reptile,Data,-,Colored Sparkle
+179,Gururumon,C,Animal,Vaccine,-,Chaos Blaster
+180,Morishellmon,C,Mollusk,Data,-,Shell Pile
+181,Tsukaimon,R,Mammal,Virus,-,Purple Fog
+182,Ninjamon,C,Mutant,Vaccine,-,Ninja Knife Throwing
+183,ModokiBetamon,R,Amphibian,Data,-,Water Gun Knife
+184,Saberdramon,C,Bird,Vaccine,-,Black Saber
+185,SnowAgumon,R,Reptile,Vaccine,-,Little Blizard
+186,Aruraumon,R,Vegetation,Data,-,Nemesis Ivy
+187,Icemon,C,Icy,Data,-,Iceball Bomb
+188,NiseDrimogemon,C,Animal,Data,-,Bogus Iron Drill Spin
+189,Airdramon,C,Mythical Animal,Vaccine,30.0,Spinning Needle
+190,MetalTyrannomon,U,Andriod,Virus,30.0,Fire Blast II
+191,Akatorimon,C,Bird,Data,-,Chicken Red Eyes
+192,Chuchidarumon,C,Mutant,Data,-,Heavy Punch
+193,Geremon,C,Mollusk,Virus,-,Hyper Smell
+194,Vermilimon,U,Dinosaur,Data,-,Volcano Strike II
+195,Meteormon,U,Rock,Data,-,Cosmo Flasher
+196,WaruSeadramon,U,Sea Animal,Virus,-,Dark Blast
+197,Jijimon,M,Ancient,Vaccine,-,Hung On Death
+198,Babamon,M,Ancient,Vaccine,-,Emprace Haze
+199,ClearAgumon,R,Puppet,Vaccine,-,Precious Flame
+200,Flarelizardmon,C,Fire,Data,-,Blaze Buster
+201,Goburimon,R,Evil,Virus,-,Goburi Bomb
+202,Thundermon,C,Mutant,Data,10.0,Thunder Volt
+203,KaratsukiNumemon,C,Crustacean,Virus,-,Shell's Attack
+204,Muchomon,R,Bird,Data,-,Tropical Beak
+205,SnowGoblimon,R,Evil,Virus,-,Bolt Strike
+206,Keramon,-,-,-,-,Crazy Giggle
+207,Weedmon,C,Vegetation,Virus,-,Deadly Ivy
+208,Yanmamon,C,Insectoid,Data,-,Thunder Ray
+209,Shamanmon,R,Evil,Virus,-,Sharma Hammer
+210,Goldramon,M,Holy Dragon,Vaccine,-,God Flame
+211,SandYanmamon,C,Insectoid,Data,-,Desert Storm
+212,ShimaUnimon,C,Mythical Animal,Vaccine,-,Striped Baster
+213,Soulmon,C,Ghost,Virus,-,Necro Magic
+214,Rosemon,M,Pixie,Data,-,Thorn Whipping
+215,MasterTyrannomon,U,Dinosaur,Vaccine,-,Master Fire
+216,Darkrizamon,C,Dark Dragon,Virus,-,Dark Flare
+217,Hyogamon,C,Icy,Virus,-,Icy Cudgel
+218,Piddomon,C,Angel,Vaccine,-,Fire Feather
+219,Brachiomon,U,Dinosaur,Data,-,Brachio Bubble
+220,Gigadramon,U,Android,Virus,40.0,Giga Byte Wing
+221,Tekkamon,U,Machine,Virus,-,Eletronic Blast Sword
+222,Cyberdramon,U,Android,Vaccine,-,Erase Claw
+223,Skullsatamon,U,Ghost,Virus,-,Nail Bone
+224,Millenniummon,M,Composition,Virus,-,Demension Destroyer
+225,Chrysalimon,C,-,-,-,Data Crusher
+226,Daemon,M,Evil,Virus,-,Flame Inferno
+227,Kingetemon,M,Puppet,Virus,-,Monkey Wrench
+228,Chibomon,I-T,Micro,-,5.0,Bubble Blow
+229,Pururumon,I-T,Micro,-,5.0,Bubble Blow
+230,Tsubumon,I-T,Micro,-,5.0,Bubble Blow
+231,Demiveemon,I-T,-,Data,6.0,Pop Attack
+232,Poromon,I-T,Bird,-,6.0,Baby Breeze
+233,Upamon,I-T,Amphibian,Data,5.0,Shock Shout
+234,Veemon,R,Dragon,Vaccine,10.0,V-Head Butt
+235,Hawkmon,R,Bird,Data,8.0,Buzz Saw
+236,Armadillomon,R,Mammal,Vaccine,15.0,Diamond Shell
+237,Wormmon,R,Larva,Virus,10.0,Silk Thread
+238,Flamedramon,A,Dragon,Vaccine,30.0,Fire Rockets
+239,Raidramon,A,Animal,Vaccine,28.0,Blue Thunder
+240,Magnamon,A,Warrior,Vaccine,-,Magna Blaster
+241,Sethmon,A,Dark Animal,Vaccine,-,Heat Storm
+242,Yasyamon,A,Wizard,Vaccine,-,Double Strike
+243,Honeybeemon,A,Insectoid,Data,-,Venom Powder
+244,Depthmon,A,Sea Animal,Data,-,Bubble Bomb
+245,Sagittarimon,A,Mythical Animal,Vaccine,-,Judgement Arrow
+246,Gargoylemon,A,Dark Animal,Virus,-,Freezing Wing
+247,Kangarumon,A,Mammal,-,-,Jumping Jab
+248,Allomon,A,Dinosaur,Data,-,Dino Burst
+249,Rinkmon,A,Mutant,-,-,Spinning Cutter
+250,Peacockmon,A,Bird,-,-,Rainbow Flapping
+251,Halsemon,A,Animal,Data,20.0,Tempest Wing
+252,Shurimon,A,Mutant,Data,10.0,Double Stars
+253,Flybeemon,A,Insectoid,-,-,Fly Spark
+254,Orcamon,A,Sea Animal,-,-,Ultrasonic Crusher
+255,Moosemon,A,Anicent Animal,-,-,Horn Blade
+256,Harpymon,A,Mythical Animal,-,-,Mythical Wind
+257,Toucanmon,A,Bird,-,-,Beak Cutter
+258,Boarmon,A,Mammal,-,-,Nose Blaster
+259,Sepikmon,A,Wizard,-,-,Spirit Boomerang
+260,Elephantmon,A,Android,-,-,Turbine Wave
+261,Pteranomon,A,Dinosaur,-,-,Sharp Wing
+262,Frogmon,A,Mutant,-,-,Frog Bite
+263,Digmon,A,Insectoid,Vaccine,32.0,Gold Rush
+264,Submarimon,A,Sea Animal,Vaccine,30.0,Oxygen Torpedo
+265,Sheepmon,A,Mammel,-,-,Wool Grenade
+266,Seahomon,A,Sea Animal,-,-,Prism Rainbow
+267,Chamelemon,A,Reptile,-,-,Tongue Lashing
+268,Shadramon,A,Insectoid,Virus,-,Flash Buster
+269,Togemogumon,A,Mammal,Virus,-,Quill Barrage
+270,Kongoumon,A,Insectoid,Data,-,Power Slapping
+271,Aurumon,A,Bird,Virus,-,Midnight Crush
+272,Nohemon,A,Puppet,Virus,-,Delusion Claw
+273,Searchmon,A,Insectoid,Data,-,Hertz Jamming
+274,Archelomon,A,Reptile,Data,-,Ocean Streamer
+275,Bullmon,A,Mammal,Vaccine,-,Matador Dash
+276,Quetzalmon,A,Mythical Animal,-,-,Freezing Wave
+277,Pucchiemon,A,Pixie,-,-,Heavy Beam
+278,Baronmon,A,Wizard,-,-,Dancing Meteor
+279,Stegomon,A,Dinosaur,-,-,Shell Needle Rain
+280,Rhinomon,A,Mammal,-,-,Atomic Burst
+281,Pipismon,A,Mutant,-,-,Crazy Sonic Blaster
+282,Ponchomon,A,Ghost,-,-,Tequila Knuckle
+283,Mothmon,A,Insectoid,-,-,Energy Sucking
+284,Mantaraymon,A,Sea Animal,-,-,Tail Booster
+285,Pegasusmon,A,Animal,Vaccine,25.0,Star Shower
+286,Manbomon,A,Mutant,-,-,Balloon Bomb
+287,Prairiemon,A,Animal,-,-,Hare뭩 Ear
+288,Lynxmon,A,Animal,-,-,Howling Blaster
+289,Rabbitmon,A,Mammal,-,-,Ear Flapping
+290,Maildramon,A,Andriod,-,-,Iron Press
+291,Swanmon,A,Bird,-,-,Feather Tornado
+292,Kabukimon,A,Mutant,-,-,Sakura Fubuki
+293,Butterflymon,A,Insectoid,Vaccine,-,Sweet Pheromone
+294,Tylomon,A,Sea Animal,-,-,Torpedo Attack
+295,Oryxmon,A,Mammal,-,-,Mystic Bell
+296,Nefertimon,A,Animal,Vaccine,22.0,Rosetta Stone
+297,opossummon,A,Animal,-,-,Mad Balloon Bomb
+298,Exveemon,C,Mythical Dragon,Vaccine,-,Vee Laser
+299,Stingmon,C,Insectoid,Virus,-,Spining Spiking Strike
+300,Aquilamon,C,Bird,Data,-,Grand Horn
+301,Ankylomon,C,Dinosaur,Vaccine,-,Tail Hammer
+302,Paildramon,U,Dragon,Data,-,Desperado Blaster
+303,Dinobeemon,U,Mutant,Virus,-,Masquerade
+304,Silphymon,U,Animal,-,-,Static Force
+305,Shakkoumon,U,Mutant,-,-,Hichina Bombs
+306,Imperialdramon,M,Ancient Dragon,-,-,Mega Crusher
+307,GranKuwagamon,M,Insectoid,-,-,Dimension Scissors
+308,Valkyrimon,M,Warrior,-,-,Feral Sword
+309,Vikemon,M,Animal,-,-,Artic Blizzard
+310,Seraphimon,M,Angel,Vaccine,38.0,Seven Heavens
+311,BlackWarGreymon,M,Dragon,Virus,-,Terra Destroyer
+312,Ghoulmon,M,Evil,Virus,-,Eye Blow
+313,Eaglemon,M,Android,Vaccine,-,Pheonix Claw
+314,Lampmon,M,Wizard,-,-,Phantom Turban
+315,Ebemon,M,Android,Virus,-,Brain Bust
+316,Zanbamon,M,Wizard,-,-,Hunting Knife
+317,HiAndromon,M,Android,-,-,Atomic Ray
+318,Devitamamon,M,Mutant,-,-,Black Claw
+319,Pharaohmon,M,Wizard,-,-,Necro Mist
+320,Ebonwumon,M,Bird,-,-,Kouen
+321,zhuqiaomon,M,Animal,-,-,Mugen
+322,Azulongmon,M,Holy Dragon,-,-,Sourai
+323,Baihumon,M,Animal,-,-,Kongou
+324,Arukenimon,U,Insectoid,Virus,-,Spider Thread
+325,Mummymon,U,Ghost,Virus,-,Snake Bandage
+326,Mokumon,I-T,Micro,-,5.0,Smoky Blow
+327,Kuramon,I-T,Micro,-,5.0,-
+328,Tsumemon,I-T,-,-,-,-
+329,Infermon,U,-,-,-,Spider Shooter
+330,Diaboromon,M,-,-,-,Cable Crusher
+331,Omnimon,M,Warrior,Vaccine,-,Supreme Cannon
+332,Kokomon,I-T,-,,-,Koko Crusher
+333,Lopmon,R,Animal,Data,-,Tiny Twister
+334,Endigomon,C,Animal,Virrus,-,Howling Destroyer
+335,Antylamon,U,Animal,Data,-,Meditation Cure
+336,Kerpymon,M,Angel,Virus,-,Lightning Spear
+337,Gummymon,I-T,Micro,-,5.0,Bubble Blow
+338,Terriermon,R,Animal,Data,-,Bunny Blast
+339,Gargomon,C,Animal,Vaccine,-,Bunny Pummel
+340,Rapidmon,C/A,Warrior,Vaccine,-,Rapid Fire
+341,Leafmon,I-T,Micro,Data,-,Bubble Blow
+342,Minomon,I-T,Insect,Data,-,Bubble Blow
+343,SnowBotamon,I-T,Micro,-,5.0,Bubble Blow
+344,Kapurimon,I-T,-,-,6.0,Howling Blow
+345,Zurumon,I-T,Micro,-,5.0,Bubble Blow
+346,Choromon,I-T,-,-,5.0,Powder Blow
+347,Nyokimon,I-T,-,-,5.0,Seed Cracker
+348,Pitchmon,I-T,-,-,5.0,Bubble Blow
+349,DemiMeramon,I-T,-,-,6.0,Petty Burning Fist
+350,Conomon,I-T,Micro,-,5.0,Bubble Blow
+351,Zerimon,I-T,Micro,-,5.0,Bubble Blow 
+352,Datirimon,Fresh,Micro,-,5.0,Bubble Blow
+353,Malomyotismon,Mega,,Virus,,Screaming Darkness
+354,Armageddemon,Mega,Unidentified,-,,Full-Scale Attack
+355,Jyarimon,Fresh,,-,5.0,Pyro Bubbles
+356,Gigimon,I-T,,,,
+357,Relemon,Fresh,,,,
+358,Viximon,I-T,,,,
+359,Calumon,I-T,,,,Shining Digivolution
+360,Guilmon,R,,Virus,,Pyro Sphere
+361,Renamon,R,,,,Diamond Storm
+362,Growlmon,C,,Virus,,Pyro Blaster
+363,Kyubimon,C,,,,Fox-Tail Inferno
+364,Wargrowlmon,U,,Virus,,Atomic Blaster
+365,Taomon,U,,,,Thousand Spell
+366,Gallantmon,M,Holy Knight,Virus,,Shield of the Just
+367,MegaGargomon,M,,,,Gargo Missiles
+368,Sakuyamon,M,,,,Spirit Strike
+369,Impmon,R,,Virus,,Badaboom
+370,Beelzemon,M,Demon Man,Virus,,Double Impact
+371,Mihiramon,U,Animal,,,Samurai Tiger Tail
+372,Sandiramon,U,Reptile,,,Venom Axe
+373,Sinduramon,U,Bird,,,Positron Pulse
+374,Pajiramon,U,Animal,,,Thunder Stomp
+375,Vajramon,U,Animal,,,Terra Blade
+376,Indramon,U,Animal,,,Horn of Desolation
+377,Kumbhiramon,U,Animal,,,Deva Clone
+378,Vikaralamon,U,Animal,,,
+379,Makuramon,U,Animal,,,Primal Orb
+380,Catsuramon,U,Animal,,,Howl of the Heavens
+381,Majiramon,U,Dragon,,,Flaming Arrow Heads
+382,Doggymon,C,,,,
+383,Orochimon,U,,Virus,,
+384,Justimon,M,,,,Justice Kick
+385,Labramon,R,,,,
+386,Seasarmon,C,,,,
+387,Mephistomon,U,,Virus,,
+388,Gulfmon,M,,Virus,,
+389,Karatenmon,U,Bird,,,
+390,Megidramon,M,Dark Dragon,Virus,,
+391,Monodramon,R,Dragon,,,
+392,Dobermon,C,,,,
+393,Ophanimon,M,Angel,Vaccine,,Sefirot Crystals
+394,ZeedMilleniummon,M,,,,
+395,Turuiemon,C,Animal,Vaccine,,
+396,Tinmon,U,,,,
+397,Blackgatomon,C,Animal,,,
+398,Superstarmon,U,,,,Haley’s Squall
+399,Solarmon,R,Machine,,,
+400,Sorcermon,C,Wizard,,,Crystal Barrage
+401,BomberNanimon,C,,,,
+402,Kingsukamon,U,,,,
+403,PrinceMamemon,M,,,,
+404,MoonMilleniummon,M,,,,
+405,RedVeedramon,C,,,,
+406,GoldVeedramon,A,,,,
+407,MasterVeedramon,C,,,,
+408,BlackGrowlmon,C,,Virus,,
+409,Blackwargrowlmon,U,,Virus,,
+410,ChaosGallantmon,M,,Virus,,
+411,Paomon,Fresh,,,,
+412,Shaomon,I-T,,,,
+413,Cerberumon,U,,,,
+414,Anubismon,M,,,,
+415,Volcamon,U,,,,
+416,SkullScorpiomon,U,,,,
+417,Youkomon,C,,,,
+418,Doumon,U,,,,
+419,Pandamon,U,,,,
+420,Kuzuhamon,M,,,,
+421,Blackgargomon,C,,,,
+422,Blackrapidmon,,,,,
+423,BlackMegaGargomon,M,,,,
+424,GrapLeomon,U,,,,
+425,Ketomon,Fresh,,,,
+426,Hopmon,I-T,,,,
+427,Strikedramon,C,,,,
+428,Reapermon,M,,,,
+429,Locomon,U,,,,
+430,Grandlocomon,M,,,,
+431,Parasimon,M,,,,
+432,Agunimon,H,,,,Pyro Tornado
+433,BurningGreymon,H,,,,Wildfire Tsunami
+434,Lobomon,H,,,,Howling Laser
+435,KendoGarurumon,H,,,,Howling Star
+436,Beetlemon,H,,,,Thunder Fist
+437,MetalKabuterimon,H,,,,Electron Cannon
+438,Kazemon,H,,,,Hurricane Wave
+439,Zephyrmon,H,,,,Hurricane Gale
+440,Kumamon,H,,,,Crystal Freeze
+441,Korikakumon,H,,,,Frozen Arrowheads
+442,Duskmon,H,,,,Lunar Plasma
+443,Velgemon,H,,,,Dark Obliteration
+444,Grumblemon,H,,,,Seismic Slam
+445,Gigasmon,H,,,,Quagmire Twister
+446,Arbormon,H,,,,Round-House Punt
+447,Petaldramon,H,,,,Leaf Cyclone
+448,Mercuremon,H,,,,Dark Reflection
+449,Sakkakumon,H,,,,
+450,Ranamon,H,,,,Whippin’ Waves
+451,Calmarimon,H,,,,Titanic Tempest
+452,Neemon,R,,,,
+453,Bokomon,R,,,,
+454,Lucemon (All),R,U,M,,,,Grand Cross, Ultimate Sacrifice, Tide of Despair
+455,EmperorGreymon,H,,,,Pyro Dragons
+456,MagnaGarurumon,H,,,,Starburst Hunter
+457,Aldamon,H,,,,Solar Wind Destroyer
+458,Beowulfmon,H,,,,Frozen Hunter
+459,Susanoomon,H,,,,Celestial Blade
+460,Loewemon,H,,,,Shadow Meteor
+461,JagerLoewemon,H,,,,Dark Master
+462,Burgermon,R,C,,,,
+463,EbiBurgermon,R,,,,
+464,Torikaraballmon,Fresh,,,,
+465,Yaamon,I-T,,,,
+466,Trailmon,C,,,,
+467,AncientGreymon,M,,,,
+468,AncientGarurumon,M,,,,
+469,AncientBeetlemon,M,,,,
+470,AncientKazemon,M,,,,
+471,AncientMegatheriummon,M,,,,
+472,AncientVolcamon,M,,,,
+473,AncientTrojiamon,M,,,,
+474,AncientMermaimon,M,,,,
+475,AncientWisemon,M,,,,
+476,AncientSphinxmon,M,,,,
+477,Persiamon,U,,,,
+478,Blimpmon,U,,,,
+479,Boogeymon,C,,,,
+480,Phelesmon,U,,,,
+481,Salamandemon,A,,,,
+482,Mikemon,C,,,,
+483,FlaWizardmon,A,,,,
+484,JewelBeemon,U,,,,
+485,Thunderbirdmon,A,,,,
+486,Fangmon,C,,,,
+487,Kougamon,C,,,,
+488,Monmon,R,,,,
+489,Kotemon,R,,,,
+490,Bearmon,R,,,,
+491,Hookmon,C,,,,
+492,Dinohyumon,C,,,,
+493,Grizzlymon,C,,,,
+494,Bulbmon,U,,,,
+495,Raidenmon,M,,,,
+496,Raijinmon,M,,,,
+497,Suijinmon,M,,,,
+498,Fujinmon,M,,,,
+499,Flamemon,R,,,,
+500,Kyukimon,U,,,,
+501,Guardiangemon,M,,,,
+502,Armormon,U,,,,
+503,Cannondramon,M,,,,
+504,Marsmon,M,,,,
+505,BlackKingNumemon,U,,,,
+506,D’arcmon,C,,,,
+507,Hippogryphomon,C,,,,
+508,Murmuxmon,M,,,,
+509,Onismon,M,,,,
+510,Chaosdramon,M,,,,
+511,Arkadimon,Fresh-Mega,*Ultimate appeared in anime*,,,
+512,Strabimon,R,,,,
+513,PileVolcamon,M,,,,
+514,UlForceVeedramon,M,,,,
+515,Puttomon,Fresh,,,,
+516,Cupimon,I-T,,,,
+517,Witchmon,U,,,,
+518,NeoDevimon,U,,,,
+519,Lilithmon,M,,,,
+520,RhinoKabuterimon,H,,,,
+521,JetSilphymon,H,,,,
+522,Daipenmon,H,,,,
+523,Reichmon,H,,,,
+524,Betsumon,U,,,,
+525,Dynasmon,M,,,,
+526,Crusadermon,M,,,,
+527,Dodomon,Fresh,,,,
+528,Dorimon,I-T,,,,
+529,Dorumon,R,,,,Metal Cannon
+530,Dorugamon,C,,,,
+531,Reptiledramon,C,,,,
+532,Dorugreymon,U,,,,
+533,Grademon,U,,,,
+534,Dorugoramon,M,,,,
+535,Alphamon,M,,,,
+536,GigaSeadramon,M,,,,
+537,GrandisKuwagamon,M,,,,
+538,Dexdorugamon,C,,,,
+539,Dexdorugreymon,U,,,,
+540,Dexdorugoramon,M,,,,
+541,Gaioumon,M,,,,
+542,Fufumon,Fresh,,,,
+543,Kyokyomon,I-T,,,,
+544,Ryudamon,R,,,,
+545,Ginryumon,C,,,,
+546,TobuCatmon,C,,,,
+547,Hisharyumon,U,,,,
+548,SkullBaluchimon,U,,,,Grave Bone
+549,Mametyramon,U,,,,
+550,Ouryumon,M,,,,
+551,Dinotigemon,M,,,,
+552,Dinorexmon,M,,,,
+553,MedievalGallantmon,M,,,,
+554,UltimateBrachiomon,M,,,,
+555,Pupumon,Fresh,,,,
+556,Puroromon,I-T,,,,
+557,Fanbeemon,R,,,,
+558,Waspmon,C,,,,
+559,Omekamon,U,,,,
+560,Cannonbeemon,U,,,,
+561,Metalphantomon,U,,,,
+562,Tigervespamon,M,,,,
+563,Metalpiranhamon,,,,,
+564,Dexmon,,,,,
+565,Wisemon,U,,,,
+566,Mistymon,U,,,,
+567,Gladimon,C,,,,
+568,Kenkimon,,,,,
+569,Mermaimon,U,,,,
+570,Leviamon,M,,,,
+571,Barbamon,M,,,,
+572,ShadowSeraphimon,M,,Virus,,Strike of the 7 Dark Stars

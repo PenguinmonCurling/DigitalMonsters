@@ -1,0 +1,7605 @@
+{|border="1" class="wikitable" style="background: #f8f8ff; border: 1px solid #88a; cellspacing="0" cellpadding="1" margin: auto; align="center"
+|-
+!bgcolor="#e6e9ff"|Card Number !!bgcolor="#e6e9ff"|Name !!bgcolor="#e6e9ff"|Translation !!bgcolor="#e6e9ff"|Kanji/Kana 
+|-
+
+|| [[St-1]] 
+|| Agumon 
+||  
+|| アグモン 　 　 
+|-
+
+|| [[St-2]] 
+|| Greymon 
+||  
+|| グレイモン   
+|-
+
+|| [[St-3]] 
+|| Piyomon 
+||  
+|| ピヨモン 　 　 
+|-
+
+|| [[St-4]] 
+|| Birdramon 
+||  
+|| バードラモン  
+|-
+
+|| [[St-5]] 
+|| Gabumon 
+||  
+|| ガブモン  
+|-
+
+|| [[St-6]] 
+|| Garurumon 
+||  
+|| ガルルモン  
+|-
+
+|| [[St-7]] 
+|| Tentomon 
+||  
+|| テントモン  
+|-
+
+|| [[St-8]] 
+|| Kabuterimon 
+||  
+|| カブテリモン  
+|-
+
+|| [[St-9]] 
+|| Palmon 
+||  
+|| パルモン  
+|-
+
+|| [[St-10]] 
+|| Togemon 
+||  
+|| トゲモン  
+|-
+
+|| [[St-11]] 
+|| Gomamon 
+||  
+|| ゴマモン 
+|-
+
+|| [[St-12]] 
+|| Ikkakumon 
+||  
+|| イッカクモン 　 　 
+|-
+
+|| [[St-13]] 
+|| Patamon 
+||  
+|| パタモン   
+|-
+
+|| [[St-14]] 
+|| Angemon 
+||  
+|| エンジェモン  
+|-
+
+|| [[St-15]] 
+|| Nanimon 
+||  
+|| ナニモン  
+|-
+
+|| [[St-16]] 
+|| Unimon 
+||  
+|| ユニモン   
+|-
+
+|| [[St-17]] 
+|| Centalmon 
+||  
+|| ケンタルモン  
+|-
+
+|| [[St-18]] 
+|| Kunemon 
+||  
+|| クネモン  
+|-
+
+|| [[St-19]] 
+|| Dokugumon 
+||  
+|| ドクグモン  
+|-
+
+|| [[St-20]] 
+|| Musyamon 
+||  
+|| ムシャモン 
+|-
+
+|| [[St-21]] 
+|| Chimairamon 
+||  
+|| キメラモン 
+|-
+
+|| [[St-22]] 
+|| Golemon 
+||  
+|| ゴーレモン 　 　 
+|-
+
+|| [[St-23]] 
+|| Gottsumon 
+||  
+|| ゴツモン   
+|-
+
+|| [[St-24]] 
+|| Otamamon 
+||  
+|| オタマモン  
+|-
+
+|| [[St-25]] 
+|| Tortamon 
+||  
+|| トータモン   
+|-
+
+|| [[St-26]] 
+|| Starmon 
+||  
+|| スターモン  
+|-
+
+|| [[St-27]] 
+|| Gekomon 
+||  
+|| ゲコモン  
+|-
+
+|| [[St-28]] 
+|| Atlur Kabuterimon 
+||  
+|| アトラーカブテリモン  
+|-
+
+|| [[St-29]] 
+|| Triceramon 
+||  
+|| トリケラモン  
+|-
+
+|| [[St-30]] 
+|| Piccolomon 
+||  
+|| ピッコロモン 
+|-
+
+|| [[St-31]] 
+|| Ōkuwamon 
+||  
+|| オオクワモン 
+|-
+
+|| [[St-32]] 
+|| Skull Greymon 
+||  
+|| スカルグレイモン
+|-
+
+|| [[St-33]] 
+|| Herakle Kabuterimon 
+||  
+|| ヘラクルカブテリモン  
+|-
+
+|| [[St-34]] 
+|| Saber Leomon 
+||  
+|| サーベルレオモン  
+|-
+
+|| [[St-35]] 
+|| Rukamon 
+||  
+|| ルカモン   
+|-
+
+|| [[St-36]] 
+|| Coelamon 
+||  
+|| シーラモン   
+|-
+
+|| [[St-37]] 
+|| Octomon 
+||  
+|| オクタモン  
+|-
+
+|| [[St-38]] 
+|| Zudomon 
+||  
+|| ズドモン   
+|-
+
+|| [[St-39]] 
+|| Marin Devimon 
+||  
+|| マリンデビモン  
+|-
+
+|| [[St-40]] 
+|| Pukumon 
+||  
+|| プクモン 
+|-
+
+|| [[St-41]] 
+|| Candmon 
+||  
+|| キャンドモン 　 　   
+|-
+
+|| [[St-42]] 
+|| Pico Devimon 
+||  
+|| ピコデビモン  
+|-
+
+|| [[St-43]] 
+|| Hanumon 
+||  
+|| ハヌモン   
+|-
+
+|| [[St-44]] 
+|| Wizarmon 
+||  
+|| ウィザーモン  
+|-
+
+|| [[St-45]] 
+|| Bakemon 
+||  
+|| バケモン  
+|-
+
+|| [[St-46]] 
+|| Mammon 
+||  
+|| マンモン  
+|-
+
+|| [[St-47]] 
+|| Were Garurumon 
+||  
+|| ワーガルルモン  
+|-
+
+|| [[St-48]] 
+|| Death Meramon 
+||  
+|| デスメラモン  
+|-
+
+|| [[St-49]] 
+|| Kougeki Puraguin A 
+|| Offense Plug-In A 
+|| 攻撃プラグインA   
+|-
+
+|| [[St-50]] 
+|| Bougyo Puraguin C 
+|| Defense Plug-In C 
+|| 防御プラグインC
+|-
+
+|| [[St-51]] 
+|| Kousoku Puraguin B 
+|| High Speed Plug-In B 
+|| 高速プラグインB  
+|-
+
+|| [[St-52]] 
+|| Fuketa Tokiniha omae mo Michi Tsure! 
+|| If I Lose I'm Taking You with Me! 
+|| 負けたときにはお前も道連れ!  
+|-
+
+|| [[St-53]] 
+|| Chottodake Metal Ka 
+|| Just a Little Metal Enhancement 
+|| ちょっとだけメタル化  
+|-
+
+|| [[St-54]] 
+|| Kiki Kara no Hangeki! 
+|| A Counter Attack from Crisis! 
+|| 危機からの反撃!   
+|-
+
+|| [[St-55]] 
+|| Level IV ni Henshin! 
+|| Transform to Level IV! 
+|| レベルⅣに変身!  
+|-
+
+|| [[St-56]] 
+|| Mezase Saikyou Shinka! 
+|| Aim for the Strongest Evolution! 
+|| めざせ最強進化!  
+|-
+
+|| [[St-57]] 
+|| Ano Koru Hayokatta 
+|| That Was a Good Time  
+|| あの頃はよかった   
+|-
+
+|| [[St-58]] 
+|| Hokori o Kaketa Tatakai! 
+|| The Battle I Staked My Pride On!  
+|| 誇りをかけた戦い!   
+|-
+
+|| [[St-59]] 
+|| Shouritsu 40%! 
+|| Win Ratio 40%! 
+|| しょうりつ40%!  
+|-
+
+|| [[St-60]] 
+|| Shouritsu 60%! 
+|| Win Ratio 60%! 
+|| しょうりつ60%!　 　 
+|-
+
+|| [[St-61]] 
+|| War Greymon 
+||  
+||  ウォーグレイモン
+|-
+
+|| [[St-62]] 
+|| Gottsumon 
+||  
+|| ゴツモン   
+|-
+
+|| [[St-63]] 
+|| Kunemon 
+||  
+|| クネモン　 　 
+|-
+
+|| [[St-64]] 
+|| Hagurumon 
+||  
+|| ハグルモン  
+|-
+
+|| [[St-65]] 
+|| Kokuwamon 
+||  
+|| コクワモン  
+|-
+
+|| [[St-66]] 
+|| Kabuterimon 
+||  
+|| カブテリモン  
+|-
+
+|| [[St-67]] 
+|| Angemon 
+||  
+|| エンジェモン  
+|-
+
+|| [[St-68]] 
+|| Rukamon 
+||  
+|| ルカモン  
+|-
+
+|| [[St-69]] 
+|| Zudomon 
+||  
+|| ズドモン    
+|-
+
+|| [[St-70]] 
+|| Wizarmon 
+||  
+|| ウィザーモン  　 　 
+|-
+
+|| [[St-71]] 
+|| Death Meramon 
+||  
+|| デスメラモン  　 　 
+|-
+
+|| [[St-72]] 
+|| Leomon 
+||  
+|| レオモン    
+|-
+
+|| [[St-73]] 
+|| Kuwagamon  
+||  
+|| クワガーモン  　 　 
+|-
+
+|| [[St-74]] 
+|| Unimon  
+||  
+|| ユニモン  
+|-
+
+|| [[St-75]] 
+|| Centalmon 
+||  
+|| ケンタルモン  
+|-
+
+|| [[St-76]] 
+|| Devimon 
+||  
+|| デビモン  
+|-
+
+|| [[St-77]] 
+|| Angewomon  
+||  
+|| エンジェウーモン   
+|-
+
+|| [[St-78]] 
+|| Andromon 
+||  
+|| アンドロモン  
+|-
+
+|| [[St-79]] 
+|| Ōkuwamon 
+||  
+|| オオクワモン 
+|-
+
+|| [[St-80]] 
+|| Ice Devimon 
+||  
+|| アイスデビモン  　 　 
+|-
+
+|| [[St-81]] 
+|| Tankmon 
+||  
+|| タンクモン 　 　 
+|-
+
+|| [[St-82]] 
+|| Hangyomon 
+||  
+|| ハンギョモン   
+|-
+
+|| [[St-83]] 
+|| Waru Monzaemon  
+||  
+|| ワルもんざえモン 　 　 
+|-
+
+|| [[St-84]] 
+|| Revolmon 
+||  
+|| リボルモン  
+|-
+
+|| [[St-85]] 
+|| Birdramon  
+||  
+|| バードラモン  
+|-
+
+|| [[St-86]] 
+|| Mechanorimon 
+||  
+|| メカノリモン  
+|-
+
+|| [[St-87]] 
+|| Plesiomon 
+||  
+|| プレシオモン  
+|-
+
+|| [[St-88]] 
+|| Garurumon 
+||  
+|| ガルルモン  
+|-
+
+|| [[St-89]] 
+|| Fugamon 
+||  
+|| フーガモン  
+|-
+
+|| [[St-90]] 
+|| J Mojyamon 
+||  
+|| Jモジャモン 　 　 
+|-
+
+|| [[St-91]] 
+|| Greymon 
+||  
+|| グレイモン 　 　 
+|-
+
+|| [[St-92]] 
+|| Whamon Perfect 
+||  
+|| ホエーモン完全体   
+|-
+
+|| [[St-93]] 
+|| Big Mamemon 
+||  
+|| ビッグマメモン 　 　 
+|-
+
+|| [[St-94]] 
+|| Megadramon 
+||  
+|| メガドラモン  
+|-
+
+|| [[St-95]] 
+|| Panjyamon 
+||  
+|| パンジャモン  
+|-
+
+|| [[St-96]] 
+|| Blue Meramon 
+||  
+|| ブルーメラモン  
+|-
+
+|| [[St-97]] 
+|| Venom Vamdemon 
+||  
+|| ヴェノムヴァンデモン  
+|-
+
+|| [[St-98]] 
+|| Atlur Kabuterimon 
+||  
+|| アトラーカブテリモン  
+|-
+
+|| [[St-99]] 
+|| Torē Manyuaru 
+|| Training Manual 
+|| トレーマニュアル  
+|-
+
+|| [[St-100]] 
+|| Chou Shinka Puraguin S 
+|| Super Evolution Plug-in S 
+|| 超進化プラグインS 　 　 
+|-
+
+|| [[St-101]] 
+|| Shouritsu 40% 
+|| Win Ratio 40% 
+|| しょうりつ４０％！ 　 　 
+|-
+
+|| [[St-102]] 
+|| Shouritsu 60%! 
+|| Win Ratio 60% 
+|| しょうりつ６０％！   
+|-
+
+|| [[St-103]] 
+|| Nanda ga tottemo setsunai no 
+|| For Some Reason I'm Really Sad 
+|| なんだかとってもせつないの 　 　 
+|-
+
+|| [[St-104]] 
+|| Ritān Macchi da! 
+|| Return Match! 
+|| リターンマッチだ！  
+|-
+
+|| [[St-105]] 
+|| Counter Attack! 
+||  
+|| カウンターアタック！  
+|-
+
+|| [[St-106]] 
+|| Mondoumuyou no Chikara Gi!
+|| An Unquestionably Strong Attack! 
+|| 問答無用のチカラ技！  
+|-
+
+|| [[St-107]] 
+|| Kataki wa Wakuchin! 
+|| Vaccines Are Our Rivals! 
+|| 好敵手はワクチン！  
+|-
+
+|| [[St-108]] 
+|| Tobuberutte Subarashī! 
+|| Flying Is Wonderful! 
+|| 飛べるってスバラしい！  
+|-
+
+|| [[St-109]] 
+|| Sonomama Maketenaru munoka! 
+|| I Can't Lose Like This! 
+|| そのまま負けてなるものか！    
+|-
+
+|| [[St-110]] 
+|| Mizusoko ni Hikizuri Kome
+|| I'll Pull You Down to the Bottom of the Ocean! 
+|| 水底に引きずり込め！！ 　 　 
+|-
+
+|| [[St-111]] 
+|| Palmon  
+||  
+|| パルモン 　 　 
+|-
+
+|| [[St-112]] 
+|| V-mon 
+||  
+|| ブイモン   
+|-
+
+|| [[St-113]] 
+|| XV-mon 
+||  
+|| エクスブイモン 　 　 
+|-
+
+|| [[St-114]] 
+|| Wormmon 
+||  
+|| ワームモン  
+|-
+
+|| [[St-115]] 
+|| Stingmon 
+||  
+|| スティングモン  
+|-
+
+|| [[St-116]] 
+|| Hawkmon 
+||  
+|| ホークモン  
+|-
+
+|| [[St-117]] 
+|| Armadimon 
+||  
+|| アルマジモン  
+|-
+
+|| [[St-118]] 
+|| Patamon 
+||  
+|| パタモン  
+|-
+
+|| [[St-119]] 
+|| Plotmon 
+||  
+|| プロットモン  
+|-
+
+|| [[St-120]] 
+|| Lighdramon 
+||  
+|| ライドラモン 　 　 
+|-
+
+|| [[St-121]] 
+|| V-dramon 
+||  
+|| ブイドラモン 　 　 
+|-
+
+|| [[St-122]] 
+|| Fladramon 
+||  
+|| フレイドラモン   
+|-
+
+|| [[St-123]] 
+|| Holsmon 
+||  
+|| ホルスモン 　 　 
+|-
+
+|| [[St-124]] 
+|| Shurimon 
+||  
+|| シュリモン  
+|-
+
+|| [[St-125]] 
+|| Yasyamon 
+||  
+|| ヤシャモン  
+|-
+
+|| [[St-126]] 
+|| Submarimon 
+||  
+|| サブマリモン  
+|-
+
+|| [[St-127]] 
+|| Pegasmon 
+||  
+|| ペガスモン  
+|-
+
+|| [[St-128]] 
+|| Angemon 
+||  
+|| エンジェモン  
+|-
+
+|| [[St-129]] 
+|| Holy Angemon 
+||  
+|| ホーリーエンジェモン  
+|-
+
+|| [[St-130]] 
+|| Tailmon 
+||  
+|| テイルモン 　 　 
+|-
+
+|| [[St-131]] 
+|| Nefertimon 
+||  
+|| ネフェルティモン 　 　 
+|-
+
+|| [[St-132]] 
+|| Togemogumon 
+||  
+|| トゲモグモン   
+|-
+
+|| [[St-133]] 
+|| Digmon 
+||  
+|| ディグモン 　 　 
+|-
+
+|| [[St-134]] 
+|| Owlmon 
+||  
+|| アウルモン  
+|-
+
+|| [[St-135]] 
+|| Shadramon 
+||  
+|| シェイドラモン  
+|-
+
+|| [[St-136]] 
+|| Agumon 
+||  
+|| アグモン  
+|-
+
+|| [[St-137]] 
+|| Greymon 
+||  
+|| グレイモン  
+|-
+
+|| [[St-138]] 
+|| Metal Greymon 
+||  
+|| メタルグレイモン  
+|-
+
+|| [[St-139]] 
+|| Gabumon 
+||  
+|| ガブモン  
+|-
+
+|| [[St-140]] 
+|| Garurumon 
+||  
+|| ガルルモン 　 　 
+|-
+
+|| [[St-141]] 
+|| Were Garurumon 
+||  
+|| ワーガルルモン 　 　 
+|-
+
+|| [[St-142]] 
+|| Toy Agumon 
+||  
+|| トイアグモン   
+|-
+
+|| [[St-143]] 
+|| Tyranomon 
+||  
+|| ティラノモン 　 　 
+|-
+
+|| [[St-144]] 
+|| Airdramon 
+||  
+|| エアドラモン  
+|-
+
+|| [[St-145]] 
+|| Dark Lizarmon 
+||  
+|| ダークリザモン  
+|-
+
+|| [[St-146]] 
+|| Deltamon 
+||  
+|| デルタモン  
+|-
+
+|| [[St-147]] 
+|| Dokugumon 
+||  
+|| ドクグモン  
+|-
+
+|| [[St-148]] 
+|| Metal Tyranomon 
+||  
+|| メタルティラノモン  
+|-
+
+|| [[St-149]] 
+|| Mega Seadramon 
+||  
+|| メガシードラモン  
+|-
+
+|| [[St-150]] 
+|| Mammon 
+||  
+|| マンモン 　 　 
+|-
+
+|| [[St-151]] 
+|| War Greymon 
+||  
+|| ウォーグレイモン　 　 
+|-
+
+|| [[St-152]] 
+|| Metal Garurumon 
+||  
+|| メタルガルルモン   
+|-
+
+|| [[St-153]] 
+|| Seraphimon 
+||  
+|| セラフィモン 　 　 
+|-
+
+|| [[St-154]] 
+|| Yūki no Dejimentaru 
+|| Digimental of Courage 
+|| 勇気のデジメンタル  
+|-
+
+|| [[St-155]] 
+|| Yūjou no Dejimentari 
+|| Digimental of Friendship 
+|| 友情のデジメンタル  
+|-
+
+|| [[St-156]] 
+|| Ai no Dejimentaru 
+|| Digimental of Love 
+|| 愛情のデジメンタル  
+|-
+
+|| [[St-157]] 
+|| Junshin no Dejimentaru 
+|| Digimental of Purity 
+|| 純真のデジメンタル  
+|-
+
+|| [[St-158]] 
+|| Chishiki no Dejimentaru 
+|| Digimental of Knowledge 
+|| 知識のデジメンタル  
+|-
+
+|| [[St-159]] 
+|| Seijitsu no Dejimentaru 
+|| Digimental of Faith 
+|| 誠実のデジメンタル  
+|-
+
+|| [[St-160]] 
+|| Hikari no Dejimentaru 
+|| Digimental of Light 
+|| 光のデジメンタル 　 　 
+|-
+
+|| [[St-161]] 
+|| Kibou no Dejimentaru 
+|| Digimental of Hope 
+|| 希望のデジメンタル 　 　 
+|-
+
+|| [[St-162]] 
+|| Aitemu Shiyoukinshi 
+|| No Items Allowed 
+|| アイテム使用禁止   
+|-
+
+|| [[St-163]] 
+|| Puroguramu Kinkyū Teishi
+|| Emergency Program Halt 
+|| プログラム緊急停止 　 　 
+|-
+
+|| [[St-164]] 
+|| Shouritsu 40%!! 
+|| Win Ratio 40% 
+|| しょうりつ４０％！  
+|-
+
+|| [[St-165]] 
+|| Shouritsu 60%!! 
+|| Win Ratio 60% 
+|| しょうりつ６０％！  
+|-
+
+|| [[St-166]] 
+|| Nature Spirits 
+||  
+|| ネイチャースピリッツ  
+|-
+
+|| [[St-167]] 
+|| Wind Guardians 
+||  
+|| ウィンドガーディアンズ  
+|-
+
+|| [[St-168]] 
+|| Unknown 
+||  
+|| アンノウン  
+|-
+
+|| [[St-169]] 
+|| Imperialdramon 
+||  
+|| インペリアルドラモン  
+|-
+
+|| [[St-170]] 
+|| Bakumon 
+||  
+|| バクモン 　 　 
+|-
+
+|| [[St-171]] 
+|| Hagurumon  
+||  
+|| ハグルモン 　 　 
+|-
+
+|| [[St-172]] 
+|| Otamamon 
+||  
+|| オタマモン   
+|-
+
+|| [[St-173]] 
+|| Kokuwamon 
+||  
+|| コクワモン 　 　 
+|-
+
+|| [[St-174]] 
+|| Elecmon 
+||  
+|| エレキモン  
+|-
+
+|| [[St-175]] 
+|| Pico Devimon 
+||  
+|| ピコデビモン  
+|-
+
+|| [[St-176]] 
+|| Black Tailmon 
+||  
+|| ブラックテイルモン  
+|-
+
+|| [[St-177]] 
+|| Sorcerymon 
+||  
+|| ソーサリモン  
+|-
+
+|| [[St-178]] 
+|| Thunderballmon 
+||  
+|| サンダーボールモン  
+|-
+
+|| [[St-179]] 
+|| Tankmon 
+||  
+|| タンクモン  
+|-
+
+|| [[St-180]] 
+|| Shima Unimon 
+||  
+|| シマユニモン 　 　 
+|-
+
+|| [[St-181]] 
+|| Dark Tyranomon 
+||  
+|| ダークティラノモン 　 　 
+|-
+
+|| [[St-182]] 
+|| Vamdemon 
+||  
+|| ヴァンデモン   
+|-
+
+|| [[St-183]] 
+|| Andromon  
+||  
+|| アンドロモン 　 　 
+|-
+
+|| [[St-184]] 
+|| Tuskmon 
+||  
+|| タスクモン  
+|-
+
+|| [[St-185]] 
+|| Yanmamon 
+||  
+|| ヤンマモン  
+|-
+
+|| [[St-186]] 
+|| Red Vegimon 
+||  
+|| レッドベジーモン  
+|-
+
+|| [[St-187]] 
+|| Woodmon 
+||  
+|| ウッドモン  
+|-
+
+|| [[St-188]] 
+|| Shellmon  
+||  
+|| シェルモン  
+|-
+
+|| [[St-189]] 
+|| Bakemon 
+||  
+|| バケモン  
+|-
+
+|| [[St-190]] 
+|| Knightmon 
+||  
+|| ナイトモン 　 　 
+|-
+
+|| [[St-191]] 
+|| Asuramon 
+||  
+|| アシュラモン 　 　 
+|-
+
+|| [[St-192]] 
+|| Mummymon 
+||  
+|| マミーモン   
+|-
+
+|| [[St-193]] 
+|| Super Starmon 
+||  
+|| スーパースターモン 　 　 
+|-
+
+|| [[St-194]] 
+|| Valkyrimon 
+||  
+|| ヴァルキリモン  
+|-
+
+|| [[St-195]] 
+|| Orgemon 
+||  
+|| オーガモン  
+|-
+
+|| [[St-196]] 
+|| Raremon  
+||  
+|| レアモン  
+|-
+
+|| [[St-197]] 
+|| Golemon 
+||  
+|| ゴーレモン  
+|-
+
+|| [[St-198]] 
+|| Devidramon 
+||  
+|| デビドラモン  
+|-
+
+|| [[St-199]] 
+|| Gorimon 
+||  
+|| ゴリモン  
+|-
+
+|| [[St-200]] 
+|| Snimon 
+||  
+|| スナイモン 　 　 
+|-
+
+|| [[St-201]] 
+|| Cockatrimon 
+||  
+|| コカトリモン 　 　 
+|-
+
+|| [[St-202]] 
+|| Guardromon 
+||  
+|| ガードロモン   
+|-
+
+|| [[St-203]] 
+|| Revolmon 
+||  
+|| リボルモン 　 　 
+|-
+
+|| [[St-204]] 
+|| Shakkoumon 
+||  
+|| シャッコウモン  
+|-
+
+|| [[St-205]] 
+|| Jyureimon 
+||  
+|| ジュレイモン  
+|-
+
+|| [[St-206]] 
+|| Blossomon 
+||  
+|| ブロッサモン  
+|-
+
+|| [[St-207]] 
+|| Skull Satamon 
+||  
+|| スカルサタモン  
+|-
+
+|| [[St-208]] 
+|| Metal Tyranomon 
+||  
+|| メタルティラノモン  
+|-
+
+|| [[St-209]] 
+|| Lady Devimon 
+||  
+|| レディーデビモン 
+|- 
+
+|| [[St-210]] 
+|| Gran Kuwagamon 
+||  
+|| グランクワガーモン 　 　 
+|-
+
+|| [[St-211]] 
+|| Data Copy 
+||  
+|| データコピー 　 　 
+|-
+
+|| [[St-212]] 
+|| Ground Seventh 
+||  
+|| グラウンドセブンズ   
+|-
+
+|| [[St-213]] 
+|| Misty Seventh 
+||  
+|| ミスティセブンズ 　 　 
+|-
+
+|| [[St-214]] 
+|| Speed Seventh 
+||  
+|| スピードセブンズ  
+|-
+
+|| [[St-215]] 
+|| Wild Seventh 
+||  
+|| ワイルドセブンズ  
+|-
+
+|| [[St-216]] 
+|| Jyureimon no Kiri 
+|| Jyureimon's Mist 
+|| ジュレイモンの霧
+|-
+
+|| [[St-217]] 
+|| Shouritsu 40%! 
+|| Win Ratio 40% 
+|| しょうりつ４０％！  
+|-
+
+|| [[St-218]] 
+|| Shouritsu 60%! 
+|| Win Ratio 60% 
+|| しょうりつ６０％！  
+|-
+
+|| [[St-219]] 
+|| Shouritsu 80%! 
+|| Win Ratio 80% 
+|| しょうりつ８０％！
+|-  
+
+|| [[St-220]] 
+|| Kyūsen kyōtei no teiketsu 
+|| A Truce Agreement 
+|| 休戦協定の締結 　 　 
+|-
+
+|| [[St-221]] 
+|| Ore no Gādo wa Teppeki Sa ~a! 
+|| My Guard Is Like an Iron Wall! 
+|| オレのガードは鉄壁さァ！ 　 　 
+|-
+
+|| [[St-222]] 
+|| The Time Shock! 
+||  
+|| ザ・タイムショック！！   
+|-
+
+|| [[St-223]] 
+|| Yamikizoku no Yakata 
+|| The Dark Aristocrat's Mansion 
+|| 闇貴族の館　 　 
+|-
+
+|| [[St-224]] 
+|| Mugen Mountain 
+|| Infinity Mountain 
+|| ムゲンマウンテン  
+|-
+
+|| [[St-225]] 
+|| The Coliseum 
+||  
+|| コロシアム  
+|-
+
+|| [[St-226]] 
+|| Omegamon 
+||  
+|| オメガモン  
+|-
+
+|| [[St-227]] 
+|| Agumon 
+||  
+|| アグモン  
+|-
+
+|| [[St-228]] 
+|| Agumon 
+||  
+|| アグモン  
+|-
+
+|| [[St-229]] 
+|| Gabumon 
+||  
+|| ガブモン
+|-  
+
+|| [[St-230]] 
+|| Gabumon 
+||  
+|| ガブモン 　 　 
+|-
+
+|| [[St-231]] 
+|| Patamon 
+||  
+|| パタモン 　 　 
+|-
+
+|| [[St-232]] 
+|| Greymon 
+||  
+|| グレイモン   
+|-
+
+|| [[St-233]] 
+|| Greymon 
+||  
+|| グレイモン 　 　 
+|-
+
+|| [[St-234]] 
+|| Garurumon 
+||  
+|| ガルルモン  
+|-
+
+|| [[St-235]] 
+|| Garurumon 
+||  
+|| ガルルモン  
+|-
+
+|| [[St-236]] 
+|| Angemon 
+||  
+|| エンジェモン  
+|-
+
+|| [[St-237]] 
+|| Angemon 
+||  
+|| エンジェモン  
+|-
+
+|| [[St-238]] 
+|| Metal Greymon 
+||  
+|| メタルグレイモン  
+|-
+
+|| [[St-239]] 
+|| Were Garurumon 
+||  
+|| ワーガルルモン 
+|- 
+
+|| [[St-240]] 
+|| Holy Angemon 
+||  
+|| ホーリーエンジェモン 　 　 
+|-
+
+|| [[St-241]] 
+|| War Greymon 
+||  
+|| ウォーグレイモン 　 　 
+|-
+
+|| [[St-242]] 
+|| Metal Garurumon 
+||  
+|| メタルガルルモン   
+|-
+
+|| [[St-243]] 
+|| Seraphimon 
+||  
+|| セラフィモン 　 　 
+|-
+
+|| [[St-244]] 
+|| Imperialdramon Fighter Mode 
+||  
+|| インペリアルドラモンファイターモード  
+|-
+
+|| [[St-245]] 
+|| V-mon 
+||  
+|| ブイモン  
+|-
+
+|| [[St-246]] 
+|| V-mon 
+||  
+|| ブイモン  
+|-
+
+|| [[St-247]] 
+|| Wormmon 
+||  
+|| ワームモン  
+|-
+
+|| [[St-248]] 
+|| Wormmon 
+||  
+|| ワームモン  
+|-
+
+|| [[St-249]] 
+|| Plotmon 
+||  
+|| プロットモン
+|-  
+
+|| [[St-250]] 
+|| Magnamon 
+||  
+|| マグナモン 　 　 
+|-
+
+|| [[St-251]] 
+|| XV-mon 
+||  
+|| エクスブイモン 　 　 
+|-
+
+|| [[St-252]] 
+|| XV-mon 
+||  
+|| エクスブイモン   
+|-
+
+|| [[St-253]] 
+|| Stingmon 
+||  
+|| スティングモン 　 　 
+|-
+
+|| [[St-254]] 
+|| Stingmon 
+||  
+|| スティングモン  
+|-
+
+|| [[St-255]] 
+|| Tailmon 
+||  
+|| テイルモン  
+|-
+
+|| [[St-256]] 
+|| Paildramon 
+||  
+|| パイルドラモン  
+|-
+
+|| [[St-257]] 
+|| Dinobeemon 
+||  
+|| ディノビーモン  
+|-
+
+|| [[St-258]] 
+|| Angewomon 
+||  
+|| エンジェウーモン  
+|-
+
+|| [[St-259]] 
+|| Imperialdramon 
+||  
+|| インペリアルドラモン
+|-  
+
+|| [[St-260]] 
+|| Holydramon 
+||  
+|| ホーリードラモン 　 　 
+|-
+
+|| [[St-261]] 
+|| Apocalymon 
+||  
+|| アポカリモン 　 　 
+|-
+
+|| [[St-262]] 
+|| Keramon 
+||  
+|| ケラモン   
+|-
+
+|| [[St-263]] 
+|| Keramon 
+||  
+|| ケラモン 　 　 
+|-
+
+|| [[St-264]] 
+|| Keramon 
+||  
+|| ケラモン  
+|-
+
+|| [[St-265]] 
+|| Kokuwamon 
+||  
+|| コクワモン  
+|-
+
+|| [[St-266]] 
+|| Kokuwamon 
+||  
+|| コクワモン  
+|-
+
+|| [[St-267]] 
+|| Candmon 
+||  
+|| キャンドモン  
+|-
+
+|| [[St-268]] 
+|| Candmon 
+||  
+|| キャンドモン  
+|-
+
+|| [[St-269]] 
+|| Chrysalimon 
+||  
+|| クリサリモン 
+|- 
+
+|| [[St-270]] 
+|| Chrysalimon 
+||  
+|| クリサリモン 　 　 
+|-
+
+|| [[St-271]] 
+|| Mechanorimon 
+||  
+|| メカノリモン 　 　 
+|-
+
+|| [[St-272]] 
+|| Mechanorimon 
+||  
+|| メカノリモン   
+|-
+
+|| [[St-273]] 
+|| Soulmon 
+||  
+|| ソウルモン 　 　 
+|-
+
+|| [[St-274]] 
+|| Infermon 
+||  
+|| インフェルモン  
+|-
+
+|| [[St-275]] 
+|| Infermon 
+||  
+|| インフェルモン  
+|-
+
+|| [[St-276]] 
+|| Gigadramon 
+||  
+|| ギガドラモン  
+|-
+
+|| [[St-277]] 
+|| Phantomon 
+||  
+|| ファントモン  
+|-
+
+|| [[St-278]] 
+|| Diablomon 
+||  
+|| ディアボロモン  
+|-
+
+|| [[St-279]] 
+|| Mugendramon 
+||  
+|| ムゲンドラモン 
+|- 
+
+|| [[St-280]] 
+|| Piemon 
+||  
+|| ピエモン 　 　 
+|-
+
+|| [[St-281]] 
+|| Belial Vamdemon 
+||  
+|| ベリアルヴァンデモン 　 　 
+|-
+
+|| [[St-282]] 
+|| Pico Devimon 
+||  
+|| ピコデビモン   
+|-
+
+|| [[St-283]] 
+|| Pico Devimon 
+||  
+|| ピコデビモン 　 　 
+|-
+
+|| [[St-284]] 
+|| Toy Agumon 
+||  
+|| トイアグモン  
+|-
+
+|| [[St-285]] 
+|| Toy Agumon 
+||  
+|| トイアグモン  
+|-
+
+|| [[St-286]] 
+|| Betamon 
+||  
+|| ベタモン  
+|-
+
+|| [[St-287]] 
+|| Betamon 
+||  
+|| ベタモン  
+|-
+
+|| [[St-288]] 
+|| Devimon 
+||  
+|| デビモン  
+|-
+
+|| [[St-289]] 
+|| Devimon 
+||  
+|| デビモン
+|-  
+
+|| [[St-290]] 
+|| Deltamon 
+||  
+|| デルタモン 　 　 
+|-
+
+|| [[St-291]] 
+|| Deltamon 
+||  
+|| デルタモン　 　 
+|-
+
+|| [[St-292]] 
+|| Guardromon 
+||  
+|| ガードロモン   
+|-
+
+|| [[St-293]] 
+|| Vamdemon 
+||  
+|| ヴァンデモン 　 　 
+|-
+
+|| [[St-294]] 
+|| Metal Greymon 
+||  
+|| メタルグレイモン  
+|-
+
+|| [[St-295]] 
+|| Metal Tyranomon 
+||  
+|| メタルティラノモン  
+|-
+
+|| [[St-296]] 
+|| Venom Vamdemon 
+||  
+|| ヴェノムヴァンデモン  
+|-
+
+|| [[St-297]] 
+|| War Greymon 
+||  
+|| ウォーグレイモン  
+|-
+
+|| [[St-298]] 
+|| Metal Garurumon 
+||  
+|| メタルガルルモン  
+|-
+
+|| [[St-299]] 
+|| Kougeki Puraguin A 
+|| Offense Plug-in A 
+|| 攻撃プラグインA  
+|-
+
+|| [[St-300]] 
+|| Bougyo Puraguin C 
+|| Defense Plug-in C 
+|| 防御プラグインC 　 　 
+|-
+
+|| [[St-301]] 
+|| Kousoku Puraguin B 
+|| High Speed Plug-in B 
+|| 高速プラグインB 　 　 
+|-
+
+|| [[St-302]] 
+|| D-3 
+||  
+|| D-3   
+|-
+
+|| [[St-303]] 
+|| D-3 
+||  
+|| D-3 　 　 
+|-
+
+|| [[St-304]] 
+|| D-3 
+||  
+|| D-3  
+|-
+
+|| [[St-305]] 
+|| Tag 
+||  
+|| タグ  
+|-
+
+|| [[St-306]] 
+|| Kiseki no Dejimentaru 
+|| Digimental of Miracles 
+|| 奇跡のデジメンタル  
+|-
+
+|| [[St-307]] 
+|| Shouritsu 40%! 
+|| Win Ratio 40%  
+|| しょうりつ４０％！  
+|-
+
+|| [[St-308]] 
+|| Shouritsu 40%! 
+|| Win Ratio 40%  
+|| しょうりつ４０％！  
+|-
+
+|| [[St-309]] 
+|| Shouritsu 40%! 
+|| Win Ratio 40%  
+|| しょうりつ４０％！    
+|-
+
+|| [[St-310]] 
+|| Shouritsu 40%! 
+|| Win Ratio 40%  
+|| しょうりつ４０％！ 　 　 
+|-
+
+|| [[St-311]] 
+|| Shouritsu 60%! 
+|| Win Ratio 60% 
+|| しょうりつ６０％！ 　 　 
+|-
+
+|| [[St-312]] 
+|| Shouritsu 60%! 
+|| Win Ratio 60% 
+|| しょうりつ６０％！   
+|-
+
+|| [[St-313]] 
+|| Shouritsu 60%! 
+|| Win Ratio 60% 
+|| しょうりつ６０％！ 　 　 
+|-
+
+|| [[St-314]] 
+|| Shouritsu 60%! 
+|| Win Ratio 60% 
+|| しょうりつ６０％！  
+|-
+
+|| [[St-315]] 
+|| Shouritsu 80%! 
+|| Win Ratio 80% 
+|| しょうりつ８０％！  
+|-
+
+|| [[St-316]] 
+|| Shouritsu 80%! 
+|| Win Ratio 80% 
+|| しょうりつ８０％！ 
+|-
+
+|| [[St-317]] 
+|| Kyūkyoku Gattai Dejimon e no Yūgō! 
+|| Fuse Into the Ultimate Digimon! 
+|| 究極合体デジモンへの融合！  
+|-
+
+|| [[St-318]] 
+|| Kyūkyoku Gattai Dejimon e no Yūgō! 
+|| Fuse Into the Ultimate Digimon! 
+|| 究極合体デジモンへの融合！  
+|-
+
+|| [[St-319]] 
+|| Change Up! 
+||  
+|| チェンジアップ！  
+|-
+
+|| [[St-320]] 
+|| Change Up! 
+||  
+|| チェンジアップ！ 　 　 
+|-
+
+|| [[St-321]] 
+|| Digital Gate 
+||  
+|| デジタルゲート！ 　 　 
+|-
+
+|| [[St-322]] 
+|| Nature Spirits 
+||  
+|| ネイチャースピリッツ   
+|-
+
+|| [[St-323]] 
+|| Dark Area 
+||  
+|| ダークエリア 　 　 
+|-
+
+|| [[St-324]] 
+|| Nightmare Soldiers 
+||  
+|| ナイトメアソルジャーズ  
+|-
+
+|| [[St-325]] 
+|| Megalo Growmon 
+||  
+|| メガログラウモン  
+|-
+
+|| [[St-326]] 
+|| Black Growmon 
+||  
+|| ブラックグラウモン  
+|-
+
+|| [[St-327]] 
+|| Guilmon 
+||  
+|| ギルモン  
+|-
+
+|| [[St-328]] 
+|| Renamon 
+||  
+|| レナモン  
+|-
+
+|| [[St-329]] 
+|| Terriermon 
+||  
+|| テリアモン  
+|-
+
+|| [[St-330]] 
+|| Pico Devimon 
+||  
+|| ピコデビモン 　 　 
+|-
+
+|| [[St-331]] 
+|| Ganimon 
+||  
+|| ガニモン 　 　 
+|-
+
+|| [[St-332]] 
+|| Hagurumon 
+||  
+|| ハグルモン   
+|-
+
+|| [[St-333]] 
+|| Growmon 
+||  
+|| グラウモン 　 　 
+|-
+
+|| [[St-334]] 
+|| Kyūbimon 
+||  
+|| キュウビモン  
+|-
+
+|| [[St-335]] 
+|| Taomon 
+||  
+|| タオモン  
+|-
+
+|| [[St-336]] 
+|| Greymon 
+||  
+|| グレイモン  
+|-
+
+|| [[St-337]] 
+|| XV-mon 
+||  
+|| エクスブイモン  
+|-
+
+|| [[St-338]] 
+|| Dark Tyranomon 
+||  
+|| ダークティラノモン  
+|-
+
+|| [[St-339]] 
+|| Monochromon 
+||  
+|| モノクロモン  
+|-
+
+|| [[St-340]] 
+|| Valkyrimon 
+||  
+|| ヴァルキリモン 　 　 
+|-
+
+|| [[St-341]] 
+|| Seadramon 
+||  
+|| シードラモン 　 　 
+|-
+
+|| [[St-342]] 
+|| Gesomon 
+||  
+|| ゲソモン   
+|-
+
+|| [[St-343]] 
+|| Coelamon 
+||  
+|| シーラモン 　 　 
+|-
+
+|| [[St-344]] 
+|| Devimon 
+||  
+|| デビモン  
+|-
+
+|| [[St-345]] 
+|| Guardromon 
+||  
+|| ガードロモン  
+|-
+
+|| [[St-346]] 
+|| Dogmon 
+||  
+|| ドッグモン  
+|-
+
+|| [[St-347]] 
+|| Galgomon 
+||  
+|| ガルゴモン  
+|-
+
+|| [[St-348]] 
+|| Rapidmon 
+||  
+|| ラピッドモン  
+|-
+
+|| [[St-349]] 
+|| Allomon 
+||  
+|| アロモン  
+|-
+
+|| [[St-350]] 
+|| Stegomon 
+||  
+|| ステゴモン 　 　 
+|-
+
+|| [[St-351]] 
+|| Rinkmon 
+||  
+|| リンクモン 　 　 
+|-
+
+|| [[St-352]] 
+|| Togemogumon 
+||  
+|| トゲモグモン   
+|-
+
+|| [[St-353]] 
+|| Prairiemon 
+||  
+|| プレイリモン 　 　 
+|-
+
+|| [[St-354]] 
+|| Fladramon 
+||  
+|| フレイドラモン  
+|-
+
+|| [[St-355]] 
+|| Lighdramon 
+||  
+|| ライドラモン  
+|-
+
+|| [[St-356]] 
+|| Tylomon 
+||  
+|| ティロモン  
+|-
+
+|| [[St-357]] 
+|| Yasyamon 
+||  
+|| ヤシャモン  
+|-
+
+|| [[St-358]] 
+|| Owlmon 
+||  
+|| アウルモン  
+|-
+
+|| [[St-359]] 
+|| Imperialdramon 
+||  
+|| インペリアルドラモン  
+|-
+
+|| [[St-360]] 
+|| Orochimon 
+||  
+|| オロチモン 　 　 
+|-
+
+|| [[St-361]] 
+|| Metal Greymon 
+||  
+|| メタルグレイモン 　 　 
+|-
+
+|| [[St-362]] 
+|| Vamdemon 
+||  
+|| ヴァンデモン   
+|-
+
+|| [[St-363]] 
+|| Megadramon 
+||  
+|| メガドラモン  　 　 
+|-
+
+|| [[St-364]] 
+|| Chimairamon 
+||  
+|| キメラモン  
+|-
+
+|| [[St-365]] 
+|| Lady Devimon 
+||  
+|| レディーデビモン  
+|-
+
+|| [[St-366]] 
+|| Skull Satamon 
+||  
+|| スカルサタモン  
+|-
+
+|| [[St-367]] 
+|| Monzaemon 
+||  
+|| もんざえモン  
+|-
+
+|| [[St-368]] 
+|| Waru Monzaemon 
+||  
+|| ワルもんざえモン  
+|-
+
+|| [[St-369]] 
+|| Vikemon 
+||  
+|| ヴァイクモン  
+|-
+
+|| [[St-370]] 
+|| Shouritsu 40% 
+|| Win Ratio 40% 
+|| しょうりつ４０％！　 　 
+|-
+
+|| [[St-371]] 
+|| Shouritsu 60% 
+|| Win Ratio 60% 
+|| しょうりつ６０％！　 　 
+|-
+
+|| [[St-372]] 
+|| Shouritsu 80% 
+|| Win Ratio 80% 
+|| しょうりつ８０％！   
+|-
+
+|| [[St-373]] 
+|| Evolutor 
+||  
+|| エボリューター 　 　 
+|-
+
+|| [[St-374]] 
+|| Accelerator 
+||  
+|| アクセラレーター  
+|-
+
+|| [[St-375]] 
+|| Holy Orb 
+||  
+|| ホーリーオーブ  
+|-
+
+|| [[St-376]] 
+|| Kougeki Puraguin A 
+|| Offense Plug-In A 
+|| 攻撃プラグインA  
+|-
+
+|| [[St-377]] 
+|| Bougyo Puraguin C 
+|| Defense Plug-In C 
+|| 防御プラグインC  
+|-
+
+|| [[St-378]] 
+|| Kouseki Puraguin B 
+|| High Speed Plug-In B 
+|| 高速プラグインB  
+|-
+
+|| [[St-379]] 
+|| Shinka Puraguin E 
+|| Evolution Plug-in E 
+|| 進化プラグインE  
+|-
+
+|| [[St-380]] 
+|| Kougeki Puraguin N 
+|| Offense Plug-in N 
+|| 攻撃プラグインN 　 　 
+|-
+
+|| [[St-381]] 
+|| Training Grips 
+||  
+|| トレーニングギプス 　 　 
+|-
+
+|| [[St-382]] 
+|| Auruvandiru no Ya 
+|| Aurvandil's Arrow 
+|| アウルヴァンディルの矢   
+|-
+
+|| [[St-383]] 
+|| Berserk Sword 
+||  
+|| ベルセルクソード 　 　 
+|-
+
+|| [[St-384]] 
+|| Brave Shield 
+||  
+|| ブレイブシールド  
+|-
+
+|| [[St-385]] 
+|| Dukemon 
+||  
+|| デュークモン  
+|-
+
+|| [[St-386]] 
+|| Sakuyamon 
+||  
+|| サクヤモン  
+|-
+
+|| [[St-387]] 
+|| Saint Galgomon 
+||  
+|| セントガルゴモン  
+|-
+
+|| [[St-388]] 
+|| Rapidmon 
+||  
+|| ラピッドモン
+|-
+
+|| [[St-389]] 
+|| Guilmon 
+||  
+|| ギルモン  
+|-
+
+|| [[St-390]] 
+|| Renamon 
+||  
+|| レナモン 　 　 
+|-
+
+|| [[St-391]] 
+|| Terriermon 
+||  
+|| テリアモン 　 　 
+|-
+
+|| [[St-392]] 
+|| Growmon 
+||  
+|| グラウモン   
+|-
+
+|| [[St-393]] 
+|| Growmon 
+||  
+|| グラウモン 　 　 
+|-
+
+|| [[St-394]] 
+|| Kyubimon 
+||  
+|| キュウビモン  
+|-
+
+|| [[St-395]] 
+|| Kyubimon 
+||  
+|| キュウビモン  
+|-
+
+|| [[St-396]] 
+|| Galgomon 
+||  
+|| ガルゴモン  
+|-
+
+|| [[St-397]] 
+|| Galgomon 
+||  
+|| ガルゴモン  
+|-
+
+|| [[St-398]] 
+|| Megalo Growmon 
+||  
+|| メガログラウモン  
+|-
+
+|| [[St-399]] 
+|| Taomon 
+||  
+|| タオモン  
+|-
+
+|| [[St-400]] 
+|| Rapidmon 
+||  
+|| ラピッドモン 　 　 
+|-
+
+|| [[St-401]] 
+|| Labramon 
+||  
+|| ラブラモン 　 　 
+|-
+
+|| [[St-402]] 
+|| Siesamon 
+||  
+|| シーサモン   
+|-
+
+|| [[St-403]] 
+|| Gulfmon 
+||  
+|| ガルフモン 　 　 
+|-
+
+|| [[St-404]] 
+|| Apocalymon 
+||  
+|| アポカリモン  
+|-
+
+|| [[St-405]] 
+|| Metal Seadramon 
+||  
+|| メタルシードラモン  
+|-
+
+|| [[St-406]] 
+|| Baromon 
+||  
+|| バロモン  
+|-
+
+|| [[St-407]] 
+|| Lopmon 
+||  
+|| ロップモン  
+|-
+
+|| [[St-408]] 
+|| Goburimon 
+||  
+|| ゴブリモン  
+|-
+
+|| [[St-409]] 
+|| Gizamon 
+||  
+|| ギザモン    
+|-
+
+|| [[St-410]] 
+|| Coelamon 
+||  
+|| シーラモン 　 　 
+|-
+
+|| [[St-411]] 
+|| Coelamon 
+||  
+|| シーラモン 　 　 
+|-
+
+|| [[St-412]] 
+|| Ebidramon 
+||  
+|| エビドラモン   
+|-
+
+|| [[St-413]] 
+|| Ebidramon 
+||  
+|| エビドラモン 　 　 
+|-
+
+|| [[St-414]] 
+|| Gargomon  
+||  
+|| ガーゴモン  
+|-
+
+|| [[St-415]] 
+|| Gargomon 
+||  
+|| ガーゴモン  
+|-
+
+|| [[St-416]] 
+|| Mantaraymon 
+||  
+|| マンタレイモン  
+|-
+
+|| [[St-417]] 
+|| Mephismon 
+||  
+|| メフィスモン  
+|-
+
+|| [[St-418]] 
+|| Were Garurumon 
+||  
+|| ワーガルルモン  
+|-
+
+|| [[St-419]] 
+|| Dagomon 
+||  
+|| ダゴモン  
+|-
+
+|| [[St-420]] 
+|| Black Growmon 
+||  
+|| ブラックグラウモン 　 　 
+|-
+
+|| [[St-421]] 
+|| Youkomon 
+||  
+|| ヨウコモン 　 　 
+|-
+
+|| [[St-422]] 
+|| Wendimon 
+||  
+|| ウェンディモン   
+|-
+
+|| [[St-423]] 
+|| Jigen wo Koeshi Yūsha! ! 
+|| The Dimension Crossing Hero!! 
+|| 次元を超えし勇者！！ 　 　 
+|-
+
+|| [[St-424]] 
+|| Trinity Burst! 
+||  
+|| トリニティバースト！！  
+|-
+
+|| [[St-425]] 
+|| Shouritsu 40%! 
+|| Win Ratio 40% 
+|| しょうりつ４０％！  
+|-
+
+|| [[St-426]] 
+|| Shouritsu 40%! 
+|| Win Ratio 40% 
+|| しょうりつ４０％！  
+|-
+
+|| [[St-427]] 
+|| Shouritsu 60%! 
+|| Win Ratio 60% 
+|| しょうりつ６０％！  
+|-
+
+|| [[St-428]] 
+|| Shouritsu 60%! 
+|| Win Ratio 60% 
+|| しょうりつ６０％！  
+|-
+
+|| [[St-429]] 
+|| Shouritsu 80%! 
+|| Win Ratio 80% 
+|| しょうりつ８０％！  
+|-
+
+|| [[St-430]] 
+|| Unmei no Dejimentaru 
+|| Digimental of Fate 
+|| 運命のデジメンタル 　 　 
+|-
+
+|| [[St-431]] 
+|| Shinka Puraguin S 
+|| Evolution Plug-In S 
+|| 進化プラグインS 　 　 
+|-
+
+|| [[St-432]] 
+|| D-Arc 
+||  
+|| ディーアーク   
+|-
+
+|| [[St-433]] 
+|| Yami no Dejimentaru 
+|| Digimental of Darkness 
+|| 暗黒のデジメンタル 　 　 
+|-
+
+|| [[St-434]] 
+|| Vaccine Program V 
+||  
+|| ワクチンプログラムV  
+|-
+
+|| [[St-435]] 
+|| DigiBeetle 
+||  
+|| デジビートル  
+|-
+
+|| [[St-436]] 
+|| Virus Busters 
+||  
+|| ウィルスバスターズ  
+|-
+
+|| [[St-437]] 
+|| Seraphimon 
+||  
+|| セラフィモン  
+|-
+
+|| [[St-438]] 
+|| Patamon 
+||  
+|| パタモン  
+|-
+
+|| [[St-439]] 
+|| Plotmon 
+||  
+|| プロットモン  
+|-
+
+|| [[St-440]] 
+|| Angemon 
+||  
+|| エンジェモン 　 　 
+|-
+
+|| [[St-441]] 
+|| Pidmon 
+||  
+|| ピッドモン 　 　 
+|-
+
+|| [[St-442]] 
+|| Tailmon 
+||  
+|| テイルモン   
+|-
+
+|| [[St-443]] 
+|| Nefertimon 
+||  
+|| ネフェルティモン 　 　 
+|-
+
+|| [[St-444]] 
+|| Holy Angemon 
+||  
+|| ホーリーエンジェモン  
+|-
+
+|| [[St-445]] 
+|| Angewomon 
+||  
+|| エンジェウーモン  
+|-
+
+|| [[St-446]] 
+|| Agumon 
+||  
+|| アグモン  
+|-
+
+|| [[St-447]] 
+|| Greymon 
+||  
+|| グレイモン  
+|-
+
+|| [[St-448]] 
+|| Leomon 
+||  
+|| レオモン  
+|-
+
+|| [[St-449]] 
+|| Revolmon 
+||  
+|| リボルモン  
+|-
+
+|| [[St-450]] 
+|| Igamon 
+||  
+|| イガモン 　 　 
+|-
+
+|| [[St-451]] 
+|| Asuramon 
+||  
+|| アシュラモン 　 　 
+|-
+
+|| [[St-452]] 
+|| Panjyamon 
+||  
+|| パンジャモン   
+|-
+
+|| [[St-453]] 
+|| Gabumon 
+||  
+|| ガブモン 　 　 
+|-
+
+|| [[St-454]] 
+|| Bakumon  
+||  
+|| バクモン  
+|-
+
+|| [[St-455]] 
+|| Garurumon 
+||  
+|| ガルルモン  
+|-
+
+|| [[St-456]] 
+|| Kyubimon 
+||  
+|| キュウビモン  
+|-
+
+|| [[St-457]] 
+|| Unimon 
+||  
+|| ユニモン  
+|-
+
+|| [[St-458]] 
+|| Hanumon 
+||  
+|| ハヌモン  
+|-
+
+|| [[St-459]] 
+|| Snimon 
+||  
+|| スナイモン  
+|-
+
+|| [[St-460]] 
+|| Mammon 
+||  
+|| マンモン 　 　 
+|-
+
+|| [[St-461]] 
+|| Penmon 
+||  
+|| ペンモン 　 　 
+|-
+
+|| [[St-462]] 
+|| Birdramon 
+||  
+|| バードラモン   
+|-
+
+|| [[St-463]] 
+|| Airdramon 
+||  
+|| エアドラモン 　 　 
+|-
+
+|| [[St-464]] 
+|| Tyranomon 
+||  
+|| ティラノモン  
+|-
+
+|| [[St-465]] 
+|| Growmon 
+||  
+|| グラウモン  
+|-
+
+|| [[St-466]] 
+|| Meramon 
+||  
+|| メラモン  
+|-
+
+|| [[St-467]] 
+|| Boarmon 
+||  
+|| ボアモン  
+|-
+
+|| [[St-468]] 
+|| Monochromon 
+||  
+|| モノクロモン  
+|-
+
+|| [[St-469]] 
+|| Tortamon 
+||  
+|| トータモン  
+|-
+
+|| [[St-470]] 
+|| Metal Greymon 
+||  
+|| メタルグレイモン 　 　 
+|-
+
+|| [[St-471]] 
+|| Garudamon 
+||  
+|| ガルダモン 　 　 
+|-
+
+|| [[St-472]] 
+|| Andromon 
+||  
+|| アンドロモン   
+|-
+
+|| [[St-473]] 
+|| Giromon 
+||  
+|| ギロモン 　 　 
+|-
+
+|| [[St-474]] 
+|| Piccolomon 
+||  
+|| ピッコロモン  
+|-
+
+|| [[St-475]] 
+|| Taomon 
+||  
+|| タオモン  
+|-
+
+|| [[St-476]] 
+|| Shakkoumon 
+||  
+|| シャッコウモン  
+|-
+
+|| [[St-477]] 
+|| Cherubimon 
+||  
+|| ケルビモン  
+|-
+
+|| [[St-478]] 
+|| Ofanimon 
+||  
+|| オファニモン  
+|-
+
+|| [[St-479]] 
+|| Shouritsu 40%! 
+|| Win Ratio 40% 
+|| しょうりつ４０％！  
+|-
+
+|| [[St-480]] 
+|| Shouritsu 60%! 
+|| Win Ratio 60% 
+|| しょうりつ６０％！ 　 　 
+|-
+
+|| [[St-481]] 
+|| Shouritsu 80%! 
+|| Win Ratio 80% 
+|| しょうりつ８０％！ 　 　 
+|-
+
+|| [[St-482]] 
+|| Holy Ring 
+||   
+|| ホーリーリング   
+|-
+
+|| [[St-483]] 
+|| Holy Rod 
+||   
+|| ホーリーロッド 　 　 
+|-
+
+|| [[St-484]] 
+|| Holy Arrow 
+||   
+|| ホーリーアロー  
+|-
+
+|| [[St-485]] 
+|| Honō no Kake-ra 
+|| Piece of Flame  
+|| 炎のかけら  
+|-
+
+|| [[St-486]] 
+|| Excalibur  
+||  
+|| エクスキャリバー  
+|-
+
+|| [[St-487]] 
+|| Holy Tag 
+||  
+|| ホーリータグ  
+|-
+
+|| [[St-488]] 
+|| Holy Seventh 
+||   
+|| ホーリーセブンズ
+|-
+
+|| [[St-489]] 
+|| Bokutachi Yūtōsei 
+|| We're Honor Students  
+|| ボクたち優等生  
+|-
+
+|| [[St-490]] 
+|| Shiroi Akumu 
+|| White Nightmare  
+|| 白い悪夢 　 　 
+|-
+
+|| [[St-491]] 
+|| Honō no Senrei! ! 
+|| Baptism of Flames  
+|| 炎の洗礼！！ 　 　 
+|-
+
+|| [[St-492]] 
+|| Engun no Yōsei! ! 
+|| Request for Reinforcements  
+|| 援軍の要請！！   
+|-
+
+|| [[St-493]] 
+|| Icewall!! 
+||   
+|| アイスウォール！！ 　 　 
+|-
+
+|| [[St-494]] 
+|| Megidramon 
+||  
+|| メギドラモン  
+|-
+
+|| [[St-495]] 
+|| Monodramon 
+||  
+|| モノドラモン  
+|-
+
+|| [[St-496]] 
+|| Gottsumon  
+||  
+|| ゴツモン  
+|-
+
+|| [[St-497]] 
+|| Agumon  
+||  
+|| アグモン  
+|-
+
+|| [[St-498]] 
+|| Cyclomon  
+||  
+|| サイクロモン  
+|-
+
+|| [[St-499]] 
+|| Cyclomon  
+||  
+|| サイクロモン  
+|-
+
+|| [[St-500]] 
+|| Tyranomon  
+||  
+|| ティラノモン 　 　 
+|-
+
+|| [[St-501]] 
+|| Tyranomon  
+||  
+|| ティラノモン 　 　 
+|-
+
+|| [[St-502]] 
+|| Dark Tyranomon  
+||  
+|| ダークティラノモン   
+|-
+
+|| [[St-503]] 
+|| Tuskmon  
+||  
+|| タスクモン 　 　 
+|-
+
+|| [[St-504]] 
+|| Stegomon  
+||  
+|| ステゴモン  
+|-
+
+|| [[St-505]] 
+|| Monochromon 
+||  
+|| モノクロモン  
+|-
+
+|| [[St-506]] 
+|| Deltamon  
+||  
+|| デルタモン  
+|-
+
+|| [[St-507]] 
+|| Ankylomon  
+||  
+|| アンキロモン  
+|-
+
+|| [[St-508]] 
+|| Growmon  
+||  
+|| グラウモン  
+|-
+
+|| [[St-509]] 
+|| Greymon  
+||  
+|| グレイモン    
+|-
+
+|| [[St-510]] 
+|| Brachimon  
+||  
+|| ブラキモン 　 　 
+|-
+
+|| [[St-511]] 
+|| Triceramon  
+||  
+|| トリケラモン 　 　 
+|-
+
+|| [[St-512]] 
+|| Vermillimon  
+||  
+|| ヴァーミリモン   
+|-
+
+|| [[St-513]] 
+|| Aero V-dramon  
+||  
+|| エアロブイドラモン 　 　 
+|-
+
+|| [[St-514]] 
+|| Paildramon 
+||  
+|| パイルドラモン  
+|-
+
+|| [[St-515]] 
+|| Master Tyranomon  
+||  
+|| マスターティラノモン  
+|-
+
+|| [[St-516]] 
+|| Goddramon  
+||  
+|| ゴッドドラモン  
+|-
+
+|| [[St-517]] 
+|| Dukemon 
+||  
+|| デュークモン  
+|-
+
+|| [[St-518]] 
+|| Qinglongmon  
+||  
+|| チンロンモン  
+|-
+
+|| [[St-519]] 
+|| Guilmon 
+||  
+|| ギルモン  
+|-
+
+|| [[St-520]] 
+|| V-mon 
+||  
+|| ブイモン 　 　 
+|-
+
+|| [[St-521]] 
+|| Modoki Betamon  
+||  
+|| モドキベタモン 　 　 
+|-
+
+|| [[St-522]] 
+|| V-dramon  
+||  
+|| ブイドラモン   
+|-
+
+|| [[St-523]] 
+|| V-dramon  
+||  
+|| ブイドラモン 　 　 
+|-
+
+|| [[St-524]] 
+|| Devidramon  
+||  
+|| デビドラモン  
+|-
+
+|| [[St-525]] 
+|| Devidramon  
+||  
+|| デビドラモン  
+|-
+
+|| [[St-526]] 
+|| Seadramon  
+||  
+|| シードラモン  
+|-
+
+|| [[St-527]] 
+|| Seadramon  
+||  
+|| シードラモン  
+|-
+
+|| [[St-528]] 
+|| Tylomon  
+||  
+|| ティロモン  
+|-
+
+|| [[St-529]] 
+|| Airdramon  
+||  
+|| エアドラモン  
+|-
+
+|| [[St-530]] 
+|| Fladramon  
+||  
+|| フレイドラモン 　 　 
+|-
+
+|| [[St-531]] 
+|| Ebidramon  
+||  
+|| エビドラモン 　 　 
+|-
+
+|| [[St-532]] 
+|| XV-mon  
+||  
+|| エクスブイモン   
+|-
+
+|| [[St-533]] 
+|| Orochimon 
+||  
+|| オロチモン 　 　 
+|-
+
+|| [[St-534]] 
+|| Mega Seadramon  
+||  
+|| メガシードラモン  
+|-
+
+|| [[St-535]] 
+|| Waru Seadramon  
+||  
+|| ワルシードラモン  
+|-
+
+|| [[St-536]] 
+|| Cyberdramon 
+||  
+|| サイバードラモン  
+|-
+
+|| [[St-537]] 
+|| Megadramon 
+||  
+|| メガドラモン   
+|-
+
+|| [[St-538]] 
+|| Gigadramon 
+||  
+|| ギガドラモン  
+|-
+
+|| [[St-539]] 
+|| Holydramon 
+||  
+|| ホーリードラモン  
+|-
+
+|| [[St-540]] 
+|| Metal Seadramon 
+||  
+|| メタルシードラモン 　 　 
+|-
+
+|| [[St-541]] 
+|| Imperialdramon 
+||  
+|| インペリアルドラモン 　 　 
+|-
+
+|| [[St-542]] 
+|| Saint Galgomon 
+||  
+|| セントガルゴモン   
+|-
+
+|| [[St-543]] 
+|| Clear Agumon  
+||  
+|| クリアアグモン 　 　 
+|-
+
+|| [[St-544]] 
+|| Terriermon 
+||  
+|| テリアモン  
+|-
+
+|| [[St-545]] 
+|| Rinkmon 
+||  
+|| リンクモン  
+|-
+
+|| [[St-546]] 
+|| Rinkmon  
+||  
+|| リンクモン  
+|-
+
+|| [[St-547]] 
+|| Tankmon  
+||  
+|| タンクモン  
+|-
+
+|| [[St-548]] 
+|| Tankmon  
+||  
+|| タンクモン  
+|-
+
+|| [[St-549]] 
+|| Revolmon  
+||  
+|| リボルモン  
+|-
+
+|| [[St-550]] 
+|| Clockmon  
+||  
+|| クロックモン 　 　 
+|-
+
+|| [[St-551]] 
+|| Magnamon  
+||  
+|| マグナモン 　 　 
+|-
+
+|| [[St-552]] 
+|| Elephamon  
+||  
+|| エレファモン   
+|-
+
+|| [[St-553]] 
+|| Peacockmon  
+||  
+|| ピーコックモン 　 　 
+|-
+
+|| [[St-554]] 
+|| Volcamon  
+||  
+|| ボルケーモン  
+|-
+
+|| [[St-555]] 
+|| Metal Mamemon   
+||  
+|| メタルマメモン  
+|-
+
+|| [[St-556]] 
+|| Giromon  
+||  
+|| ギロモン  
+|-
+
+|| [[St-557]] 
+|| Andromon  
+||  
+|| アンドロモン  
+|-
+
+|| [[St-558]] 
+|| Megalo Growmon 
+||  
+|| メガログラウモン  
+|-
+
+|| [[St-559]] 
+|| Metal Garurumon  
+||  
+|| メタルガルルモン  
+|-
+
+|| [[St-560]] 
+|| War Greymon 
+||  
+|| ウォーグレイモン 　 　 
+|-
+
+|| [[St-561]] 
+|| Hi Andromon  
+||  
+|| ハイアンドロモン 　 　 
+|-
+
+|| [[St-562]] 
+|| Black Saint Galgomon 
+||  
+|| ブラックセントガルゴモン   
+|-
+
+|| [[St-563]] 
+|| Kokuwamon  
+||  
+|| コクワモン 　 　 
+|-
+
+|| [[St-564]] 
+|| Hagurumon  
+||  
+|| ハグルモン  
+|-
+
+|| [[St-565]] 
+|| Guardromon  
+||  
+|| ガードロモン  
+|-
+
+|| [[St-566]] 
+|| Guardromon  
+||  
+|| ガードロモン  
+|-
+
+|| [[St-567]] 
+|| Black Galgomon 
+||  
+|| ブラックガルゴモン  
+|-
+
+|| [[St-568]] 
+|| Mechanorimon  
+||  
+|| メカノリモン  
+|-
+
+|| [[St-569]] 
+|| Thunderballmon  
+||  
+|| サンダーボールモン  
+|-
+
+|| [[St-570]] 
+|| Rhinomon  
+||  
+|| ライノモン 　 　 
+|-
+
+|| [[St-571]] 
+|| Kongoumon  
+||  
+|| コンゴウモン 　 　 
+|-
+
+|| [[St-572]] 
+|| Maildramon  
+||  
+|| メイルドラモン   
+|-
+
+|| [[St-573]] 
+|| Black Rapidmon 
+||  
+|| ブラックラピッドモン 　 　 
+|-
+
+|| [[St-574]] 
+|| Metal Tyranomon  
+||  
+|| メタルティラノモン  
+|-
+
+|| [[St-575]] 
+|| Tekkamon  
+||  
+|| テッカモン  
+|-
+
+|| [[St-576]] 
+|| Metal Greymon  
+||  
+|| メタルグレイモン  
+|-
+
+|| [[St-577]] 
+|| Big Mamemon  
+||  
+|| ビッグマメモン  
+|-
+
+|| [[St-578]] 
+|| Nanomon  
+||  
+|| ナノモン  
+|-
+
+|| [[St-579]] 
+|| Imperialdramon Fighter Mode 
+||  
+|| インペリアルドラモンファイターモード  
+|-
+
+|| [[St-580]] 
+|| Mugendramon 
+||  
+|| ムゲンドラモン 　 　 
+|-
+
+|| [[St-581]] 
+|| Boltmon 
+||  
+|| ボルトモン 　 　 
+|-
+
+|| [[St-582]] 
+|| Knight Device 
+||  
+|| ナイト・デヴァイス   
+|-
+
+|| [[St-583]] 
+|| Nijiiro no Fue 
+|| Rainbow Flute  
+|| 虹色の笛 　 　 
+|-
+
+|| [[St-584]] 
+|| Chou Shinka Puraguin M 
+|| Super Evolution Plug-In M  
+|| 超進化プラグインM  
+|-
+
+|| [[St-585]] 
+|| Chou Shinka Puraguin D 
+|| Super Evolution Plug-In D  
+|| 超進化プラグインD  
+|-
+
+|| [[St-586]] 
+|| D-Arc  
+||  
+|| ディーアーク  
+|-
+
+|| [[St-587]] 
+|| Summon Cube 
+||   
+|| サモンキューブ  
+|-
+
+|| [[St-588]] 
+|| Chainsaw 
+||   
+|| チェンソー
+|-
+
+|| [[St-589]] 
+|| Trident Arm 
+||   
+|| トライデントアーム  
+|-
+
+|| [[St-590]] 
+|| Psycho Blaster 
+||   
+|| サイコブラスター 　 　 
+|-
+
+|| [[St-591]] 
+|| Kogane no Doriru 
+|| Golden Drill  
+|| 黄金のドリル 　 　 
+|-
+
+|| [[St-592]] 
+|| Dramon Killer 
+||   
+|| ドラモンキラー   
+|-
+
+|| [[St-593]] 
+|| High Evolutor 
+||   
+|| ハイエボリューター 　 　 
+|-
+
+|| [[St-594]] 
+|| Gatling Arm 
+||   
+|| ガトリングアーム  
+|-
+
+|| [[St-595]] 
+|| Giga Hand 
+||   
+|| ギガハンド  
+|-
+
+|| [[St-596]] 
+|| Positron Laser 
+||   
+|| ポジトロンレーザー  
+|-
+
+|| [[St-597]] 
+|| Power Limiter 
+||   
+|| パワーリミッター  
+|-
+
+|| [[St-598]] 
+|| Rook Device 
+||  
+|| ルーク・デヴァイス  
+|-
+
+|| [[St-599]] 
+|| Shouritsu 40% 
+|| Win Ratio 40%  
+|| しょうりつ４０％！  
+|-
+
+|| [[St-600]] 
+|| Shouritsu 40%  
+|| Win Ratio 40%  
+|| しょうりつ４０％！ 　 　 
+|-
+
+|| [[St-601]] 
+|| Shouritsu 60%  
+|| Win Ratio 60% 
+|| しょうりつ６０％！ 　 　 
+|-
+
+|| [[St-602]] 
+|| Shouritsu 60%  
+|| Win Ratio 60% 
+|| しょうりつ６０％！   
+|-
+
+|| [[St-603]] 
+|| Shouritsu 80%  
+|| Win Ratio 80% 
+|| しょうりつ８０％！ 　 　 
+|-
+
+|| [[St-604]] 
+|| Dragon Breath 
+||   
+|| ドラゴンブレス  
+|-
+
+|| [[St-605]] 
+||  
+|| Aim for the Strongest Evolution!  
+|| めざせ最強進化！  
+|-
+
+|| [[St-606]] 
+||  
+|| I'll Pull You Down to the Bottom of the Ocean!  
+|| 水底に引きずり込め！！  
+|-
+
+|| [[St-607]] 
+||  
+|| A Tactical Retreat!!  
+|| 戦術的後退！！  
+|-
+
+|| [[St-608]] 
+|| Ambush!! 
+||   
+|| アンブッシュ！！  
+|-
+
+|| [[St-609]] 
+||  
+|| The Revelation of Hidden Power!!  
+|| 秘めたる力の発現！！    
+|-
+
+|| [[St-610]] 
+||  
+|| The Thought Routine of the Studious Model  
+|| 学習型思考ルーチン 　 　 
+|-
+
+|| [[St-611]] 
+||  
+|| Dragon's Nest  
+|| 竜の巣 　 　 
+|-
+
+|| [[St-612]] 
+||  
+|| Dragon's Eye Lake  
+|| 竜の目の湖   
+|-
+
+|| [[St-613]] 
+|| Shaggai Hole 
+||  
+|| シャッガイホール 
+|-
+
+|| [[Bo-1]] 
+|| Metal Greymon 
+||  
+|| メタルグレイモン 
+|-
+
+|| [[Bo-2]] 
+|| Devimon 
+||  
+|| デビモン  
+|-
+
+|| [[Bo-3]] 
+|| Leomon 
+||  
+|| レオモン  
+|-
+
+|| [[Bo-4]] 
+|| Orgemon 
+||  
+|| オーガモン  
+|-
+
+|| [[Bo-5]] 
+|| Meramon 
+||  
+|| メラモン  
+|-
+
+|| [[Bo-6]] 
+|| Seadramon  
+||  
+|| シードラモン  
+|-
+
+|| [[Bo-7]] 
+|| Yukidarumon 
+||  
+|| ユキダルモン  
+|-
+
+|| [[Bo-8]] 
+|| Tonosama Gekomon 
+||  
+|| トノサマゲコモン  
+|-
+
+|| [[Bo-9]] 
+|| Shellmon 
+||  
+|| シェルモン  
+|-
+
+|| [[Bo-10]] 
+|| Drimogemon  
+||  
+|| ドリモゲモン 
+|-
+
+|| [[Bo-11]] 
+|| Andromon 
+||  
+|| アンドロモン 
+|-
+
+|| [[Bo-12]] 
+|| Monochromon 
+||  
+|| モノクロモン  
+|-
+
+|| [[Bo-13]] 
+|| Kuwagamon 
+||  
+|| クワガーモン  
+|-
+
+|| [[Bo-14]] 
+|| Mojyamon 
+||  
+|| モジャモン  
+|-
+
+|| [[Bo-15]] 
+|| Tailmon 
+||  
+|| テイルモン  
+|-
+
+|| [[Bo-16]] 
+|| Angewomon 
+||  
+|| エンジェウーモン  
+|-
+
+|| [[Bo-17]] 
+|| Holydramon 
+||  
+|| ホーリードラモン  
+|-
+
+|| [[Bo-18]] 
+|| Ebidramon 
+||  
+|| エビドラモン  
+|-
+
+|| [[Bo-19]] 
+|| Gorimon 
+||  
+|| ゴリモン  
+|-
+
+|| [[Bo-20]] 
+|| Evilmon 
+||  
+|| イビルモン 
+|-
+
+|| [[Bo-21]] 
+|| Minotaurmon 
+||  
+|| ミノタルモン 
+|-
+
+|| [[Bo-22]] 
+|| Lady Devimon 
+||  
+|| レディーデビモン   
+|-
+
+|| [[Bo-23]] 
+|| Gokimon 
+||  
+|| ゴキモン  
+|-
+
+|| [[Bo-24]] 
+|| Asuramon 
+||  
+|| アシュラモン  
+|-
+
+|| [[Bo-25]] 
+|| Snimon 
+||  
+|| スナイモン  
+|-
+
+|| [[Bo-26]] 
+|| Jyagamon 
+||  
+|| ジャガモン  
+|-
+
+|| [[Bo-27]] 
+|| Metal Etemon 
+||  
+|| メタルエテモン  
+|-
+
+|| [[Bo-28]] 
+|| Ganimon 
+||  
+|| ガニモン  
+|-
+
+|| [[Bo-29]] 
+|| Shakomon 
+||  
+|| シャコモン  
+|-
+
+|| [[Bo-30]] 
+|| Gesomon 
+||  
+|| ゲソモン 
+|-
+
+|| [[Bo-31]] 
+|| Mega Seadramon 
+||  
+|| メガシードラモン 
+|-
+
+|| [[Bo-32]] 
+|| Anomalocarimon  
+||  
+|| アノマロカリモン  
+|-
+
+|| [[Bo-33]] 
+|| Dagomon 
+||  
+|| ダゴモン  
+|-
+
+|| [[Bo-34]] 
+|| Marin Angemon  
+||  
+|| マリンエンジェモン  
+|-
+
+|| [[Bo-35]] 
+|| Metal Seadramon 
+||  
+|| メタルシードラモン  
+|-
+
+|| [[Bo-36]] 
+|| Bakumon 
+||  
+|| バクモン  
+|-
+
+|| [[Bo-37]] 
+|| Pumpmon 
+||  
+|| パンプモン  
+|-
+
+|| [[Bo-38]] 
+|| Vamdemon 
+||  
+|| ヴァンデモン  
+|-
+
+|| [[Bo-39]] 
+|| Phantomon 
+||  
+|| ファントモン  
+|-
+
+|| [[Bo-40]] 
+|| Skull Mammon 
+||  
+|| スカルマンモン 
+|-
+
+|| [[Bo-41]] 
+|| Boltmon 
+||  
+|| ボルトモン 
+|-
+
+|| [[Bo-42]] 
+|| Piemon 
+||  
+|| ピエモン  
+|-
+
+|| [[Bo-43]] 
+|| Mega Hand 
+||  
+|| メガハンド  
+|-
+
+|| [[Bo-44]] 
+|| Sango no Omamori 
+|| Coral Charm 
+|| サンゴのお守り  
+|-
+
+|| [[Bo-45]] 
+|| Mizūmi Nonu Shinofue 
+|| The Master of the Lake's Flute 
+|| 湖のぬしの笛  
+|-
+
+|| [[Bo-46]] 
+|| Shiroi hane 
+|| White Wings 
+|| 白い羽  
+|-
+
+|| [[Bo-47]] 
+|| Hagane no doriru 
+|| Iron Drill 
+|| 鋼のドリル  
+|-
+
+|| [[Bo-48]] 
+|| Yūki Hiryō 
+|| Organic Fertilizer 
+|| 有機肥料  
+|-
+
+|| [[Bo-49]] 
+|| Aitemu Shiyō Kinshi! 
+|| No Items Allowed! 
+|| アイテム使用禁止！  
+|-
+
+|| [[Bo-50]] 
+|| Puroguramu Kinkyū Teishi! 
+|| Emergency Program Halt! 
+|| プログラム緊急停止！
+|-
+
+|| [[Bo-51]] 
+|| Arasoi wa Yamemashou 
+|| Let's Stop Fighting 
+|| 争いはやめましょう 
+|-
+
+|| [[Bo-52]] 
+|| Ku Uchi ~Yuukara Kyūkōka! 
+|| Nose Dive from the Sky! 
+|| くうちゅうから急降下！  
+|-
+
+|| [[Bo-53]] 
+|| Ana no Naka kara Fuiuchi! 
+|| Surprise Attack from Underground! 
+|| あなのなかから不意打ち！  
+|-
+
+|| [[Bo-54]] 
+|| Su Ichi ~Yuukara Kōgeki! 
+|| Underwater Attack! 
+|| すいちゅうから攻撃！  
+|-
+
+|| [[Bo-55]] 
+|| Mugendramon 
+||  
+|| ムゲンドラモン  
+|-
+
+|| [[Bo-56]] 
+|| Cockatrimon 
+||  
+|| コカトリモン  
+|-
+
+|| [[Bo-57]] 
+|| Etemon 
+||  
+|| エテモン  
+|-
+
+|| [[Bo-58]] 
+|| Whamon 
+||  
+|| ホエーモン 
+|-
+
+|| [[Bo-59]] 
+|| Scumon 
+||  
+|| スカモン 
+|-
+
+|| [[Bo-60]] 
+|| Gazimon 
+||  
+|| ガジモン 　 
+|-
+
+|| [[Bo-61]] 
+|| Elecmon 
+||  
+|| エレキモン 　 　 
+|-
+
+|| [[Bo-62]] 
+|| Monzaemon 
+||  
+|| もんざえモン   
+|-
+
+|| [[Bo-63]] 
+|| Numemon 
+||  
+|| ヌメモン 　 　 
+|-
+
+|| [[Bo-64]] 
+|| Mamemon 
+||  
+|| マメモン  
+|-
+
+|| [[Bo-65]] 
+|| Metal Mamemon 
+||  
+|| メタルマメモン  
+|-
+
+|| [[Bo-66]] 
+|| Tyranomon 
+||  
+|| ティラノモン  
+|-
+
+|| [[Bo-67]] 
+|| Nanomon 
+||  
+|| ナノモン  
+|-
+
+|| [[Bo-68]] 
+|| Giromon 
+||  
+|| ギロモン  
+|-
+
+|| [[Bo-69]] 
+|| Megadramon 
+||  
+|| メガドラモン   
+|-
+
+|| [[Bo-70]] 
+|| Digitamamon 
+||  
+|| デジタマモン 　 　 
+|-
+
+|| [[Bo-71]] 
+|| Gizamon 
+||  
+|| ギザモン 　 　 
+|-
+
+|| [[Bo-72]] 
+|| Raremon 
+||  
+|| レアモン   
+|-
+
+|| [[Bo-73]] 
+|| Ex-Tyranomon 
+||  
+|| エクスティラノモン 　 　 
+|-
+
+|| [[Bo-74]] 
+|| Deltamon 
+||  
+|| デルタモン  
+|-
+
+|| [[Bo-75]] 
+|| Tuskmon 
+||  
+|| タスクモン  
+|-
+
+|| [[Bo-76]] 
+|| Vamdemon 
+||  
+|| ヴァンデモン  
+|-
+
+|| [[Bo-77]] 
+|| Tailmon 
+||  
+|| テイルモン  
+|-
+
+|| [[Bo-78]] 
+|| Cyclomon 
+||  
+|| サイクロモン  
+|-
+
+|| [[Bo-79]] 
+|| Dark Tyranomon 
+||  
+|| ダークティラノモン
+|-
+
+|| [[Bo-80]] 
+|| Metal Greymon 
+||  
+|| メタルグレイモン 　 　 
+|-
+
+|| [[Bo-81]] 
+|| Floramon 
+||  
+|| フローラモン 　 　 
+|-
+
+|| [[Bo-82]] 
+|| Mushmon 
+||  
+|| マッシュモン   
+|-
+
+|| [[Bo-83]] 
+|| V-dramon 
+||  
+|| ブイドラモン 　 　 
+|-
+
+|| [[Bo-84]] 
+|| Togemon 
+||  
+|| トゲモン  
+|-
+
+|| [[Bo-85]] 
+|| Kiwimon 
+||  
+|| キウィモン  
+|-
+
+|| [[Bo-86]] 
+|| Woodmon 
+||  
+|| ウッドモン  
+|-
+
+|| [[Bo-87]] 
+|| Red Vegimon 
+||  
+|| レッドベジーモン  
+|-
+
+|| [[Bo-88]] 
+|| Aero V-dramon 
+||  
+|| エアロブイドラモン  
+|-
+
+|| [[Bo-89]] 
+|| Garudamon 
+||  
+|| ガルダモン  
+|-
+
+|| [[Bo-90]] 
+|| Blossomon 
+||  
+|| ブロッサモン 　 　 
+|-
+
+|| [[Bo-91]] 
+|| Delumon 
+||  
+|| デラモン 　 　 
+|-
+
+|| [[Bo-92]] 
+|| Jyureimon 
+||  
+|| ジュレイモン   
+|-
+
+|| [[Bo-93]] 
+|| Gerbemon 
+||  
+|| ガーベモン 　 　 
+|-
+
+|| [[Bo-94]] 
+|| Hououmon 
+||  
+|| ホウオウモン  
+|-
+
+|| [[Bo-95]] 
+|| Griffomon 
+||  
+|| グリフォモン  
+|-
+
+|| [[Bo-96]] 
+|| Pinocchimon 
+||  
+|| ピノッキモン  
+|-
+
+|| [[Bo-97]] 
+|| Digivice 
+||  
+|| デジヴァイス  
+|-
+
+|| [[Bo-98]] 
+|| Tag 
+||  
+|| タグ  
+|-
+
+|| [[Bo-99]] 
+||  
+|| Crest of Courage 
+|| 勇気の紋章  
+|-
+
+|| [[Bo-100]] 
+||  
+|| Crest of Faith 
+|| 誠実の紋章 　 　 
+|-
+
+|| [[Bo-101]] 
+||  
+|| Crest of Purity 
+|| 純真の紋章 　 　 
+|-
+
+|| [[Bo-102]] 
+||  
+|| Crest of Friendship 
+|| 友情の紋章   
+|-
+
+|| [[Bo-103]] 
+||  
+|| The Black Gear 
+|| 黒い歯車 　 　 
+|-
+
+|| [[Bo-104]] 
+|| Shouritsu 40% 
+|| Win Ratio 40% 
+|| しょうりつ４０％！  
+|-
+
+|| [[Bo-105]] 
+|| Shouritsu 60% 
+|| Win Ratio 60% 
+|| しょうりつ６０％！  
+|-
+
+|| [[Bo-106]] 
+|| Warui Tomodachi 
+|| Bad Friends 
+|| ワルいおともだち  
+|-
+
+|| [[Bo-107]] 
+||  
+|| Being Underwater Feels Great! 
+|| 水の中でイイ気持ち！  
+|-
+
+|| [[Bo-108]] 
+||  
+|| Is it True...You Can't Fly? 
+|| 実はキミ......飛べないの？  
+|-
+
+|| [[Bo-109]] 
+|| Metal Garurumon 
+||  
+|| メタルガルルモン    
+|-
+
+|| [[Bo-110]] 
+|| Toy Agumon 
+||  
+|| トイアグモン 　 　 
+|-
+
+|| [[Bo-111]] 
+|| Betamon 
+||  
+|| ベタモン 　 　 
+|-
+
+|| [[Bo-112]] 
+|| Clockmon 
+||  
+|| クロックモン   
+|-
+
+|| [[Bo-113]] 
+|| Guardromon 
+||  
+|| ガードロモン 　 　 
+|-
+
+|| [[Bo-114]] 
+|| Knightmon 
+||  
+|| ナイトモン  
+|-
+
+|| [[Bo-115]] 
+|| Metal Greymon 
+||  
+|| メタルグレイモン  
+|-
+
+|| [[Bo-116]] 
+|| Penmon 
+||  
+|| ペンモン  
+|-
+
+|| [[Bo-117]] 
+|| Dokunemon 
+||  
+|| ドクネモン  
+|-
+
+|| [[Bo-118]] 
+|| Platinum Scumon 
+||  
+|| プラチナスカモン  
+|-
+
+|| [[Bo-119]] 
+|| Psychemon 
+||  
+|| サイケモン  
+|-
+
+|| [[Bo-120]] 
+|| Gururumon 
+||  
+|| グルルモン 　 　 
+|-
+
+|| [[Bo-121]] 
+|| Mori Shellmon 
+||  
+|| モリシェルモン 　 　 
+|-
+
+|| [[Bo-122]] 
+|| Tukaimon 
+||  
+|| ツカイモン   
+|-
+
+|| [[Bo-123]] 
+|| Igamon 
+||  
+|| イガモン 　 　 
+|-
+
+|| [[Bo-124]] 
+|| Modoki Betamon 
+||  
+|| モドキベタモン  
+|-
+
+|| [[Bo-125]] 
+|| Sabirdramon 
+||  
+|| セーバードラモン  
+|-
+
+|| [[Bo-126]] 
+|| Yuki Agumon 
+||  
+|| ユキアグモン  
+|-
+
+|| [[Bo-127]] 
+|| Alraumon 
+||  
+|| アルラウモン  
+|-
+
+|| [[Bo-128]] 
+|| Flymon 
+||  
+|| フライモン  
+|-
+
+|| [[Bo-129]] 
+|| Icemon 
+||  
+|| アイスモン  
+|-
+
+|| [[Bo-130]] 
+|| Nise Drimogemon 
+||  
+|| ニセドリモゲモン 　 　 
+|-
+
+|| [[Bo-131]] 
+|| Airdramon 
+||  
+|| エアドラモン 　 　 
+|-
+
+|| [[Bo-132]] 
+|| Devidramon 
+||  
+|| デビドラモン   
+|-
+
+|| [[Bo-133]] 
+|| Metal Tyranomon 
+||  
+|| メタルティラノモン 　 　 
+|-
+
+|| [[Bo-134]] 
+|| Akatorimon 
+||  
+|| アカトリモン  
+|-
+
+|| [[Bo-135]] 
+|| Vegimon 
+||  
+|| ベジーモン  
+|-
+
+|| [[Bo-136]] 
+|| Mugendramon 
+||  
+|| ムゲンドラモン  
+|-
+
+|| [[Bo-137]] 
+|| Tsuchidarumon 
+||  
+|| ツチダルモン  
+|-
+
+|| [[Bo-138]] 
+|| Geremon 
+||  
+|| ゲレモン  
+|-
+
+|| [[Bo-139]] 
+|| Vermillimon 
+||  
+|| ヴァーミリモン  
+|-
+
+|| [[Bo-140]] 
+|| Lilimon 
+||  
+|| リリモン 　 　 
+|-
+
+|| [[Bo-141]] 
+|| Insekimon 
+||  
+|| インセキモン 　 　 
+|-
+
+|| [[Bo-142]] 
+|| Holy Angemon 
+||  
+|| ホーリーエンジェモン   
+|-
+
+|| [[Bo-143]] 
+|| Waru Seadramon 
+||  
+|| ワルシードラモン 　 　 
+|-
+
+|| [[Bo-144]] 
+|| Vademon 
+||  
+|| ベーダモン  
+|-
+
+|| [[Bo-145]] 
+|| Jijimon 
+||  
+|| ジジモン  
+|-
+
+|| [[Bo-146]] 
+|| Babamon 
+||  
+|| ババモン  
+|-
+
+|| [[Bo-147]] 
+||  
+|| Crest of Knowledge 
+|| 知識の紋章  
+|-
+
+|| [[Bo-148]] 
+||  
+|| Crest of Hope 
+|| 希望の紋章  
+|-
+
+|| [[Bo-149]] 
+||  
+|| Crest of Love 
+|| 愛情の紋章  
+|-
+
+|| [[Bo-150]] 
+||  
+|| Liquid Crystal Floppy 
+|| 液晶化フロッピー 　 　 
+|-
+
+|| [[Bo-151]] 
+||  
+|| Devil Chip 
+|| デビルチップ 　 　 
+|-
+
+|| [[Bo-152]] 
+||  
+|| Seed of Strength 
+|| ごうりき草の実   
+|-
+
+|| [[Bo-153]] 
+||  
+|| Seed of Health 
+|| じょうぶ草の実 　 　 
+|-
+
+|| [[Bo-154]] 
+||  
+|| Seed of Swiftness 
+|| はやあし草の実  
+|-
+
+|| [[Bo-155]] 
+|| Shouritsu 40% 
+|| Win Ratio 40% 
+|| しょうりつ４０％！  
+|-
+
+|| [[Bo-156]] 
+|| Shouritsu 60% 
+|| Win Ratio 60% 
+|| しょうりつ６０％！  
+|-
+
+|| [[Bo-157]] 
+||  
+|| Aim for the Strongest Evolution! 
+|| めざせ最強進化！  
+|-
+
+|| [[Bo-158]] 
+||  
+|| The Dark Network 
+|| 闇のネットワーク  
+|-
+
+|| [[Bo-159]] 
+||  
+|| The Hand that Comes up from the Darkness 
+|| 暗がりから伸びる手  
+|-
+
+|| [[Bo-160]] 
+||  
+|| We're Honor Students 
+|| ボクたち優等生 　 　 
+|-
+
+|| [[Bo-161]] 
+||  
+|| I Take that Back After All! 
+|| やっぱ、今のナシ！ 　 　 
+|-
+
+|| [[Bo-162]] 
+||  
+|| Revived from the Darkness!! 
+|| ヤミよりの復活！！   
+|-
+
+|| [[Bo-163]] 
+|| Apocalymon 
+||  
+|| アポカリモン 　 　 
+|-
+
+|| [[Bo-164]] 
+|| Clear Agumon 
+||  
+|| クリアアグモン  
+|-
+
+|| [[Bo-165]] 
+|| Flare Lizamon 
+||  
+|| フレアリザモン  
+|-
+
+|| [[Bo-166]] 
+|| Plotmon 
+||  
+|| プロットモン  
+|-
+
+|| [[Bo-167]] 
+|| Goburimon 
+||  
+|| ゴブリモン  
+|-
+
+|| [[Bo-168]] 
+|| Thunderballmon 
+||  
+|| サンダーボールモン  
+|-
+
+|| [[Bo-169]] 
+|| Karatsuki Numemon 
+||  
+|| カラツキヌメモン  
+|-
+
+|| [[Bo-170]] 
+|| Muchomon 
+||  
+|| ムーチョモン 　 　 
+|-
+
+|| [[Bo-171]] 
+|| Snow Goburimon 
+||  
+|| スノーゴブリモン 　 　 
+|-
+
+|| [[Bo-172]] 
+|| Keramon 
+||  
+|| ケラモン   
+|-
+
+|| [[Bo-173]] 
+|| Zassoumon 
+||  
+|| ザッソーモン 　 　 
+|-
+
+|| [[Bo-174]] 
+|| Yanmamon 
+||  
+|| ヤンマモン  
+|-
+
+|| [[Bo-175]] 
+|| Shamamon 
+||  
+|| シャーマモン  
+|-
+
+|| [[Bo-176]] 
+|| Goddramon 
+||  
+|| ゴッドドラモン  
+|-
+
+|| [[Bo-177]] 
+|| Sand Yanmamon 
+||  
+|| サンドヤンマモン  
+|-
+
+|| [[Bo-178]] 
+|| Shima Unimon 
+||  
+|| シマユニモン  
+|-
+
+|| [[Bo-179]] 
+|| Soulmon 
+||  
+|| ソウルモン 
+|-
+
+|| [[Bo-180]] 
+|| Rosemon 
+||  
+|| ロゼモン 　 　 
+|-
+
+|| [[Bo-181]] 
+|| Master Tyranomon 
+||  
+|| マスターティラノモン 　 　 
+|-
+
+|| [[Bo-182]] 
+|| Dark Lizarmon 
+||  
+|| ダークリザモン   
+|-
+
+|| [[Bo-183]] 
+|| Hyougamon 
+||  
+|| ヒョーガモン 　 　 
+|-
+
+|| [[Bo-184]] 
+|| Pidmon 
+||  
+|| ピッドモン  
+|-
+
+|| [[Bo-185]] 
+|| Brachimon 
+||  
+|| ブラキモン  
+|-
+
+|| [[Bo-186]] 
+|| Gigadramon 
+||  
+|| ギガドラモン  
+|-
+
+|| [[Bo-187]] 
+|| Orgemon 
+||  
+|| オーガモン  
+|-
+
+|| [[Bo-188]] 
+|| Tekkamon 
+||  
+|| テッカモン
+|-
+
+|| [[Bo-189]] 
+|| Cyberdramon 
+||  
+|| サイバードラモン  
+|-
+
+|| [[Bo-190]] 
+|| Skull Satamon 
+||  
+|| スカルサタモン 　 　 
+|-
+
+|| [[Bo-191]] 
+|| Were Garurumon 
+||  
+|| ワーガルルモン 　 　 
+|-
+
+|| [[Bo-192]] 
+|| Metal Garurumon 
+||  
+|| メタルガルルモン   
+|-
+
+|| [[Bo-193]] 
+|| Millenniumon 
+||  
+|| ミレニアモン 　 　 
+|-
+
+|| [[Bo-194]] 
+|| Garudamon 
+||  
+|| ガルダモン  
+|-
+
+|| [[Bo-195]] 
+|| Saber Leomon 
+||  
+|| サーベルレオモン  
+|-
+
+|| [[Bo-196]] 
+|| Boltmon 
+||  
+|| ボルトモン  
+|-
+
+|| [[Bo-197]] 
+|| Metal Etemon 
+||  
+|| メタルエテモン  
+|-
+
+|| [[Bo-198]] 
+|| War Greymon 
+||  
+|| ウォーグレイモン  
+|-
+
+|| [[Bo-199]] 
+|| Chrysalimon 
+||  
+|| クリサリモン  
+|-
+
+|| [[Bo-200]] 
+|| Herakle Kabuterimon 
+||  
+|| ヘラクルカブテリモン 　 　 
+|-
+
+|| [[Bo-201]] 
+|| Metal Seadramon 
+||  
+|| メタルシードラモン 　 　 
+|-
+
+|| [[Bo-202]] 
+|| Pinocchimon 
+||  
+|| ピノッキモン   
+|-
+
+|| [[Bo-203]] 
+|| Piemon 
+||  
+|| ピエモン 　 　 
+|-
+
+|| [[Bo-204]] 
+|| Demon 
+||  
+|| デーモン  
+|-
+
+|| [[Bo-205]] 
+|| D-3 
+||  
+|| D-3  
+|-
+
+|| [[Bo-206]] 
+||  
+|| Crest of Light 
+|| 光の紋章  
+|-
+
+|| [[Bo-207]] 
+||  
+|| Digimon Analyzer 
+|| デジモンアナライザー  
+|-
+
+|| [[Bo-208]] 
+||  
+|| Boost Chip 
+|| ブーストチップ  
+|-
+
+|| [[Bo-209]] 
+|| Shouritsu 40% 
+|| Win Ratio 40% 
+|| しょうりつ４０％！    
+|-
+
+|| [[Bo-210]] 
+|| Shouritsu 60% 
+|| Win Ratio 60% 
+|| しょうりつ６０％！ 　 　 
+|-
+
+|| [[Bo-211]] 
+|| Omegamon 
+||  
+|| オメガモン 　 　 
+|-
+
+|| [[Bo-212]] 
+|| Gomamon 
+||  
+|| ゴマモン    
+|-
+
+|| [[Bo-213]] 
+|| Lilimon 
+||  
+|| リリモン 　 　 
+|-
+
+|| [[Bo-214]] 
+|| Vamdemon 
+||  
+|| ヴァンデモン  
+|-
+
+|| [[Bo-215]] 
+|| King Etemon 
+||  
+|| キングエテモン  
+|-
+
+|| [[Bo-216]] 
+|| Aero V-dramon 
+||  
+|| エアロブイドラモン  
+|-
+
+|| [[Bo-217]] 
+|| Setmon 
+||  
+|| セトモン  
+|-
+
+|| [[Bo-218]] 
+|| Nohemon 
+||  
+|| ノヘモン  
+|-
+
+|| [[Bo-219]] 
+|| Honeybeemon 
+||  
+|| ハニービーモン  
+|-
+
+|| [[Bo-220]] 
+|| Ikkakumon 
+||  
+|| イッカクモン 　 　 
+|-
+
+|| [[Bo-221]] 
+|| Garurumon 
+||  
+|| ガルルモン 　 　 
+|-
+
+|| [[Bo-222]] 
+|| Paildramon 
+||  
+|| パイルドラモン   
+|-
+
+|| [[Bo-223]] 
+|| Skull Greymon 
+||  
+|| スカルグレイモン 　 　 
+|-
+
+|| [[Bo-224]] 
+|| Piccolomon 
+||  
+|| ピッコロモン  
+|-
+
+|| [[Bo-225]] 
+|| Guardromon 
+||  
+|| ガードロモン  
+|-
+
+|| [[Bo-226]] 
+|| Crossmon 
+||  
+|| クロスモン  
+|-
+
+|| [[Bo-227]] 
+|| Chimairamon 
+||  
+|| キメラモン  
+|-
+
+|| [[Bo-228]] 
+|| Phantomon 
+||  
+|| ファントモン  
+|-
+
+|| [[Bo-229]] 
+|| Musyamon 
+||  
+|| ムシャモン  
+|-
+
+|| [[Bo-230]] 
+|| Seadramon 
+||  
+|| シードラモン 　 　 
+|-
+
+|| [[Bo-231]] 
+|| Ebidramon 
+||  
+|| エビドラモン 　 　 
+|-
+
+|| [[Bo-232]] 
+|| Gesomon 
+||  
+|| ゲソモン   
+|-
+
+|| [[Bo-233]] 
+|| Dagomon 
+||  
+|| ダゴモン 　 　 
+|-
+
+|| [[Bo-234]] 
+|| Anomalocarimon 
+||  
+|| アノマロカリモン  
+|-
+
+|| [[Bo-235]] 
+|| Starmon 
+||  
+|| スターモン  
+|-
+
+|| [[Bo-236]] 
+|| Metal Mamemon 
+||  
+|| メタルマメモン  
+|-
+
+|| [[Bo-237]] 
+|| Kiwimon 
+||  
+|| キウィモン  
+|-
+
+|| [[Bo-238]] 
+|| Rosemon 
+||  
+|| ロゼモン  
+|-
+
+|| [[Bo-239]] 
+|| Cyclomon 
+||  
+|| サイクロモン  
+|-
+
+|| [[Bo-240]] 
+|| Triceramon 
+||  
+|| トリケラモン 　 　 
+|-
+
+|| [[Bo-241]] 
+|| Atlur Kabuterimon 
+||  
+|| アトラーカブテリモン 　 　 
+|-
+
+|| [[Bo-242]] 
+|| Tortamon 
+||  
+|| トータモン   
+|-
+
+|| [[Bo-243]] 
+|| Infermon 
+||  
+|| インフェルモン 　 　 
+|-
+
+|| [[Bo-244]] 
+|| Deathmon 
+||  
+|| デスモン  
+|-
+
+|| [[Bo-245]] 
+|| Ebemon 
+||  
+|| イーバモン  
+|-
+
+|| [[Bo-246]] 
+|| Diablomon 
+||  
+|| ディアボロモン  
+|-
+
+|| [[Bo-247]] 
+||  
+|| Light Training Manual 
+|| 光のトレーマニュアル  
+|-
+
+|| [[Bo-248]] 
+||  
+|| Dark Training Manual 
+|| 闇のトレーマニュアル  
+|-
+
+|| [[Bo-249]] 
+||  
+|| Supreme Training Manual 
+|| 至高のトレーマニュアル 
+|-
+
+|| [[Bo-250]] 
+||  
+|| Small Spear 
+|| 小さな槍 　 　 
+|-
+
+|| [[Bo-251]] 
+||  
+|| Iron Claw 
+|| アイアンクロウ 　 　 
+|-
+
+|| [[Bo-252]] 
+||  
+|| Fuse into the Ultimate Digimon! 
+|| 究極合体デジモンへの融合！   
+|-
+
+|| [[Bo-253]] 
+|| Shouritsu 40% 
+|| Win Ratio 40% 
+|| しょうりつ４０％！ 　 　 
+|-
+
+|| [[Bo-254]] 
+|| Shouritsu 60% 
+|| Win Ratio 60% 
+|| しょうりつ６０％！  
+|-
+
+|| [[Bo-255]] 
+|| Deep Savers 
+||  
+|| ディープセイバーズ  
+|-
+
+|| [[Bo-256]] 
+|| Nightmare Soldiers 
+||  
+|| ナイトメアソルジャーズ  
+|-
+
+|| [[Bo-257]] 
+|| Metal Empire 
+||  
+|| メタルエンパイア  
+|-
+
+|| [[Bo-258]] 
+|| Dark Area 
+||  
+|| ダークエリア  
+|-
+
+|| [[Bo-259]] 
+|| XV-mon 
+||  
+|| エクスブイモン  
+|-
+
+|| [[Bo-260]] 
+|| V-dramon 
+||  
+|| ブイドラモン 　 　 
+|-
+
+|| [[Bo-261]] 
+|| Metal Greymon 
+||  
+|| メタルグレイモン 　 　 
+|-
+
+|| [[Bo-262]] 
+|| Garudamon 
+||  
+|| ガルダモン   
+|-
+
+|| [[Bo-263]] 
+|| Were Garurumon 
+||  
+|| ワーガルルモン 　 　 
+|-
+
+|| [[Bo-264]] 
+|| Vamdemon 
+||  
+|| ヴァンデモン  
+|-
+
+|| [[Bo-265]] 
+|| Metal Garurumon 
+||  
+|| メタルガルルモン  
+|-
+
+|| [[Bo-266]] 
+|| War Greymon 
+||  
+|| ウォーグレイモン  
+|-
+
+|| [[Bo-267]] 
+|| Metal Seadramon 
+||  
+|| メタルシードラモン  
+|-
+
+|| [[Bo-268]] 
+|| DigiBeetle 
+||  
+|| デジビートル  
+|-
+
+|| [[Bo-269]] 
+|| Evil Ring 
+||  
+|| イービルリング  
+|-
+
+|| [[Bo-270]] 
+|| Evil Spiral 
+||  
+|| イービルスパイラル 　 　 
+|-
+
+|| [[Bo-271]] 
+|| D-Terminal 
+||  
+|| D-ターミナル 　 　 
+|-
+
+|| [[Bo-272]] 
+||  
+|| Digimental of Fate 
+|| 運命のデジメンタル   
+|-
+
+|| [[Bo-273]] 
+|| Rapidmon 
+||  
+|| ラピッドモン 　 　 
+|-
+
+|| [[Bo-274]] 
+|| Terriermon 
+||  
+|| テリアモン  
+|-
+
+|| [[Bo-275]] 
+|| Galgomon 
+||  
+|| ガルゴモン  
+|-
+
+|| [[Bo-276]] 
+|| Wendimon 
+||  
+|| ウェンディモン  
+|-
+
+|| [[Bo-277]] 
+|| Andiramon 
+||  
+|| アンティラモン  
+|-
+
+|| [[Bo-278]] 
+|| Cherubimon 
+||  
+|| ケルビモン  
+|-
+
+|| [[Bo-279]] 
+|| Cherubimon 
+||  
+|| ケルビモン  
+|-
+
+|| [[Bo-280]] 
+|| Ankylomon 
+||  
+|| アンキロモン 　 　 
+|-
+
+|| [[Bo-281]] 
+|| Aquilamon 
+||  
+|| アクィラモン 　 　 
+|-
+
+|| [[Bo-282]] 
+|| Silphymon 
+||  
+|| シルフィーモン   
+|-
+
+|| [[Bo-283]] 
+|| Dinobeemon 
+||  
+|| ディノビーモン 　 　 
+|-
+
+|| [[Bo-284]] 
+|| Seraphimon 
+||  
+|| セラフィモン  
+|-
+
+|| [[Bo-285]] 
+|| Holydramon 
+||  
+|| ホーリードラモン  
+|-
+
+|| [[Bo-286]] 
+|| Digitamamon 
+||  
+|| デジタマモン  
+|-
+
+|| [[Bo-287]] 
+|| Tonosama Gekomon 
+||  
+|| トノサマゲコモン  
+|-
+
+|| [[Bo-288]] 
+|| Hangyomon 
+||  
+|| ハンギョモン
+|-
+
+|| [[Bo-289]] 
+|| Bullmon 
+||  
+|| ブルモン  
+|-
+
+|| [[Bo-290]] 
+|| Searchmon 
+||  
+|| サーチモン 　 　 
+|-
+
+|| [[Bo-291]] 
+|| Archelomon 
+||  
+|| アーケロモン 　 　 
+|-
+
+|| [[Bo-292]] 
+|| Coatlmon 
+||  
+|| クアトルモン   
+|-
+
+|| [[Bo-293]] 
+|| Sagittarimon 
+||  
+|| サジタリモン 　 　 
+|-
+
+|| [[Bo-294]] 
+|| Depthmon 
+||  
+|| デプスモン  
+|-
+
+|| [[Bo-295]] 
+|| Gargomon 
+||  
+|| ガーゴモン  
+|-
+
+|| [[Bo-296]] 
+|| Kongoumon 
+||  
+|| コンゴウモン  
+|-
+
+|| [[Bo-297]] 
+|| Woodmon 
+||  
+|| ウッドモン  
+|-
+
+|| [[Bo-298]] 
+|| Igamon 
+||  
+|| イガモン  
+|-
+
+|| [[Bo-299]] 
+|| Deathmon 
+||  
+|| デスモン  
+|-
+
+|| [[Bo-300]] 
+|| Magnamon 
+||  
+|| マグナモン 　 　 
+|-
+
+|| [[Bo-301]] 
+||  
+|| Digimental of Miracles 
+|| 奇跡のデジメンタル 　 　 
+|-
+
+|| [[Bo-302]] 
+||  
+|| The Ultimate Connection!! 
+|| 究極のコネクション！！   
+|-
+
+|| [[Bo-303]] 
+||  
+|| The Revelation of Hidden Power!! 
+|| 秘めたる力の発現！！ 　 　 
+|-
+
+|| [[Bo-304]] 
+||  
+|| Firewall!! 
+|| ファイアウォール！！  
+|-
+
+|| [[Bo-305]] 
+||  
+|| Cracker!! 
+|| クラッカー！！  
+|-
+
+|| [[Bo-306]] 
+||  
+|| File Island 
+|| ファイル島  
+|-
+
+|| [[Bo-307]] 
+||  
+|| The Continent Of Folder 
+|| フォルダ大陸  
+|-
+
+|| [[Bo-308]] 
+|| Dinobeemon 
+||  
+|| ディノビーモン  
+|-
+
+|| [[Bo-309]] 
+|| Lopmon 
+||  
+|| ロップモン    
+|-
+
+|| [[Bo-310]] 
+|| Parrotmon 
+||  
+|| パロットモン 　 　 
+|-
+
+|| [[Bo-311]] 
+|| Crossmon 
+||  
+|| クロスモン 　 　 
+|-
+
+|| [[Bo-312]] 
+|| Lampmon 
+||  
+|| ランプモン   
+|-
+
+|| [[Bo-313]] 
+|| Zanbamon 
+||  
+|| ザンバモン 　 　 
+|-
+
+|| [[Bo-314]] 
+|| Allomon 
+||  
+|| アロモン  
+|-
+
+|| [[Bo-315]] 
+|| Rinkmon 
+||  
+|| リンクモン  
+|-
+
+|| [[Bo-316]] 
+|| Flybeemon 
+||  
+|| フライビーモン  
+|-
+
+|| [[Bo-317]] 
+|| Orcamon 
+||  
+|| オルカモン  
+|-
+
+|| [[Bo-318]] 
+|| Moosemon 
+||  
+|| ムースモン  
+|-
+
+|| [[Bo-319]] 
+|| Harpymon 
+||  
+|| ハーピモン  
+|-
+
+|| [[Bo-320]] 
+|| Toucanmon 
+||  
+|| トーカンモン 　 　 
+|-
+
+|| [[Bo-321]] 
+|| Peacockmon 
+||  
+|| ピーコックモン 　 　 
+|-
+
+|| [[Bo-322]] 
+|| Hououmon 
+||  
+|| ホウオウモン   
+|-
+
+|| [[Bo-323]] 
+|| Puchiemon 
+||  
+|| プッチモン 　 　 
+|-
+
+|| [[Bo-324]] 
+|| Kangaroomon 
+||  
+|| カンガルモン  
+|-
+
+|| [[Bo-325]] 
+|| Lynxmon 
+||  
+|| ランクスモン  
+|-
+
+|| [[Bo-326]] 
+|| Bitmon 
+||  
+|| ビットモン  
+|-
+
+|| [[Bo-327]] 
+|| Swanmon 
+||  
+|| スワンモン  
+|-
+
+|| [[Bo-328]] 
+|| Kabukimon 
+||  
+|| カブキモン  
+|-
+
+|| [[Bo-329]] 
+|| Butterflymon 
+||  
+|| バタフラモン  
+|-
+
+|| [[Bo-330]] 
+|| Tylomon 
+||  
+|| ティロモン 　 　 
+|-
+
+|| [[Bo-331]] 
+|| Goatmon 
+||  
+|| ゴートモン 　 　 
+|-
+
+|| [[Bo-332]] 
+|| Opossumon 
+||  
+|| オポッサモン   
+|-
+
+|| [[Bo-333]] 
+|| Maildramon 
+||  
+|| メイルドラモン 　 　 
+|-
+
+|| [[Bo-334]] 
+|| Herakle Kabuterimon 
+||  
+|| ヘラクルカブテリモン  
+|-
+
+|| [[Bo-335]] 
+|| Paildramon  
+||  
+|| パイルドラモン  
+|-
+
+|| [[Bo-336]] 
+|| Silphymon 
+||  
+|| シルフィーモン  
+|-
+
+|| [[Bo-337]] 
+|| Garudamon 
+||  
+|| ガルダモン  
+|-
+
+|| [[Bo-338]] 
+|| Knightmon 
+||  
+|| ナイトモン  
+|-
+
+|| [[Bo-339]] 
+|| Marin Devimon 
+||  
+|| マリンデビモン  
+|-
+
+|| [[Bo-340]] 
+|| Etemon 
+||  
+|| エテモン 　 　 
+|-
+
+|| [[Bo-341]] 
+|| Venom Vamdemon 
+||  
+|| ヴェノムヴァンデモン 　 　 
+|-
+
+|| [[Bo-342]] 
+|| Qinglongmon 
+||  
+|| チンロンモン   
+|-
+
+|| [[Bo-343]] 
+|| Moon=Millenniumon 
+||  
+|| ムーン＝ミレニアモン 　 　 
+|-
+
+|| [[Bo-344]] 
+||  
+|| Digimental of Kindness 
+|| 優しさのデジメンタル  
+|-
+
+|| [[Bo-345]] 
+||  
+|| Spiked Club 
+|| トゲ棍棒  
+|-
+
+|| [[Bo-346]] 
+||  
+|| DigiKamuru 
+|| デジカムル  
+|-
+
+|| [[Bo-347]] 
+||  
+|| Digimon Graveyard 
+|| デジモン墓場  
+|-
+
+|| [[Bo-348]] 
+||  
+|| Chaotic Wave 
+|| 混乱電波  
+|-
+
+|| [[Bo-349]] 
+||  
+|| Golden Banana 
+|| 金のバナナ  
+|-
+
+|| [[Bo-350]] 
+||  
+|| Don't Think I'm the Same as Yesterday! 
+|| 昨日のオレだと思うなよ！ 　 　 
+|-
+
+|| [[Bo-351]] 
+||  
+|| No Items Allowed! 
+|| アイテム使用禁止！ 　 　 
+|-
+
+|| [[Bo-352]] 
+||  
+|| A Tearful Truce Annulment 
+|| ナミダの協定破棄   
+|-
+
+|| [[Bo-353]] 
+||  
+|| Freeze!! 
+|| フリーズ！！ 　 　 
+|-
+
+|| [[Bo-354]] 
+||  
+|| A Little Overloaded...!? 
+|| チョッぴり暴走気味......！？  
+|-
+
+|| [[Bo-355]] 
+||  
+|| Dark Tower 
+|| ダークタワー  
+|-
+
+|| [[Bo-356]] 
+|| Imperialdramon 
+||  
+|| インペリアルドラモン  
+|-
+
+|| [[Bo-357]] 
+|| Imperialdramon Fighter Mode 
+||  
+|| インペリアルドラモンファイターモード  
+|-
+
+|| [[Bo-358]] 
+|| V-mon 
+||  
+|| ブイモン  
+|-
+
+|| [[Bo-359]] 
+|| Wormmon 
+||  
+|| ワームモン  
+|-
+
+|| [[Bo-360]] 
+|| Plotmon 
+||  
+|| プロットモン 　 　 
+|-
+
+|| [[Bo-361]] 
+|| Armadimon 
+||  
+|| アルマジモン 　 　 
+|-
+
+|| [[Bo-362]] 
+|| Patamon 
+||  
+|| パタモン   
+|-
+
+|| [[Bo-363]] 
+|| Hawkmon 
+||  
+|| ホークモン 　 　 
+|-
+
+|| [[Bo-364]] 
+|| Tailmon 
+||  
+|| テイルモン  
+|-
+
+|| [[Bo-365]] 
+|| Archnemon 
+||  
+|| アルケニモン  
+|-
+
+|| [[Bo-366]] 
+|| Tyumon 
+||  
+|| チューモン  
+|-
+
+|| [[Bo-367]] 
+|| XV-mon 
+||  
+|| エクスブイモン  
+|-
+
+|| [[Bo-368]] 
+|| Stingmon 
+||  
+|| スティングモン  
+|-
+
+|| [[Bo-369]] 
+|| Paildramon 
+||  
+|| パイルドラモン  
+|-
+
+|| [[Bo-370]] 
+|| Hi Andromon 
+||  
+|| ハイアンドロモン 　 　 
+|-
+
+|| [[Bo-371]] 
+|| Devitamamon 
+||  
+|| デビタマモン 　 　 
+|-
+
+|| [[Bo-372]] 
+|| Pharaohmon 
+||  
+|| ファラオモン   
+|-
+
+|| [[Bo-373]] 
+|| Imperialdramon 
+||  
+|| インペリアルドラモン 　 　 
+|-
+
+|| [[Bo-374]] 
+|| Sepikmon 
+||  
+|| セピックモン  
+|-
+
+|| [[Bo-375]] 
+|| Boarmon 
+||  
+|| ボアモン  
+|-
+
+|| [[Bo-376]] 
+|| Elephamon 
+||  
+|| エレファモン  
+|-
+
+|| [[Bo-377]] 
+|| Pteranomon 
+||  
+|| プテラノモン  
+|-
+
+|| [[Bo-378]] 
+|| Frogmon 
+||  
+|| フロッグモン  
+|-
+
+|| [[Bo-379]] 
+|| Sheepmon 
+||  
+|| シープモン  
+|-
+
+|| [[Bo-380]] 
+|| Seahomon 
+||  
+|| シーホモン 　 　 
+|-
+
+|| [[Bo-381]] 
+|| Chamelemon 
+||  
+|| カメレモン 　 　 
+|-
+
+|| [[Bo-382]] 
+|| Vikemon 
+||  
+|| ヴァイクモン   
+|-
+
+|| [[Bo-383]] 
+|| Puchiemon 
+||  
+|| プッチモン 　 　 
+|-
+
+|| [[Bo-384]] 
+|| Stegomon 
+||  
+|| ステゴモン  
+|-
+
+|| [[Bo-385]] 
+|| Baromon 
+||  
+|| バロモン  
+|-
+
+|| [[Bo-386]] 
+|| Rhinomon 
+||  
+|| ライノモン  
+|-
+
+|| [[Bo-387]] 
+|| Pipismon 
+||  
+|| ピピスモン  
+|-
+
+|| [[Bo-388]] 
+|| Ponchomon 
+||  
+|| ポンチョモン
+|-
+
+|| [[Bo-389]] 
+|| Mothmon 
+||  
+|| モスモン  
+|-
+
+|| [[Bo-390]] 
+|| Mantaraymon 
+||  
+|| マンタレイモン 　 　 
+|-
+
+|| [[Bo-391]] 
+|| Manbomon 
+||  
+|| マンボモン 　 　 
+|-
+
+|| [[Bo-392]] 
+|| Prairiemon 
+||  
+|| プレイリモン   
+|-
+
+|| [[Bo-393]] 
+|| Baihumon 
+||  
+|| バイフーモン 　 　 
+|-
+
+|| [[Bo-394]] 
+|| Jijimon 
+||  
+|| ジジモン  
+|-
+
+|| [[Bo-395]] 
+|| Babamon 
+||  
+|| ババモン  
+|-
+
+|| [[Bo-396]] 
+||  
+|| Love's Bandaid 
+|| 愛のばんそうこう  
+|-
+
+|| [[Bo-397]] 
+||  
+|| Reverse Seventh 
+|| リバースセブンズ  
+|-
+
+|| [[Bo-398]] 
+|| D-3 
+||  
+|| D-3  
+|-
+
+|| [[Bo-399]] 
+||  
+|| Miracle Ruby 
+|| 奇跡のルビー  
+|-
+
+|| [[Bo-400]] 
+||  
+|| Metal Armor 
+|| メタルアーマー 　 　 
+|-
+
+|| [[Bo-401]] 
+||  
+|| Armor Pause!! 
+|| アーマー解除！！　 　 
+|-
+
+|| [[Bo-402]] 
+||  
+|| Emergency Program Halt! 
+|| プログラム緊急停止！   
+|-
+
+|| [[Bo-403]] 
+||  
+|| Seek Error Virus! 
+|| シーク・エラー・ウィルス！！ 　 　 
+|-
+
+|| [[Bo-404]] 
+||  
+|| Sky City 
+|| スカイシティ  
+|-
+
+|| [[Bo-405]] 
+|| Imperialdramon Paladin Mode 
+||  
+|| インペリアルドラモンパラディンモード  
+|-
+
+|| [[Bo-406]] 
+|| Guilmon 
+||  
+|| ギルモン  
+|-
+
+|| [[Bo-407]] 
+|| Growmon 
+||  
+|| グラウモン  
+|-   
+
+|| [[Bo-408 ]] 
+|| Renamon 
+||  
+|| レナモン 　 　 
+|-
+
+|| [[Bo-409 ]] 
+|| Kyubimon 
+||  
+|| キュウビモン  
+|-
+
+|| [[Bo-410 ]] 
+|| Terriermon 
+||  
+|| テリアモン  
+|-   
+
+|| [[Bo-411]] 
+|| Galgomon 
+||  
+|| ガルゴモン  
+|-
+
+|| [[Bo-412]] 
+|| Impmon 
+||  
+|| インプモン 　 　 
+|-
+
+|| [[Bo-413]] 
+|| Omegamon 
+||  
+|| オメガモン  
+|-    
+
+|| [[Bo-414 ]] 
+|| Demon 
+||  
+|| デーモン  
+|-
+
+|| [[Bo-415]] 
+|| Gazimon 
+||  
+|| ガジモン  
+|-
+
+|| [[Bo-416]] 
+|| Solarmon  
+||  
+|| ソーラーモン 　 　 
+|-
+
+|| [[Bo-417]] 
+|| Elecmon 
+||  
+|| エレキモン
+|-
+
+|| [[Bo-418]] 
+|| Otamamon 
+||  
+|| オタマモン  
+|-
+
+|| [[Bo-419]] 
+|| Bomber Nanimon 
+||  
+|| ボンバーナニモン  
+|-
+
+|| [[Bo-420]] 
+|| Prince Mamemon 
+||  
+|| プリンスマメモン 　 　 
+|-
+
+|| [[Bo-421]] 
+|| Agumon 
+||  
+|| アグモン  
+|-    
+
+|| [[Bo-422]] 
+|| V-mon  
+||  
+|| ブイモン  
+|-
+
+|| [[Bo-423]] 
+|| Tentomon  
+||  
+|| テントモン  
+|-
+
+|| [[Bo-424]] 
+|| Betamon 
+||  
+|| ベタモン 　 　 
+|-
+
+|| [[Bo-425]] 
+|| Piyomon 
+||  
+|| ピヨモン  
+|-    
+
+|| [[Bo-426]] 
+|| Keramon 
+||  
+|| ケラモン  
+|-
+
+|| [[Bo-427]] 
+|| Chrysalimon 
+||  
+|| クリサリモン  
+|-
+
+|| [[Bo-428]] 
+|| Infermon 
+||  
+|| インフェルモン 　 　 
+|-
+
+|| [[Bo-429 ]] 
+|| Diablomon 
+||  
+|| ディアボロモン  
+|-   
+
+|| [[Bo-430 ]] 
+|| Armagemon  
+||  
+|| アーマゲモン  
+|-
+
+|| [[Bo-431]] 
+|| Holy Angemon 
+||  
+|| ホーリーエンジェモン  
+|-
+
+|| [[Bo-432]] 
+|| Magnamon 
+||  
+|| マグナモン 　 　 
+|-
+
+|| [[Bo-433]] 
+|| Paildramon 
+||  
+|| パイルドラモン  
+|-    
+
+|| [[Bo-434]] 
+|| Marin Devimon 
+||  
+|| マリンデビモン  
+|-
+
+|| [[Bo-435]] 
+|| Metal Seadramon 
+||  
+|| メタルシードラモン  
+|-
+
+|| [[Bo-436]] 
+|| Mugendramon  
+||  
+|| ムゲンドラモン 　 　 
+|-
+
+|| [[Bo-437]] 
+|| War Greymon 
+||  
+|| ウォーグレイモン  
+|-    
+
+|| [[Bo-438]] 
+|| Imperialdramon 
+||  
+|| インペリアルドラモン  
+|-
+
+|| [[Bo-439]] 
+|| Xuanwumon 
+||  
+|| シェンウーモン  
+|-
+
+|| [[Bo-440]] 
+|| Venom Vamdemon 
+||  
+|| ヴェノムヴァンデモン 　 　 
+|-
+
+|| [[Bo-441]] 
+||  
+|| Matrix Conversion!! 
+|| マトリクスコンバージョン！！  
+|-    
+
+|| [[Bo-442]] 
+|| Shining Evolution!! 
+||  
+|| シャイニングエボリューション！！  
+|-
+
+|| [[Bo-443]] 
+||  
+|| Strength Plug-In W 
+|| 強化プラグインW  
+|-
+
+|| [[Bo-444]] 
+||  
+|| Offense Plug-In V 
+|| 攻撃プラグインV 　 　 
+|-
+
+|| [[Bo-445]] 
+||  
+|| High Speed Plug-In H 
+|| 高速プラグインH  
+|-    
+
+|| [[Bo-446]] 
+||  
+|| Defense Plug-In F 
+|| 防御プラグインF  
+|-
+
+|| [[Bo-447]] 
+|| Digimental Boost 
+||  
+|| デジメンタルブースト  
+|-
+
+|| [[Bo-448]] 
+|| Power Charger 
+||  
+|| パワーチャージャー 　 　 
+|-
+
+|| [[Bo-449]] 
+|| Super Charger 
+||  
+|| スパーチャージャー  
+|-
+
+|| [[Bo-450 ]] 
+|| Max Charger 
+||  
+|| MAXチャージャー  
+|-
+
+|| [[Bo-451]] 
+|| Jumper ROM 
+||  
+|| ジャンパROM  
+|-
+
+|| [[Bo-452]] 
+|| Jumper Board 
+||  
+|| ジャンパボード 　 　 
+|-
+
+|| [[Bo-453]] 
+|| Black Megalo Growmon 
+||  
+|| ブラックメガログラウモン 　 　 
+|-
+
+|| [[Bo-454]] 
+|| Hawkmon  
+||  
+|| ホークモン  
+|-
+
+|| [[Bo-455]] 
+|| Armadimon 
+||  
+|| アルマジモン  
+|-
+
+|| [[Bo-456]] 
+|| Gomamon 
+||  
+|| ゴマモン   
+|-
+
+|| [[Bo-457]] 
+|| Gold V-dramon 
+||  
+|| ゴールドブイドラモン  
+|-
+
+|| [[Bo-458]] 
+|| Sand Yanmamon  
+||  
+|| サンドヤンマモン  
+|-
+
+|| [[Bo-459]] 
+|| Flare Lizamon  
+||  
+|| フレアリザモン  
+|-
+
+|| [[Bo-460]] 
+|| Nefertimon 
+||  
+|| ネフェルティモン 　 　 
+|-
+
+|| [[Bo-461]] 
+|| Maildramon 
+||  
+|| メイルドラモン 　 　 
+|-
+
+|| [[Bo-462]] 
+|| Lynxmon 
+||  
+|| ランクスモン   
+|-
+
+|| [[Bo-463]] 
+|| Harpymon 
+||  
+|| ハーピモン 　 　 
+|-
+
+|| [[Bo-464]] 
+|| Mantaraymon 
+||  
+|| マンタレイモン  
+|-
+
+|| [[Bo-465]] 
+|| Boarmon 
+||  
+|| ボアモン  
+|-
+
+|| [[Bo-466]] 
+|| Shadramon 
+||  
+|| シェイドラモン  
+|-
+
+|| [[Bo-467]] 
+|| Bitmon 
+||  
+|| ビットモン  
+|-
+
+|| [[Bo-468]] 
+|| Setmon 
+||  
+|| セトモン  
+|-
+
+|| [[Bo-469]] 
+|| Holsmon 
+||  
+|| ホルスモン  
+|-
+
+|| [[Bo-470]] 
+|| Pteranomon 
+||  
+|| プテラノモン 　 　 
+|-
+
+|| [[Bo-471]] 
+|| Swanmon 
+||  
+|| スワンモン 　 　 
+|-
+
+|| [[Bo-472]] 
+|| Rapidmon 
+||  
+|| ラピッドモン   
+|-
+
+|| [[Bo-473]] 
+|| Aquilamon 
+||  
+|| アクィラモン 　 　 
+|-
+
+|| [[Bo-474]] 
+|| Ankylomon 
+||  
+|| アンキロモン  
+|-
+
+|| [[Bo-475]] 
+|| Atlur Kabuterimon 
+||  
+|| アトラーカブテリモン  
+|-
+
+|| [[Bo-476]] 
+|| Aero V-dramon 
+||  
+|| エアロブイドラモン  
+|-
+
+|| [[Bo-477]] 
+|| Shakkoumon  
+||  
+|| シャッコウモン  
+|-
+
+|| [[Bo-478]] 
+|| Vermillimon  
+||  
+|| ヴァーミリモン  
+|-
+
+|| [[Bo-479]] 
+|| Blue Meramon 
+||  
+|| ブルーメラモン  
+|-
+
+|| [[Bo-480]] 
+|| Deathmon  
+||  
+|| デスモン 　 　 
+|-
+
+|| [[Bo-481]] 
+|| Belial Vamdemon 
+||  
+|| ベリアルヴァンデモン 　 　 
+|-
+
+|| [[Bo-482]] 
+|| Plesiomon  
+||  
+|| プレシオモン   
+|-
+
+|| [[Bo-483]] 
+|| Marin Angemon 
+||  
+|| マリンエンジェモン 　 　 
+|-
+
+|| [[Bo-484]] 
+|| Pukumon  
+||  
+|| プクモン  
+|-
+
+|| [[Bo-485]] 
+|| Rosemon  
+||  
+|| ロゼモン  
+|-
+
+|| [[Bo-486]] 
+|| Gran Kuwagamon  
+||  
+|| グランクワガーモン  
+|-
+
+|| [[Bo-487]] 
+|| Skull Mammon  
+||  
+|| スカルマンモン  
+|-
+
+|| [[Bo-488]] 
+|| Zhuqiaomon 
+||  
+|| スーツェーモン
+|-
+
+|| [[Bo-489]] 
+|| Slot Return! 
+||   
+|| スロットリターン！  
+|-
+
+|| [[Bo-490]] 
+|| Shikō no konekushon! ! 
+|| Supreme Connection!!  
+|| 至高のコネクション！！ 　 　 
+|-
+
+|| [[Bo-491]] 
+|| Unmei no kirameki! ! 
+|| The Sparkle of Fate!! 
+|| 運命の煌めき！！ 　 　 
+|-
+
+|| [[Bo-492]] 
+|| Yokoshima-shin fu Nozomu! ! 
+|| The Wicked God's Advent!!  
+|| 邪・神・降・臨！！   
+|-
+
+|| [[Bo-493]] 
+|| Tawā tōkai! ! 
+|| The Tower's Collapse!!  
+|| タワー倒壊！！ 　 　 
+|-
+
+|| [[Bo-494]] 
+|| Armor Texture!! 
+||   
+|| アーマーテクスチャー！！  
+|-
+
+|| [[Bo-495]] 
+|| デジメンタルブースト 
+|| Digimental Boost  
+||   
+|-
+
+|| [[Bo-496]] 
+||  
+|| Offense Plug-In K  
+|| 攻撃プラグインK  
+|-
+
+|| [[Bo-497]] 
+||  
+|| Defense Plug-In G  
+|| 防御プラグインG  
+|-
+
+|| [[Bo-498]] 
+||  
+|| High Speed Plug-In T  
+|| 高速プラグインT  
+|-
+
+|| [[Bo-499]] 
+|| Search Engine 
+||  
+|| サーチエンジン  
+|-
+
+|| [[Bo-500]] 
+|| Dukemon 
+||  
+|| デュークモン 　 　 
+|-
+
+|| [[Bo-501]] 
+|| Dark City 
+||   
+|| ダークシティ 　 　 
+|-
+
+|| [[Bo-502]] 
+|| Dukemon 
+||  
+|| デュークモン   
+|-
+
+|| [[Bo-503]] 
+|| Cyberdramon 
+||  
+|| サイバードラモン 　 　 
+|-
+
+|| [[Bo-504]] 
+|| Saint Galgomon 
+||  
+|| セントガルゴモン  
+|-
+
+|| [[Bo-505]] 
+|| Renamon  
+||  
+|| レナモン  
+|-
+
+|| [[Bo-506]] 
+|| Kyubimon  
+||  
+|| キュウビモン  
+|-
+
+|| [[Bo-507]] 
+|| Youkomon 
+||  
+|| ヨウコモン  
+|-
+
+|| [[Bo-508]] 
+|| Taomon  
+||  
+|| タオモン  
+|-
+
+|| [[Bo-509]] 
+|| Sakuyamon 
+||  
+|| サクヤモン    
+|-
+
+|| [[Bo-510]] 
+|| Guilmon 
+||  
+|| ギルモン 　 　 
+|-
+
+|| [[Bo-511]] 
+|| Growmon 
+||  
+|| グラウモン 　 　 
+|-
+
+|| [[Bo-512]] 
+|| Megalo Growmon 
+||  
+|| メガログラウモン   
+|-
+
+|| [[Bo-513]] 
+|| Impmon 
+||  
+|| インプモン 　 　 
+|-
+
+|| [[Bo-514]] 
+|| Shakomon  
+||  
+|| シャコモン  
+|-
+
+|| [[Bo-515]] 
+|| Otamamon  
+||  
+|| オタマモン  
+|-
+
+|| [[Bo-516]] 
+|| Moosemon 
+||  
+|| ムースモン  
+|-
+
+|| [[Bo-517]] 
+|| Sepikmon 
+||  
+|| セピックモン  
+|-
+
+|| [[Bo-518]] 
+|| Archelomon 
+||  
+|| アーケロモン  
+|-
+
+|| [[Bo-519]] 
+|| Orcamon 
+||  
+|| オルカモン  
+|-
+
+|| [[Bo-520]] 
+|| Submarimon 
+||  
+|| サブマリモン 　 　 
+|-
+
+|| [[Bo-521]] 
+|| Depthmon 
+||  
+|| デプスモン 　 　 
+|-
+
+|| [[Bo-522]] 
+|| Whamon  
+||  
+|| ホエーモン   
+|-
+
+|| [[Bo-523]] 
+|| Octomon 
+||  
+|| オクタモン 　 　 
+|-
+
+|| [[Bo-524]] 
+|| Ikkakumon 
+||  
+|| イッカクモン  
+|-
+
+|| [[Bo-525]] 
+|| Frogmon 
+||  
+|| フロッグモン  
+|-
+
+|| [[Bo-526]] 
+|| Silphymon  
+||  
+|| シルフィーモン  
+|-
+
+|| [[Bo-527]] 
+|| Karatenmon 
+||  
+|| カラテンモン  
+|-
+
+|| [[Bo-528]] 
+|| Scorpiomon 
+||  
+|| スコピオモン  
+|-
+
+|| [[Bo-529]] 
+|| King Etemon  
+||  
+|| キングエテモン  
+|-
+
+|| [[Bo-530]] 
+|| Mihiramon 
+||  
+|| ミヒラモン 　 　 
+|-
+
+|| [[Bo-531]] 
+|| Etemon  
+||  
+|| エテモン 　 　 
+|-
+
+|| [[Bo-532]] 
+|| Andiramon 
+||  
+|| アンティラモン   
+|-
+
+|| [[Bo-533]] 
+|| Cerberumon 
+||  
+|| ケルベロモン 　 　 
+|-
+
+|| [[Bo-534]] 
+|| Anubimon 
+||  
+|| アヌビモン  
+|-
+
+|| [[Bo-535]] 
+|| Vikemon 
+||  
+|| ヴァイクモン  
+|-
+
+|| [[Bo-536]] 
+|| Qinglongmon 
+||  
+|| チンロンモン  
+|-
+
+|| [[Bo-537]] 
+|| Omegamon 
+||  
+|| オメガモン  
+|-
+
+|| [[Bo-538]] 
+|| Digimental Boost 
+||  
+|| デジメンタルブースト  
+|-
+
+|| [[Bo-539]] 
+|| Mukouka Puraguin P 
+|| No Effect Plug-In P 
+|| 無効化プラグインP  
+|-
+
+|| [[Bo-540]] 
+|| Kyouka Puraguin O 
+|| Strength Plug-In O  
+|| 強化プラグインO 　 　 
+|-
+
+|| [[Bo-541]] 
+|| Thor Hammer 
+||  
+|| トールハンマー 　 　 
+|-
+
+|| [[Bo-542]] 
+|| Battle Tomahawk 
+||  
+|| バトルトマホーク   
+|-
+
+|| [[Bo-543]] 
+|| Aero Wing 
+||  
+|| エアロウイング 　 　 
+|-
+
+|| [[Bo-544]] 
+|| Grapple Chip 
+||   
+|| グラップルチップ  
+|-
+
+|| [[Bo-545]] 
+|| Aegis 
+||  
+|| イージス  
+|-
+
+|| [[Bo-546]] 
+|| Matrix Conversion! 
+||   
+|| マトリクスコンバージョン！！  
+|-
+
+|| [[Bo-547]] 
+|| Slot Blast! 
+||   
+|| スロットブラスト  
+|-
+
+|| [[Bo-548]] 
+|| Overflow Virus 
+||   
+|| オーバー・フロー・ウィルス！！  
+|-
+
+|| [[Bo-549]] 
+|| Deep Savers  
+||  
+|| ディープセイバーズ  
+|-
+
+|| [[Bo-550]] 
+|| Chaos Dukemon 
+||  
+|| カオスデュークモン 　 　 
+|-
+
+|| [[Bo-551]] 
+|| Black Tailmon  
+||  
+|| ブラックテイルモン 　 　 
+|-
+
+|| [[Bo-552]] 
+|| V-dramon  
+||  
+|| ブイドラモン   
+|-
+
+|| [[Bo-553]] 
+|| Doumon 
+||  
+|| ドウモン 　 　 
+|-
+
+|| [[Bo-554]] 
+|| Tukaimon  
+||  
+|| ツカイモン  
+|-
+
+|| [[Bo-555]] 
+|| Dokunemon  
+||  
+|| ドクネモン  
+|-
+
+|| [[Bo-556]] 
+|| Psychemon  
+||  
+|| サイケモン  
+|-
+
+|| [[Bo-557]] 
+|| Zanbamon  
+||  
+|| ザンバモン  
+|-
+
+|| [[Bo-558]] 
+|| Kumbhiramon 
+||  
+|| クンビラモン
+|-
+
+|| [[Bo-559]] 
+|| Vajramon 
+||  
+|| ヴァジラモン  
+|-
+
+|| [[Bo-560]] 
+|| Mihiramon 
+||  
+|| ミヒラモン 　 　 
+|-
+
+|| [[Bo-561]] 
+|| Pandamon 
+||  
+|| パンダモン 　 　 
+|-
+
+|| [[Bo-562]] 
+|| Andiramon 
+||  
+|| アンティラモン   
+|-
+
+|| [[Bo-563]] 
+|| Majiramon 
+||  
+|| マジラモン 　 　 
+|-
+
+|| [[Bo-564]] 
+|| Sandiramon 
+||  
+|| サンティラモン  
+|-
+
+|| [[Bo-565]] 
+|| Kongoumon 
+||  
+|| コンゴウモン  
+|-
+
+|| [[Bo-566]] 
+|| Indramon 
+||  
+|| インダラモン  
+|-
+
+|| [[Bo-567]] 
+|| Pajramon 
+||  
+|| パジラモン  
+|-
+
+|| [[Bo-568]] 
+|| Makuramon 
+||  
+|| マクラモン  
+|-
+
+|| [[Bo-569]] 
+|| Sagittarimon 
+||  
+|| サジタリモン  
+|-
+
+|| [[Bo-570]] 
+|| Sinduramon 
+||  
+|| シンドゥーラモン 　 　 
+|-
+
+|| [[Bo-571]] 
+|| Caturamon 
+||  
+|| チャツラモン 　 　 
+|-
+
+|| [[Bo-572]] 
+|| Vikaralamon 
+||  
+|| ヴィカラーラモン   
+|-
+
+|| [[Bo-573]] 
+|| Pharaohmon  
+||  
+|| ファラオモン 　 　 
+|-
+
+|| [[Bo-574]] 
+|| Pipismon 
+||  
+|| ピピスモン  
+|-
+
+|| [[Bo-575]] 
+|| Fugamon  
+||  
+|| フーガモン  
+|-
+
+|| [[Bo-576]] 
+|| Sabirdramon  
+||  
+|| セーバードラモン  
+|-
+
+|| [[Bo-577]] 
+|| Gururumon  
+||  
+|| グルルモン  
+|-
+
+|| [[Bo-578]] 
+|| Griffomon  
+||  
+|| グリフォモン  
+|-
+
+|| [[Bo-579]] 
+|| Vegimon  
+||  
+|| ベジーモン  
+|-
+
+|| [[Bo-580]] 
+|| Mojyamon 
+||  
+|| モジャモン 　 　 
+|-
+
+|| [[Bo-581]] 
+|| Drimogemon  
+||  
+|| ドリモゲモン 　 　 
+|-
+
+|| [[Bo-582]] 
+|| Togemon  
+||  
+|| トゲモン   
+|-
+
+|| [[Bo-583]] 
+|| Hououmon  
+||  
+|| ホウオウモン 　 　 
+|-
+
+|| [[Bo-584]] 
+|| Babamon  
+||  
+|| ババモン  
+|-
+
+|| [[Bo-585]] 
+|| Gran Kuwagamon  
+||  
+|| グランクワガーモン  
+|-
+
+|| [[Bo-586]] 
+||  
+|| The Bone That Calls Death  
+|| 死を呼ぶ骨  
+|-
+
+|| [[Bo-587]] 
+||  
+|| Black Wings  
+|| 黒い羽  
+|-
+
+|| [[Bo-588]] 
+||  
+|| Rotten Meat  
+|| くさった肉
+|-
+
+|| [[Bo-589]] 
+|| Obelisk 
+||  
+|| オベリスク  
+|-
+
+|| [[Bo-590]] 
+|| Vajra 
+||  
+|| ヴァジュラ 　 　 
+|-
+
+|| [[Bo-591]] 
+|| Shishioumaru 
+|| Lion King Sword  
+|| 獅子王丸 　 　 
+|-
+
+|| [[Bo-592]] 
+|| Shujū no Chikai 
+|| The Pledge Between Master and Servant  
+|| 主従の誓い   
+|-
+
+|| [[Bo-593]] 
+|| Hokori o Kaketa Tatakai! 
+|| The Battle I Staked My Pride On!  
+|| 誇りをかけた戦い！ 　 　 
+|-
+
+|| [[Bo-594]] 
+|| Yami kara no Yobigoe  
+|| The Voice that Calls from the Darkness  
+|| ヤミからの呼び声  
+|-
+
+|| [[Bo-595]] 
+|| Tatakai no Nenki! 
+|| Battle Apprenticeship  
+|| 戦いの年季！  
+|-
+
+|| [[Bo-596]] 
+|| Berserk!! 
+||   
+|| バーサーク！！  
+|-
+
+|| [[Bo-597]] 
+|| Pyramid City 
+||   
+|| ピラミッドシティ  
+|-
+
+|| [[Bo-598]] 
+|| V-mon 
+||  
+|| ブイモン  
+|-
+
+|| [[Bo-599]] 
+|| Volcamon 
+||  
+|| ボルケーモン  
+|-
+
+|| [[Bo-600]] 
+|| Kyūkyoku Gattai Fejimon e no Yūgō! 
+|| Fuse into the Ultimate Digimon! 
+|| 究極合体デジモンへの融合！ 　 　 
+|-
+
+|| [[Bo-601]] 
+|| Fairu Shima, Kūchū Daisakusen! ! 
+|| A Decisive Battle in the Skies Over File Island!! 
+|| ファイル島、空中大決戦！！ 　 　 
+|-
+
+|| [[Bo-602]] 
+|| Atsuku Hageshiki Metaru no Arashi! ! 
+|| The Hot, Furious Metal Storm!! 
+|| 熱く激しきメタルの嵐！！   
+|-
+
+|| [[Bo-603]] 
+|| Chimitsuna Senjutsu! 
+|| Elaborate Tactics! 
+|| 緻密な戦術！ 　 　 
+|-
+
+|| [[Bo-604]] 
+|| Mirai e no Kanōsei! ! 
+|| Future Potential!! 
+|| 未来への可能性！！  
+|-
+
+|| [[Bo-605]] 
+|| Ryū no Chikara wo Tsugu Mono 
+|| The One Who Inherits the Power of Dragons  
+|| 竜の力を継ぐもの  
+|-
+
+|| [[Bo-606]] 
+|| Dukemon 
+||  
+|| デュークモン  
+|-
+
+|| [[Bo-607]] 
+|| Piyomon 
+||  
+|| ピヨモン  
+|-
+
+|| [[Bo-608]] 
+|| Palmon 
+||  
+|| パルモン  
+|-
+
+|| [[Bo-609]] 
+|| Keramon 
+||  
+|| ケラモン    
+|-
+
+|| [[Bo-610]] 
+|| Lucemon 
+||  
+|| ルーチェモン 　 　 
+|-
+
+|| [[Bo-611]] 
+|| Vikaralamon 
+||  
+|| ヴィカラーラモン 　 　 
+|-
+
+|| [[Bo-612]] 
+|| Makuramon 
+||  
+|| マクラモン   
+|-
+
+|| [[Bo-613]] 
+|| Megalo Growmon 
+||  
+|| メガログラウモン 　 　 
+|-
+
+|| [[Bo-614]] 
+|| Justimon 
+||  
+|| ジャスティモン  
+|-
+
+|| [[Bo-615]] 
+|| Angewomon 
+||  
+|| エンジェウーモン  
+|-
+
+|| [[Bo-616]] 
+|| Wizarmon 
+||  
+|| ウィザーモン  
+|-
+
+|| [[Bo-617]] 
+|| Leomon 
+||  
+|| レオモン  
+|-
+
+|| [[Bo-618]] 
+|| Grappleomon 
+||  
+|| グラップレオモン  
+|-
+
+|| [[Bo-619]] 
+|| Icemon  
+||  
+|| アイスモン  
+|-
+
+|| [[Bo-620]] 
+|| Insekimon  
+||  
+|| インセキモン 　 　 
+|-
+
+|| [[Bo-621]] 
+|| Lilimon  
+||  
+|| リリモン 　 　 
+|-
+
+|| [[Bo-622]] 
+|| Kyubimon  
+||  
+|| キュウビモン   
+|-
+
+|| [[Bo-623]] 
+|| Taomon  
+||  
+|| タオモン 　 　 
+|-
+
+|| [[Bo-624]] 
+|| Sakuyamon 
+||  
+|| サクヤモン  
+|-
+
+|| [[Bo-625]] 
+|| Galgomon 
+||  
+|| ガルゴモン  
+|-
+
+|| [[Bo-626]] 
+|| Gekomon  
+||  
+|| ゲコモン  
+|-
+
+|| [[Bo-627]] 
+|| Opossummon  
+||  
+|| オポッサモン  
+|-
+
+|| [[Bo-628]] 
+|| Depthmon  
+||  
+|| デプスモン  
+|-
+
+|| [[Bo-629]] 
+|| Centalmon  
+||  
+|| ケンタルモン  
+|-
+
+|| [[Bo-630]] 
+|| Turuiemon 
+||  
+|| トゥルイエモン 　 　 
+|-
+
+|| [[Bo-631]] 
+|| Shurimon  
+||  
+|| シュリモン 　 　 
+|-
+
+|| [[Bo-632]] 
+|| Karatsuki Numemon  
+||  
+|| カラツキヌメモン   
+|-
+
+|| [[Bo-633]] 
+|| Yukidarumon  
+||  
+|| ユキダルモン 　 　 
+|-
+
+|| [[Bo-634]] 
+|| Baihumon 
+||  
+|| バイフーモン  
+|-
+
+|| [[Bo-635]] 
+|| Xuanwumon 
+||  
+|| シェンウーモン  
+|-
+
+|| [[Bo-636]] 
+|| Zhuqiaomon 
+||  
+|| スーツェーモン  
+|-
+
+|| [[Bo-637]] 
+|| Ōkuwamon  
+||  
+|| オオクワモン  
+|-
+
+|| [[Bo-638]] 
+|| Skull Greymon  
+||  
+|| スカルグレイモン  
+|-
+
+|| [[Bo-639]] 
+|| Cerberumon 
+||  
+|| ケルベロモン  
+|-
+
+|| [[Bo-640]] 
+|| Beelzebumon 
+||  
+|| ベルゼブモン 　 　 
+|-
+
+|| [[Bo-641]] 
+|| Millenniumon 
+||  
+|| ミレニアモン 　 　 
+|-
+
+|| [[Bo-642]] 
+|| King Device 
+||  
+|| キング・デヴァイス   
+|-
+
+|| [[Bo-643]] 
+|| Grani 
+||  
+|| グラニ 　 　 
+|-
+
+|| [[Bo-644]] 
+|| Behemoth 
+||  
+|| ベヒーモス  
+|-
+
+|| [[Bo-645]] 
+|| Berenjena 
+||  
+|| ベレンヘーナ  
+|-
+
+|| [[Bo-646]] 
+|| Evolution Limiter 
+||  
+|| エボリューションリミッター  
+|-
+
+|| [[Bo-647]] 
+|| Yasashisa no Monshou 
+|| Crest of Kindness 
+|| 優しさの紋章  
+|-
+
+|| [[Bo-648]] 
+|| Suka no Noroi 
+|| Scu's Curse 
+|| スカの呪い  
+|-
+
+|| [[Bo-649]] 
+|| Field Cyclone 
+||  
+|| フィールドサイクロン  
+|-
+
+|| [[Bo-650]] 
+|| Core Break Shot!! 
+||  
+|| コア・ブレイク・ショット！！ 　 　 
+|-
+
+|| [[Bo-651]] 
+|| Slot Shade! 
+||  
+|| スロットシェイド！ 　 　 
+|-
+
+|| [[Bo-652]] 
+|| Junk City 
+||  
+|| ジャンクシティ   
+|-
+
+|| [[Bo-653]] 
+|| Infinity Tower 
+||  
+|| ムゲンタワー 　 　 
+|-
+
+|| [[Bo-654]] 
+|| Dukemon Crimson Mode  
+||  
+|| デュークモンクリムゾンモード  

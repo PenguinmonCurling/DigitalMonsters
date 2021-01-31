@@ -1,0 +1,7935 @@
+﻿==A==
+{{DlistJHeader}}
+{{DlistJ
+|n=Aegiochusmon
+|k=アイギオテュースモン
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Aegiochusmon: Blue
+|k=アイギオテュースモン ブルー
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Aegiochusmon: Dark
+|k=アイギオテュースモン ダーク
+|yr=2014
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Aegiochusmon: Green
+|k=アイギオテュースモン グリーン
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Aegiochusmon: Holy
+|k=アイギオテュースモン ホーリー
+|yr=2014
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Aegiomon
+|k=アイギオモン
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Aegisdramon
+|k=イージスドラモン
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Aero V-dramon
+|k=エアロブイドラモン
+|yr=1999
+|d=[[Pendulum 4.0|Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Agnimon
+|k=アグニモン
+|yr=2002
+|d=[[Bo-655]] ([[Booster 14]])
+}}
+{{DlistJ
+|n=Agumon
+|k=アグモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Agumon X-Antibody
+|k=アグモンX抗体
+|yr=2003
+|d=[[Sx-6]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Agumon (2006 Anime Version)
+|k=アグモン（２００６アニメ版）
+|yr=2005
+|d=[[Battle 01|Digimon Next: "Welcome to the Digimon Net Game!!"]]
+}}
+{{DlistJ
+|n=Agumon (Black)
+|k=アグモン（黒）
+|yr=2000
+|d=[[St-136]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Agumon (Black) (2006 Anime Version)
+|k=アグモン（黒）（２００６アニメ版）
+|yr=2006
+|d=[[Digimon Savers: Another Mission]] or [[DM-120]] ([[Battle Terminal Ver. 5]])
+}}
+{{DlistJ
+|n=Agumon: Burst Mode
+|k=アグモン バーストモード
+|yr=2007
+|d=[[Digimon Savers - Episode 48|Digimon Savers: "The Perfect Ending! Farewell, Leader of Fights"]]
+}}
+{{DlistJ
+|n=Agumon Hakase
+|k=アグモン博士
+|yr=2006
+|d=[[Digivice iC 20X]]
+}}
+{{DlistJ
+|n=Aircraft Carrier Whamon
+|k=空母ホエーモン
+|yr=2011
+|d=[[Digimon_Xros_Wars_-_Chapter_16|Digimon Xros Wars: "Xros Wars!! Prelude to the End!!"]]
+}}
+{{DlistJ
+|n=Airdramon
+|k=エアドラモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Akatorimon
+|k=アカトリモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Aldamon
+|k=アルダモン
+|yr=2002
+|d=[[Bo-800]] ([[Booster 16]])
+}}
+{{DlistJ
+|n=Algomon
+|k=アルゴモン
+|yr=2006
+|d=[[Digimon Savers The Movie: Ultimate Power! Activate Burst Mode!!]]
+}}
+{{DlistJ
+|n=Algomon Ultimate
+|k=アルゴモン究極体
+|yr=2006
+|d=[[DigiWindow]] ({{url|http://web.archive.org/web/20141007204612/http://www.digitalmonsters.net/DVR/digiviceIC/dw_index.html|Digimon Pocket Wars}})
+}}
+{{DlistJ
+|n=Allomon
+|k=アロモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Allomon X-Antibody
+|k=アロモンX抗体
+|yr=2003
+|d=[[Bx-41]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Alphamon
+|k=アルファモン
+|yr=2003
+|d=[[Pendulum X 1.0]]
+}}
+{{DlistJ
+|n=Alphamon: Ouryuken
+|k=アルファモン王竜剣
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJ
+|n=Alraumon
+|k=アルラウモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Amon
+|k=アモン
+|yr=2001
+|d=[[St-516]] ([[Ultimate Battle Deck 3]])
+}}
+{{DlistJ
+|n=Ancient Beatmon
+|k=エンシェントビートモン
+|yr=2002
+|d=[[St-697]] ([[Expansion Kit S]])
+}}
+{{DlistJ
+|n=Ancient Garurumon
+|k=エンシェントガルルモン
+|yr=2002
+|d=[[Bo-692]] ([[Booster 14]])
+}}
+{{DlistJ
+|n=Ancient Greymon
+|k=エンシェントグレイモン
+|yr=2002
+|d=[[Bo-691]] ([[Booster 14]])
+}}
+{{DlistJ
+|n=Ancient Irismon
+|k=エンシェントイリスモン
+|yr=2002
+|d=[[D-Scanner 1.0]]
+}}
+{{DlistJ
+|n=Ancient Megatheriumon
+|k=エンシェントメガテリウモン
+|yr=2002
+|d=[[D-Scanner 1.0]]
+}}
+{{DlistJ
+|n=Ancient Mermaimon
+|k=エンシェントマーメイモン
+|yr=2002
+|d=[[D-Scanner 2.0]]
+}}
+{{DlistJ
+|n=Ancient Sphinxmon
+|k=エンシェントスフィンクモン
+|yr=2002
+|d=[[D-Scanner 2.0]]
+}}
+{{DlistJ
+|n=Ancient Troiamon
+|k=エンシェントトロイアモン
+|yr=2002
+|d=[[D-Scanner 1.0]]
+}}
+{{DlistJ
+|n=Ancient Volcamon
+|k=エンシェントボルケーモン
+|yr=2002
+|d=[[D-Scanner 1.0]]
+}}
+{{DlistJ
+|n=Ancient Wisemon
+|k=エンシェントワイズモン
+|yr=2002
+|d=[[D-Scanner 2.0]]
+}}
+{{DlistJ
+|n=Andiramon
+|k=アンティラモン
+|yr=2000
+|d=[[Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals]]
+}}
+{{DlistJ
+|n=Andiramon (Deva)
+|k=アンティラモン（デーヴァ）
+|yr=2001
+|d=[[Bo-562]] ([[Booster 12]]}
+}}
+{{DlistJ
+|n=Andromon
+|k=アンドロモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Angemon
+|k=エンジェモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Angewomon
+|k=エンジェウーモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Ankylomon
+|k=アンキロモン
+|yr=2000
+|d=[[Bo-280]] ([[Booster 6]])
+}}
+{{DlistJ
+|n=Anomalocarimon
+|k=アノマロカリモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Anomalocarimon X-Antibody
+|k=アノマロカリモンX抗体
+|yr=2003
+|d=[[Bx-62]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Anubimon
+|k=アヌビモン
+|yr=2001
+|d=[[Bo-534]] ([[Booster 11]]) or [[D-Ark Version 2.0]]
+}}
+{{DlistJ
+|n=Apocalymon
+|k=アポカリモン
+|yr=2000
+|d=[[Bo-163]] ([[Booster 4]])
+}}
+{{DlistJ
+|n=Apollomon
+|k=アポロモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Apollomon Darkness Mode
+|k=アポロモンダークネスモード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 47|Digimon Xros Wars: "Taiki VS Yuu, The Confrontation of the Boy Generals!!"]]
+}}
+{{DlistJ
+|n=Apollomon Whispered
+|k=アポロモン・ウィスパード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 45|Digimon Xros Wars: "The Final Kingdom, The Shining Sun's Bright Land"]]
+}}
+{{DlistJ
+|n=Aquilamon
+|k=アクィラモン
+|yr=2000
+|d=[[Bo-281]] ([[Booster 6]])
+}}
+{{DlistJ
+|n=Arbormon
+|k=アルボルモン
+|yr=2002
+|d=[[St-657]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Archelomon
+|k=アーケロモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Archnemon
+|k=アルケニモン
+|yr=2000
+|d=[[D-3 Version 1 (V-mon Version)]]
+}}
+{{DlistJ
+|n=Arkadimon Baby
+|k=アルカディモン幼年期
+|yr=2000
+|d=[[V-24|Digimon Adventure V-Tamer 01: "Stranger"]]
+}}
+{{DlistJ
+|n=Arkadimon Child
+|k=アルカディモン成長期
+|yr=2001
+|d=[[V-27|Digimon Adventure V-Tamer 01: "Neo's Charge!!!"]]
+}}
+{{DlistJ
+|n=Arkadimon Adult
+|k=アルカディモン成熟期
+|yr=2001
+|d=[[V-30|Digimon Adventure V-Tamer 01: "Holy War"]]
+}}
+{{DlistJ
+|n=Arkadimon Perfect
+|k=アルカディモン完全体
+|yr=2001
+|d=[[V-31|Digimon Adventure V-Tamer 01: "The Legendary Power, Digimental"]]
+}}
+{{DlistJ
+|n=Arkadimon Ultimate
+|k=アルカディモン究極体
+|yr=2001
+|d=[[V-38|Digimon Adventure V-Tamer 01: "Earthquake! Demon Castle!!"]]
+}}
+{{DlistJ
+|n=Arkadimon Super Ultimate
+|k=アルカディモン超究極体
+|yr=2003
+|d=[[Bo-27v]] ([[Expansion Board - Digimon Adventure V-Tamer 01 SP]])
+}}
+{{DlistJ
+|n=Armadimon
+|k=アルマジモン
+|yr=2000
+|d=[[Digimon Adventure 02 - Episode 02|Digimon Adventure 02: "Digital Gate Open"]] or [[St-117]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Armagemon
+|k=アーマゲモン
+|yr=2001
+|d=[[Digimon Adventure 02: Diablomon Strikes Back]]
+}}
+{{DlistJ
+|n=Armamon
+|k=アルマモン
+|yr=2011
+|d=[[Digimon Story: Super Xros Wars Blue]] & [[Digimon Story: Super Xros Wars Red|Red]]
+}}
+{{DlistJ
+|n=Arresterdramon
+|k=アレスタードラモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 55|Digimon Xros Wars: "Us, the Digimon Hunters!"]]
+}}
+{{DlistJ
+|n=Arresterdramon Superior Mode
+|k=アレスタードラモンスペリオルモード
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 76|Digimon Xros Wars: "Golden Insect! The Mystery of Metallife Kuwagamon"]]
+}}
+{{DlistJ
+|n=Assaultmon
+|k=アサルトモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Astamon
+|k=アスタモン
+|yr=2004
+|d=[[Bo-1145]] ([[Booster 24]])
+}}
+{{DlistJ
+|n=Asuramon
+|k=アシュラモン
+|yr=1999
+|d=[[Digital Monster Ver. WonderSwan]]
+}}
+{{DlistJ
+|n=Atamadekachimon
+|k=アタマデカチモン
+|yr=2006
+|d=[[DigiWindow]] ({{url|http://web.archive.org/web/20141007204612/http://www.digitalmonsters.net/DVR/digiviceIC/dw_index.html|Digimon Pocket Wars}})
+}}
+{{DlistJ
+|n=Atlur Ballistamon
+|k=アトラーバリスタモン
+|yr=2011
+|d=[[Digimon Xros Wars - Chapter 17|Digimon Xros Wars: "Xros Warrior!! The Released Demon!!"]]
+}}
+{{DlistJ
+|n=Atlur Kabuterimon (Blue)
+|k=アトラーカブテリモン（青）
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Atlur Kabuterimon (Red)
+|k=アトラーカブテリモン（赤）
+|yr=1999
+|d=[[Digivice Version 1]]
+}}
+{{DlistJ
+|n=Avenge Kidmon
+|k=アヴェンジキッドモン
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==B==
+{{DlistJHeader}}
+{{DlistJ
+|n=Baalmon
+|k=バアルモン
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 01|Digimon Xros Wars: "Taiki, Go to Another World!"]]
+}}
+{{DlistJ
+|n=Babamon
+|k=ババモン
+|yr=1999
+|d=[[Bo-146]] ([[Booster 3]])
+}}
+{{DlistJ
+|n=Babydmon
+|k=ベビドモン
+|yr=2007
+|d=[[Greatest_of_Digimon|Digimon 10th Anniversary Event]]
+}}
+{{DlistJ
+|n=Bacchusmon
+|k=バッカスモン
+|yr=2013
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Bagramon
+|k=バグラモン
+|yr=2010
+|d=[[Digimon Xros Loader (Toy)|Digimon Xros Loader]]
+}}
+{{DlistJ
+|n=Baihumon
+|k=バイフーモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Bakemon
+|k=バケモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Bacomon
+|k=バコモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 54|Digimon Xros Wars: "Glorious DigiXros, Seize it! Our Future!!"]]'s {{url|i.imgur.com/4yAOdWy.png|Eyecatch}}
+}}
+{{DlistJ
+|n=Bakumon
+|k=バクモン
+|yr=1999
+|d=[[Pendulum 3.0|Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Balli Bastemon
+|k=バリバステモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 23|Digimon Xros Wars: "Shinobi Zone, The Comical Ninja Battle!"]]
+}}
+{{DlistJ
+|n=Ballistamon
+|k=バリスタモン
+|yr=2010
+|d=[[Digimon Reference Book]] ([[Digimon Web]])
+}}
+{{DlistJ
+|n=Ballistamon MC
+|k=バリスタモンＭＣ
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 03|Digimon Xros Wars: "Xros Girls!! The Mysterious Beauty, Nene!!"]]
+}}
+{{DlistJ
+|n=Ballistamon SR
+|k=バリスタモンＳＲ
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 05|Digimon Xros Wars: "Xros Pride!! A Warrior's Pride!!"]]
+}}
+{{DlistJ
+|n=Bancho Golemon
+|k=バンチョーゴーレモン
+|yr=2014
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Bancho Leomon
+|k=バンチョーレオモン
+|yr=2005
+|d=[[Bo-1175]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Justice Genome]]
+}}
+{{DlistJ
+|n=Bancho Leomon: Burst Mode
+|k=バンチョーレオモン バーストモード
+|yr=2007
+|d=[[Digimon Savers - Episode 46|Digimon Savers: "Shock! The Truth about Bancho Leomon"]]
+}}
+{{DlistJ
+|n=Bancho Lilimon
+|k=バンチョーリリモン
+|yr=2014
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Bancho Mamemon
+|k=バンチョーマメモン
+|yr=2014
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Bancho Stingmon
+|k=バンチョースティングモン
+|yr=2014
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Bao Hackmon
+|k=バオハックモン
+|yr=2014
+|d=[[Re-21]] ([[Premium Select File Vol.2]])
+}}
+{{DlistJ
+|n=Barbamon
+|k=バルバモン
+|yr=2003
+|d=[[Bo-1068]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Baromon
+|k=バロモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Bastemon
+|k=バステモン
+|yr=2002
+|d=[[St-628]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Batterymon
+|k=バッテリモン
+|yr=2010
+|d=[[Digimon Xros Loader Toy|Digimon Xros Loader]]
+}}
+{{DlistJ
+|n=Battle Armament Trailmon
+|k=戦闘武装トレイルモン
+|yr=2006
+|d=[[Battle 12|Digimon Next: "The City of Light, Light City!"]]
+}}
+{{DlistJ
+|n=Bearmon
+|k=ベアモン
+|yr=2002
+|d=[[Digimon World 3]] or [[Bo-704]] ([[Booster 15]])
+}}
+{{DlistJ
+|n=Beelzebumon
+|k=ベルゼブモン
+|yr=2001
+|d=[[D-Ark Version 2.0]]
+}}
+{{DlistJ
+|n=Beelzebumon Blast Mode
+|k=ベルゼブモンブラストモード
+|yr=2001
+|d=[[D-Ark Ultimate]]
+}}
+{{DlistJ
+|n=Beelzebumon X-Antibody
+|k=ベルゼブモンX抗体
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=Beelzebumon (2010 Anime Version)
+|k=ベルゼブモン
+|yr=2010
+|d=[[D2-18]] ([[Super Digica Taisen Set 2]])
+}}
+{{DlistJ
+|n=Beelzebumon + Revolmon
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 26|Digimon Xros Wars: "Shoutmon, Proof of a King!"]]
+}}
+{{DlistJ
+|n=Beelzebumon + Starmons
+|k=N/A
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 19|Digimon Xros Wars: "Legendary Deckerdramon, Stir!"]]
+}}
+{{DlistJ
+|n=Belial Vamdemon
+|k=ベリアルヴァンデモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Belle Starrmon
+|k=ベルスターモン
+|yr=2013
+|d=[[Digimon 15th Anniversary Box]]
+}}
+{{DlistJ
+|n=Belphemon Rage Mode
+|k=ベルフェモンレイジモード
+|yr=2004
+|d=[[Bo-1146]] ([[Booster 24]])
+}}
+{{DlistJ
+|n=Belphemon Sleep Mode
+|k=ベルフェモンスリープモード
+|yr=2004
+|d=[[Bo-1s]]
+}}
+{{DlistJ
+|n=Bemmon
+|k=ベムモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Beowolfmon
+|k=ベオウルフモン
+|yr=2002
+|d=[[St-777]] ([[Starter Ver. 8]])
+}}
+{{DlistJ
+|n=Betamon
+|k=ベタモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Betamon X-Antibody
+|k=ベタモンX抗体
+|yr=2003
+|d=[[Sx-20]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Betsumon
+|k=ベツモン
+|yr=2002
+|d=[[Vj-17]] ([[V-Jump Promo]])
+}}
+{{DlistJ
+|n=Big Mamemon
+|k=ビッグマメモン
+|yr=1999
+|d={{url|http://web.archive.org/web/20040815162813/http://www.digimon.channel.or.jp/town/workshop/winner.html|First Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Bio Coatlmon
+|k=バイオクアトルモン
+|yr=2006
+|d=[[Digimon Savers - Episode 26|Digimon Savers: "Masaru's Memory is Erased, The Lost Bond"]]
+}}
+{{DlistJ
+|n=Bio Darkdramon
+|k=バイオダークドラモン
+|yr=2006
+|d=[[Digimon Savers - Episode 33|Digimon Savers: "Final Decisive Battle! Kouki, Ultimate Evolution" "]]
+}}
+{{DlistJ
+|n=Bio Lotusmon
+|k=バイオロトスモン
+|yr=2006
+|d=[[Digimon Savers - Episode 31|Digimon Savers: "Genius Showdown! Thoma VS Nanami"]]
+}}
+{{DlistJ
+|n=Bio Spinomon
+|k=バイオスピノモン
+|yr=2006
+|d=[[Digimon Savers - Episode 32|Digimon Savers: "The Fierce Attack of Kurata's Army Corps, Protect the Holy Capital"]]
+}}
+{{DlistJ
+|n=Bio Stegomon
+|k=バイオステゴモン
+|yr=2006
+|d=[[Digimon Savers - Episode 26|Digimon Savers: "Masaru's Memory is Erased, The Lost Bond"]]
+}}
+{{DlistJ
+|n=Bio Thunderbirmon
+|k=バイオサンダーバーモン
+|yr=2006
+|d=[[Digimon Savers - Episode 26|Digimon Savers: "Masaru's Memory is Erased, The Lost Bond"]]
+}}
+{{DlistJ
+|n=Birdramon
+|k=バードラモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Bishop Chessmon (Black)
+|k=ビショップチェスモン（黒）
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 52|Digimon Xros Wars: "Bagra Brothers, The Bond of Darkness!"]]
+}}
+{{DlistJ
+|n=Bishop Chessmon (White)
+|k=ビショップチェスモン（白）
+|yr=2006
+|d=[[DigiWindow]]
+}}
+{{DlistJ
+|n=Bitmon
+|k=ビットモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Black Galgomon
+|k=ブラックガルゴモン
+|yr=2001
+|d=[[St-567]] ([[Ultimate Battle Deck 3]])
+}}
+{{DlistJ
+|n=Black Gaogamon
+|k=ブラックガオガモン
+|yr=2006
+|d=[[Battle 13|Digimon Next: "The Other Overseer!"]]
+}}
+{{DlistJ
+|n=Black Growmon
+|k=ブラックグラウモン
+|yr=2001
+|d=[[St-326]] ([[Starter Ver. 5]])
+}}
+{{DlistJ
+|n=Black Guardian
+|k=黒の守護者 
+|yr=2000
+|d=[[Digimon World 2]]
+}}
+{{DlistJ
+|n=Black Guilmon
+|k=ブラックギルモン
+|yr=2004
+|d=[[Digimon Battle Chronicle]]
+}}
+{{DlistJ
+|n=Black King Numemon
+|k=ブラックキングヌメモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Black Mach Gaogamon
+|k=ブラックマッハガオガモン
+|yr=2011
+|d=[[2-012]] ([[Digimon Jintrix Set 2]])
+}}
+{{DlistJ
+|n=Black Megalo Growmon
+|k=ブラックメガログラウモン
+|yr=2001
+|d=[[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Black Rapidmon
+|k=ブラックラピッドモン
+|yr=2001
+|d=[[St-573]] ([[Ultimate Battle Deck 3]])
+}}
+{{DlistJ
+|n=Black Saint Galgomon
+|k=ブラックセントガルゴモン
+|yr=2001
+|d=[[St-562]] ([[Ultimate Battle Deck 3]])
+}}
+{{DlistJ
+|n=Black Seraphimon
+|k=ブラックセラフィモン
+|yr=2002
+|d=[[Digimon Frontier - Episode 28|Digimon Frontier: "Takuya's Fusion Evolution, Aldamon's Explosive Attack!"]]
+}}
+{{DlistJ
+|n=Black Seraphimon (DW3)
+|k=ブラックセラフィモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Black Shoutmon X7
+|k=ブラックシャウトモンＸ７
+|yr=2011
+|d={{url|www.carddass.com/digimon/game/exshoutmon.html Super Digica Taisen: "The Seventh Act EX Challenge: BlackShoutmon X7"}}
+}}
+{{DlistJ
+|n=Black Tailmon
+|k=ブラックテイルモン
+|yr=2002
+|d=[[St-176]] ([[Starter Ver. 4]])
+}}
+{{DlistJ
+|n=Black War Greymon
+|k=ブラックウォーグレイモン
+|yr=2000
+|d=[[Ta-2]] ([[Theater Promo]])
+}}
+{{DlistJ
+|n=Black War Greymon X-Antibody
+|k=ブラックウォーグレイモンX抗体
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=Blade Kuwagamon
+|k=ブレイドクワガーモン
+|yr=2005
+|d=[[Bo-1165]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Justice Genome]]
+}}
+{{DlistJ
+|n=Blastmon
+|k=ブラストモン
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 01|Digimon Xros Wars: "Taiki, Go to Another World!"]]
+}}
+{{DlistJ
+|n=Blikmon
+|k=ブリキモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Blimpmon
+|k=ブリンプモン
+|yr=2002
+|d=[[St-631]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Blitz Greymon
+|k=ブリッツグレイモン
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Blitzmon
+|k=ブリッツモン
+|yr=2002
+|d=[[St-620]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Blizzarmon
+|k=ブリザーモン
+|yr=2002
+|d=[[Bo-717]] ([[Booster 15]])
+}}
+{{DlistJ
+|n=Blossomon
+|k=ブロッサモン
+|yr=1999
+|d=[[Pendulum 4.0|Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Blue Guardian
+|k=青の守護者
+|yr=2000
+|d=[[Digimon World 2]]
+}}
+{{DlistJ
+|n=Blue Meramon
+|k=ブルーメラモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Boarmon
+|k=ボアモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Bokomon
+|k=ボコモン
+|yr=2002
+|d=[[Digimon Frontier - Episode 01|Digimon Frontier: "The Legendary Warrior! Agnimon of Fire"]]
+}}
+{{DlistJ
+|n=Bolgmon
+|k=ボルグモン
+|yr=2002
+|d=[[Bo-707]] ([[Booster 15]])
+}}
+{{DlistJ
+|n=Boltboutamon
+|k=ボルトバウタモン
+|yr=2017
+|d=[[Digimon World -next 0rder- International Edition‎‎]]
+}}
+{{DlistJ
+|n=Boltmon
+|k=ボルトモン
+|yr=1999
+|d=[[Pendulum 3.0|Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Bomber Nanimon
+|k=ボンバーナニモン
+|yr=2000
+|d=[[Digimon World: Digital Card Arena]]
+}}
+{{DlistJ
+|n=Bombmon
+|k=ボムモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Bommon
+|k=ボムモン
+|yr=2005
+|d=[[Digimon Accel Evil Genome]]
+}}
+{{DlistJ
+|n=Boogeymon
+|k=ブギーモン
+|yr=2002
+|d=[[St-666]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Botamon
+|k=ボタモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Brachimon
+|k=ブラキモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Breakdramon
+|k=ブレイクドラモン
+|yr=2007
+|d=[[DM02-099]] ([[Battle Terminal 02 Set 3]])
+}}
+{{DlistJ
+|n=Bubbmon
+|k=バブモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Budmon
+|k=バドモン
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=Bullmon
+|k=ブルモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Bun
+|k=ブン
+|yr=1997
+|d=[[C'mon Digimon]]
+}}
+{{DlistJ
+|n=Buraimon
+|k=ブライモン
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Burgamon
+|k=バーガモン
+|yr=2002
+|d=[[Bo-25L]] ([[Lotteria|Lotteria Booster]])
+}}
+{{DlistJ
+|n=Burgamon Adult
+|k=バーガモン成熟期
+|yr=2002
+|d=[[Bo-26L]] ([[Lotteria|Lotteria Booster]])
+}}
+{{DlistJ
+|n=Burpmon
+|k=ばーぷモン
+|yr=2007
+|d=[[Digimon Twin]]
+}}
+{{DlistJ
+|n=Bushi Agumon
+|k=ブシアグモン
+|yr=2006
+|d=[[DigiWindow]] ({{url|http://web.archive.org/web/20141007204612/http://www.digitalmonsters.net/DVR/digiviceIC/dw_index.html|Digimon Pocket Wars}})
+}}
+{{DlistJ
+|n=Butenmon
+|k=ブテンモン
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Butterflamon
+|k=バタフラモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Būmon
+|k=ブーモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==C==
+
+{{DlistJHeader}}
+
+{{DlistJ
+|n=Calamaramon
+|k=カルマーラモン
+|yr=2002
+|d=[[Bo-735]] ([[Booster 15]])
+}}
+{{DlistJ
+|n=Callismon
+|k=カリスモン
+|yr=2002
+|d=[[V-43|Digimon Adventure V-Tamer 01: "Hope On"]]
+}}
+{{DlistJ
+|n=Callmon
+|k=コールモン
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Cameramon
+|k=キャメラモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Candmon
+|k=キャンドモン
+|yr=1999
+|d=[[Pendulum 3.0|Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Cannonbeemon
+|k=キャノンビーモン
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJ
+|n=Cannonbeemon (Aircraft Carrier)
+|k=キャノンビーモン （空母型）
+|yr=2007
+|d=[[Battle 18|Digimon Next: "Break Through the Firewall!"]]
+}}
+{{DlistJ
+|n=Cannondramon
+|k=キャノンドラモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Caprimon
+|k=カプリモン
+|yr=1999
+|d=[[Pendulum 5.0|Pendulum 5.0 Metal Empire]]
+}}
+{{DlistJ
+|n=Captain Hookmon
+|k=キャプテンフックモン
+|yr=2011
+|d=[[4-064]] ([[Digimon Jintrix Set 4]])
+}}
+{{DlistJ
+|n=Cardmon C1
+|k=カードモンC1
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Cardmon C2
+|k=カードモンC2
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Cardmon R1
+|k=カードモンR1
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Cardmon R2
+|k=カードモンR2
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Cardmon S1
+|k=カードモンS1
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Cardmon S2
+|k=カードモンS2
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Cardmon U1
+|k=カードモンU1
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Cardmon U2
+|k=カードモンU2
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Catch Mamemon
+|k=キャッチマメモン
+|yr=2007
+|d=[[List_of_Digimon_Design_Contests#Original Digimon Design Contest|Original Digimon Design Contest]]
+}}
+{{DlistJ
+|n=Caturamon
+|k=チャツラモン
+|yr=2001
+|d=[[Digimon Tamers - Episode 27|Digimon Tamers: "Impmon Evolves! The Shudder of Beelzebumon the Dark Lord"]] or [[Bo-571]] ([[Booster 12]])
+}}
+{{DlistJ
+|n=Centalmon
+|k=ケンタルモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Cerberumon
+|k=ケルベロモン
+|yr=2001
+|d=[[Bo-533]] ([[Booster 11]]) or [[D-Ark Version 2.0]]
+}}
+{{DlistJ
+|n=Cerberumon X-Antibody
+|k=ケルベロモンX抗体
+|yr=2003
+|d=[[Sx-23]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Cerberumon Jinrou Mode
+|k=ケルベロモン ジンロウモード
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Ceresmon
+|k=ケレスモン
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Ceresmon Medium
+|k=ケレスモン メディウム
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Chakkumon
+|k=チャックモン
+|yr=2002
+|d=[[Digimon Frontier - Episode 03|Digimon Frontier: "Bullying is Unforgivable! Evolve, Chakkumon of Ice"]] or [[St-623]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Chamelemon
+|k=カメレモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Chaos Dukemon
+|k=カオスデュークモン
+|yr=2001
+|d=[[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Chaos Dukemon Core
+|k=カオスデュークモン コア
+|yr=2007
+|d=[[Digimon Story: Sunburst]]
+}}
+{{DlistJ
+|n=Chaos Greymon
+|k=カオスグレイモン
+|yr=2000
+|d=[[Digimon World 2]]
+}}
+{{DlistJ
+|n=Chaos Grimmon
+|k=カオスグリムモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Chaos Lord
+|k=カオスロード
+|yr=2000
+|d=[[Digimon World 2]]
+}}
+{{DlistJ
+|n=Chaos Piemon
+|k=カオスピエモン
+|yr=2000
+|d=[[Digimon World 2]]
+}}
+{{DlistJ
+|n=Chaos Seadramon
+|k=カオスシードラモン
+|yr=2000
+|d=[[Digimon World 2]]
+}}
+{{DlistJ
+|n=Chaosdramon
+|k=カオスドラモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Chaosdramon X-Antibody
+|k=カオスドラモンX抗体
+|yr=2004
+|d=[[Bx-119]] ([[Booster 23]])
+}}
+{{DlistJ
+|n=Chaosmon
+|k=カオスモン
+|yr=2005
+|d=[[Digimon Accel Justice Genome]] & [[Digimon Accel Evil Genome|Evil Genome]]
+}}
+{{DlistJ
+|n=Chaosmon: Valdur Arm
+|k=カオスモン：ヴァロドゥルアーム
+|yr=2010
+|d={{url|oi56.tinypic.com/281hgs5.jpg|Digimon Xros Wars - Xros Navigator}}
+}}
+{{DlistJ
+|n=Chapmon
+|k=チャップモン
+|yr=2006
+|d=[[Digivice iC 20X]]
+}}
+{{DlistJ
+|n=Cheer Galmon
+|k=チアガールモン
+|yr=2001
+|d=[[Digimon Adventure 02: Armor Evolution to the Unknown]]
+}}
+{{DlistJ
+|n=Cherubimon (Vice)
+|k=ケルビモン（悪）
+|yr=2000
+|d=[[Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals]]
+}}
+{{DlistJ
+|n=Cherubimon (Virtue)
+|k=ケルビモン（善）
+|yr=2000
+|d=[[Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals]]
+}}
+{{DlistJ
+|n=Chibick Sword
+|k=チビックソード
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 05|Digimon Xros Wars: "Xros Pride!! A Warrior's Pride!!"]]
+}}
+{{DlistJ
+|n=Chibickmon
+|k=チビックモン
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 05|Digimon Xros Wars: "DigiMemory, Shine"]]
+}}
+{{DlistJ
+|n=Chibimon
+|k=チビモン
+|yr=2000
+|d=[[Digimon Adventure 02 - Episode 02|Digimon Adventure 02: "Digital Gate Open"]]
+}}
+{{DlistJ
+|n=Chicchimon
+|k=チッチモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Chicomon
+|k=チコモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Chikurimon
+|k=チクリモン
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 01|Digimon Xros Wars: "Xrosroad!! The Boys' Paths Cross"]]
+}}
+{{DlistJ
+|n=Chimairamon
+|k=キメラモン
+|yr=1999
+|d=[[Digital Monster Ver. WonderSwan]]
+}}
+{{DlistJ
+|n=Cho·Hakkaimon
+|k=チョ・ハッカイモン
+|yr=2011
+|d=[[3-011]] ([[Digimon Jintrix Set 3]])
+}}
+{{DlistJ
+|n=Chocomon
+|k=チョコモン
+|yr=2000
+|d=[[Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals]]
+}}
+{{DlistJ
+|n=Choromon
+|k=チョロモン
+|yr=1999
+|d=[[Pendulum 5.0|Pendulum 5.0 Metal Empire]]
+}}
+{{DlistJ
+|n=Chronomon Destroy Mode
+|k=クロノモン デストロイモード
+|yr=2006
+|d=[[Digimon Story]]
+}}
+{{DlistJ
+|n=Chronomon Holy Mode
+|k=クロノモン ホーリーモード
+|yr=2006
+|d=[[Digimon Story]]
+}}
+{{DlistJ
+|n=Chrysalimon
+|k=クリサリモン
+|yr=2000
+|d=[[Bo-199]] ([[Booster 4]])
+}}
+{{DlistJ
+|n=Citramon
+|k=
+|yr=2007
+|d=[[Digimon Savers - Episode 07|Digimon Data Squad: "A Birthday Kristy Will Never Forget!"]]
+}}
+{{DlistJ
+|n=Clavis Angemon
+|k=クラヴィスエンジェモン
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=Clear Agumon
+|k=クリアアグモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Clockmon
+|k=クロックモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Coatlmon
+|k=クアトルモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Cockatrimon
+|k=コカトリモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Cocomon
+|k=ココモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Coelamon
+|k=シーラモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Commandramon
+|k=コマンドラモン
+|yr=2005
+|d=[[Bo-1168]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Evil Genome]]
+}}
+{{DlistJ
+|n=Coredramon (Blue)
+|k=コアドラモン（青）
+|yr=2007
+|d=[[DM02-039]] ([[Battle Terminal 02 Set 1]])
+}}
+{{DlistJ
+|n=Coredramon (Green)
+|k=コアドラモン（緑）
+|yr=2007
+|d=[[Dα-434]] ([[Alpha Evolve 6]])
+}}
+{{DlistJ
+|n=Coronamon
+|k=コロナモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Cotsucomon
+|k=コツコモン
+|yr=2018
+|d=[[Digimon Pendulum Ver.20th]]
+}}
+{{DlistJ
+|n=Craniummon
+|k=クレニアムモン
+|yr=2005
+|d=[[Bo-1163]] ([[Digitalize Booster Pack]])
+}}
+{{DlistJ
+|n=Craniummon X-Antibody
+|k=クレニアムモンX抗体
+|yr=2018
+|d=[[Re-108]] ([[Digimon 20th Memorial Set]])
+}}
+{{DlistJ
+|n=Crescemon
+|k=クレシェモン
+|yr=2007
+|d=[[Digimon Story: Moonlight]]
+}}
+{{DlistJ
+|n=Cres Garurumon
+|k=クーレスガルルモン
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Crossmon
+|k=クロスモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Culumon
+|k=クルモン
+|yr=2001
+|d=[[Digimon Tamers - Episode 01|Digimon Tamers: "Guilmon is Born! The Digimon that I Created"]]
+}}
+{{DlistJ
+|n=Cupimon
+|k=キュピモン
+|yr=2002
+|d=[[Pendulum Progress 2.0]]
+}}
+{{DlistJ
+|n=Cutemon
+|k=キュートモン
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 02|Digimon Xros Wars: "Shoutmon, Roar!"]]
+}}
+{{DlistJ
+|n=Cyberdramon
+|k=サイバードラモン
+|yr=1999
+|d={{url|http://web.archive.org/web/20040815162813/http://www.digimon.channel.or.jp/town/workshop/winner.html|First Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Cyberdramon (2010 Anime Version)
+|k=サイバードラモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Cyclomon
+|k=サイクロモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==D==
+{{DlistJHeader}}
+{{DlistJ
+|n=D-Reaper
+|k=デ・リーパー
+|yr=2001
+|d=[[Digimon Tamers - Episode 38|Digimon Tamers: "True Enemy Gets to Move! The Battle of the Four Holy Beasts"]]
+}}
+{{DlistJ
+|n=D-Reaper ADR-01
+|k=デ・リーパーＡＤＲ-０１
+|yr=2002
+|d=[[Digimon Tamers - Episode 45|Digimon Tamers: "Stand Up to the D-Reaper, Charge into the Zone!"]]
+}}
+{{DlistJ
+|n=D-Reaper ADR-02 
+|k=デ・リーパーＡＤＲ-０２
+|yr=2002
+|d=[[Digimon Tamers - Episode 42|Digimon Tamers: "The City Attacked by the D-Reaper"]]
+}}
+{{DlistJ
+|n=D-Reaper ADR-03
+|k=デ・リーパーＡＤＲ-０３
+|yr=2002
+|d=[[Digimon Tamers - Episode 42|Digimon Tamers: "The City Attacked by the D-Reaper"]]
+}}
+{{DlistJ
+|n=D-Reaper ADR-04 
+|k=デ・リーパーＡＤＲ-０４
+|yr=2002
+|d=[[Digimon Tamers - Episode 44|Digimon Tamers: "The Mysterious Girl! The Bringer of Miracles Dobermon"]]
+}}
+{{DlistJ
+|n=D-Reaper ADR-05 
+|k=デ・リーパーＡＤＲ-０５
+|yr=2002
+|d=[[Digimon Tamers - Episode 44|Digimon Tamers: "The Mysterious Girl! The Bringer of Miracles Dobermon"]]
+}}
+{{DlistJ
+|n=D-Reaper ADR-06 
+|k=デ・リーパーＡＤＲ-０６
+|yr=2002
+|d=[[Digimon Tamers - Episode 45|Digimon Tamers: "Stand Up to the D-Reaper, Charge into the Zone!"]]
+}}
+{{DlistJ
+|n=D-Reaper ADR-07 
+|k=デ・リーパーＡＤＲ-０７
+|yr=2002
+|d=[[Digimon Tamers - Episode 47|Digimon Tamers: "Save Dukemon! Grani Scramble"]]
+}}
+{{DlistJ
+|n=D-Reaper ADR-08
+|k=デ・リーパーＡＤＲ-０８
+|yr=2002
+|d=[[Digimon Tamers - Episode 47|Digimon Tamers: "Save Dukemon! Grani Scramble"]]
+}}
+{{DlistJ
+|n=D-Reaper ADR-09 
+|k=デ・リーパーＡＤＲ-０９
+|yr=2002
+|d=[[Digimon Tamers - Episode 47|Digimon Tamers: "Save Dukemon! Grani Scramble"]]
+}}
+{{DlistJ
+|n=Dagomon
+|k=ダゴモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Daipenmon
+|k=ダイペンモン
+|yr=2002
+|d=[[Bo-896]] ([[Booster 18]])
+}}
+{{DlistJ
+|n=Damemon
+|k=ダメモン
+|yr=2010
+|d={{url|www.toei-anim.co.jp/tv/digimon_xw2010/digixw_name.html|Become this Digimon's Namer! Contest}}
+}}
+{{DlistJ
+|n=Darcmon
+|k=ダルクモン
+|yr=2002
+|d=[[Digimon Frontier: Revival of the Ancient Digimon!!]]
+}}
+{{DlistJ
+|n=Dark Knightmon
+|k=ダークナイトモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Dark Knightmon (Bagramon)
+|k=ダークナイトモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 53|Digimon Xros Wars: "Approach! The Human World's Last Day, D5!!"]]
+}}
+{{DlistJ
+|n=Dark Knightmon + Blastmon{{!}}Dark Knightmon (Blastmon)
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Chapter 17|Digimon Xros Wars: "Xros Warrior!! The Released Demon!!"]]
+}}
+{{DlistJ
+|n=Dark Knightmon + Duskmon{{!}}Dark Knightmon (Duskmon)
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Chapter 10|Digimon Xros Wars: "Xros Evolution!! The Guide to Miracles!!"]]
+}}
+{{DlistJ
+|n=Dark Knightmon + Gulfmon{{!}}Dark Knightmon (Gulfmon)
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Chapter 15|Digimon Xros Wars: "Xros Alliance! The Final Battle in Odaiba!!"]]
+}}
+{{DlistJ
+|n=Dark Knightmon + Lilithmon{{!}}Dark Knightmon (Lilithmon)
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Chapter 18|Digimon Xros Wars: "Xros Stars!! Like a Falling Star!!"]]
+}}
+{{DlistJ
+|n=Dark Lizamon
+|k=ダークリザモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Dark Superstarmon
+|k=ダークスーパースターモン
+|yr=2007
+|d=[[Dα-515]] ([[Subspecies Discovery]])
+}}
+{{DlistJ
+|n=Dark Tyranomon
+|k=ダークティラノモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Dark Volumon
+|k=ダークボリューモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 40|Digimon Xros Wars: "Cheerful Pirate, Appear! The Voyage to Gold Land!!"]]
+}}
+{{DlistJ
+|n=Darkdramon
+|k=ダークドラモン
+|yr=2005
+|d=[[Bo-1170]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Evil Genome]]
+}}
+{{DlistJ
+|n=Darkness Bagramon
+|k=ダークネスバグラモン
+|yr=2011
+|d=[[D6-29]] ([[Super Digica Taisen Set 6]])
+}}
+{{DlistJ
+|n=Deadly Axemon
+|k=デッドリーアックスモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Deadly Tuwarmon
+|k=デッドリーツワーモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 37|Digimon Xros Wars: "Brother, Why!? The Nightmare of the Enemy General, Yuu"]]
+}}
+{{DlistJ
+|n=Deadly Tuwarmon Hell Mode
+|k=デッドリーツワーモン ヘルモード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 47|Digimon Xros Wars: "Taiki VS Yuu, The Confrontation of the Boy Generals!!"]]
+}}
+{{DlistJ
+|n=Death Airdramon
+|k=デスエアドラモン
+|yr=1997
+|d=[[C'mon Digimon]]
+}}
+{{DlistJ
+|n=Death Devimon
+|k=デスデビモン
+|yr=1997
+|d=[[C'mon Digimon]]
+}}
+{{DlistJ
+|n=Death Meramon
+|k=デスメラモン
+|yr=1999
+|d=[[Pendulum 3.0|Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Death Meramon (C'mon Digimon Version)
+|k=デスメラモン
+|yr=1997
+|d=[[C'mon Digimon]]
+}}
+{{DlistJ
+|n=Death Metal Greymon
+|k=デスメタルグレイモン
+|yr=1997
+|d=[[C'mon Digimon]]
+}}
+{{DlistJ
+|n=Death Tyranomon
+|k=デスティラノモン
+|yr=1997
+|d=[[C'mon Digimon]]
+}}
+{{DlistJ
+|n=Death-X-DORUgamon
+|k=デクスドルガモン
+|yr=2003
+|d=[[Sx-64]] ([[Ultimate Battle Deck 5]])
+}}
+{{DlistJ
+|n=Death-X-DORUgoramon
+|k=デクスドルゴラモン
+|yr=2003
+|d=[[Pendulum X 1.5]]
+}}
+{{DlistJ
+|n=Death-X-DORUguremon
+|k=デクスドルグレモン
+|yr=2003
+|d=[[Sx-65]] ([[Ultimate Battle Deck 5]])
+}}
+{{DlistJ
+|n=Death-X-mon
+|k=デクスモン
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJ
+|n=Deathmon
+|k=デスモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Deathmon (Black)
+|k=デスモン（黒）
+|yr=2000
+|d=[[Bo-244]] ([[Booster 5]])
+}}
+{{DlistJ
+|n=Deathmon (C'mon Digimon Version)
+|k=デスモン
+|yr=1997
+|d=[[C'mon Digimon]]
+}}
+{{DlistJ
+|n=Decker Greymon
+|k=デッカーグレイモン
+|yr=2010
+|d=[[Digimon Xros Loader (Toy)|Digimon Xros Loader]]
+}}
+{{DlistJ
+|n=Deckerdramon
+|k=デッカードラモン
+|yr=2010
+|d=[[Digimon Xros Loader (Toy)|Digimon Xros Loader]]
+}}
+{{DlistJ
+|n=Deckerdramon Float Mode
+|k=デッカードラモン フロートモード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 40|Digimon Xros Wars "Cheerful Pirate, Appear! The Voyage to Gold Land!!"]]
+}}
+{{DlistJ
+|n=Deltamon
+|k=デルタモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Delumon
+|k=デラモン
+|yr=1999
+|d=[[Pendulum 4.0|Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Demon
+|k=デーモン
+|yr=1999
+|d=[[V-3|Digimon Adventure V-Tamer 01: "Folder Continent's Military History"]]
+}}
+{{DlistJ
+|n=Demon Super Ultimate
+|k=デーモン超究極体
+|yr=2003
+|d=[[Bo-26v]] ([[Expansion Board - Digimon Adventure V-Tamer 01 SP]])
+}}
+{{DlistJ
+|n=Depthmon
+|k=デプスモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Destromon
+|k=デストロモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Devidramon
+|k=デビドラモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Devimon
+|k=デビモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Devitamamon
+|k=デビタマモン
+|yr=1999
+|d=[[List_of_Digimon_Design_Contests#3rd Bandai-Town FAX Service Digimon Illustration Contest|Third Digimon Illustration Contest (Bandai-Town)]]
+}}
+{{DlistJ
+|n=Diablomon
+|k=ディアボロモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Dianamon
+|k=ディアナモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Diatrymon
+|k=ディアトリモン
+|yr=2005
+|d=[[Digimon Accel Nature Genome]]
+}}
+{{DlistJ
+|n=DigiElf
+|k=デジルフ
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=DigiGnome
+|k=デジノーム 
+|yr=2001
+|d=[[Digimon Tamers - Episode 25|Digimon Tamers: "Enter the Digital World! Goodbye to Our City"]]
+}}
+{{DlistJ
+|n=Digitamamon
+|k=デジタマモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Digmon
+|k=ディグモン
+|yr=2000
+|d=[[Digimon Adventure 02 - Episode 02|Digimon Adventure 02: "Digital Gate Open"]] or [[St-133]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Dinobeemon
+|k=ディノビーモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Dinohumon
+|k=ディノヒューモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Dinorexmon
+|k=ディノレクスモン
+|yr=2003
+|d=[[Bx-44]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Dinotigermon
+|k=ディノタイガモン
+|yr=2003
+|d=[[Bx-48]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Dobermon
+|k=ドーベルモン
+|yr=2001
+|d=[[List_of_Digimon_Design_Contests#V-Jump Contest|V-Jump Contest]]
+
+}}
+{{DlistJ
+|n=Dobermon X-Antibody
+|k=ドーベルモンX抗体
+|yr=2003
+|d=[[Sx-22]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Dodomon
+|k=ドドモン
+|yr=2003
+|d=[[Pendulum X 1.0]]
+}}
+{{DlistJ
+|n=Dogmon
+|k=ドッグモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Dokamon
+|k=ドカモン
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Dokugumon
+|k=ドクグモン
+|yr=1999
+|d=[[Digital Monster Ver. WonderSwan]]
+}}
+{{DlistJ
+|n=Dokunemon
+|k=ドクネモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Dominimon
+|k=ドミニモン
+|yr=2002
+|d=[[V-50|Digimon Adventure V-Tamer 01: "Continuing Courage"]]
+}}
+{{DlistJ
+|n=Dondokomon
+|k=ドンドコモン
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 02|Digimon Xros Wars: "Shoutmon, Roar!"]]
+}}
+{{DlistJ
+|n=Don Shoutmon
+|k=ドンシャウトモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Dorbickmon
+|k=ドルビックモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 31|Digimon Xros Wars: "To a New World! The Fire Rage General's Dragon Land"]]
+}}
+{{DlistJ
+|n=Dorbickmon Darkness Mode
+|k=ドルビックモンダークネスモード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 31|Digimon Xros Wars: "To a New World! The Fire Rage General's Dragon Land"]]
+}}
+{{DlistJ
+|n=Dorbickmon Darkness Mode (Dragon Army)
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 32|Digimon Xros Wars: "Stand Up, Kihira! The Xros Heart Rescue Strategy"]]
+}}
+{{DlistJ
+|n=Dorbickmon Darkness Mode + Flare Lizarmon
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 31|Digimon Xros Wars: "To a New World! The Fire Rage General's Dragon Land"]]
+}}
+{{DlistJ
+|n=Dorimon
+|k=ドリモン
+|yr=2003
+|d=[[Pendulum X 1.0]]
+}}
+{{DlistJ
+|n=DORUgamon
+|k=ドルガモン
+|yr=2003
+|d=[[Sx-3]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=DORUgoramon
+|k=ドルゴラモン
+|yr=2003
+|d=[[Sx-1]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=DORUguremon
+|k=ドルグレモン
+|yr=2003
+|d=[[Sx-4]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Dorulumon
+|k=ドルルモン
+|yr=2010
+|d=[[Digimon Reference Book]] ([[Digimon Web]])
+}}
+{{DlistJ
+|n=Dorulumon + Starmons
+|k=N/A
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 18|Digimon Xros Wars: "Stingmon, The Hero of the Digimon Jungle"]]
+}}
+{{DlistJ
+|n=DORUmon
+|k=ドルモン
+|yr=2003
+|d=[[Sx-2]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Dosukomon
+|k=ドスコモン
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Dot Agumon
+|k=ドットアグモン
+|yr=2006
+|d=[[Digimon Story]]
+}}
+{{DlistJ
+|n=Dot Falcomon
+|k=ドットファルコモン
+|yr=2006
+|d=[[Digimon Story]]
+}}
+{{DlistJ
+|n=Dot Mirage Gaogamon
+|k=ドットミラージュガオガモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Dot Shine Greymon
+|k=ドットシャイングレイモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Dogamon
+|k=ドーガモン
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Doumon
+|k=ドウモン
+|yr=2001
+|d=[[D-Ark Version 2.0]]
+}}
+{{DlistJ
+|n=Dracomon
+|k=ドラコモン
+|yr=2007
+|d=[[Greatest_of_Digimon|Digimon 10th Anniversary Event]]
+}}
+{{DlistJ
+|n=Dracomon + Cyberdramon
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 54|Digimon Xros Wars: "Glorious DigiXros, Seize it! Our Future!!"]]
+}}
+{{DlistJ
+|n=Dracumon
+|k=ドラクモン
+|yr=2005
+|d=[[Bx-165]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Evil Genome]]
+}}
+{{DlistJ
+|n=Dressmon
+|k=ドレスモン
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Drimogemon
+|k=ドリモゲモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Duftmon
+|k=ドゥフトモン
+|yr=2007
+|d=[[Digimon Savers - Episode 43|Digimon Savers: "Power Equals Justice! Beast Knight Duftmon"]]
+}}
+{{DlistJ
+|n=Duftmon X-Antibody
+|k=ドゥフトモンX抗体
+|yr=2007
+|d=[[Dα-551]] ([[X-Antibody × Hybrid]])
+}}
+{{DlistJ
+|n=Duftmon: Leopard Mode
+|k=ドゥフトモン：レオパルドモード
+|yr=2007
+|d=[[Dα-416]] ([[Alpha Evolve 5]])
+}}
+{{DlistJ
+|n=Dukemon
+|k=デュークモン
+|yr=2001
+|d=[[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Dukemon: Chaos Mode
+|k=
+|yr=2002
+|d=Warp-Digivolving Figure: Gallantmon (Chaos Mode)
+}}
+{{DlistJ
+|n=Dukemon: Crimson Mode
+|k=デュークモン：クリムゾンモード
+|yr=2001
+|d=[[D-Ark Ultimate]]
+}}
+{{DlistJ
+|n=Dukemon X-Antibody
+|k=デュークモンX抗体
+|yr=2003
+|d=
+}}
+{{DlistJ
+|n=Duramon
+|k=デュランダモン
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Durandamon
+|k=デュラモン
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Duskmon
+|k=ダスクモン
+|yr=2002
+|d=[[St-665]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Dynasmon
+|k=デュナスモン
+|yr=2002
+|d=[[D-Scanner 2.0]]
+}}
+{{DlistJ
+|n=Dynasmon X-Antibody
+|k=デュナスモンX抗体
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJFooter}}
+{{ROT}}
+
+==E==
+{{DlistJHeader}}
+{{DlistJ
+|n=Earthdramon
+|k=アースドラモン 
+|yr=1999
+|d=[[List_of_Digimon_Design_Contests#2nd Bandai-Town FAX Service Digimon Illustration Contest|Second Digimon Illustration Contest (Bandai-Town)]] (''Unreleased Digimon'')
+}}
+{{DlistJ
+|n=Eater (Humanoid Mode)
+|k=イーター（人型形態）
+|yr=2015
+|d=[[Digimon Story: Cyber Sleuth]]
+}}
+{{DlistJ
+|n=Eater (Purebreed Mode)
+|k=イーター（原種形態）
+|yr=2015
+|d=[[Digimon Story: Cyber Sleuth]]
+}}
+{{DlistJ
+|n=Eater Adam
+|k=イーター・アダム
+|yr=2015
+|d=[[Digimon Story: Cyber Sleuth]]
+}}
+{{DlistJ
+|n=Eater Eve
+|k=イーター・イヴ
+|yr=2015
+|d=[[Digimon Story: Cyber Sleuth]]
+}}
+{{DlistJ
+|n=Ebemon
+|k=イーバモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Ebemon X-Antibody
+|k=イーバモンX抗体
+|yr=2003
+|d=[[Bx-83]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Ebi Burgamon
+|k=エビバーガモン 
+|yr=2002
+|d=[[Bo-28L]] ([[Lotteria|Lotteria Booster]])
+}}
+{{DlistJ
+|n=Ebidramon
+|k=エビドラモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Ekakimon
+|k=エカキモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 50|Digimon Xros Wars: "Resurrect! The Appearance of all Seven Death Generals!!"]]'s {{url|i.imgur.com/9kt5gl0.png|Eyecatch}}
+}}
+{{DlistJ
+|n=El Doradimon
+|k=エルドラディモン 
+|yr=2006
+|d=[[DigiWindow]] ({{url|http://web.archive.org/web/20141007204612/http://www.digitalmonsters.net/DVR/digiviceIC/dw_index.html|Digimon Pocket Wars}})
+}}
+{{DlistJ
+|n=Elecmon
+|k=エレキモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Elecmon (Violet)
+|k=エレキモン（紫）
+|yr=2000
+|d=[[Digimon World: Digital Card Arena]]
+}}
+{{DlistJ
+|n=Elephamon
+|k=エレファモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Etemon
+|k=エテモン 
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Etemon Chaos
+|k=エテモンカオス
+|yr=1999
+|d=[[Digimon Adventure - Episode 20|Digimon Adventure: "Perfect Evolution! Metal Greymon"]]
+}}
+{{DlistJ
+|n=Evilmon
+|k=イビルモン 
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Ex-Eraser α
+|k=EXイレイザーα 
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Ex-Eraser β
+|k=EXイレイザーβ 
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Ex-Eraser γ
+|k=EXイレイザーγ
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Ex-Eraser Ω
+|k=EXイレイザーΩ
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Ex-Tyranomon
+|k=エクスティラノモン 
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Examon
+|k=エグザモン
+|yr=2007
+|d=[[DM02-094]] ([[Battle Terminal 02 Set 3]])
+}}
+{{DlistJ
+|n=Exo Grimmon
+|k=エグゾグリムモン 
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==F==
+{{DlistJHeader}}
+{{DlistJ
+|n=Fairimon
+|k=フェアリモン
+|yr=2002
+|d=[[Digimon Frontier - Episode 04|Digimon Frontier: "My Painful Kick! Female Warrior Fairymon"]] or [[St-626]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Falcomon
+|k=ファルコモン
+|yr=2005
+|d=[[Digimon Accel Nature Genome]]
+}}
+{{DlistJ
+|n=Falcomon (2006 Anime Version)
+|k=ファルコモン（２００６アニメ版）
+|yr=2006
+|d=[[Digimon Savers - Episode 12|Digimon Savers: "I Will Protect Chika! Piyomon's Decision!"]]
+}}
+{{DlistJ
+|n=Fangmon
+|k=ファングモン
+|yr=2002
+|d=[[St-619]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Fantomon
+|k=ファントモン
+|yr=1999
+|d=[[Pendulum 3.0|Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Firamon
+|k=ファイラモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Fla Wizarmon
+|k=フレイウィザーモン
+|yr=2002
+|d=[[St-616]] ([[Starter Ver. 7]])
+}}
+
+{{DlistJ
+|n=Fladramon
+|k=フレイドラモン
+|yr=2000
+|d=[[Digimon Adventure 02 - Episode 01|Digimon Adventure 02: "The One who Inherits Courage"]]
+}}
+{{DlistJ
+|n=Flamon
+|k=フレイモン
+|yr=2002
+|d=[[D-Scanner 1.0]]
+}}
+{{DlistJ
+|n=Flare Lizarmon
+|k=フレアリザモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Flaremon
+|k=フレアモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]]
+}}
+{{DlistJ
+|n=Floramon
+|k=フローラモン
+|yr=1999
+|d=[[Pendulum 4.0|Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Flybeemon
+|k=フライビーモン
+|yr=1999
+|d=[[List_of_Digimon_Design_Contests#2nd Bandai-Town FAX Service Digimon Illustration Contest|Second Digimon Illustration Contest (Bandai-Town)]]
+}}
+{{DlistJ
+|n=Flymon
+|k=フライモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Footmon
+|k=フットモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 51|Digimon Xros Wars: "For the Future of the Digital World! The Friendship with the Death Generals!"]]'s {{url|i.imgur.com/o1XiFmh.png|Eyecatch}}
+}}
+{{DlistJ
+|n=Frimon
+|k=フリモン
+|yr=2005
+|d=[[Digimon Accel Justice Genome]]
+}}
+{{DlistJ
+|n=Frogmon
+|k=フロッグモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Fufumon
+|k=フフモン
+|yr=2003
+|d=[[Pendulum X 2.0]]
+}}
+{{DlistJ
+|n=Funbeemon
+|k=ファンビーモン
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJ
+|n=Fugamon
+|k=フーガモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Fujinmon
+|k=フウジンモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==G==
+{{DlistJHeader}}
+{{DlistJ
+|n=G-Cutemon
+|k=グレイテストキュートモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 44|Digimon Xros Wars: "X7 of Bonds! The Great Battle with Gravimon!!"]]
+}}
+{{DlistJ
+|n=Gabumon
+|k=ガブモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Gabumon X-Antibody
+|k=ガブモンX抗体
+|yr=2003
+|d=[[Sx-7]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Gabumon (Black)
+|k=ガブモン（黒）
+|yr=2000
+|d=[[St-139]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=GAIA
+|k=ＧＡＩＡ
+|yr=2000
+|d=[[Digimon World 2]]
+}}
+{{DlistJ
+|n=Gaiamon
+|k=ガイアモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Gaioumon
+|k=ガイオウモン
+|yr=2003
+|d=[[Pendulum X 1.5]]
+}}
+{{DlistJ
+|n=Galgomon
+|k=ガルゴモン
+|yr=2000
+|d=[[Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals]]
+}}
+{{DlistJ
+|n=Ganemon
+|k=ガネモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 53|Digimon Xros Wars: "Approach! The Human World's Last Day, D5"]]'s {{url|i.imgur.com/QqaMtM6.png|Eyecatch}}
+}}
+{{DlistJ
+|n=Ganimon
+|k=ガニモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Ganimon X-Antibody
+|k=ガニモンX抗体
+|yr=2003
+|d=[[Bx-58]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Gankoomon
+|k=ガンクゥモン
+|yr=2012
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Gaogamon
+|k=ガオガモン
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=Gaomon
+|k=ガオモン
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=Gaossmon
+|k=ガオスモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Gargomon
+|k=ガーゴモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Garmmon
+|k=ガルムモン
+|yr=2002
+|d=[[Digimon Frontier - Episode 10|Digimon Frontier: "An Uncontrollable Beast Spirit!? Garmmon's Evolution"]] or [[Bo-721]] ([[Booster 15]])
+}}
+{{DlistJ
+|n=Garudamon
+|k=ガルダモン
+|yr=1999
+|d=[[Pendulum 4.0|Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Garudamon X-Antibody
+|k=ガルダモンX抗体
+|yr=2003
+|d=[[Bx-4]] ([[Booster 19]])
+}}
+{{DlistJ
+|n=Garurumon
+|k=ガルルモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Garurumon X-Antibody
+|k=ガルルモンX抗体
+|yr=2003
+|d=[[Sx-9]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Garurumon (Black)
+|k=ガルルモン（黒）
+|yr=2000
+|d=[[St-140]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Gattai Ancient Volcamon
+|k=合体エンシェントボルケーモン
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 09|Digimon Xros Wars: "Dorulumon, Run Like the Wind!"]]
+}}
+{{DlistJ
+|n=Gatchmon
+|k=ガッチモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Gattai Lilithmon
+|k=合体リリスモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 37|Digimon Xros Wars: "Brother, Why!? The Nightmare of Enemy General Yuu"]]
+}}
+{{DlistJ
+|n=Gawappamon
+|k=ガワッパモン
+|yr=2006
+|d=[[Digimon Story]]
+}}
+{{DlistJ
+|n=Gazimon
+|k=ガジモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Gazimon X-Antibody
+|k=ガジモンX抗体
+|yr=2003
+|d=[[Bx-92]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Gekomon
+|k=ゲコモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Generamon
+|k=ジェネラモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}} (''Unreleased Digimon'')
+}}
+{{DlistJ
+|n=Geo Greymon
+|k=ジオグレイモン
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=Gerbemon
+|k=ガーベモン
+|yr=1999
+|d=[[Pendulum 4.0|Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Geremon
+|k=ゲレモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Gesomon
+|k=ゲソモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Gesomon X-Antibody
+|k=ゲソモンX抗体
+|yr=2003
+|d=[[Sx-56]] ([[Ultimate Battle Deck 5]])
+}}
+{{DlistJ
+|n=Giga Breakdramon
+|k=ギガブレイクドラモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 57|Digimon Xros Wars: "Robot Club's Dream, Pinochimon's Temptation"]]
+}}
+{{DlistJ
+|n=Giga Devast
+|k=ギガデヴァスト
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Giga Seadramon
+|k=ギガシードラモン
+|yr=2003
+|d=[[Sx-26]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Giga Waru Monzaemon
+|k=ギガワルもんざえモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 27|Digimon Xros Wars: "Sweets Zone! The Sweet-toothed Digimon Battle!"]]
+}}
+{{DlistJ
+|n=Gigadramon
+|k=ギガドラモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Gigantic Numemon
+|k=巨大ヌメモン
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Gigasmon
+|k=ギガスモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Gigimon
+|k=ギギモン
+|yr=2001
+|d=[[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Ginkakumon
+|k=ギンカクモン
+|yr=2011
+|d=[[4-061]] ([[Digimon Jintrix Set 4]])
+}}
+{{DlistJ
+|n=Ginkakumon Promote
+|k=ギンカクモンプロモート
+|yr=2011
+|d=[[98-003]]  ([[Digimon Jintrix]])
+}}
+{{DlistJ
+|n=Ginryumon
+|k=ギンリュウモン
+|yr=2003
+|d=[[Bx-39]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Giromon
+|k=ギロモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Gizamon
+|k=ギザモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Gizmon: AT
+|k=ギズモン:AT
+|yr=2006
+|d=[[Digimon Savers - Episode 24|Digimon Savers: "The Heartless Past Revealed! Gizmon: AT"]]
+}}
+{{DlistJ
+|n=Gizmon: XT
+|k=ギズモン:XT
+|yr=2006
+|d=[[Digimon Savers - Episode 25|Digimon Savers: "Smash Kurata's Ambition, Yatagaramon takes Flight"]]
+}}
+{{DlistJ
+|n=Gladimon
+|k=グラディモン
+|yr=2002
+|d=[[St-854]] ([[Ultimate Battle Deck 4]])
+}}
+{{DlistJ
+|n=Goatmon
+|k=ゴートモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Goburimon
+|k=ゴブリモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Goddramon
+|k=ゴッドドラモン
+|yr=1999
+|d={{url|http://web.archive.org/web/20040815162813/http://www.digimon.channel.or.jp/town/workshop/winner.html|First Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Goddramon X-Antibody
+|k=ゴッドドラモンX抗体
+|yr=2002
+|d=[[Bx-85]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Gokimon
+|k=ゴキモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Gokumon
+|k=ゴクモン
+|yr=2001
+|d=[[Digimon Tamers: Battle Evolution]]
+}}
+{{DlistJ
+|n=Gokuwmon
+|k=ゴクウモン
+|yr=2011
+|d=[[3-026]] ([[Digimon Jintrix Set 3]])
+}}
+{{DlistJ
+|n=Gold Numemon
+|k=ゴールドヌメモン
+|yr=2006
+|d=[[Digimon Savers: Another Mission]]
+}}
+{{DlistJ
+|n=Gold V-dramon
+|k=ゴールドブイドラモン
+|yr=2000
+|d=[[Digimon Adventure 02: D1 Tamers]]
+}}
+{{DlistJ
+|n=Golem Jiji Kamemon
+|k=ゴーレムジジカメモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 54|Digimon Xros Wars: "Glorious DigiXros, Seize it! Our Future!!"]]
+}}
+{{DlistJ
+|n=Golemon
+|k=ゴーレモン
+|yr=1999
+|d=[[Digital Monster Ver. WonderSwan]]
+}}
+{{DlistJ
+|n=Golemon (PS)
+|k=ゴーレモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Gomamon
+|k=ゴマモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Gomamon X-Antibody
+|k=ゴマモンX抗体
+|yr=2003
+|d=[[Bx-60]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Gomimon
+|k=ゴミモン
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Gorimon
+|k=ゴリモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Gottsumon
+|k=ゴツモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Gottsumon X-Antibody
+|k=ゴツモンX抗体
+|yr=2003
+|d=[[Bx-80]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Grace Novamon
+|k=グレイスノヴァモン
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Grademon
+|k=グレイドモン
+|yr=2003
+|d=[[Bx-12]] ([[Booster 20]]) or [[Pendulum X 1.0]]
+}}
+{{DlistJ
+|n=Gran Kuwagamon
+|k=グランクワガーモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Grand Dracumon
+|k=グランドラクモン
+|yr=2005
+|d=[[Bx-168]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Evil Genome]]
+}}
+{{DlistJ
+|n=Grand Generamon
+|k=グランドジェネラモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 50|Digimon Xros Wars: "Resurrect! The Appearance of All Seven Death Generals!!"]]
+}}
+{{DlistJ
+|n=Grand Locomon
+|k=グランドロコモン
+|yr=2002
+|d=[[Bo-682]] ([[Booster 14]]) or [[Digimon Tamers: The Runaway Digimon Express]]
+}}
+{{DlistJ
+|n=Grandis Kuwagamon
+|k=グランディスクワガーモン
+|yr=2003
+|d=[[Sx-18]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Grandis Kuwagamon Honey Mode
+|k=グランディスクワガーモンハニーモード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 35|Digimon Xros Wars: "Power is Being Sucked Up! The Hunters of Honey Land"]]
+}}
+{{DlistJ
+|n=Grappu Leomon
+|k=グラップレオモン
+|yr=2001
+|d=[[Bo-618]] ([[Booster 13]])
+}}
+{{DlistJ
+|n=Gravimon
+|k=グラビモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 31|Digimon Xros Wars: "To a New World! The Fire Rage General's Dragon Land"]]
+}}
+{{DlistJ
+|n=Gravimon Darkness Mode
+|k=グラビモンダークネスモード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 44|Digimon Xros Wars: "X7 of Bonds! The Great Battle with Gravimon!!"]]
+}}
+{{DlistJ
+|n=Grey Knightsmon
+|k=グレイナイツモン
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Greymon
+|k=グレイモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Greymon X-Antibody
+|k=グレイモンX抗体
+|yr=2003
+|d=[[Sx-8]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Greymon (2010 Anime Version)
+|k=グレイモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Greymon O
+|k=グレイモンO
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Greymon (Black)
+|k=グレイモン（黒）
+|yr=2000
+|d=[[St-137]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Griffomon
+|k=グリフォモン
+|yr=1999
+|d=[[Pendulum 4.0|Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Grimmon
+|k=グリムモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Grottomon
+|k=グロットモン
+|yr=2002
+|d=[[St-653]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Groundramon
+|k=グラウンドラモン
+|yr=2007
+|d=[[SP02-005]] ([[Alpha Promo]]) or [[Dα-540]] ([[Alpha Evolve 7]])
+}}
+{{DlistJ
+|n=Growmon
+|k=グラウモン
+|yr=2001
+|d=[[Bo-407]] ([[Booster 9]])
+}}
+{{DlistJ
+|n=Growmon X-Antibody
+|k=グラウモンX抗体
+|yr=2003
+|d=[[Bx-51]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Growmon (Orange)
+|k=グラウモン
+|yr=2001
+|d=[[St-465]] ([[Starter Ver. 6]])
+}}
+{{DlistJ
+|n=Gryzmon
+|k=グリズモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Guardromon
+|k=ガードロモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Guardromon (Gold)
+|k=ガードロモン（金）
+|yr=2016
+|d=[[Digimon World -next 0rder-]]
+}}
+{{DlistJ
+|n=Guidemon
+|k=ガイドモン
+|yr=2005
+|d=[[Battle 01|Digimon Next: "Welcome to the Digimon Net Game!!"]]
+}}
+{{DlistJ
+|n=Guilmon
+|k=ギルモン
+|yr=2001
+|d=[[Bo-406]] ([[Booster 9]])
+}}
+{{DlistJ
+|n=Guilmon X-Antibody
+|k=ギルモンX抗体
+|yr=2003
+|d=[[Bx-52]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Gulfmon
+|k=ガルフモン
+|yr=2001
+|d=[[Digimon Tamers: The Adventurers' Battle]] or [[St-403]] ([[Ultimate Battle Deck 2]])
+}}
+{{DlistJ
+|n=Gumdramon
+|k=ガムドラモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 55|Digimon Xros Wars: "Us, the Digimon Hunters!"]]
+}}
+{{DlistJ
+|n=Gummymon
+|k=グミモン
+|yr=2000
+|d=[[Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals]]
+}}
+{{DlistJ
+|n=Gundramon
+|k=ガンドラモン
+|yr=2014
+|d=[[Re-23]] ([[Premium Select File Vol.2]])
+}}
+{{DlistJ
+|n=Gururumon
+|k=グルルモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==H==
+{{DlistJHeader}}
+{{DlistJ
+|n=Hackmon
+|k=ハックモン
+|yr=2012
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Hackmon (Appmon)
+|k=ハックモン
+|yr=2012
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Hagurumon
+|k=ハグルモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Hagurumon X-Antibody
+|k=ハグルモンX抗体
+|yr=2004
+|d=[[Bx-124]] ([[Booster 23]])
+}}
+{{DlistJ
+|n=Hangyomon
+|k=ハンギョモン
+|yr=1999
+|d=[[Pendulum 2.5 Deep Savers]]
+}}
+{{DlistJ
+|n=Hanumon
+|k=ハヌモン
+|yr=1999
+|d=[[Pendulum 3.0|Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Harpymon
+|k=ハーピモン
+|yr=2000
+|d={{url|List_of_Digimon_Design_Contests#2nd Digimon Web Dot-art Contest|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Hawkmon
+|k=ホークモン
+|yr=2000
+|d=[[Digimon Adventure 02 - Episode 02|Digimon Adventure 02: "Digital Gate Open"]] or [[St-116]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Herakle Kabuterimon
+|k=ヘラクルカブテリモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Herakle Kabuterimon X-Antibody
+|k=ヘラクルカブテリモンX抗体
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=Hermmon
+|k=ヘルムモン
+|yr=2002
+|d=[[V-48|Digimon Adventure V-Tamer 01: "DELETE"]]
+}}
+{{DlistJ
+|n=Hi Andromon
+|k=ハイアンドロモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Hi Mugendramon
+|k=ハイムゲンドラモン
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 14|Digimon Xros Wars: "Warrior Beelzebumon, Dance!"]]
+}}
+{{DlistJ
+|n=Hi-Vision Monitamon
+|k=ハイビジョンモニタモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 24|Digimon Xros Wars: "Dunce Monitamons, Keep at it!"]]
+}}
+{{DlistJ
+|n=Hippogriffomon
+|k=ヒポグリフォモン
+|yr=2002
+|d=[[Digimon Frontier: Revival of the Ancient Digimon!!]]
+}}
+{{DlistJ
+|n=Hisyaryumon
+|k=ヒシャリュウモン
+|yr=2003
+|d=[[Bx-38]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Holsmon
+|k=ホルスモン
+|yr=2000
+|d=[[Digimon Adventure 02 - Episode 02|Digimon Adventure 02: "Digital Gate Open"]] or [[St-123]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Holy Angemon
+|k=ホーリーエンジェモン
+|yr=1998
+|d=[[V-2|Digimon Adventure V-Tamer 01: "Reversal Combination"]]
+}}
+{{DlistJ
+|n=Holy Angemon: Priest Mode
+|k=ホーリーエンジェモン：神官形態
+|yr=1998
+|d=[[V-2|Digimon Adventure V-Tamer 01: "Reversal Combination"]]
+}}
+{{DlistJ
+|n=Holy Digitamamon
+|k=ホーリーデジタマモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}} (''Unreleased Digimon'')
+}}
+{{DlistJ
+|n=Holydramon
+|k=ホーリードラモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Holydramon X-Antibody
+|k=ホーリードラモンX抗体
+|yr=2003
+|d=[[Bx-88]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Honeybeemon
+|k=ハニービーモン
+|yr=1999
+|d=[[List_of_Digimon_Design_Contests#2nd Bandai-Town FAX Service Digimon Illustration Contest|Second Digimon Illustration Contest (Bandai-Town)]]
+}}
+{{DlistJ
+|n=Hookmon
+|k=フックモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Hopmon
+|k=ホップモン
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=Hououmon
+|k=ホウオウモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Huanglongmon
+|k=ファンロンモン
+|yr=2002
+|d=[[D-Scanner 3.0]]
+}}
+{{DlistJ
+|n=Hubmon
+|k=ハブモン
+|yr=2011
+|d=Blog of [[Digimon Story: Super Xros Wars Blue]] & [[Digimon Story: Super Xros Wars Red|Red]]
+}}
+{{DlistJ
+|n=Hudiemon
+|k=フーディエモン
+|yr=2017
+|d=[[Digimon Story: Cyber Sleuth Hacker's Memory]]
+}}
+{{DlistJ
+|n=Huntermon
+|k=ハンターモン
+|yr=1999
+|d=[[List_of_Digimon_Design_Contests#1st Bandai-Town FAX Service Digimon Illustration Contest|First Digimon Illustration Contest (Bandai-Town)]] (''Unreleased Digimon'')
+}}
+{{DlistJ
+|n=Hustle Nanimon
+|k=ハッスルナニモン
+|yr=2010
+|d=[[Digimon Xros Wars - Special 01|Digimon Xros Wars: "Xros Hustle!! The Great Digimon Athletic Meet!!"]]
+}}
+{{DlistJ
+|n=Hyougamon
+|k=ヒョーガモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Hyokomon
+|k=ヒョコモン
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==I==
+{{DlistJHeader}}
+{{DlistJ
+|n=Ice Devimon
+|k=アイスデビモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Ice Devimon Enhancement Absorbent
+|k=アイスデビモン 強化吸収体 
+|yr=2010
+|d=[[XW10|Digimon Xros Wars: "Taiki, Become a Knight!"]]
+}}
+{{DlistJ
+|n=Ice Devimon Daipenmon Enhancement Absorbent
+|k=アイスデビモン ダイペンモン 強化吸収体
+|yr=2010
+|d=[[XW11|Digimon Xros Wars: "Xros Heart, Burn!"]]
+}}
+{{DlistJ
+|n=Icemon
+|k=アイスモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Igamon
+|k=イガモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Ignitemon
+|k=イグニートモン 
+|yr=2011
+|d=[[XW35|Digimon Xros Wars: "Power is Being Sucked Up! The Hunters of Honey Land"]]
+}}
+{{DlistJ
+|n=Ikkakumon
+|k=イッカクモン 
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Imperialdramon
+|k=インペリアルドラモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Imperialdramon (Black)
+|k=インペリアルドラモン（黒）
+|yr=2000
+|d=[[Bo-356]] ([[Booster 7]])
+}}
+{{DlistJ
+|n=Imperialdramon Fighter Mode
+|k=インペリアルドラモンファイターモード 
+|yr=2000
+|d=[[D-3 Version 1 (V-mon Version)]]
+}}
+{{DlistJ
+|n=Imperialdramon Fighter Mode (Black)
+|k=インペリアルドラモンファイターモード（黒）
+|yr=2001
+|d=[[St-579]] ([[Ultimate Battle Deck 3]])
+}}
+{{DlistJ
+|n=Imperialdramon Paladin Mode
+|k=インペリアルドラモンパラディンモード 
+|yr=2001
+|d=[[Digimon Adventure 02: Diablomon Strikes Back]]
+}}
+{{DlistJ
+|n=Impmon
+|k=インプモン 
+|yr=2001
+|d=[[Digimon Tamers - Episode 06|Digimon Tamers: "Meaning of Partner - Renamon Evolves!"]]
+}}
+{{DlistJ
+|n=Indaramon
+|k=インダラモン 
+|yr=2001
+|d=[[Digimon Tamers - Episode 19|Digimon Tamers: "We Would Like to Become Strong! Rise, Impmon!"]]
+}}
+{{DlistJ
+|n=Infermon
+|k=インフェルモン 
+|yr=2000
+|d=[[Digimon Adventure: Our War Game!]]
+}}
+{{DlistJ
+|n=Insekimon
+|k=インセキモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==J==
+{{DlistJHeader}}
+{{DlistJ
+|n=Jäger Dorulumon
+|k=イエーガードルルモン 
+|yr=2011
+|d=[[Digimon Xros Wars - Chapter 17|Digimon Xros Wars: "Xros Warrior!! The Released Demon!!"]]
+}}
+{{DlistJ
+|n=Jesmon
+|k=ジエスモン
+|yr=2014
+|d=[[Digivice Ver.15th]]
+}}
+{{DlistJ
+|n=Jesmon X-Antibody
+|k=ジエスモンX抗体
+|yr=2018
+|d=[[Digimon Pendulum Ver.20th]]
+}}
+{{DlistJ
+|n=Jet Mervamon
+|k=ジェットメルヴァモン 
+|yr=2011
+|d=[[XW35|Digimon Xros Wars: "Our Power is Being Drained! The Hunters of Honey Land"]]
+}}
+{{DlistJ
+|n=Jet Silphymon
+|k=ジェットシルフィーモン 
+|yr=2011
+|d=[[Bo-881]] ([[Booster 18]])
+}}
+{{DlistJ
+|n=Jewelbeemon
+|k=ジュエルビーモン 
+|yr=2002
+|d=[[St-658]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Jijimon
+|k=ジジモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Jiji Shoutmon
+|k=ジジシャウトモン 
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 23|Digimon Xros Wars: "Shinobi Zone, The Comical Ninja Battle!"]]
+}}
+{{DlistJ
+|n=Jiko Chuumon
+|k=ジコチューモン
+|yr=2001
+|d=[[Digimon Adventure 02: Armor Evolution to the Unknown]]
+}}
+{{DlistJ
+|n=Jokermon
+|k=ジョーカーモン 
+|yr=2012
+|d={{url|http://www.tv-asahi.co.jp/digimon/news/120222/index.html|TV Asahi's official Digimon Xros Wars website}}
+}}
+{{DlistJ
+|n=Jumbo Gamemon
+|k=ジャンボガメモン 
+|yr=2006
+|d=[[Digivice iC 20X]]
+}}
+{{DlistJ
+|n=Jungle Mojyamon
+|k=ジャングルモジャモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Junomon
+|k=ユノモン 
+|yr=2014
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Junomon: Hysteric Mode
+|k=ユノモン：ヒステリックモード
+|yr=2014
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Jupitermon
+|k=ユピテルモン 
+|yr=2013
+|d=[[Digimon Reference Book]] ([[Digimon Web]])
+}}
+{{DlistJ
+|n=Jupitermon: Wrath Mode
+|k=ユピテルモン：ラースモード 
+|yr=2014
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Justimon
+|k=ジャスティモン 
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=Jyagamon
+|k=ジャガモン 
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Jyarimon
+|k=ジャリモン
+|yr=2001
+|d=[[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Jyureimon
+|k=ジュレイモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==K==
+
+{{DlistJHeader}}
+{{DlistJ
+|n=Kabukimon
+|k=カブキモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Kabuterimon
+|k=カブテリモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Kaiser Greymon
+|k=カイゼルグレイモン
+|yr=2002
+|d=[[Bo-802]] ([[Booster 17]])
+}}
+{{DlistJ
+|n=Kaiser Leomon
+|k=カイザーレオモン
+|yr=2002
+|d=[[Bo-805]] ([[Booster 17]])
+}}
+{{DlistJ
+|n=Kakkinmon
+|k=カッキンモン
+|yr=2018
+|d=[[Digimon Pendulum Ver.20th]]
+}}
+{{DlistJ
+|n=Kamemon
+|k=カメモン
+|yr=2006
+|d=[[Digimon Savers - Episode 01|Digimon Savers: "I am Masaru! Cockatrimon Strikes"]]
+}}
+{{DlistJ
+|n=Kangalmon
+|k=カンガルモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Karatenmon
+|k=カラテンモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Karatuki Numemon
+|k=カラツキヌメモン
+|yr=1999
+|d={{url2|http://stat.ameba.jp/user_images/20160415/16/nakano-aiai/e9/88/j/o0480064013620994156.jpg|Digital Monster Digimon Stickers EX Collection}}
+}}
+{{DlistJ
+|n=Kenkimon
+|k=ケンキモン
+|yr=2002
+|d=[[St-645]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Keramon
+|k=ケラモン
+|yr=2000
+|d=[[Bo-172]] ([[Booster 4]])
+}}
+{{DlistJ
+|n=Ketomon
+|k=ケトモン
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=Kiimon
+|k=キーモン
+|yr=2002
+|d={{url2|http://i.ebayimg.com/00/s/MTQzMVgxMDAw/z/yhwAAOxyNo9Sykv3/$_57.JPG|Digimon Tamers Koushiki Daizukan Vol. VI}}
+}}
+{{DlistJ
+|n=King Chessmon
+|k=キングチェスモン
+|yr=2006
+|d=[[DigiWindow]]
+}}
+{{DlistJ
+|n=King Etemon
+|k=キングエテモン
+|yr=1999
+|d=[[Digimon Adventure: Anode Tamer]]
+}}
+{{DlistJ
+|n=Kinkakumon
+|k=キンカクモン
+|yr=2011
+|d=[[4-060]] ([[Digimon Jintrix Set 4]])
+}}
+{{DlistJ
+|n=Kita Kitsunemon
+|k=キタキツネモン
+|yr=2001
+|d=[[Digimon Adventure 02: Armor Evolution to the Unknown]]
+}}
+{{DlistJ
+|n=Kiwimon
+|k=キウイモン
+|yr=1999
+|d=[[Pendulum 4.0|Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Knight Chessmon (Black)
+|k=ナイトチェスモン（黒）
+|yr=2006
+|d=[[DigiWindow]]
+}}
+{{DlistJ
+|n=Knight Chessmon (White)
+|k=ナイトチェスモン（白）
+|yr=2006
+|d=[[DigiWindow]]
+}}
+{{DlistJ
+|n=Knightmon
+|k=ナイトモン
+|yr=1999
+|d=[[Pendulum 5.0|Pendulum 5.0 Metal Empire]]
+}}
+{{DlistJ
+|n=Knightmon Wise Sword Mode
+|k=ナイトモンワイズソードモード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 54|Digimon Xros Wars: "Glorious DigiXros, Seize it! Our Future!!"]]
+}}
+{{DlistJ
+|n=Kodokugumon
+|k=コドクグモン
+|yr=1999
+|d=[[Digimon Adventure - Episode 28|Digimon Adventure: "The Chase! Hurry to Japan"]]
+}}
+{{DlistJ
+|n=Koemon
+|k=コエモン
+|yr=2002
+|d=[[Digimon World 3]] or [[Bo-706]] ([[Booster 15]])
+}}
+{{DlistJ
+|n=Kohagurumon
+|k=コハグルモン
+|yr=2004
+|d=
+}}
+{{DlistJ
+|n=Kokabuterimon
+|k=コカブテリモン
+|yr=2005
+|d=[[Bo-1164]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Justice Genome]]
+}}
+{{DlistJ
+|n=Kokuwamon
+|k=コクワモン
+|yr=1999
+|d={{url|http://web.archive.org/web/20040815162813/http://www.digimon.channel.or.jp/town/workshop/winner.html|First Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Kokuwamon X-Antibody
+|k=コクワモンX抗体
+|yr=2003
+|d=[[Sx-15]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Kongoumon
+|k=コンゴウモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Koromon
+|k=コロモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Kotemon
+|k=コテモン
+|yr=2002
+|d=[[Digimon World 3]] or [[Bo-705]] ([[Booster 15]])
+}}
+{{DlistJ
+|n=Kougamon
+|k=コウガモン
+|yr=2002
+|d=[[St-634]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Kozenimon
+|k=コゼニモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 62|Digimon Xros Wars: "The Digimon Hunt is Thriving! The Virtuoso Hunter of the Shopping District!!"]]
+}}
+{{DlistJ
+|n=Kudamon
+|k=クダモン
+|yr=2005
+|d=[[Digimon Accel Ultimate Genome]]
+}}
+{{DlistJ
+|n=Kudamon (2006 Anime Version)
+|k=クダモン（２００６アニメ版）
+|yr=2006
+|d=[[Digimon Savers - Episode 01|Digimon Savers: "I am Masaru! Cockatrimon Strikes"]]
+}}
+{{DlistJ
+|n=Kumbhiramon
+|k=クンビラモン
+|yr=2001
+|d=[[Digimon Tamers - Episode 21|Digimon Tamers: "Juri's Partner!? My Lord Leomon"]]
+}}
+{{DlistJ
+|n=Kunemon
+|k=クネモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Kuramon
+|k=クラモン
+|yr=2000
+|d=[[Digimon Adventure: Our War Game!]]
+}}
+{{DlistJ
+|n=Kuwagamon
+|k=クワガーモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Kuwagamon X-Antibody
+|k=クワガーモンX抗体
+|yr=2003
+|d=[[Sx-16]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Kuzuhamon
+|k=クズハモン
+|yr=2001
+|d=[[D-Ark Version 2.0]]
+}}
+{{DlistJ
+|n=Kyaromon
+|k=キャロモン
+|yr=2005
+|d=[[Digimon Accel Ultimate Genome]]
+}}
+{{DlistJ
+|n=Kyokyomon
+|k=キョキョモン
+|yr=2004
+|d=[[Pendulum X 2.0]]
+}}
+{{DlistJ
+|n=Kyubimon
+|k=キュウビモン
+|yr=2001
+|d=[[Bo-409]] ([[Booster 9]])
+}}
+{{DlistJ
+|n=Kyubimon (Silver)
+|k=キュウビモン（銀）
+|yr=2001
+|d=[[St-456]] ([[Starter Ver. 6]])
+}}
+{{DlistJ
+|n=Kyukanmon
+|k=キュウカンチョウモン
+|yr=2001
+|d=[[Digimon Adventure 02: Armor Evolution to the Unknown]]
+}}
+{{DlistJ
+|n=Kyukimon
+|k=キュウキモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==L==
+{{DlistJHeader}}
+{{DlistJ
+|n=Labramon
+|k=ラブラモン 
+|yr=2001
+|d=[[Digimon Tamers: The Adventurers' Battle]]
+}}
+{{DlistJ
+|n=Lady Devimon
+|k=レディーデビモン 
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Lalamon
+|k=ララモン 
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=Lampmon
+|k=ランプモン
+|yr=2000
+|d={{url|List_of_Digimon_Design_Contests#2nd Digimon Web Dot-art Contest|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Lavorvomon
+|k=ラヴォーボモン 
+|yr=2017
+|d=[[Digimon Linkz]]
+}}
+{{DlistJ
+|n=Lavogaritamon
+|k=ラヴォガリータモン 
+|yr=2017
+|d=[[Digimon Linkz]]
+}}
+{{DlistJ
+|n=Leafmon
+|k=リーフモン 
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Lekismon
+|k=レキスモン 
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Leomon
+|k=レオモン 
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Leomon X-Antibody
+|k=レオモンX抗体
+|yr=2002
+|d=[[Bx-5]] ([[Booster 19]])
+}}
+{{DlistJ
+|n=Leviamon
+|k=リヴァイアモン
+|yr=2004
+|d=[[Bo-1064]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Liamon
+|k=ライアモン 
+|yr=2005
+|d=[[Bo-1173]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Justice Genome]]
+}}
+{{DlistJ
+|n=Lighdramon
+|k=ライドラモン 
+|yr=2000
+|d=[[St-120]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Lilamon
+|k=ライラモン
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=Lilimon
+|k=リリモン 
+|yr=1999
+|d=[[Digivice Version 1]]
+}}
+{{DlistJ
+|n=Lilimon X-Antibody
+|k=リリモンX抗体 
+|yr=2003
+|d=[[Bx-94]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Lilithmon
+|k=リリスモン 
+|yr=2002
+|d=[[Pendulum Progress 2.0]]
+}}
+{{DlistJ
+|n=Linkmon
+|k=リンクモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Liollmon
+|k=レオルモン
+|yr=2005
+|d=[[Bo-1172]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Justice Genome]]
+}}
+{{DlistJ
+|n=Loader Liomon
+|k=ローダーレオモン 
+|yr=2005
+|d=[[Bo-1174]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Justice Genome]]
+}}
+{{DlistJ
+|n=Locomon
+|k=ロコモン 
+|yr=2002
+|d=[[Bo-683]] ([[Booster 14]]) or [[Digimon Tamers: The Runaway Digimon Express]]
+}}
+{{DlistJ
+|n=Lopmon
+|k=ロップモン 
+|yr=2000
+|d=[[Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals|Digimon Hurricane Touchdown!! Supreme Evolution!!  The Golden Digimentals]]
+}}
+{{DlistJ
+|n=Lord Knightmon
+|k=ロードナイトモン
+|yr=2002
+|d=[[St-864]] ([[Ultimate Battle Deck 4]]) or [[D-Scanner 3.0]]
+}}
+{{DlistJ
+|n=Lotusmon
+|k=ロトスモン 
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Lucemon
+|k=ルーチェモン
+|yr=2001
+|d=[[Bo-610]] ([[Booster 13]])
+}}
+{{DlistJ
+|n=Lucemon Falldown Mode
+|k=ルーチェモン フォールダウンモード 
+|yr=2002
+|d=[[D-Scanner 3.0]]
+}}
+{{DlistJ
+|n=Lucemon Larva
+|k=ルーチェモンラルバ 
+|yr=2003
+|d=[[Bo-141t]] ([[Expansion Board 6]])
+}}
+{{DlistJ
+|n=Lucemon: Satan Mode
+|k=ルーチェモン：サタンモード
+|yr=2002
+|d=[[D-Scanner 3.0]]
+}}
+{{DlistJ
+|n=Ludomon
+|k=ルドモン
+|yr=2017
+|d=[[Digimon Pendulum Ver.20th]]
+}}
+{{DlistJ
+|n=Luminamon
+|k=ルミナモン
+|yr=2012
+|d=[[Digimon Xros Wars - Chapter 20|Digimon Xros Wars: "Xros Miracle!! Reel in a Sliver of Hope!!"]]
+}}
+{{DlistJ
+|n=Lunamon
+|k=ルナモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]] & [[Digimon Story: Moonlight|Moonlight]]
+}}
+{{DlistJ
+|n=Lykamon
+|k=リュカモン 
+|yr=2002
+|d=[[V-48|Digimon Adventure V-Tamer 01: "DELETE"]]
+}}
+{{DlistJ
+|n=Lynxmon
+|k=ランクスモン 
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Löwemon
+|k=レーベモン
+|yr=2002
+|d=[[St-771]] ([[Starter Ver. 8]])
+}}
+{{DlistJFooter}}
+{{ROT}}
+
+==M==
+
+{{DlistJHeader}}
+{{DlistJ
+|n=Mach Gaogamon
+|k=マッハガオガモン
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=Mach Leomon
+|k=マッハレオモン
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 01|Digimon Xros Wars: "Xrosroad!! The Boys' Paths Cross"]]
+}}
+{{DlistJ
+|n=Mad Leomon
+|k=マッドレオモン
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 01|Digimon Xros Wars: "Taiki, Go to Another World!"]]
+}}
+{{DlistJ
+|n=Mad Leomon (Final Mode)
+|k=マッドレオモン（ファイナルモード）
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 03|Digimon Xros Wars: "Rival Kiriha, Appear!"]]
+}}
+{{DlistJ
+|n=Mad Leomon (Orochi Mode)
+|k=マッドレオモン（オロチモード）
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 02|Digimon Xros Wars: "Shoutmon, Roar!"]]
+}}
+{{DlistJ
+|n=Mad Leomon: Armed Mode
+|k=マッドレオモン：アームドモード
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 01|Digimon Xros Wars: "Taiki, Go to Another World!"]]
+}}
+{{DlistJ
+|n=Magna Garurumon
+|k=マグナガルルモン
+|yr=2002
+|d=[[Bo-851]] ([[Booster 17]])
+}}
+{{DlistJ
+|n=Magna Kidmon
+|k=マグナキッドモン
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Magnamon
+|k=マグナモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Magnamon X-Antibody
+|k=マグナモンX抗体
+|yr=2003
+|d=[[Bx-99]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Mail Birdramon
+|k=メイルバードラモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Mail Birdramon + Golemon
+|k=N/A
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 03|Digimon Xros Wars: "Rival Kiriha, Appear!"]]
+}}
+{{DlistJ
+|n=Maildramon
+|k=メイルドラモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Mailmon
+|k=メ一ルモン
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Majiramon
+|k=マジラモン
+|yr=2001
+|d=[[Digimon Tamers - Episode 25|Digimon Tamers: "Enter the Digital World! Goodbye to Our City"]]
+}}
+{{DlistJ
+|n=Majuu Lilithmon
+|k=魔獣リリスモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 48|Digimon Xros Wars: "Beelzebumon, Vanish into the Light!"]]
+}}
+{{DlistJ
+|n=Makuramon
+|k=マクラモン
+|yr=2001
+|d=
+}}
+{{DlistJ
+|n=Mamemon
+|k=マメモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Mamemon X-Antibody
+|k=マメモンX抗体
+|yr=2004
+|d=[[Bx-120]] ([[Booster 23]])
+}}
+{{DlistJ
+|n=Mametyramon
+|k=マメティラモン
+|yr=2003
+|d=[[Bx-43]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Mammon
+|k=マンモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Mammon X-Antibody
+|k=マンモンX抗体
+|yr=2003
+|d=[[Bx-55]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Manbomon
+|k=マンボモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Mantaraymon
+|k=マンタレイモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Mantaraymon X-Antibody
+|k=マンタレイモンX抗体
+|yr=2003
+|d=[[Bx-61]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Marin Angemon
+|k=マリンエンジェモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Marin Devimon
+|k=マリンデビモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Marsmon
+|k=マルスモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Mastemon
+|k=マスティモン
+|yr=2015
+|d=[[Digimon Story: Cyber Sleuth]]
+}}
+{{DlistJ
+|n=Master Tyranomon
+|k=マスターティラノモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Master V-dramon
+|k=マスターブイドラモン
+|yr=2000
+|d=[[Digimon Adventure 02: D1 Tamers]]
+}}
+{{DlistJ
+|n=Matadrmon
+|k=マタドゥルモン
+|yr=2005
+|d=[[Bx-167]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Evil Genome]]
+}}
+{{DlistJ
+|n=Mecha Rogue 01
+|k=メカローグ01
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=Mecha Rogue 02
+|k=メカローグ02
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=Mecha Rogue 03
+|k=メカローグ03
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=Mecha Rogue 04
+|k=メカローグ04
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=Mecha Rogue 05
+|k=メカローグ05
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=Mecha Rogue X
+|k=メカローグX
+|yr=2005
+|d=[[Digimon World X]]
+}}
+{{DlistJ
+|n=Mechanorimon
+|k=メカノリモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Medieval Dukemon
+|k=メディーバルデュークモン
+|yr=2003
+|d=[[Bx-49]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Mega Black Shoutmon X7
+|k=メガブラックシャウトモンＸ７
+|yr=2011
+|d={{url|www.carddass.com/digimon/news/news47.html Super Digica Taisen: "The Seventh Act Latest Information (1): "Huge Boss" MegaBlackShoutmon X7 Attacks!!!"}}
+}}
+{{DlistJ
+|n=Mega Dark Knightmon
+|k=メガダークナイトモン
+|yr=2011
+|d={{url|www.carddass.com/digimon/news/news27.html Super Digica Taisen: "Newsflash! You can battle with a magnified DarkKnightmon on 01/19/2011!"}}
+}}
+{{DlistJ
+|n=Mega Darkness Bagramon
+|k=メガダークネスバグラモン
+|yr=2011
+|d={{url|www.carddass.com/digimon/game/6thboss.html Super Digica Taisen: "Sixth Act Giant Boss, a Showdown with MegaDarknessBagramon!"}}
+}}
+{{DlistJ
+|n=Mega Decker Greymon
+|k=メガデッカーグレイモン
+|yr=2011
+|d={{url|www.carddass.com/digimon/blog/2011/02/04/ Super Digica Taisen: "A little bit more until the Fourth Act is in motion!"}}
+}}
+{{DlistJ
+|n=Mega Gran Kuwagamon
+|k=メガグランクワガーモン
+|yr=2010
+|d={{url|www.carddass.com/digimon/game/3rdboss.html Super Digica Taisen: "The Third Act: Huge Boss MegaGranKuwagamon"}}
+}}
+{{DlistJ
+|n=Mega Muso Knightmon
+|k=メガムソーナイトモン
+|yr=2011
+|d={{url|www.carddass.com/digimon/news/news41.html Super Digica Taisen: "A huge boss in the Fifth Act! MegaMusoKnightmon stands in your way!!"}}
+}}
+{{DlistJ
+|n=Mega Seadramon
+|k=メガシードラモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Mega Seadramon X-Antibody
+|k=メガシードラモンX抗体
+|yr=2003
+|d=[[Sx-25]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Megadramon
+|k=メガドラモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Megalo Growmon
+|k=メガログラウモン
+|yr=2001
+|d=[[St-325]] ([[Starter Ver. 5]]) or [[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Megalo Growmon X-Antibody
+|k=メガログラウモンX抗体
+|yr=2003
+|d=[[Bx-50]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Megalo Growmon (Data)
+|k=メガログラウモン
+|yr=2001
+|d=[[Bo-613]] ([[Booster 13]])
+}}
+{{DlistJ
+|n=Megidramon
+|k=メギドラモン
+|yr=2001
+|d=[[Digimon Tamers - Episode 34|Digimon Tamers: "The Kindhearted Hero - Leomon Dies!"]]
+}}
+{{DlistJ
+|n=Megidramon X-Antibody
+|k=メギドラモンX抗体
+|yr=2003
+|d=[[Sx-44]] ([[Ultimate Battle Deck 5]])
+}}
+{{DlistJ
+|n=Meicrackmon
+|k=メイクラックモン
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Meicrackmon Vicious Mode
+|k=メイクラックモンヴィシャスモード
+|yr=2016
+|d=[[Digimon World -next 0rder-]]
+}}
+{{DlistJ
+|n=Meicoomon
+|k=メイクーモン
+|yr=2015
+|d=[[Digimon Adventure tri. - "Reunion"]]
+}}
+{{DlistJ
+|n=Meicoomon (Mutated)
+|k=メイクーモン
+|yr=2016
+|d=[[Digimon Adventure tri. - "Determination"]]
+}}
+{{DlistJ
+|n=Meicoomon's Unnamed Baby Form
+|k=
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Meicoomon's Unnamed Child Form
+|k=
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Mephismon
+|k=メフィスモン
+|yr=2001
+|d=[[Digimon Tamers: The Adventurers' Battle]] or [[St-417]] ([[Ultimate Battle Deck 2]])
+}}
+{{DlistJ
+|n=Meramon
+|k=メラモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Mercuremon
+|k=メルキューレモン
+|yr=2002
+|d=[[St-651]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Mercurymon
+|k=メルクリモン
+|yr=2005
+|d=[[Digimon Accel Nature Genome]]
+}}
+{{DlistJ
+|n=Mermaimon
+|k=マーメイモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Mervamon
+|k=メルヴァモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 35|Digimon Xros Wars: "Power is Being Sucked Up! The Hunters of Honey Land"]]
+}}
+{{DlistJ
+|n=Mervamon Wide Hi-Vision Sword
+|k=メルヴァモン ワイドハイビジョンソード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 37|Digimon Xros Wars: "Brother, Why!? The Nightmare of Enemy General Yuu"]]
+}}
+{{DlistJ
+|n=Messemon
+|k=メッセモン
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Messemon (Virus)
+|k=メッセモン（ウィルス）
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Metal Etemon
+|k=メタルエテモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Metal Fantomon
+|k=メタルファントモン
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJ
+|n=Metal Garurumon
+|k=メタルガルルモン
+|yr=1999
+|d=[[Pendulum 5.0|Pendulum 5.0 Metal Empire]]
+}}
+{{DlistJ
+|n=Metal Garurumon X-Antibody
+|k=メタルガルルモンX抗体
+|yr=2003
+|d=[[Bx-1]] ([[Booster 19]])
+}}
+{{DlistJ
+|n=Metal Garurumon (Black)
+|k=メタルガルルモン
+|yr=2000
+|d=[[St-152]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Metal Greymon
+|k=メタルグレイモン
+|yr=1999
+|d=[[Digivice Version 1]] or [[Digimon Adventure - Episode 20|Digimon Adventure: "Perfect Evolution! Metal Greymon"]]
+}}
+{{DlistJ
+|n=Metal Greymon X-Antibody
+|k=メタルグレイモンX抗体
+|yr=2003
+|d=[[Sx-10]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Metal Greymon (2010 Anime Version)
+|k=メタルグレイモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Metal Greymon (Virus)
+|k=メタルグレイモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Metal Greymon + Cyber Launcher
+|k=メタルグレイモン＋サイバーランチャー
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Metal Mamemon
+|k=メタルマメモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Metal Mamemon X-Antibody
+|k=メタルマメモンX抗体
+|yr=2004
+|d=[[Bx-118]] ([[Booster 23]])
+}}
+{{DlistJ
+|n=Metal Piranimon
+|k=メタルピラニモン
+|yr=2003
+|d=[[Sx-61]] ([[Ultimate Battle Deck 5]])
+}}
+{{DlistJ
+|n=Metal Seadramon
+|k=メタルシードラモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Metal Tyranomon
+|k=メタルティラノモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Metal Tyranomon X-Antibody
+|k=メタルティラノモンX抗体
+|yr=2003
+|d=[[Bx-86]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Metallife Kuwagamon
+|k=メタリフェクワガーモン
+|yr=2005
+|d=[[Bo-1167]] ([[Digitalize Booster Pack]]) or [[Digimon Accel Justice Genome]]
+}}
+{{DlistJ
+|n=Metamormon
+|k=メタモルモン
+|yr=2002
+|d=[[Digimon Adventure V-Tamer 01 - Special 03|Digimon Adventure V-Tamer 01: "Frontier Generation"]]
+}}
+{{DlistJ
+|n=Mihiramon
+|k=ミヒラモン
+|yr=2001
+|d=[[Digimon Tamers - Episode 14|Digimon Tamers: "Stand Up Tamer! The Super Evolved Megalo Growmon"]]
+}}
+{{DlistJ
+|n=Mikemon
+|k=ミケモン
+|yr=2007
+|d=[[St-627]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Millenniumon
+|k=ミレニアモン
+|yr=1999
+|d=[[Digimon Adventure: Anode Tamer]]
+}}
+{{DlistJ
+|n=Minervamon
+|k=ミネルヴァモン
+|yr=2005
+|d=[[Bo-1182]] ([[Digitalize Booster Pack 2]])
+}}
+{{DlistJ
+|n=Minidekachimon
+|k=ミニデカチモン
+|yr=2006
+|d=[[List_of_Digimon_Design_Contests#DigiWindow Original Digimon Contest|DigiWindow Original Digimon Contest]] (''Unreleased Digimon'')
+}}
+{{DlistJ
+|n=Minomon
+|k=ミノモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Minotaurmon
+|k=ミノタルモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Mirage Gaogamon
+|k=ミラージュガオガモン
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=Mirage Gaogamon: Burst Mode
+|k=ミラージュガオガモン バーストモード
+|yr=2006
+|d=[[Digivice Burst (Toy)|Digivice Burst]]
+}}
+{{DlistJ
+|n=Mirror Ballmon
+|k=ミラーボールモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Missimon
+|k=ミサイモン
+|yr=2005
+|d=[[Digimon Accel Evil Genome]]
+}}
+{{DlistJ
+|n=Mistymon
+|k=ミスティモン
+|yr=2002
+|d=[[St-856]] ([[Ultimate Battle Deck 4]])
+}}
+{{DlistJ
+|n=Mochimon
+|k=モチモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Modoki Betamon
+|k=モドキベタモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Mojyamon
+|k=モジャモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Mokumon
+|k=モクモン
+|yr=1999
+|d=[[Pendulum 3.0|Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Monimon
+|k=モニモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Monitamon
+|k=モニタモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Monochromon
+|k=モノクロモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Monochromon X-Antibody
+|k=モノクロモンX抗体
+|yr=2003
+|d=[[Bx-45]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Monodramon
+|k=モノドラモン
+|yr=2001
+|d=[[St-495]] ([[Ultimate Battle Deck 3]]) or [[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=Monzaemon
+|k=もんざえモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Moon=Millenniumon
+|k=ムーン＝ミレニアモン
+|yr=2000
+|d=[[Digimon Adventure 02: Tag Tamers]]
+}}
+{{DlistJ
+|n=Moonmon
+|k=ムンモン
+|yr=2007
+|d=[[Digimon Story: Moonlight]]
+}}
+{{DlistJ
+|n=Moosemon
+|k=ムースモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Mori Shellmon
+|k=モリシェルモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Mother D-Reaper
+|k=マザーデ・リーパー
+|yr=2002
+|d=[[Digimon Tamers - Episode 49|Digimon Tamers: "The City's Destruction! Culumon's Wish"]]
+}}
+{{DlistJ
+|n=Mother Eater
+|k=マザー・イーター
+|yr=2015
+|d=[[Digimon Story: Cyber Sleuth]]
+}}
+{{DlistJ
+|n=Mothmon
+|k=モスモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Muchomon
+|k=ムーチョモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Mugendramon
+|k=ムゲンドラモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Mummymon
+|k=マミーモン
+|yr=1999
+|d=[[List_of_Digimon_Design_Contests#2nd Bandai-Town FAX Service Digimon Illustration Contest|Second Digimon Illustration Contest (Bandai-Town)]]
+}}
+{{DlistJ
+|n=Murmukusmon
+|k=ムルムクスモン
+|yr=2002
+|d=[[Digimon Frontier: Revival of the Ancient Digimon!!]]
+}}
+{{DlistJ
+|n=Mush-Upped Mach Leomon
+|k=マッシュアップド マッハレオモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Mushmon
+|k=マッシュモン
+|yr=1999
+|d=[[Pendulum 4.0|Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Musimon
+|k=ミュージモン
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Musou Knightmon
+|k=ムソーナイトモン
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Musyamon
+|k=ムシャモン
+|yr=1999
+|d=[[Digital Monster Ver. WonderSwan]]
+}}
+{{DlistJFooter}}
+{{ROT}}
+
+==N==
+{{DlistJHeader}}
+{{DlistJ
+|n=Nanimon
+|k=ナニモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Nanomon
+|k=ナノモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Navimon
+|k=ナビモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Neamon
+|k=ネーモン
+|yr=2002
+|d=[[Digimon Frontier - Episode 01|Digimon Frontier: ''"The Legendary Warrior! Agnimon of Fire"'']]
+}}
+{{DlistJ
+|n=Nefertimon
+|k=ネフェルティモン
+|yr=2000
+|d=[[Digimon Adventure 02 - Episode 03|Digimon Adventure 02: ''"Digimental Up"'']]
+}}
+{{DlistJ
+|n=Nefertimon X-Antibody
+|k=ネフェルティモンX抗体
+|yr=2003
+|d=[[Bx-98]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Nene Luminamon
+|k=N/A
+|yr=2012
+|d=[[Digimon Xros Wars - Chapter 20|Digimon Xros Wars: "Xros Miracle!! Reel in a Sliver of Hope!"]]
+}}
+{{DlistJ
+|n=Nene Shademon
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Chapter 09|Digimon Xros Wars: "Xros Darkness!! Conspiracy's Dark Fortress!!"]]
+}}
+{{DlistJ
+|n=NEO
+|k=ネオ
+|yr=2006
+|d=[[Battle 04|Digimon Next: "Commandments of Terror!"]]
+}}
+{{DlistJ
+|n=Neo Crimson
+|k=ネオクリムゾン
+|yr=2000
+|d=[[Digimon World 2]]
+}}
+{{DlistJ
+|n=Neo Devimon
+|k=ネオデビモン
+|yr=2002
+|d=[[V-41|Digimon Adventure V-Tamer 01: "Digimon Tamer"]]
+}}
+{{DlistJ
+|n=Neo Vamdemon
+|k=ネオヴァンデモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 31|Digimon Xros Wars: ''"To a New World! The Fire Rage General's Dragon Land"'']]
+}}
+{{DlistJ
+|n=Neo Vamdemon + Devimon + Lady Devimon
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 33|Digimon Xros Wars: ''"Spine-chilling! The Moonlight General's Vampire Land"'']]
+}}
+{{DlistJ
+|n=Neo Vamdemon Darkness Mode
+|k=ネオヴァンデモンダークネスモード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 33|Digimon Xros Wars: ''"Spine-chilling! The Moonlight General's Vampire Land"'']]
+}}
+{{DlistJ
+|n=Neo Vamdemon Darkness Mode + Shoutmon
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 34|Digimon Xros Wars: ''"Don't Die, Greymon! The Birth of Shoutmon DX"'']]
+}}
+{{DlistJ
+|n=Neptunemon
+|k=ネプトゥーンモン
+|yr=2005
+|d=[[Digimon Accel Nature Genome]]
+}}
+{{DlistJ
+|n=Nise Agumon Hakase
+|k=ニセアグモン博士
+|yr=2006
+|d=[[Digimon Reference Book]] ([[Digimon Web]])
+}}
+{{DlistJ
+|n=Nise Drimogemon
+|k=ニセドリモゲモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Nohemon
+|k=ノヘモン
+|yr=2000
+|d=[[Bo-218]] ([[Booster 5]])
+}}
+{{DlistJ
+|n=Numemon
+|k=ヌメモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Nyaromon
+|k=ニャロモン
+|yr=1999
+|d=[[Digimon Adventure - Episode 34|Digimon Adventure: ''"The Bond of Destiny! Tailmon"'']]
+}}
+{{DlistJ
+|n=Nyokimon
+|k=ニョキモン
+|yr=1999
+|d=[[Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==O==
+{{DlistJHeader}}
+{{DlistJ
+|n=Ochi Musyamon
+|k=オチムシャモン
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 04|Digimon Xros Wars: "Xros Rival!! The Blue Hound Kiriha!!"]]
+}}
+{{DlistJ
+|n=Octmon
+|k=オクタモン
+|yr=1998
+|d=[[Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Ofanimon
+|k=オファニモン 
+|yr=2001
+|d=[[St-478]] ([[Starter Ver. 6]])
+}}
+{{DlistJ
+|n=Ofanimon Core
+|k=オファニモン コア 
+|yr=2007
+|d=[[Digimon Story: Moonlight]]
+}}
+{{DlistJ
+|n=Ofanimon Falldown Mode
+|k=オファニモン フォールダウンモード
+|yr=2011
+|d=[[4-068]] ([[Digimon Jintrix Set 4]])
+}}
+{{DlistJ
+|n=Ogudomon
+|k=オグドモン
+|yr=2007
+|d=[[DM02-104]] ([[Battle Terminal 02 Set 3]])
+}}
+{{DlistJ
+|n=Ohakadamon
+|k=おはかだモン 
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Olegmon
+|k=オレーグモン 
+|yr=2011
+|d=[[XW31|Digimon Xros Wars: "To a New World! The Fire Rage General's Dragon Land"]]
+}}
+{{DlistJ
+|n=Omega Armamon BM
+|k=オメガアルマモンBM
+|yr=2010
+|d=[[Digimon Story: Super Xros Wars Blue]] & [[Digimon Story: Super Xros Wars Red|Red]]
+}}
+{{DlistJ
+|n=Omega Shoutmon
+|k=オメガシャウトモン 
+|yr=2011
+|d=[[XW30|Digimon Xros Wars: "A New Journey!! The Great Tokyo Showdown!!"]]
+}}
+{{DlistJ
+|n=Omegamon
+|k=オメガモン 
+|yr=2000
+|d=[[Digimon Adventure: Our War Game]]
+}}
+{{DlistJ
+|n=Omegamon Alter-B
+|k=オメガモン Alter-B
+|yr=2016
+|d=[[Digimon World -next 0rder-]]
+}}
+{{DlistJ
+|n=Omegamon Alter-S
+|k=オメガモン Alter-S
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Omegamon X-Antibody
+|k=オメガモンX抗体 
+|yr=2003
+|d=[[Sx-5]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Omegamon Zwart D
+|k=オメガモンズワルトＤ 
+|yr=2016
+|d=[[Digimon World -next 0rder-]]
+}}
+{{DlistJ
+|n=Omegamon Zwart
+|k=オメガモン ズワルト 
+|yr=2011
+|d=[[2-073]] ([[Digimon Jintrix Set 2]])
+}}
+{{DlistJ
+|n=Omekamon
+|k=オメカモン
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJ
+|n=Ookuwamon
+|k=オオクワモン
+|yr=1998
+|d=[[Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Ookuwamon X-Antibody
+|k=オオクワモンX抗体
+|yr=2003
+|d=[[Sx-17]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Opossummon
+|k=オポッサモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Orcamon
+|k=オルカモン
+|yr=1999
+|d=[[List_of_Digimon_Design_Contests#1st Bandai-Town FAX Service Digimon Illustration Contest|First Digimon Illustration Contest (Bandai-Town)]]
+}}
+{{DlistJ
+|n=Ordinemon
+|k=オルディネモン
+|yr=2017
+|d=[[Digimon Adventure tri. - "Coexistence"]]
+}}
+{{DlistJ
+|n=Orgemon
+|k=オーガモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Ornismon
+|k=オニスモン
+|yr=2002
+|d=[[Digimon Frontier: Revival of the Ancient Digimon!!]]
+}}
+{{DlistJ
+|n=Orochimon
+|k=オロチモン
+|yr=1999
+|d=[[List_of_Digimon_Design_Contests#3rd Bandai-Town FAX Service Digimon Illustration Contest|Third Digimon Illustration Contest (Bandai-Town)]]
+}}
+{{DlistJ
+|n=Otamamon
+|k=オタマモン
+|yr=1998
+|d=[[Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Otamamon X-Antibody
+|k=オタマモンX抗体
+|yr=2003
+|d=[[Sx-57]] ([[Ultimate Battle Deck 5]])
+}}
+{{DlistJ
+|n=Otamamon (Red)
+|k=オタマモン（赤）
+|yr=2000
+|d=[[Digimon World: Digital Card Arena]]
+}}
+{{DlistJ
+|n=Ouryumon
+|k=オウリュウモン
+|yr=2003
+|d=[[Bx-37]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Owlmon
+|k=アウルモン
+|yr=2000
+|d=[[St-134]] ([[Starter Ver. 3]])
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==P==
+{{DlistJHeader}}
+{{DlistJ
+|n=Pafumon
+|k=パフモン
+|yr=2005
+|d=[[Digimon Accel Ultimate Genome]]
+}}
+{{DlistJ
+|n=Pagumon
+|k=パグモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Paildramon
+|k=パイルドラモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Pajramon
+|k=パジラモン
+|yr=2001
+|d=
+}}
+{{DlistJ
+|n=Palmon
+|k=パルモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Palmon X-Antibody
+|k=パルモンX抗体
+|yr=2003
+|d=[[Bx-96]]
+}}
+{{DlistJ
+|n=Panbachimon
+|k=パンバチモン
+|yr=2010
+|d={{url2|http://oi56.tinypic.com/157fbbc.jpg|Toei Studio Tour Special}}
+}}
+{{DlistJ
+|n=Pandamon
+|k=パンダモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Panimon
+|k=パニモン
+|yr=2002
+|d=[[V-48|Digimon Adventure V-Tamer 01: "DELETE"]]
+}}
+{{DlistJ
+|n=Panjyamon
+|k=パンジャモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Panjyamon X-Antibody
+|k=パンジャモンX抗体
+|yr=2003
+|d=[[Bx-90]]
+}}
+{{DlistJ
+|n=Paomon
+|k=パオモン
+|yr=2001
+|d=[[D-Ark Version 2.0]]
+}}
+{{DlistJ
+|n=Parallelmon
+|k=パラレルモン
+|yr=2001
+|d=[[Digimon Adventure V-Tamer 01 - Special 02|Digimon Adventure V-Tamer 01: "Double Tamer!! The Great Super-dimensional Battle!!"]]
+}}
+{{DlistJ
+|n=Parasimon
+|k=パラサイモン
+|yr=2002
+|d=[[Bo-681]] ([[Booster 14]]) or [[Digimon Tamers: The Runaway Digimon Express]]
+}}
+{{DlistJ
+|n=Parrotmon
+|k=パロットモン
+|yr=1999
+|d=[[Digimon Adventure (Movie)]]
+}}
+{{DlistJ
+|n=Patamon
+|k=パタモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Pawn Chessmon (Black)
+|k=ポーンチェスモン (黒)
+|yr=2006
+|d=
+}}
+{{DlistJ
+|n=Pawn Chessmon (White)
+|k=ポーンチェスモン （白）
+|yr=2006
+|d=
+}}
+{{DlistJ
+|n=Pawn Gaossmon
+|k=ポーンガオスモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 54|Digimon Xros Wars: "Glorious DigiXros, Seize it! Our Future!!"]]
+}}
+{{DlistJ
+|n=Pawn Shoutmon
+|k=ポーンシャウトモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Peacockmon
+|k=ピーコックモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Peckmon
+|k=ペックモン
+|yr=2006
+|d=
+}}
+{{DlistJ
+|n=Pegasmon
+|k=ペガスモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Penmon
+|k=ペンモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Perorimon
+|k=ペロリモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Petaldramon
+|k=ペタルドラモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Petermon
+|k=ピーターモン
+|yr=2011
+|d=[[4-044]] ([[Digimon Jintrix Set 4]])
+}}
+{{DlistJ
+|n=Peti Meramon
+|k=プチメラモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Petit Mamon
+|k=プチマモン
+|yr=2001
+|d=[[V-38|Digimon Adventure V-Tamer 01: "Earthquake! Demon Castle!!"]]
+}}
+{{DlistJ
+|n=Petitmon
+|k=プチモン
+|yr=2007
+|d=[[Greatest_of_Digimon|Digimon 10th Anniversary Event]]
+}}
+{{DlistJ
+|n=Pharaohmon
+|k=ファラオモン
+|yr=2000
+|d=[[List_of_Digimon_Design_Contests#4th Bandai-Town FAX Service Digimon Illustration Contest|Fourth Digimon Illustration Contest (Bandai-Town)]]
+}}
+{{DlistJ
+|n=Phascomon
+|k=ファスコモン
+|yr=2004
+|d=[[Bo-1143]] ([[Booster 24]])
+}}
+{{DlistJ
+|n=Phelesmon
+|k=フェレスモン
+|yr=2002
+|d=[[St-667]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Piccolomon
+|k=ピッコロモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Pickmon
+|k=ピックモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Pickmons Slingshot
+|k=ピックモンズパチンコ
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 02|Digimon Xros Wars: "Shoutmon, Roar!"]]
+}}
+{{DlistJ
+|n=Pico Devimon
+|k=ピコデビモン
+|yr=1999
+|d=
+}}
+{{DlistJ
+|n=Pidmon
+|k=ピッドモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Piemon
+|k=ピエモン
+|yr=1999
+|d=[[Pendulum 3.0|Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Pile Volcamon
+|k=パイルボルケーモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Pilomon
+|k=ピロモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 74|Digimon Xros Wars: "The Rare Card is Gone! Invincible Rook Chessmon"]]'s {{url|i.imgur.com/ig1YgqX.png|Eyecatch}}
+}}
+{{DlistJ
+|n=Pinamon
+|k=ピナモン
+|yr=2005
+|d=
+}}
+{{DlistJ
+|n=Pinochimon
+|k=ピノッキモン
+|yr=1999
+|d=[[Pendulum 4.0|Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Pipimon
+|k=ピピモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Pipismon
+|k=ピピスモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Pitchmon
+|k=ピチモン
+|yr=1998
+|d=
+}}
+{{DlistJ
+|n=Piyomon
+|k=ピヨモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Platinum Numemon
+|k=プラチナヌメモン
+|yr=2006
+|d=
+}}
+{{DlistJ
+|n=Platinum Scumon
+|k=プラチナスカモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Plesiomon
+|k=プレシオモン
+|yr=1999
+|d=[[Pendulum 2.5 Deep Savers]]
+}}
+{{DlistJ
+|n=Plesiomon X-Antibody
+|k=プレシオモンX抗体
+|yr=2003
+|d=
+}}
+{{DlistJ
+|n=Plotmon
+|k=プロットモン
+|yr=1999
+|d=[[Digimon Adventure - Episode 34|Digimon Adventure: "The Bond of Destiny! Tailmon"]]
+}}
+{{DlistJ
+|n=Plotmon X-Antibody
+|k=プロットモンX抗体
+|yr=2003
+|d=
+}}
+{{DlistJ
+|n=Plutomon
+|k=プルートモン 
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Pokomon
+|k=ポコモン
+|yr=2001
+|d=[[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Ponchomon
+|k=ポンチョモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Popomon
+|k=ポポモン
+|yr=2005
+|d=[[Digimon Accel Justice Genome]]
+}}
+{{DlistJ
+|n=Porcupamon
+|k=ポキュパモン
+|yr=2004
+|d=[[Bo-1144]] ([[Booster 24]])
+}}
+{{DlistJ
+|n=Poromon
+|k=ポロモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Poyomon
+|k=ポヨモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Prairiemon
+|k=プレイリモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Prince Mamemon
+|k=プリンスマメモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Prince Mamemon X-Antibody
+|k=プリンスマメモンX抗体
+|yr=2003
+|d=
+}}
+{{DlistJ
+|n=Protecmon
+|k=プロテクモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Proto Gizmon
+|k=プロトギズモン
+|yr=2006
+|d=
+}}
+{{DlistJ
+|n=Psychemon
+|k=サイケモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Pteranomon
+|k=プテラノモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Pteranomon X-Antibody
+|k=プテラノモンX抗体
+|yr=2003
+|d=
+}}
+{{DlistJ
+|n=Pucchiemon
+|k=プッチーモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Pucchiemon (Green)
+|k=プッチーモン（緑）
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Pukamon
+|k=プカモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Pukumon
+|k=プクモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Pumpmon
+|k=パンプモン
+|yr=1999
+|d=[[Pendulum 3.0|Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Punch Narabimon
+|k=パンチナラビモン
+|yr=1999
+|d=[[List_of_Digimon_Design_Contests#1st Bandai-Town FAX Service Digimon Illustration Contest|First Digimon Illustration Contest (Bandai-Town)]] (''Unreleased Digimon'')
+}}
+{{DlistJ
+|n=Punimon
+|k=プニモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Pupumon
+|k=ププモン
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJ
+|n=Puroromon
+|k=プロロモン
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJ
+|n=Pururumon
+|k=プルルモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Puttimon
+|k=プットモン
+|yr=2002
+|d=[[Pendulum Progress 2.0]]
+}}
+{{DlistJ
+|n=Puwamon
+|k=プワモン
+|yr=2005
+|d=
+}}
+{{DlistJ
+|n=Pyocomon
+|k=ピョコモン
+|yr=1999
+|d=[[Digimon Adventure - Episode 01|Digimon Adventure: "Adrift? The Island of Adventure!"]]
+}}
+{{DlistJFooter}}
+{{ROT}}
+
+==Q==
+{{DlistJHeader}}
+{{DlistJ
+|n=Qinglongmon
+|k=チンロンモン 
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Quartzmon
+|k=クオーツモン  
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 76|Digimon Xros Wars: "A Golden Bug! The Mystery of Metallife Kuwagamon"]]
+}}
+{{DlistJ
+|n=Queen Chessmon
+|k=クイーンチェスモン
+|yr=2006
+|d=[[Digivice Burst (Toy)|Digivice Burst]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==R==
+{{DlistJHeader}}
+{{DlistJ
+|n=Rafflesimon
+|k=ラフレシモン
+|yr=2018
+|d=[[Digimon Pendulum Ver.20th]]
+}}
+{{DlistJ
+|n=Ragna Lordmon
+|k=ラグナロードモン
+|yr=2018
+|d=[[Digimon Pendulum Ver.20th]]
+}}
+{{DlistJ
+|n=Ragnamon
+|k=ラグナモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Raguelmon
+|k=ラグエルモン
+|yr=2017
+|d=[[Digimon Adventure tri. - "Coexistence"]]
+}}
+{{DlistJ
+|n=Raidenmon
+|k=ライデンモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Raidramon
+|k=レイドラモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Raiji Ludomon
+|k=ライジルドモン
+|yr=2018
+|d=[[Digimon Pendulum Ver.20th]]
+}}
+{{DlistJ
+|n=Raijinmon
+|k=ライジンモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Rampage Greymon
+|k=ランページグレイモン
+|yr=2011
+|d=[[Digimon Xros Wars - Chapter 09|Digimon Xros Wars: "Xros Darkness!! Conspiracy's Dark Fortress!!"]]
+}}
+{{DlistJ
+|n=Ranamon
+|k=ラーナモン
+|yr=2002
+|d=[[St-655]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Rapidmon Armor
+|k=ラピッドモン
+|yr=2000
+|d=[[Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals]]
+}}
+{{DlistJ
+|n=Rapidmon Perfect
+|k=ラピッドモン
+|yr=2001
+|d=[[St-348]] ([[Starter Ver. 5]]) or [[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Raptor Sparrowmon
+|k=ラプタースパロウモン
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Raptordramon
+|k=ラプタードラモン
+|yr=2003
+|d=[[Bx-11]] ([[Booster 20]])
+}}
+{{DlistJ
+|n=Raremon
+|k=レアモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Rare Star Sword
+|k=レアスターソード
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 03|Digimon Xros Wars: "Rival Kiriha, Appear!"]]
+}}
+{{DlistJ
+|n=Rasielmon
+|k=ラジエルモン
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Ravmon
+|k=レイヴモン
+|yr=2006
+|d=[[Digivice iC 20X]]
+}}
+{{DlistJ
+|n=Ravmon: Burst Mode
+|k=レイヴモン：バーストモード
+|yr=2006
+|d=[[Digivice Burst (Toy)|Digivice Burst]]
+}}
+{{DlistJ
+|n=Reaper
+|k=リーパー
+|yr=2002
+|d=[[Digimon Tamers - Episode 50|Digimon Tamers: "The Crimson Knight Dukemon - Save Your Beloved Ones!"]]
+}}
+{{DlistJ
+|n=Recomon
+|k=レコモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Red V-dramon
+|k=レッドブイドラモン
+|yr=2000
+|d=[[Digimon Adventure 02: D1 Tamers]]
+}}
+{{DlistJ
+|n=Red Vagimon
+|k=レッドベジーモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Regulumon
+|k=レグルモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Raihimon
+|k=ライヒモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Relemon
+|k=レレモン
+|yr=2001
+|d=[[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Renamon
+|k=レナモン
+|yr=2001
+|d=[[Bo-408]] ([[Booster 9]])
+}}
+{{DlistJ
+|n=Reppamon
+|k=レッパモン
+|yr=2005
+|d=[[Digimon Accel Ultimate Genome]]
+}}
+{{DlistJ
+|n=Reverse Weddinmon
+|k=リバース・ウェディンモン
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 03|Digimon Xros Wars: "Xros Sweets!! The Girls' Sweet Trap!?"]]
+}}
+{{DlistJ
+|n=Reviewmon
+|k=レビューモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Revolmon
+|k=リボルモン
+|yr=1999
+|d=[[Pendulum 5.0|Pendulum 5.0 Metal Empire]]
+}}
+{{DlistJ
+|n=Revolmon + Dorulu Cannon + Starmons
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 54|Digimon Xros Wars: "Glorious DigiXros, Seize it! Our Future!!"]]
+}}
+{{DlistJ
+|n=Rhino Kabuterimon
+|k=ライノカブテリモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Rhinomon
+|k=ライノモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Rhinomon X-Antibody
+|k=ライノモンX抗体
+|yr=2003
+|d=[[Bx-84]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Rize Greymon
+|k=ライズグレイモン
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=Roleplaymon
+|k=ロープレモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Rook Chessmon (Black)
+|k=ルークチェスモン (黒)
+|yr=2006
+|d=
+}}
+{{DlistJ
+|n=Rook Chessmon (White)
+|k=ルークチェスモン (白)
+|yr=N/A
+|d=
+}}
+{{DlistJ
+|n=Rosemon
+|k=ロゼモン
+|yr=1999
+|d=[[Digimon World: Digital Card Battle]]
+}}
+{{DlistJ
+|n=Rosemon X-Antibody
+|k=ロゼモンX抗体
+|yr=2003
+|d=[[Bx-93]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Rosemon: Burst Mode
+|k=ロゼモン：バーストモード
+|yr=2007
+|d=[[Digimon Savers - Episode 43|Digimon Savers: "Power Equals Justice! Beast Knight Duftmon"]]
+}}
+{{DlistJ
+|n=Rukamon
+|k=ルカモン
+|yr=1998
+|d=[[Pendulum 2.0|Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Rust Tyranomon
+|k=ラストティラノモン 
+|yr=2013
+|d=[[Digimon World Re:Digitize Decode]]
+}}
+{{DlistJ
+|n=Ryudamon
+|k=リュウダモン
+|yr=2003
+|d=
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==S==
+
+{{DlistJHeader}}
+{{DlistJ
+|n=Saber Leomon
+|k=サーベルレオモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Saberdramon
+|k=セーバードラモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Sagittarimon
+|k=サジタリモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Sagomon
+|k=サゴモン
+|yr=2011
+|d=[[3-050]] ([[Digimon Jintrix Set 3]])
+}}
+{{DlistJ
+|n=Saint Galgomon
+|k=セントガルゴモン
+|yr=2001
+|d=[[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Sakumon
+|k=サクモン
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Sakuteki Monitamon
+|k=サクテキモニタモン
+|yr=2010
+|d=[[Digimon Catch Ganbare Monitamon!]]
+}}
+{{DlistJ
+|n=Sakuttomon
+|k=サクットモン
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Sakuyamon
+|k=サクヤモン
+|yr=2001
+|d=[[D-Ark Version 1.0]]
+}}
+{{DlistJ
+|n=Salamandamon
+|k=サラマンダモン
+|yr=2002
+|d=[[St-646]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Sand Yanmamon
+|k=サンドヤンマモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Sandiramon
+|k=サンティラモン
+|yr=2001
+|d=[[Digimon Tamers - Episode 15|Digimon Tamers: "Giant Snake Appearance! Great Edo Line, Great Panic"]]
+}}
+{{DlistJ
+|n=Sangloupmon
+|k=サングルゥモン
+|yr=2005
+|d=[[Bx-166]] ([[Digitalize Booster Pack]])
+}}
+{{DlistJ
+|n=Santa Agumon
+|k=サンタアグモン
+|yr=2006
+|d=[[DigiWindow]] ({{url|http://web.archive.org/web/20141007204612/http://www.digitalmonsters.net/DVR/digiviceIC/dw_index.html|Digimon Pocket Wars}})
+}}
+{{DlistJ
+|n=Sanzomon
+|k=サンゾモン
+|yr=2011
+|d=[[3-077]] ([[Digimon Jintrix Set 3]])
+}}
+{{DlistJ
+|n=Savior Hackmon
+|k=セイバーハックモン
+|yr=2014
+|d=[[Digivice Ver.15th]]
+}}
+{{DlistJ
+|n=Scopemon
+|k=スコープモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Scorpiomon
+|k=スコピオモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Scud Missimon
+|k=スカッドミサイモン
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 02|Digimon Xros Wars: "Xros Heart! Our "King"!!"]]
+}}
+{{DlistJ
+|n=Scumon
+|k=スカモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Scumon Daiou
+|k=スカモン大王
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Seadramon
+|k=シードラモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Seadramon X-Antibody
+|k=シードラモンX抗体
+|yr=2003
+|d=[[Sx-24]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Seahomon
+|k=シーホモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Sealsdramon
+|k=シールズドラモン
+|yr=2005
+|d=[[Bo-1169]] ([[Digitalize Booster Pack]])
+}}
+{{DlistJ
+|n=Searchmon
+|k=サーチモン
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Sephirothmon
+|k=セフィロトモン
+|yr=2002
+|d=[[Bo-734]] ([[Booster 15]])
+}}
+{{DlistJ
+|n=Sepikmon
+|k=セピックモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Seraphimon
+|k=セラフィモン
+|yr=2000
+|d=[[St-153]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Sethmon
+|k=セトモン
+|yr=2000
+|d=[[Bo-217]] ([[Booster 5]])
+}}
+{{DlistJ
+|n=Sethmon Wild Mode
+|k=セトモンワイルドモード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 45|Digimon Xros Wars: "The Final Kingdom, The Shining Sun's Bright Land"]]
+}}
+{{DlistJ
+|n=Shademon
+|k=シェイドモン
+|yr=2011
+|d=[[Digimon Xros Wars - Chapter 09|Digimon Xros Wars: "Xros Darkness!! Conspiracy's Dark Fortress!!"]]
+}}
+{{DlistJ
+|n=Shadramon
+|k=シェイドラモン
+|yr=2000
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Shakamon
+|k=シャカモン
+|yr=2011
+|d=[[3-081]] ([[Digimon Jintrix Set 3]])
+}}
+{{DlistJ
+|n=Shakkoumon
+|k=シャッコウモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Shakomon
+|k=シャコモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Shakomon X-Antibody
+|k=シャコモンX抗体
+|yr=2003
+|d=[[Sx-55]] ([[Ultimate Battle Deck 5]])
+}}
+{{DlistJ
+|n=Shamamon
+|k=シャーマモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Shawujinmon
+|k=シャウジンモン
+|yr=2006
+|d=
+}}
+{{DlistJ
+|n=Sheepmon
+|k=シープモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Shellmon
+|k=シェルモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Shift Eraser
+|k=シフトイレイザー
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Shima Unimon
+|k=シマユニモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Shine Greymon
+|k=シャイングレイモン
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=Shine Greymon: Ruin Mode
+|k=シャイングレイモン ルインモード
+|yr=2006
+|d=[[Digimon Savers - Episode 34|Digimon Savers: "The Day of Parting, The Strongest Enemy - Thoma!"]]
+}}
+{{DlistJ
+|n=Shine Greymon: Burst Mode
+|k=シャイングレイモン バーストモード
+|yr=2006
+|d=[[Digivice Burst (Toy)|Digivice Burst]]
+}}
+{{DlistJ
+|n=Shonitamon
+|k=シャニタモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shooting Starmon
+|k=シューティングスターモン
+|yr=2011
+|d=[[Digimon Xros Wars - Chapter 18|Digimon Xros Wars: "Xros Stars! Like a Falling Star!!"]]
+}}
+{{DlistJ
+|n=Shortmon
+|k=ショートモン
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 06|Digimon Xros Wars: "Xros Sweets!! The Girls' Sweet Trap!?"]]
+}}
+{{DlistJ
+|n=Shotmon
+|k=ショットモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=ShouCutemon
+|k=シャウキュートモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 23|Digimon Xros Wars: "Shinobi Zone, The Comical Ninja Battle!"]]
+}}
+{{DlistJ
+|n=Shoutmon
+|k=シャウトモン
+|yr=2010
+|d=[[Digimon Reference Book]] ([[Digimon Web]])
+}}
+{{DlistJ
+|n=Shoutmon B
+|k=シャウトモンＢ
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon DX
+|k=シャウトモンＤＸ
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 34|Digimon Xros Wars: "Don't Die, Greymon! The Birth of Shoutmon DX"]]
+}}
+{{DlistJ
+|n=Shoutmon EX6
+|k=シャウトモンＥＸ6
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Shoutmon SH
+|k=シャウトモンＳＨ
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X2
+|k=シャウトモンＸ２
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X2 (Incomplete X4)
+|k=シャウトモンＸ２ (不完全Ｘ４)
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 01|Digimon Xros Wars: "Taiki, Go to Another World!"]]
+}}
+{{DlistJ
+|n=Shoutmon X2 Plus M
+|k=シャウトモンＸ２ プラス Ｍ
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X3
+|k=シャウトモンＸ３
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X3GM
+|k=シャウトモンＸ３ＧＭ
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X3SD
+|k=シャウトモンＸ３ＳＤ
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X4
+|k=シャウトモンＸ４
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 01|Digimon Xros Wars: "Xrosroad!! The Boys' Paths Cross"]]
+}}
+{{DlistJ
+|n=Shoutmon X4B
+|k=シャウトモンＸ４Ｂ
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X4K
+|k=シャウトモンＸ４Ｋ
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X4S
+|k=シャウトモンＸ４Ｓ
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X5
+|k=シャウトモンＸ５
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X5B
+|k=シャウトモンＸ５Ｂ
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X5S
+|k=シャウトモンＸ５Ｓ
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X6
+|k=シャウトモンＸ6
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Shoutmon X7
+|k=シャウトモンＸ７
+|yr=2011
+|d=[[Digimon Xros Loader (Toy)|Digimon Xros Loader]] ([[Digimon Code Crown|Digimon Code Crown - Special Quest 1]])
+}}
+{{DlistJ
+|n=Shoutmon X7 Superior Mode
+|k=シャウトモンＸ７スペリオルモード
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 54|Digimon Xros Wars: "Glorious DigiXros, Seize it! Our Future!!"]]
+}}
+{{DlistJ
+|n=Shoutmon + Dorulu Cannon
+|k=シャウトモン＋ドルルキャノン
+|yr=2010
+|d=[[Digimon Reference Book]] ([[Digimon Web]])
+}}
+{{DlistJ
+|n=Shoutmon + Jet Sparrow
+|k=シャウトモン＋ジェットスパロウ
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shoutmon + Rare Star Sword
+|k=N/A
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 49|Digimon Xros Wars: "Taiki's Decision! Surpass the Strongest Apollomon!"]]
+}}
+{{DlistJ
+|n=Shoutmon + Star Sword
+|k=シャウトモン＋スターソード
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Shurimon
+|k=シュリモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Shutumon
+|k=シューツモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Siesamon
+|k=シーサモン
+|yr=2001
+|d=[[Digimon Tamers: The Adventurers' Battle]] or [[St-402]] ([[Ultimate Battle Deck 2]])
+}}
+{{DlistJ
+|n=Silphymon
+|k=シルフィーモン
+|yr=2000
+|d=[[Bo-282]] ([[Booster 6]])
+}}
+{{DlistJ
+|n=Silver Guardian
+|k=銀の守護者
+|yr=2000
+|d=[[Digimon World 2]]
+}}
+{{DlistJ
+|n=Sinduramon
+|k=シンドゥーラモン
+|yr=2001
+|d=
+}}
+{{DlistJ
+|n=Sirenmon
+|k=セイレーンモン
+|yr=2013
+|d=[[Digimon Crusader]]
+}}
+{{DlistJ
+|n=Sistermon Blanc
+|k=シスタモン・ブラン 
+|yr=2012
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Sistermon Blanc (Awaken)
+|k=シスタモン・ブラン（覚醒）
+|yr=2013
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Sistermon Ciel
+|k=
+|yr=2018
+|d=[[Digimon Story: Cyber Sleuth Hacker's Memory]] (NA)
+}}
+{{DlistJ
+|n=Sistermon Ciel (Awaken)
+|k=
+|yr=2018
+|d=[[Digimon Story: Cyber Sleuth Hacker's Memory]] (NA)
+}}
+{{DlistJ
+|n=Sistermon Noir
+|k=シスタモン・ノワール 
+|yr=2012
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Sistermon Noir (Awaken)
+|k=シスタモン・ノワール（覚醒）
+|yr=2013
+|d=[[Digimon Collectors]]
+}}
+{{DlistJ
+|n=Skull Baluchimon
+|k=スカルバルキモン
+|yr=2003
+|d=
+}}
+{{DlistJ
+|n=Skull Greymon
+|k=スカルグレイモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Skull Knightmon
+|k=スカルナイトモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Skull Knightmon BR
+|k=
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Skull Knightmon: Arrow Mode
+|k=スカルナイトモン：アローモード
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Skull Knightmon: Big Axe Mode
+|k=スカルナイトモン：ビッグアックスモード
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Skull Knightmon: Cavalier Mode
+|k=スカルナイトモン：騎馬モード
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Skull Knightmon: Naginata Mode
+|k=スカルナイトモン：ナギナタモード
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Skull Mammon
+|k=スカルマンモン
+|yr=1999
+|d=[[Pendulum 3.0|Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Skull Mammon X-Antibody
+|k=スカルマンモンX抗体
+|yr=2003
+|d=
+}}
+{{DlistJ
+|n=Skull Satamon
+|k=スカルサタモン
+|yr=1999
+|d={{url|http://web.archive.org/web/20040815162813/http://www.digimon.channel.or.jp/town/workshop/winner.html|First Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Slash Angemon
+|k=スラッシュエンジェモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Slayerdramon
+|k=スレイヤードラモン
+|yr=2007
+|d=[[DM02-096]] ([[Battle Terminal 02 Set 3]])
+}}
+{{DlistJ
+|n=Sleipmon
+|k=スレイプモン
+|yr=2005
+|d=[[Digimon Accel Ultimate Genome]]
+}}
+{{DlistJ
+|n=Sleipmon X-Antibody
+|k=スレイプモンX抗体
+|yr=2018
+|d=[[Re-107]] ([[Digimon 20th Memorial Set]])
+}}
+{{DlistJ
+|n=Sleipmon: Burst Mode
+|k=
+|yr=2009
+|d=[[Digimon Neo Ver. 2]]
+}}
+{{DlistJ
+|n=Snatchmon
+|k=スナッチモン
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Snimon
+|k=スナイモン
+|yr=1999
+|d=[[Digital Monster Ver. WonderSwan]]
+}}
+{{DlistJ
+|n=Snow Goburimon
+|k=スノーゴブリモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Solarmon
+|k=ソーラーモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Sorcerimon
+|k=ソーサリモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Soulmon
+|k=ソウルモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Soundbirdmon
+|k=サウンドバードモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 52|Digimon Xros Wars: "Bagra Brothers! The Bonds of Darkness"]]'s {{url|i.imgur.com/KAFD12J.png|Eyecatch}}
+}}
+{{DlistJ
+|n=Spadamon
+|k=スパーダモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Sparrowmon
+|k=スパロウモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Sparrowmon AB
+|k=スパロウモン（アフター バー ナー）
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Spinomon
+|k=スピノモン
+|yr=2005
+|d=
+}}
+{{DlistJ
+|n=Splashmon
+|k=スプラッシュモン
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Splashmon Darkness Mode
+|k=スプラッシュモンダークネスモード
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Starmon
+|k=スターモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Starmon X-Antibody
+|k=スターモンX抗体
+|yr=2003
+|d=
+}}
+{{DlistJ
+|n=Starmons
+|k=スターモンズ
+|yr=2010
+|d=[[Digimon Reference Book]] ([[Digimon Web]])
+}}
+{{DlistJ
+|n=Star Axe
+|k=スターアックス
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 04|Digimon Xros Wars: "Island Zone, Upheaval"]]
+}}
+{{DlistJ
+|n=Star Sword
+|k=スターソード
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 06|Digimon Xros Wars: "X4, Crisis Breakthrough!"]]
+}}
+{{DlistJ
+|n=Star Wheel
+|k=スターホイール
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 05|Digimon Xros Wars: "Xros Pride!! A Warrior's Pride!!"]]
+}}
+{{DlistJ
+|n=Stegomon
+|k=ステゴモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Stingmon
+|k=スティングモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Strabimon
+|k=ストラビモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Strikedramon
+|k=ストライクドラモン
+|yr=2001
+|d=
+}}
+{{DlistJ
+|n=Submarimon
+|k=サブマリモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Suijinmon
+|k=スイジンモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Sukashimon
+|k=スカシモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Sunflowmon
+|k=サンフラウモン
+|yr=2006
+|d=
+}}
+{{DlistJ
+|n=Sunmon
+|k=サンモン
+|yr=2007
+|d=[[Digimon Story: Sunburst]]
+}}
+{{DlistJ
+|n=Super Dark Knightmon
+|k=スーパーダークナイトモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Superstarmon
+|k=スーパースターモン
+|yr=2000
+|d=
+}}
+{{DlistJ
+|n=Surfymon
+|k=サーフィモン
+|yr=2007
+|d=[[List_of_Digimon_Design_Contests#Original Digimon Design Contest|Original Digimon Design Contest]]
+}}
+{{DlistJ
+|n=Susanoomon
+|k=スサノオモン
+|yr=2002
+|d=[[Bo-864]] ([[Booster 18]])
+}}
+{{DlistJ
+|n=Swanmon
+|k=スワンモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Swimmon
+|k=スイムモン
+|yr=2005
+|d=
+}}
+{{DlistJFooter}}
+{{ROT}}
+
+==T==
+{{DlistJHeader}}
+{{DlistJ
+|n=Tactimon
+|k=タクティモン
+|yr=2010
+|d=[[Digimon Xros Wars - Episode 01|Digimon Xros Wars: "Taiki, Go to Another World!"]]
+}}
+{{DlistJ
+|n=Tailmon
+|k=テイルモン
+|yr=1998
+|d=[[Digital Monster Ver. S]]
+}}
+{{DlistJ
+|n=Tailmon X-Antibody
+|k=テイルモンX抗体
+|yr=2003
+|d=[[Bx-97]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Tanemon
+|k=タネモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJ
+|n=Tankdramon
+|k=タンクドラモン
+|yr=2006
+|d=[[Bo-1171]] ([[Digitalize Booster Pack]])
+}}
+{{DlistJ
+|n=Tankmon
+|k=タンクモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Taomon
+|k=タオモン
+|yr=2001
+|d=[[St-335]] ([[Starter Ver. 5]])
+}}
+{{DlistJ
+|n=Taomon (Silver)
+|k=タオモン(銀)
+|yr=2001
+|d=[[St-475]] ([[Starter Ver. 6]])
+}}
+{{DlistJ
+|n=Targetmon
+|k=ターゲットモン
+|yr=2011
+|d=[[Digimon Reference Book]] ([[Digimon Web]])
+}}
+{{DlistJ
+|n=Technodramon
+|k=テクノドラモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}} (''Unreleased Digimon'')
+}}
+{{DlistJ
+|n=Tekkamon
+|k=テッカモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Tentomon
+|k=テントモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Tera Devast
+|k=テラデヴァスト
+|yr=2010
+|d=[[Digimon Story: Lost Evolution]]
+}}
+{{DlistJ
+|n=Terriermon
+|k=テリアモン
+|yr=2000
+|d=[[Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals]]
+}}
+{{DlistJ
+|n=Thunderballmon
+|k=サンダーボールモン
+|yr=1999
+|d={{url2|http://stat.ameba.jp/user_images/20160415/16/nakano-aiai/e9/88/j/o0480064013620994156.jpg|Digital Monster Digimon Stickers EX Collection}}
+}}
+{{DlistJ
+|n=Thunderballmon X-Antibody
+|k=サンダーボールモンX抗体
+|yr=2004
+|d=[[Bx-122]] ([[Booster 23]])
+}}
+{{DlistJ
+|n=Thunderbirmon
+|k=サンダーバーモン
+|yr=2002
+|d=[[St-625]] ([[Starter Ver. 7]])
+}}
+{{DlistJ
+|n=Tia Ludomon
+|k=ティアルドモン
+|yr=2018
+|d=[[Digimon Pendulum Ver.20th]]
+}}
+{{DlistJ
+|n=Tiger Vespamon
+|k=タイガーヴェスパモン
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJ
+|n=Tinkermon
+|k=ティンカーモン
+|yr=2011
+|d=[[4-076]] ([[Digimon Jintrix Set 4]])
+}}
+{{DlistJ
+|n=Titamon
+|k=タイタモン
+|yr=2013
+|d=[[Digimon World Re:Digitize Decode]]
+}}
+{{DlistJ
+|n=Tobucatmon
+|k=トブキャットモン
+|yr=2003
+|d=[[Bx-46]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Tocanmon
+|k=トーカンモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Togemogumon
+|k=トゲモグモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Togemon
+|k=トゲモン
+|yr=1999
+|d=[[Digimon Adventure - Episode 06|Digimon Adventure: "Palmon, Raging Evolution!"]]
+}}
+{{DlistJ
+|n=Togemon X-Antibody
+|k=トゲモンX抗体
+|yr=2003
+|d=[[Bx-95]] ([[Booster 22]])
+}}
+{{DlistJ
+|n=Tokomon
+|k=トコモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Tokomon X-Antibody
+|k=トコモンX抗体
+|yr=2005
+|d=[[Digital Monster X-evolution]]
+}}
+{{DlistJ
+|n=Tonosama Gekomon
+|k=トノサマゲコモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Tonosama Mamemon
+|k=トノサママメモン
+|yr=2006
+|d=[[Digivice iC 20X]]
+}}
+{{DlistJ
+|n=Torikara Ballmon
+|k=とりからボールモン
+|yr=2002
+|d=
+}}
+{{DlistJ
+|n=Tortamon
+|k=トータモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Toy Agumon
+|k=トイアグモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Toy Agumon (Black)
+|k=トイアグモン（黒）
+|yr=2000
+|d=[[St-142]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Trailmon
+|k=トレイルモン
+|yr=2002
+|d=[[Digimon Frontier - Episode 01|Digimon Frontier: "The Legendary Warrior! Agnimon of Fire"]]
+}}
+{{DlistJ
+|n=Trailmon Angler
+|k=トレイルモン アングラー
+|yr=2002
+|d=[[Digimon Frontier - Episode 01|Digimon Frontier: "The Legendary Warrior! Agnimon of Fire"]]
+}}
+{{DlistJ
+|n=Trailmon Ball
+|k=トレイルモン ボール
+|yr=2002
+|d=[[Digimon Frontier: Revival of the Ancient Digimon!!]]
+}}
+{{DlistJ
+|n=Trailmon Battle Form
+|k=トレイルモン戦闘フォーム
+|yr=2006
+|d=[[Battle 12|Digimon Next: "The City of Light, Light City!"]]
+}}
+{{DlistJ
+|n=Trailmon Buffalo
+|k=トレイルモン バッファロー
+|yr=2002
+|d=[[Digimon Frontier - Episode 05|Digimon Frontier: "Thunder Power Shaking the Ground, Blitzmon!"]]
+}}
+{{DlistJ
+|n=Trailmon C-89
+|k=トレイルモン C-89型
+|yr=2006
+|d=[[Battle 03|Digimon Next: "Greymon vs. Peckmon!"]]
+}}
+{{DlistJ
+|n=Trailmon Franken
+|k=トレイルモン フランケン
+|yr=2002
+|d=[[Digimon Frontier - Episode 03|Digimon Frontier: "Bullying is Unforgivable! Evolve, Chackmon of Ice"]]
+}}
+{{DlistJ
+|n=Trailmon Kettle
+|k=トレイルモン ケトル
+|yr=2002
+|d=[[Digimon Frontier - Episode 13|Digimon Frontier: "Awaken Seraphimon! The Secret of The Ten Legendary Warriors"]]
+}}
+{{DlistJ
+|n=Trailmon Mole
+|k=トレイルモン モール
+|yr=2002
+|d=[[Digimon Frontier - Episode 04|Digimon Frontier: "My Painful Kick! Female Warrior Fairimon"]]
+}}
+{{DlistJ
+|n=Trailmon Raccoon Dog
+|k=トレイルモン ラクーンドッグ
+|yr=2002
+|d=[[Digimon Frontier - Episode 18|Digimon Frontier: "Choo-Choo! The Great Trailmon Race"]]
+}}
+{{DlistJ
+|n=Trailmon Worm
+|k=トレイルモン ワーム
+|yr=2002
+|d=[[Digimon Frontier - Episode 01|Digimon Frontier: "The Legendary Warrior! Agnimon of Fire"]]
+}}
+{{DlistJ
+|n=Trailmon of Darkness
+|k=闇のトレイルモン
+|yr=2002
+|d=[[Digimon Frontier - Episode 21|Digimon Frontier: "The Five Legendary Warriors Annihilated!? Terrifying Dark Power!"]]
+}}
+{{DlistJ
+|n=Triceramon
+|k=トリケラモン
+|yr=1998
+|d=[[Pendulum 1.0|Pendulum 1.0 Nature Spirits]]
+}}
+{{DlistJ
+|n=Triceramon X-Antibody
+|k=トリケラモンX抗体
+|yr=2003
+|d=[[Bx-53]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Troopmon
+|k=トループモン
+|yr=2010
+|d=
+}}
+{{DlistJ
+|n=Tsubumon
+|k=ツブモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Tsuchidarumon
+|k=ツチダルモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Tukaimon
+|k=ツカイモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Tsumemon
+|k=ツメモン
+|yr=2000
+|d=[[Digimon Adventure: Our War Game]]
+}}
+{{DlistJ
+|n=Tunomon
+|k=ツノモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Turuiemon
+|k=トゥルイエモン
+|yr=2001
+|d=[[Bo-630]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Tuskmon
+|k=タスクモン
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}
+{{DlistJ
+|n=Tuwarmon
+|k=ツワーモン
+|yr=2011
+|d=
+}}
+{{DlistJ
+|n=Tyilinmon
+|k=チィリンモン
+|yr=2005
+|d=[[Digimon Accel Ultimate Genome]]
+}}
+{{DlistJ
+|n=Tylomon
+|k=ティロモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Tylomon X-Antibody
+|k=ティロモンX抗体
+|yr=2003
+|d=[[Bx-59]] ([[Booster 21]])
+}}
+{{DlistJ
+|n=Tyranomon
+|k=ティラノモン
+|yr=1997
+|d=[[Digital Monster Ver. 1]]
+}}
+{{DlistJ
+|n=Tyrant Kabuterimon
+|k=タイラントカブテリモン
+|yr=2005
+|d=[[Bo-1166]] ([[Digitalize Booster Pack]])
+}}
+{{DlistJ
+|n=Tyumon
+|k=チューモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]] (mention in Scumon's profile and seen in Scumon's artwork)
+}}
+{{DlistJ
+|n=Tyutyumon
+|k=チューチューモン
+|yr=2010
+|d={{url|www.toei-anim.co.jp/tv/digimon_xw2010/digixw_name.html|Become this Digimon's Namer! Contest}} (seen in Damemon's artwork)
+}}
+{{DlistJFooter}}
+{{ROT}}
+
+==U==
+{{DlistJHeader}}
+{{DlistJ
+|n=Ulforce V-dramon
+|k=アルフォースブイドラモン 
+|yr=2002
+|d=[[Bo-3v]] ([[Expansion Board - Digimon Adventure V-Tamer 01 SP]])
+}}
+{{DlistJ
+|n=Ulforce V-dramon Future Mode
+|k=アルフォースブイドラモンフューチャーモード 
+|yr=2003
+|d=[[Bo-25v]] ([[Expansion Board - Digimon Adventure V-Tamer 01 SP]])
+}}
+{{DlistJ
+|n=Ulforce V-dramon X-Antibody
+|k=アルフォースブイドラモンX抗体
+|yr=2003
+|d=[[Sp-28]]
+}}
+{{DlistJ
+|n=Ultimate Brachimon
+|k=アルティメットブラキモン 
+|yr=2003
+|d=[[Pendulum X 2.0]]
+}}
+{{DlistJ
+|n=Ultimate Chaosmon
+|k=アルティメットカオスモン 
+|yr=2005
+|d=[[Digimon Accel Ultimate Genome]]
+}}
+{{DlistJ
+|n=Umon
+|k=ウモン 
+|yr=2001
+|d=[[St-516]]
+}}
+{{DlistJ
+|n=Unimon
+|k=ユニモン
+|yr=1998
+|d=[[Digital Monster Ver. 3]]
+}}
+{{DlistJ
+|n=Upamon
+|k=ウパモン
+|yr=2000
+|d=[[ZT02|Digimon Adventure 02: "Digital Gate Open"]]
+}}
+{{DlistJ
+|n=Urashimamon
+|k=ウラシマモン
+|yr=2001
+|d=[[Digimon Adventure 02: Armor Evolution to the Unknown]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==V==
+{{DlistJHeader}}
+{{DlistJ
+|n=V-dramon
+|k=ブイドラモン 
+|yr=1998
+|d=[[V-1|Digimon Adventure V-Tamer 01: "100% Tamer!!"]]
+}}
+{{DlistJ
+|n=V-dramon (Black)
+|k=ブイドラモン(黒) 
+|yr=2001
+|d=[[Bo-552]] ([[Booster 12]])
+}}
+{{DlistJ
+|n=V-mon
+|k=ブイモン 
+|yr=2000
+|d=[[ZT01|Digimon Adventure 02: "The One who Inherits Courage"]]
+}}
+{{DlistJ
+|n=VR-Apocaly
+|k=VR-アポカリ 
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=VR-BWarGrey
+|k=VR-ブラックウォーグレイ 
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=VR-CDuke
+|k=VR-デューククリムゾンモード 
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=VR-Duke
+|k=VR-デューク
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=VR-Imperial
+|k=VR-インペリアル
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=VR-Omega
+|k=VR-オメガ
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=VR-SaintGalgo
+|k=VR-セントガルゴ 
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=VR-Sakuya
+|k=VR-サクヤ 
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=VR-Venom
+|k=VR-ヴェノム 
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=VR-WarGrey
+|k=VR-ウォーグレイ 
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=Vademon
+|k=ベーダモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Vademon X-Antibody
+|k=ベーダモンX抗体 
+|yr=2003
+|d=[[Bx-82]]
+}}
+{{DlistJ
+|n=Vajramon
+|k=ヴァジラモン 
+|yr=2001
+|d=[[DT17|Digimon Tamers: "Chase the Blue Card! Lightning Rapidmon"]]
+}}
+{{DlistJ
+|n=Valdurmon
+|k=ヴァロドゥルモン 
+|yr=2005
+|d=[[Digimon Accel Nature Genome]]
+}}
+{{DlistJ
+|n=Valkyrimon
+|k=ヴァルキリモン 
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Valvemon
+|k=バルブモン 
+|yr=2002
+|d=[[Digimon World 3]]
+}}
+{{DlistJ
+|n=Vamdemon
+|k=ヴァンデモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Vegimon
+|k=ベジーモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Velgmon
+|k=ベルグモン
+|yr=2002
+|d=[[Bo-741]] ([[Booster 15]])
+}}
+{{DlistJ
+|n=Venom Vamdemon
+|k=ヴェノムヴァンデモン 
+|yr=1999
+|d=[[DA38|Digimon Adventure: "Revival! The Devil Venom Vamdemon"]] or [[Digivice Version 2]] or [[St-97]] ([[Starter Ver. 2]])
+}}
+{{DlistJ
+|n=Venom Vamdemon Undead
+|k=ヴェノムヴァンデモンアンデッド
+|yr=1999
+|d=[[Super Evolution Stage "Digimon Adventure tri. ~Adventure of August 1~"]]
+}}
+{{DlistJ
+|n=Venusmon
+|k=ヴェヌスモン 
+|yr=2011
+|d=[[4-056]] ([[Digimon Jintrix Set 4]])
+}}
+{{DlistJ
+|n=Vermillimon
+|k=ヴァーミリモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Victory Greymon
+|k=ビクトリーグレイモン 
+|yr=2007
+|d=[[Digimon Twin R]]
+}}
+{{DlistJ
+|n=Vikaralamon
+|k=ヴィカラーラモン 
+|yr=2001
+|d=[[DT22|Digimon Tamers: "Vikaralamon Appears! Protect Our Town!"]]
+}}
+{{DlistJ
+|n=Vikemon
+|k=ヴァイクモン 
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Virusmon
+|k=バイラモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Vitium Baby
+|k=ヴィティウム幼年期
+|yr=2012
+|d=[[Digimon World Re:Digitize]]
+}}
+{{DlistJ
+|n=Vitium Adult
+|k=ヴィティウム成熟期
+|yr=2012
+|d=[[Digimon World Re:Digitize]]
+}}
+{{DlistJ
+|n=Vitium Ultimate
+|k=ヴィティウム究極体
+|yr=2012
+|d=[[Digimon World Re:Digitize]]
+}}
+{{DlistJ
+|n=Vorvomon
+|k=ヴォーボモン
+|yr=2016
+|d=[[Digimon Linkz]]
+}}
+{{DlistJ
+|n=Volcamon
+|k=ボルケーモン 
+|yr=2000
+|d=[[D-3 Version 1 (V-mon Version)]]
+}}
+{{DlistJ
+|n=Volcanicdramon
+|k=ヴォルケニックドラモン
+|yr=2016
+|d=[[Digimon Linkz]]
+}}
+{{DlistJ
+|n=Volcdramon
+|k=ヴォルクドラモン
+|yr=2005
+|d=[[Digimon Accel Justice Genome]]
+}}
+{{DlistJ
+|n=Vritramon
+|k=ヴリトラモン 
+|yr=2002
+|d=[[DF11|Digimon Frontier: "Defeat Me! Legendary Warrior Vritramon Runs Wild"]] or [[Bo-703]] ([[Booster 15]])
+}}
+{{DlistJ
+|n=Vulcanusmon
+|k=ウルカヌスモン 
+|yr=2011
+|d=[[4-030]] ([[Digimon Jintrix Set 4]])
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==W==
+{{DlistJHeader}}
+{{DlistJ
+|n=Wanyamon
+|k=ワニャモン
+|yr=2006
+|d=[[Digivice iC 10X]]
+}}
+{{DlistJ
+|n=War Greymon
+|k=ウォーグレイモン
+|yr=1999
+|d=[[Pendulum 5.0 Metal Empire]]
+}}
+{{DlistJ
+|n=War Greymon X-Antibody
+|k=ウォーグレイモンX抗体
+|yr=2003
+|d=[[Sx-12]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Waru Monzaemon
+|k=ワルもんざえモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Waru Seadramon
+|k=ワルシードラモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Waspmon
+|k=ワスプモン
+|yr=2003
+|d=[[Pendulum X 3.0]]
+}}
+{{DlistJ
+|n=Watchmon
+|k=ウォッチモン
+|yr=2016
+|d=[[Digimon Universe Appli Monsters]]
+}}
+{{DlistJ
+|n=Weathermon
+|k=ウェザーモン
+|yr=2016
+|d=
+}}
+{{DlistJ
+|n=Weddinmon
+|k=ウェディンモン
+|yr=2010
+|d=[[Digimon Xros Wars - Chapter 03|Digimon Xros Wars: "Xros Sweets!! The Girls' Sweet Trap!?"]]
+}}
+{{DlistJ
+|n=Wendimon
+|k=ウェンディモン
+|yr=2000
+|d=[[Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals]]
+}}
+{{DlistJ
+|n=Were Garurumon
+|k=ワーガルルモン
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Were Garurumon X-Antibody
+|k=ワーガルルモンX抗体
+|yr=2003
+|d=[[Sx-11]] ([[Starter Ver. 9]])
+}}
+{{DlistJ
+|n=Were Garurumon (Black)
+|k=ワーガルルモン黒
+|yr=2000
+|d=[[St-141]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=Whamon
+|k=ホエーモン
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Whamon Perfect
+|k=ホエーモン完全体
+|yr=1998
+|d=[[Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Wingdramon
+|k=ウイングドラモン
+|yr=2007
+|d=[[DM02-084]] ([[Battle Terminal 02 Set 3]])
+}}
+{{DlistJ
+|n=Wisemon
+|k=ワイズモン
+|yr=2002
+|d=[[St-878]] ([[Ultimate Battle Deck 4]])
+}}
+{{DlistJ
+|n=Witchmon
+|k=ウィッチモン
+|yr=2000
+|d={{url|http://web.archive.org/web/20040816032740/http://www.digimon.channel.or.jp/town/workshop/winner2.html|Second Original Digimon Contest (Digimon Web)}}
+}}
+{{DlistJ
+|n=Wizarmon
+|k=ウィザーモン
+|yr=1999
+|d=[[Pendulum 3.0 Nightmare Soldiers]]
+}}
+{{DlistJ
+|n=Wolfmon
+|k=ヴォルフモン
+|yr=2002
+|d=[[Bo-656]] ([[Booster 14]])
+}}
+{{DlistJ
+|n=Woodmon
+|k=ウッドモン
+|yr=1999
+|d=[[Pendulum 4.0 Wind Guardians]]
+}}
+{{DlistJ
+|n=Wormmon
+|k=ワームモン
+|yr=2000
+|d=[[Digimon Adventure 02 - Episode 01|Digimon Adventure 02: ''"The One who Inherits Courage"'']]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==X==
+{{DlistJHeader}}
+{{DlistJ
+|n=XV-mon
+|k=エクスブイモン
+|yr=2000
+|d=[[St-113]] ([[Starter Ver. 3]])
+}}
+{{DlistJ
+|n=XV-mon (Black)
+|k=エクスブイモン(黒)
+|yr=2002
+|d=[[St-768]] ([[Starter Ver. 8]])
+}}
+{{DlistJ
+|n=Xiaomon
+|k=シャオモン
+|yr=2001
+|d=[[D-Ark Version 2.0]]
+}}
+{{DlistJ
+|n=Xros Up Arresterdramon (Astamon)
+|k=クロスアップ アレスタードラモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 77|Digimon Xros Wars: "All Will Be Revealed Now! The Secret of the Digimon Hunt!"]]
+}}
+{{DlistJ
+|n=Xros Up Arresterdramon (Blossomon)
+|k=クロスアップ アレスタードラモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 71|Digimon Xros Wars: "Resemblance? Or None at All? The Disguised Phantom Thief Betsumon"]]
+}}
+{{DlistJ
+|n=Xros Up Arresterdramon (Dobermon)
+|k=クロスアップ アレスタードラモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 62|Digimon Xros Wars: "The Digimon Hunt is Thriving! The Virtuoso Hunter of the Shopping District!!"]]
+}}
+{{DlistJ
+|n=Xros Up Arresterdramon (Metal Tyranomon)
+|k=クロスアップ アレスタードラモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 56|Digimon Xros Wars: "The Students Disappeared! The Flickering Shadow of Sagomon"]]
+}}
+{{DlistJ
+|n=Xros Up Arresterdramon (Orgemon)
+|k=クロスアップ アレスタードラモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 77|Digimon Xros Wars: "All Will Be Revealed Now! The Secret of the Digimon Hunt!"]]
+}}
+{{DlistJ
+|n=Xros Up Arresterdramon (Sagomon)
+|k=クロスアップ アレスタードラモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 58|Digimon Xros Wars: "The Honor Student is Being Targeted! Blossomon's Smile"]]
+}}
+{{DlistJ
+|n=Xros Up Arresterdramon (Sparrowmon)
+|k=クロスアップ アレスタードラモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 64|Digimon Xros Wars: "Landing in Hong Kong! Protect the Super Beauty Idol!!"]]
+}}
+{{DlistJ
+|n=Xros Up Arresterdramon Superior Mode (Brave Snatcher)
+|k=クロスアップ アレスタードラモンスペリオルモード
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 79|Digimon Xros Wars: "Burn Up, Tagiru! The Glorious Digimon Hunt!"]]
+}}
+{{DlistJ
+|n=Xros Up Astamon (Cerberumon)
+|k=クロスアップ アスタモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 78|Digimon Xros Wars: "The Gathering of the Legendary Heroes! The Digimon All-star Showdown!!"]]
+}}
+{{DlistJ
+|n=Xros Up Astamon (Triceramon)
+|k=クロスアップ アスタモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 77|Digimon Xros Wars: "All Will Be Revealed Now! The Secret of the Digimon Hunt!"]]
+}}
+{{DlistJ
+|n=Xros Up Ballistamon (Revolmon)
+|k=クロスアップ バリスタモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 78|Digimon Xros Wars: "The Gathering of the Legendary Heroes! The Digimon All-star Showdown!!"]]
+}}
+{{DlistJ
+|n=Xros Up Dorulumon (Pawn Chessmon (White))
+|k=クロスアップ ドルルモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 78|Digimon Xros Wars: "The Gathering of the Legendary Heroes! The Digimon All-star Showdown!!"]]
+}}
+{{DlistJ
+|n=Xros Up Gumdramon (Kotemon)
+|k=クロスアップ ガムドラモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 60|Digimon Xros Wars: "The Digimon Kendo Match! Kotemon's Blade Draws Near!!"]]
+}}
+{{DlistJ
+|n=Xros Up Mervamon (Beelzebumon)
+|k=クロスアップ メルヴァモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 78|Digimon Xros Wars: "The Gathering of the Legendary Heroes! The Digimon All-star Showdown!!"]]
+}}
+{{DlistJ
+|n=Xros Up Omega Shoutmon (Dorulumon)
+|k=クロスアップ オメガシャウトモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 56|Digimon Xros Wars: "The Students Disappeared! The Flickering Shadow of Sagomon"]]
+}}
+{{DlistJ
+|n=Xros Up Opossummon (Candmon)
+|k=クロスアップ オポッサモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 59|Digimon Xros Wars: "Beware of the Cuteness! The Cute Hunter, Airu's Trap!"]]
+}}
+{{DlistJ
+|n=Xros Up Shoutmon (Chibi Kamemon)
+|k=クロスアップ シャウトモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 73|Digimon Xros Wars: "Great Undersea Adventure! Find the Treasure of Dreams Digimon!"]]
+}}
+{{DlistJ
+|n=Xros Up Shoutmon (Pinochimon)
+|k=クロスアップ シャウトモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 57|Digimon Xros Wars: "Robot Club's Dream, Pinochimon's Temptation"]]
+}}
+{{DlistJ
+|n=Xros Up Submarimon (Plesiomon)
+|k=クロスアップ サブマリモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 73|Digimon Xros Wars: "Great Undersea Adventure! Find the Treasure of Dreams Digimon!"]]
+}}
+{{DlistJ
+|n=Xros Up Tuwarmon (Superstarmon)
+|k=クロスアップ ツワーモン
+|yr=2012
+|d=[[Digimon Xros Wars - Episode 78|Digimon Xros Wars: "The Gathering of the Legendary Heroes! The Digimon All-star Showdown!!"]]
+}}
+{{DlistJ
+|n=Xuanwumon
+|k=シェンウーモン 
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==Y==
+{{DlistJHeader}}
+{{DlistJ
+|n=Yaamon
+|k=ヤーモン
+|yr=2002
+|d=[[DT51|Digimon Tamers: "Dreaming Power is Our Future"]]
+}}
+{{DlistJ
+|n=Yakiimon
+|k=ヤキイモン
+|yr=2012
+|d={{url|http://www.tv-asahi.co.jp/digimon/news/120222/index.html|TV Asahi's official Digimon Xros Wars website}}
+}}
+{{DlistJ
+|n=Yanmamon
+|k=ヤンマモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Yasyamon
+|k=ヤシャモン 
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Yatagaramon
+|k=ヤタガラモン
+|yr=2005
+|d=[[Digimon Accel Nature Genome]]
+}}
+{{DlistJ
+|n=Yatagaramon (2006 Anime Version)
+|k=ヤタガラモン（２００６アニメ版）
+|yr=2006
+|d=[[Digivice iC 20X]]
+}}
+{{DlistJ
+|n=Yggdrasill
+|k=イグドラシル
+|yr=2005
+|d=[[Digital Monster X-evolution]]
+}}
+{{DlistJ
+|n=Yggdrasill_7D6
+|k=イグドラシル＿７Ｄ６
+|yr=2007
+|d=[[Digimon Savers - Episode 39|Digimon Savers: "Human World Annihilated! Yggdrasil's Decision"]]
+}}
+{{DlistJ
+|n=Yggdrasill Core
+|k=イグドラシルコア
+|yr=2007
+|d=[[Digimon Savers - Episode 48|Digimon Savers: "The Perfect Ending! Farewell, Leader of Fights"]]
+}}
+{{DlistJ
+|n=Yo!Yo!mon
+|k=ヨッ！ヨッ！モン
+|yr=2006
+|d=[[DigiWindow]] ({{url|http://web.archive.org/web/20141007204612/http://www.digitalmonsters.net/DVR/digiviceIC/dw_index.html|Digimon Pocket Wars}})
+}}
+{{DlistJ
+|n=Youkomon
+|k=ヨウコモン 
+|yr=2001
+|d=[[St-421]]
+}}
+{{DlistJ
+|n=Yuki Agumon
+|k=ユキアグモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Yuki Agumon (2006 Anime Version)
+|k=ユキアグモン 
+|yr=2006
+|d=[[DM-092]]
+}}
+{{DlistJ
+|n=Yukidarumon
+|k=ユキダルモン 
+|yr=1997
+|d=[[Digital Monster Ver. 2]]
+}}
+{{DlistJ
+|n=Yukimi Botamon
+|k=ユキミボタモン 
+|yr=1999
+|d={{url2|http://stat.ameba.jp/user_images/20160415/16/nakano-aiai/e9/88/j/o0480064013620994156.jpg|Digital Monster Digimon Stickers EX Collection}}
+}}
+{{DlistJ
+|n=Yuramon
+|k=ユラモン
+|yr=1998
+|d=[[Digital Monster Ver. 4]]
+}}
+{{DlistJFooter}}
+
+{{ROT}}
+
+==Z==
+{{DlistJHeader}}
+{{DlistJ
+|n=Z'd Garurumon
+|k=ズィードガルルモン 
+|yr=2007
+|d=[[Digimon Twin L]]
+}}
+{{DlistJ
+|n=Zamielmon
+|k=ザミエールモン 
+|yr=2011
+|d={{hdr|Digimon Xros Wars - Episode 31|Digimon Xros Wars: "To a New World! The Fire-fury General's Dragon Land"}}
+}}
+{{DlistJ
+|n=Zanbamon
+|k=ザンバモン
+|yr=1999
+|d=[[List_of_Digimon_Design_Contests#1st Bandai-Town FAX Service Digimon Illustration Contest|First Digimon Illustration Contest (Bandai-Town)]]
+}}
+{{DlistJ
+|n=Zassoumon
+|k=ザッソーモン 
+|yr=1999
+|d=[[Digimon World]]
+}}
+{{DlistJ
+|n=Zeed Millenniumon
+|k=ズィードミレニアモン 
+|yr=2001
+|d=[[Digimon Tamers: Brave Tamer]]
+}}
+{{DlistJ
+|n=Zeke Greymon
+|k=ジークグレイモン  
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 32|Digimon Xros Wars: "Stand Up, Kihira! The Xros Heart Rescue Strategy"]]
+}}
+{{DlistJ
+|n=Zenimon
+|k=ゼニモン
+|yr=2011
+|d=[[Digimon Xros Wars - Episode 62|Digimon Xros Wars: "The Digimon Hunt is Thriving! The Virtuoso Hunter of the Shopping District!!"]]
+}}
+{{DlistJ
+|n=Zerimon
+|k=ゼリモン
+|yr=2000
+|d=[[D-Terminal Toy|D-Terminal]]
+}}
+{{DlistJ
+|n=Zhuqiaomon
+|k=スーツェーモン 
+|yr=2000
+|d=[[D-3 Version 1]]
+}}
+{{DlistJ
+|n=Zubaeagermon
+|k=ズバイガーモン
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Zubamon
+|k=ズバモン 
+|yr=2017
+|d=[[Digital Monster Ver.20th]]
+}}
+{{DlistJ
+|n=Zudomon
+|k=ズドモン 
+|yr=1998
+|d=[[Pendulum 2.0 Deep Savers]]
+}}
+{{DlistJ
+|n=Zurumon
+|k=ズルモン 
+|yr=1998
+|d=[[Digital Monster Ver. 5]]
+}}

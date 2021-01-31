@@ -1,0 +1,455 @@
+using System;
+using System.IO;
+using System.Linq;
+using System.Text.RegularExpressions;
+using System.Xml.Serialization;
+
+namespace DigitalMonsters
+{
+    public class AppearanceValueGetter : IAppearanceValueGetter
+    {
+        private static SerialisableDictionary<string, AppearanceOptions> AppearanceValues;
+        private static SerialisableDictionary<int, string> AppearanceNames;
+        private int _value;
+        private const int MaxValue = 9999;
+
+        public AppearanceValueGetter()
+        {
+            if (AppearanceValues == null)
+            {
+                DeserialiseAppearanceList();
+                SetAppearanceNames();
+            }
+        }
+
+        //private void SetDictionaries()
+        //{
+        //    AppearanceValues = new SerialisableDictionary<string, int>(StringComparer.OrdinalIgnoreCase);
+
+        //    AddValue("Digital Monster Ver. 1");
+        //    AddValue("Digital Monster Ver. 2");
+        //    AddValue("Digital Monster Ver. 3");
+        //    AddValue("Digital Monster Ver. 4");
+        //    AddValue("Digital Monster Ver. 5");
+
+        //    AddValue("Pendulum 1.0");
+        //    AddValue("Pendulum 1.5");
+        //    AddValue("Pendulum 2.0");
+        //    AddValue("Pendulum 2.5");
+        //    AddValue("Pendulum 3.0");
+        //    AddValue("Pendulum 3.5");
+        //    AddValue("Pendulum 4.0");
+        //    AddValue("Pendulum 4.5");
+        //    AddValue("Pendulum 5.0");
+        //    AddValue("Pendulum 5.5");
+        //    AddValue("Pendulum ZERO");
+
+        //    AddValue("Digital Monster Ver. S");
+        //    AddValue("Digimon World");
+        //    AddValue("Digital Monster Ver. WonderSwan");
+        //    AddValue("Digimon World: Digital Card Battle");
+
+        //    AddValue("Digimon Adventure (Movie)");
+
+        //    AddValue("Digimon Adventure");
+        //    AddValueWithoutIncreasing("Digimon Adventure and Digimon Adventure 02");
+        //    AddValueWithoutIncreasing("Digimon Adventure & Digimon Adventure 02");
+        //    AddValueWithoutIncreasing("Digimon Adventure &amp; Digimon Adventure 02");
+
+        //    AddValue("Our War Game");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Our War Game|Children's War Game");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Our War Game");
+
+        //    AddValue("Digimon Adventure: Anode Tamer");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Anode Tamer &amp;amp; Digimon Adventure: Cathode Tamer|Cathode Tamer");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Anode Tamer &amp; Digimon Adventure: Cathode Tamer|Cathode Tamer");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Anode Tamer &amp; Digimon Adventure: Cathode Tamer");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Anode Tamer &amp;amp; Digimon Adventure: Cathode Tamer");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Anode Tamer and Digimon Adventure: Cathode Tamer|Cathode Tamer");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Anode Tamer &amp;amp; Digimon Adventure: Cathode Tamer|Cathode Tamer + Digimon Adventure: Anode and Cathode Tamer Veedramon Version|Veedramon Version");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Anode Tamer &amp; Digimon Adventure: Cathode Tamer|Cathode Tamer + Digimon Adventure: Anode and Cathode Tamer Veedramon Version|Veedramon Version");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Anode/Cathode Tamer");
+        //    AddValueWithoutIncreasing("Digimon Adventure: Cathode Tamer");
+
+        //    AddValue("Digimon Adventure 02");
+
+        //    AddValue("Digimon Adventure 02: Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals");
+        //    AddValueWithoutIncreasing("Digimon Hurricane Touchdown!! Supreme Evolution!! The Golden Digimentals");
+        //    AddValueWithoutIncreasing("Digimon Adventure 02: Vol. 1: Digimon Hurricane Landing!!/Vol. 2: Transcendent Evolution!! The Golden Digimentals");
+
+        //    AddValue("Digimon Adventure 02: Diablomon Strikes Back");
+        //    AddValueWithoutIncreasing("Digimon Adventure 02: Diablomon Strikes Back|Diablomon Strikes Back");
+        //    AddValueWithoutIncreasing("Diablomon Strikes Back");
+
+        //    AddValue("D-3 Version 1");
+        //    AddValueWithoutIncreasing("D-3 Version 1|D-3 Digital Detect &amp;amp; Discover");
+        //    AddValueWithoutIncreasing("D-3 Version 1|D-3 Digital Detect &amp; Discover");
+        //    AddValue("D-3 Version 2");
+        //    AddValueWithoutIncreasing("D-3 Version 2|D-3 Digital Detect &amp;amp; Discover");
+        //    AddValueWithoutIncreasing("D-3 Version 2|D-3 Digital Detect &amp; Discover");
+        //    AddValue("D-3 Version 3");
+        //    AddValueWithoutIncreasing("D-3 Version 3|D-3 Digital Detect &amp;amp; Discover");
+        //    AddValueWithoutIncreasing("D-3 Version 3|D-3 Digital Detect &amp; Discover");
+        //    AddValueWithoutIncreasing("D-3 Version 3|D-3: Digital Detect &amp;amp; Discover");
+        //    AddValueWithoutIncreasing("D-3 Version 3|D-3: Digital Detect &amp; Discover");
+
+        //    AddValue("Digimon World 2");
+        //    AddValue("Digimon Adventure 02: Tag Tamers");
+        //    AddValue("Digimon Adventure 02: D1 Tamers");
+        //    AddValue("Digimon World: Digital Card Arena");
+        //    AddValueWithoutIncreasing("Digimon World:  Digital Card Arena");
+
+        //    AddValue("Digimon Tamers");
+        //    AddValue("Digimon Tamers: The Adventurers' Battle");
+        //    AddValue("Digimon Tamers: The Runaway Digimon Express");
+
+        //    AddValue("D-Ark Version 1.0");
+        //    AddValue("D-Ark Version 2.0");
+        //    AddValue("D-Ark Ultimate");
+
+        //    AddValue("Digimon Tamers: Battle Spirit");
+        //    AddValue("Digimon Tamers: Battle Evolution");
+        //    AddValue("Digimon Tamers: Brave Tamer");
+        //    AddValue("Digimon Tamers: Battle Spirit Ver. 1.5");
+        //    AddValue("Digimon World 3");
+
+        //    AddValue("Digimon Frontier");
+        //    AddValue("Digimon Frontier: Revival of the Ancient Digimon!!");
+
+        //    AddValue("D-Scanner 1.0");
+        //    AddValue("D-Scanner 2.0");
+        //    AddValue("D-Scanner 3.0");
+
+        //    AddValue("Pendulum Progress 1.0");
+        //    AddValue("Pendulum Progress 2.0");
+        //    AddValue("Pendulum Progress 3.0");
+        //    AddValue("Pendulum X 1.0");
+        //    AddValue("Pendulum X 1.5");
+        //    AddValue("Pendulum X 2.0");
+        //    AddValue("Pendulum X 3.0");
+
+        //    AddValue("Digital Monster X-evolution");
+
+        //    AddValue("Digimon Accel Justice Genome");
+        //    AddValue("Digimon Accel Evil Genome");
+        //    AddValue("Digimon Accel Nature Genome");
+        //    AddValue("Digimon Accel Ultimate Genome");
+
+        //    AddValue("Digimon Savers");
+        //    AddValue("Digimon Savers The Movie: Ultimate Power! Activate Burst Mode!!");
+
+        //    AddValue("Digimon Twin");
+        //    AddValue("Digivice iC 20X");
+        //    AddValue("DigiWindow");
+
+        //    AddValue("Digimon Battle Chronicle");
+        //    AddValue("Digimon World X");
+        //    AddValue("Digimon Savers: Another Mission");
+        //    AddValue("Sunburst");
+        //    AddValue("Moonlight");
+        //    AddValue("Digimon Championship");
+        //    //AddValue("Digimon RPG");
+
+        //    AddValue("Digimon Xros Wars");
+        //    AddValueWithoutIncreasing("Digimon Xros Wars &amp; Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms|The Evil Death General and the Seven Kingdoms");
+        //    AddValue("Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms");
+        //    AddValueWithoutIncreasing("Digimon Xros Wars: The Evil Death General and the Seven Kingdoms");
+        //    AddValue("Digimon Xros Wars: The young Hunters Who Leapt Through Time");
+
+        //    AddValue("Digimon Adventure tri.");
+
+        //    AddValue("");
+
+        //    SerialiseAppearanceList();
+
+        //    SetAppearanceNames();
+        //}
+
+        private void SetAppearanceNames()
+        {
+            var uniques = AppearanceValues.Where(x => string.Equals(x.Key, AppearanceValues.FirstOrDefault(y => y.Value.Value == x.Value.Value).Key, StringComparison.OrdinalIgnoreCase));
+            AppearanceNames = new SerialisableDictionary<int, string>(uniques.ToDictionary(x => x.Value.Value, x => x.Key));
+        }
+
+        //private void AddValue(string appearance)
+        //{
+        //    _value++;
+        //    AppearanceValues.Add(appearance, _value);
+        //}
+
+        //private void AddValueWithoutIncreasing(string appearance)
+        //{
+        //    AppearanceValues.Add(appearance, _value);
+        //}
+
+        public int ApperanceValue(string appearanceName)
+        {
+            if (AppearanceValues.ContainsKey(appearanceName))
+            {
+                return AppearanceValues[appearanceName].Value;
+            }
+            else
+            {
+                var foundKey = AppearanceValues.Where(x => x.Value.IsRegexMatch).Select(x => x.Key).FirstOrDefault(x => Regex.IsMatch(appearanceName, x, RegexOptions.IgnoreCase));
+                if (!string.IsNullOrWhiteSpace(foundKey))
+                {
+                    return AppearanceValues[foundKey].Value;
+                }
+            }
+            //else if(appearanceName.IndexOf("Pendulum", StringComparison.OrdinalIgnoreCase) >= 0
+            //    && appearanceName.IndexOf("Progress", StringComparison.OrdinalIgnoreCase) < 0
+            //    && appearanceName.IndexOf("X", StringComparison.OrdinalIgnoreCase) < 0)
+            //{
+            //    return GetPundulumValue(appearanceName);
+            //}
+            //else if (appearanceName.IndexOf("Pendulum", StringComparison.OrdinalIgnoreCase) >= 0
+            //    && appearanceName.IndexOf("Progress", StringComparison.OrdinalIgnoreCase) >= 0
+            //    && appearanceName.IndexOf("X", StringComparison.OrdinalIgnoreCase) < 0)
+            //{
+            //    return GetPundulumProgressValue(appearanceName);
+            //}
+            //else if (appearanceName.IndexOf("Pendulum", StringComparison.OrdinalIgnoreCase) >= 0
+            //    && appearanceName.IndexOf("X", StringComparison.OrdinalIgnoreCase) >= 0)
+            //{
+            //    return GetPundulumXValue(appearanceName);
+            //}
+            //else if (appearanceName.IndexOf("D-Ark", StringComparison.OrdinalIgnoreCase) >= 0)
+            //{
+            //    return GetDArkValue(appearanceName);
+            //}
+            //else if (appearanceName.IndexOf("D-Scanner", StringComparison.OrdinalIgnoreCase) >= 0)
+            //{
+            //    return GetDScannerValue(appearanceName);
+            //}
+            //else if (appearanceName.IndexOf("Digimon Twin", StringComparison.OrdinalIgnoreCase) >= 0)
+            //{
+            //    return AppearanceValues["Digimon Twin"];
+            //}
+            //else if (appearanceName.IndexOf("Sunburst", StringComparison.OrdinalIgnoreCase) >= 0)
+            //{
+            //    return AppearanceValues["Sunburst"];
+            //}
+            //else if (appearanceName.IndexOf("Moonlight", StringComparison.OrdinalIgnoreCase) >= 0)
+            //{
+            //    return AppearanceValues["Moonlight"];
+            //}
+            return MaxValue;
+        }
+
+        //private int GetPundulumValue(string appearanceName)
+        //{
+        //    if (appearanceName.IndexOf("1") >= 0
+        //        && appearanceName.IndexOf("1.5") != appearanceName.IndexOf("1"))
+        //    {
+        //        return AppearanceValues["Pendulum 1.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("1.5") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum 1.5"];
+        //    }
+        //    else if (appearanceName.IndexOf("2") >= 0
+        //        && appearanceName.IndexOf("2.5") != appearanceName.IndexOf("2")
+        //        && appearanceName.IndexOf("20") < 0
+        //        && appearanceName.IndexOf("hdr2") < 0)
+        //    {
+        //        return AppearanceValues["Pendulum 2.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("2.5") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum 2.5"];
+        //    }
+        //    else if (appearanceName.IndexOf("3") >= 0
+        //        && appearanceName.IndexOf("3.5") != appearanceName.IndexOf("3"))
+        //    {
+        //        return AppearanceValues["Pendulum 3.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("3.5") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum 3.5"];
+        //    }
+        //    else if (appearanceName.IndexOf("4") >= 0
+        //        && appearanceName.IndexOf("4.5") != appearanceName.IndexOf("4"))
+        //    {
+        //        return AppearanceValues["Pendulum 4.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("4.5") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum 4.5"];
+        //    }
+        //    else if (appearanceName.IndexOf("5") >= 0
+        //        && appearanceName.IndexOf("5.5") != appearanceName.IndexOf("5"))
+        //    {
+        //        return AppearanceValues["Pendulum 5.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("5.5") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum 5.5"];
+        //    }
+        //    else if (appearanceName.IndexOf("20") < 0 &&
+        //        (appearanceName.IndexOf("0") >= 0 || appearanceName.IndexOf("ZERO", StringComparison.OrdinalIgnoreCase) >= 0))
+        //    {
+        //        return AppearanceValues["Pendulum ZERO"];
+        //    }
+        //    return MaxValue;
+        //}
+
+        //private int GetPundulumProgressValue(string appearanceName)
+        //{
+        //    if (appearanceName.IndexOf("1") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum Progress 1.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("2") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum Progress 2.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("3") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum Progress 3.0"];
+        //    }
+        //    return MaxValue;
+        //}
+
+        //private int GetPundulumXValue(string appearanceName)
+        //{
+        //    if (appearanceName.IndexOf("1") >= 0
+        //        && appearanceName.IndexOf("1.5") != appearanceName.IndexOf("1"))
+        //    {
+        //        return AppearanceValues["Pendulum X 1.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("1.5") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum X 1.5"];
+        //    }
+        //    else if (appearanceName.IndexOf("2") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum X 2.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("3") >= 0)
+        //    {
+        //        return AppearanceValues["Pendulum X 3.0"];
+        //    }
+        //    return MaxValue;
+        //}
+
+        //private int GetDArkValue(string appearanceName)
+        //{
+        //    if (appearanceName.IndexOf("1.0") >= 0)
+        //    {
+        //        return AppearanceValues["D-Ark Version 1.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("2.0") >= 0)
+        //    {
+        //        return AppearanceValues["D-Ark Version 2.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("Ultimate") >= 0)
+        //    {
+        //        return AppearanceValues["D-Ark Ultimate"];
+        //    }
+        //    return MaxValue;
+        //}
+
+        //private int GetDScannerValue(string appearanceName)
+        //{
+        //    if (appearanceName.IndexOf("1.0") >= 0)
+        //    {
+        //        return AppearanceValues["D-Scanner 1.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("2.0") >= 0)
+        //    {
+        //        return AppearanceValues["D-Scanner 2.0"];
+        //    }
+        //    else if (appearanceName.IndexOf("3.0") >= 0)
+        //    {
+        //        return AppearanceValues["D-Scanner 3.0"];
+        //    }
+        //    return MaxValue;
+        //}
+
+        public string AppearanceName(int appearanceValue)
+        {
+            if (AppearanceNames.ContainsKey(appearanceValue))
+            {
+                return AppearanceNames[appearanceValue];
+            }
+            else
+            {
+                return string.Empty;
+            }
+        }
+
+        public void SerialiseAppearanceList()
+        {
+            var directory = Directory.GetCurrentDirectory();
+            var listFilePath = Path.Combine(directory, "DigimonAppearances.xml");
+            var fileStream = new FileStream(listFilePath, FileMode.Create);
+            using (fileStream)
+            {
+                new XmlSerializer(typeof(SerialisableDictionary<string, AppearanceOptions>)).Serialize(fileStream, AppearanceValues);
+            }
+        }
+
+        public void DeserialiseAppearanceList()
+        {
+            var directory = Directory.GetCurrentDirectory();
+            var listFilePath = Path.Combine(directory, "DigimonAppearances.xml");
+            var fileStream = new FileStream(listFilePath, FileMode.OpenOrCreate);
+            using (fileStream)
+            {
+                var appearanceValues = new XmlSerializer(typeof(SerialisableDictionary<string, int>)).Deserialize(fileStream) as SerialisableDictionary<string, int>;
+
+                var optionsDictionary = new SerialisableDictionary<string, AppearanceOptions>();
+
+                foreach(var value in appearanceValues)
+                {
+                    optionsDictionary.Add(value.Key, new AppearanceOptions { Value = value.Value, IsRegexMatch = GetIsRegextMatch(value.Key) });
+                }
+
+                AppearanceValues = optionsDictionary;
+            }
+        }
+
+        private bool GetIsRegextMatch(string value)
+        {
+            var isRegex = false;
+            if (value.IndexOf("Pendulum", StringComparison.OrdinalIgnoreCase) >= 0
+                && value.IndexOf("Progress", StringComparison.OrdinalIgnoreCase) < 0
+                && value.IndexOf("X", StringComparison.OrdinalIgnoreCase) < 0)
+            {
+                isRegex = true;
+            }
+            else if (value.IndexOf("Pendulum", StringComparison.OrdinalIgnoreCase) >= 0
+                && value.IndexOf("Progress", StringComparison.OrdinalIgnoreCase) >= 0
+                && value.IndexOf("X", StringComparison.OrdinalIgnoreCase) < 0)
+            {
+                isRegex = true;
+            }
+            else if (value.IndexOf("Pendulum", StringComparison.OrdinalIgnoreCase) >= 0
+                && value.IndexOf("X", StringComparison.OrdinalIgnoreCase) >= 0)
+            {
+                isRegex = true;
+            }
+            else if (value.IndexOf("D-Ark", StringComparison.OrdinalIgnoreCase) >= 0)
+            {
+                isRegex = true;
+            }
+            else if (value.IndexOf("D-Scanner", StringComparison.OrdinalIgnoreCase) >= 0)
+            {
+                isRegex = true;
+            }
+            else if (value.IndexOf("Digimon Twin", StringComparison.OrdinalIgnoreCase) >= 0)
+            {
+                isRegex = true;
+            }
+            else if (value.IndexOf("Sunburst", StringComparison.OrdinalIgnoreCase) >= 0)
+            {
+                isRegex = true;
+            }
+            else if (value.IndexOf("Moonlight", StringComparison.OrdinalIgnoreCase) >= 0)
+            {
+                isRegex = true;
+            }
+            return isRegex;
+        }
+    }
+}
