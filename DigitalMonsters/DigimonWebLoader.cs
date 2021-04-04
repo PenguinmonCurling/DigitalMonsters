@@ -90,6 +90,14 @@ namespace DigitalMonsters
                 {
                     digimon.Level = Regex.Match(downloadString, "\\|l1=[A-z\\s]{1,}\\n").Value.Replace("|l1=", string.Empty).Replace("\n", string.Empty);
                 }
+                if (Regex.IsMatch(downloadString, "\\|yd=[0-9\\s]{1,}\\n"))
+                {
+                    var yearString = Regex.Match(downloadString, "\\|yd=[0-9\\s]{1,}\\n").Value.Replace("|yd=", string.Empty).Replace("\n", string.Empty);
+                    if (int.TryParse(yearString, out int year))
+                    {
+                        digimon.DebutYear = year;
+                    }
+                }
                 if (Regex.IsMatch(downloadString, "\\|t1=[A-z\\s]{1,}\\n"))
                 {
                     digimon.Type = Regex.Match(downloadString, "\\|t1=[A-z\\s]{1,}\\n").Value.Replace("|t1=", string.Empty).Replace("\n", string.Empty);
