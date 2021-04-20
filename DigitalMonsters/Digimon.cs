@@ -161,8 +161,15 @@ namespace DigitalMonsters
             return (string.Equals(DisplayName, digimonName, StringComparison.OrdinalIgnoreCase)
                          || (!string.IsNullOrWhiteSpace(DubName) && string.Equals(DubName, digimonName, StringComparison.OrdinalIgnoreCase))
                          || string.Equals(Name, digimonName, StringComparison.OrdinalIgnoreCase)
-                         || (!string.IsNullOrWhiteSpace(DubName) && string.Equals(DubName.Replace(" ", string.Empty), digimonName, StringComparison.OrdinalIgnoreCase))
-                         || string.Equals(Name.Replace(" ", string.Empty), digimonName, StringComparison.OrdinalIgnoreCase));
+                         || (!string.IsNullOrWhiteSpace(DubName) && string.Equals(GetNameForChecking(DubName), GetNameForChecking(digimonName), StringComparison.OrdinalIgnoreCase))
+                         || string.Equals(GetNameForChecking(Name), GetNameForChecking(digimonName), StringComparison.OrdinalIgnoreCase));
+        }
+
+        private string GetNameForChecking(string name)
+        {
+            return name.Replace(" ", string.Empty)
+                .Replace("(", string.Empty)
+                .Replace(")", string.Empty);
         }
 
         public bool XAntibodyNameCheck(string currentDigimonName)

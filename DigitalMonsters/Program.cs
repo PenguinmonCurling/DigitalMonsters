@@ -40,8 +40,6 @@ namespace DigitalMonsters
                 }
             }
             var notInMyList = referenceList.DigimonCollection.Where(x => !digimonList.DigimonAlreadyExists(x.Name)
-                && !x.Name.Contains("X-Antibody")
-                && !x.Name.StartsWith("Bio")
                 && !digimonList.IsInvalidMonster(x.Name));
             var notInRefList = digimonList.DigimonCollection.Where(x => !referenceList.DigimonAlreadyExists(x.Name)
                 && !x.Name.Contains("X-Antibody")
