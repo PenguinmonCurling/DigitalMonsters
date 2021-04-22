@@ -131,6 +131,12 @@ namespace DigitalMonsters
             }
         }
 
+        public void UpdateDigimon(Digimon digimon)
+        {
+            var webloader = new DigimonWebLoader(new List<string>());
+            webloader.LoadImage(digimon);
+        }
+
         public bool DigimonAlreadyExists(string name)
         {
             return DigimonCollection.Any(x => x.NameCheck(name));

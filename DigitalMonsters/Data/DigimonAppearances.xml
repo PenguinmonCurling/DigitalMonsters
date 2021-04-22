@@ -618,6 +618,17 @@
   </item>
   <item>
     <key>
+      <string>Starter ver. 3</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>31.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>Digimon World 2</string>
     </key>
     <value>
@@ -667,6 +678,17 @@
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Value>35</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Booster 8</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>35.1</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -739,6 +761,17 @@
   </item>
   <item>
     <key>
+      <string>Starter ver. 6</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>41.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>Digimon Tamers: Battle Spirit</string>
     </key>
     <value>
@@ -772,6 +805,17 @@
   </item>
   <item>
     <key>
+      <string>Ultimate Battle Deck 3</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>44.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>Digimon Tamers: Battle Spirit Ver. 1.5</string>
     </key>
     <value>
@@ -783,11 +827,22 @@
   </item>
   <item>
     <key>
+      <string>Booster 13</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>45.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>Digimon World 3</string>
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>46</Value>
+        <Value>47</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -798,7 +853,7 @@
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>47</Value>
+        <Value>46</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -831,7 +886,7 @@
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>50</Value>
+        <Value>51</Value>
         <IsRegexMatch>true</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -842,7 +897,7 @@
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>51</Value>
+        <Value>53</Value>
         <IsRegexMatch>true</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -853,7 +908,7 @@
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>52</Value>
+        <Value>50</Value>
         <IsRegexMatch>true</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -864,7 +919,7 @@
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>53</Value>
+        <Value>52</Value>
         <IsRegexMatch>true</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -882,12 +937,34 @@
   </item>
   <item>
     <key>
+      <string>Starter Ver. 7</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>48.4</Value>
+        <IsRegexMatch>true</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>Starter Ver. 8</string>
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>54.1</Value>
+        <Value>52.1</Value>
         <IsRegexMatch>true</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Booster 18</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>54.3</Value>
+        <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
   </item>
@@ -897,7 +974,7 @@
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>54.2</Value>
+        <Value>53.2</Value>
         <IsRegexMatch>true</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -953,6 +1030,39 @@
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Value>59</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Booster 22</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>59.01</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Booster 24</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>59.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Digimon World X</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>59.2</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -1069,11 +1179,11 @@
   </item>
   <item>
     <key>
-      <string>Digimon World X</string>
+      <string>Digimon Story</string>
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>70</Value>
+        <Value>69.1</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -1146,22 +1256,44 @@
   </item>
   <item>
     <key>
-      <string>Digimon Xros Wars &amp;amp; Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms|The Evil Death General and the Seven Kingdoms</string>
+      <string>Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms</string>
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>76</Value>
+        <Value>77</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
   </item>
   <item>
     <key>
-      <string>Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms</string>
+      <string>Digimon Xros Wars|Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms</string>
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Value>77</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Digimon Xros Wars|Digimon Xros Wars: The Evil Death General and the Seven Kingdoms</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>77</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Digimon Xros Wars &amp;amp; Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms|The Evil Death General and the Seven Kingdoms</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>76</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -1194,7 +1326,7 @@
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>85</Value>
+        <Value>79</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -1205,7 +1337,7 @@
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>86</Value>
+        <Value>79</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -1216,7 +1348,7 @@
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>80</Value>
+        <Value>81</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -1245,6 +1377,17 @@
   </item>
   <item>
     <key>
+      <string>Booster 5</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>25.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
   <string>Digimon Universe Appli Monsters</string>
     </key>
     <value>
@@ -1267,11 +1410,132 @@
   </item>
   <item>
     <key>
+	<string>Digimon Linkz</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>83.01</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Encounters</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>83.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Rearise</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>83.2</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Story: Cyber Sleuth</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>83.3</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Story: Cyber Sleuth Hacker's Memory</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>83.3</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
 	<string>Digimon Pendulum Ver.20th</string>
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Value>84</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Adventure: Last Evolution Kizuna</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>84.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Pendulum Z</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>84.5</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Pendulum Z II</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>84.6</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Vital Bracelet Digital Monster</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>85</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Adventure:</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>86</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Adventure V-Tamer 01</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>48.3</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>

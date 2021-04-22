@@ -117,5 +117,10 @@ namespace DigitalMonsters
                 new MessageForm($"No Digimon named {newDigimon.Name} found").ShowDialog();
             }
         }
+
+        private void UpdateButton_Click(object sender, EventArgs e)
+        {
+            _digimonList.UpdateDigimon(_currentDigimon);
+        }
     }
 }
