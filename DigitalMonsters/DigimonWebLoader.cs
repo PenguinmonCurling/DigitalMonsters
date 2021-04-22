@@ -89,6 +89,13 @@ namespace DigitalMonsters
                 if (Regex.IsMatch(downloadString, "\\|l1=[A-z\\s]{1,}\\n"))
                 {
                     digimon.Level = Regex.Match(downloadString, "\\|l1=[A-z\\s]{1,}\\n").Value.Replace("|l1=", string.Empty).Replace("\n", string.Empty);
+                    if (string.Equals(digimon.Level, "No Level", StringComparison.OrdinalIgnoreCase))
+                    {
+                        if (Regex.IsMatch(downloadString, "\\|l2=[A-z\\s]{1,}\\n"))
+                        {
+                            digimon.Level = Regex.Match(downloadString, "\\|l2=[A-z\\s]{1,}\\n").Value.Replace("|l2=", string.Empty).Replace("\n", string.Empty);
+                        }
+                    }
                 }
                 if (Regex.IsMatch(downloadString, "\\|yd=[0-9\\s]{1,}\\n"))
                 {

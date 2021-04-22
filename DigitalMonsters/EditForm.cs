@@ -121,6 +121,7 @@ namespace DigitalMonsters
         private void UpdateButton_Click(object sender, EventArgs e)
         {
             _digimonList.UpdateDigimon(_currentDigimon);
+            SetText();
         }
     }
 }
