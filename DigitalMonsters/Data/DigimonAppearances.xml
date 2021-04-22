@@ -1540,4 +1540,26 @@
       </AppearanceOptions>
     </value>
   </item>
+  <item>
+    <key>
+	<string>Digimon Xros Wars Manga</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>78.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Xros Wars (Manga)|Digimon Xros Wars</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>78.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
 </dictionary>

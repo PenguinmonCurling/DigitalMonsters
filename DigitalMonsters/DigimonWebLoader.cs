@@ -113,6 +113,7 @@ namespace DigitalMonsters
 
                 GetEvolutions(digimon, downloadString);
                 GetAnimeAppearances(digimon, downloadString);
+                GetMangaAppearances(digimon, downloadString);
                 GetVideoGameAppearances(digimon, downloadString);
                 GetVirutalPetAppearances(digimon, downloadString);
 
@@ -206,6 +207,24 @@ namespace DigitalMonsters
             }
         }
 
+        private static void GetMangaAppearances(Digimon digimon, string downloadString)
+        {
+            if (Regex.IsMatch(downloadString, "=Appearances=(.{1,})==Manga==(.*?)[^=]==[^=]", RegexOptions.Singleline))
+            {
+                var appearances = new List<Appearance>();
+                var appearancesText = Regex.Match(downloadString, "=Appearances=(.{1,})==Manga==(.*?)[^=]==[^=]", RegexOptions.Singleline).Value;
+                foreach (var match in Regex.Matches(appearancesText, "===(.*?)===", RegexOptions.Singleline))
+                {
+                    appearances.Add(new Appearance
+                    {
+                        Name = match.ToString().Replace("=", string.Empty).Replace("{", string.Empty).Replace("hdr|", string.Empty).Replace("}", string.Empty),
+                        AppearanceCategory = Appearance.AppearanceType.Manga
+                    });
+                }
+                digimon.Appearances = appearances;
+            }
+        }
+
         private static void GetEvolutions(Digimon digimon, string downloadString)
         {
             if (Regex.IsMatch(downloadString, "==Evolves To==(.{1,})=Appearances", RegexOptions.Singleline))
@@ -214,7 +233,7 @@ namespace DigitalMonsters
                 var digivolutionText = Regex.Match(downloadString, "==Evolves To==(.{1,})=Appearances", RegexOptions.Singleline).Value.Replace("==Evolves To==", string.Empty).Replace("=Appearances", string.Empty);
                 foreach (var match in Regex.Matches(digivolutionText, "\\*([^\\]]{1,})]", RegexOptions.Singleline))
                 {
-                    possibleDigivolutions.Add(match.ToString().Replace("* ", string.Empty).Replace("'''", string.Empty).Replace("[", string.Empty).Replace("]", string.Empty));
+                    possibleDigivolutions.Add(match.ToString().Replace("* ", string.Empty).Replace("*", string.Empty).Replace("'''", string.Empty).Replace("[", string.Empty).Replace("]", string.Empty));
                 }
                 digimon.Digivolutions = possibleDigivolutions;
             }
