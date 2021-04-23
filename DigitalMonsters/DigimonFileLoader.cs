@@ -73,9 +73,7 @@ namespace DigitalMonsters
         private void SetNumbersCustom(List<Digimon> digimonList)
         {
             var orderedDigimon = digimonList
-                .Where(x => x.Appearances != null
-                    && x.Name.IndexOf("X-Antibody") <= 0
-                    && x.Name.IndexOf("2006 Anime Version") <= 0)
+                .Where(x => x.Appearances != null)
                 .OrderBy(y => y.Appearances.Any() ? y.Appearances.Min(x => x.AppearanceValue()) : 9999)
                 .ThenBy(x => x.LevelNumber).ThenBy(z => z.DisplayName).ToList();
             foreach(var digimon in digimonList)

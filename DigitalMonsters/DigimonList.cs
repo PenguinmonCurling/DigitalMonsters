@@ -29,7 +29,6 @@ namespace DigitalMonsters
             _DigimonFilteredList = new List<Digimon>();
             _InvalidMonsters = new List<string>
             {
-"Kodokugumon",
 "Ohakadamon",
 "Earthdramon",
 "Huntermon",
