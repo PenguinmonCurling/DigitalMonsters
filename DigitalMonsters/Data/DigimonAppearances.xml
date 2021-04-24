@@ -959,22 +959,55 @@
   </item>
   <item>
     <key>
+      <string>Ultimate Battle Deck 4</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>53.2</Value>
+        <IsRegexMatch>true</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>Booster 18</string>
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>54.3</Value>
+        <Value>53.24</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
   </item>
   <item>
     <key>
-      <string>Ultimate Battle Deck 4</string>
+      <string>Booster 19</string>
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>53.2</Value>
+        <Value>53.25</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Starter Ver. 9</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>53.3</Value>
+        <IsRegexMatch>true</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Booster 20</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>53.4</Value>
         <IsRegexMatch>true</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -1036,11 +1069,44 @@
   </item>
   <item>
     <key>
+      <string>Ultimate Battle Deck 5</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>59.001</Value>
+        <IsRegexMatch>true</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Booster 21</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>59.002</Value>
+        <IsRegexMatch>true</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>Booster 22</string>
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Value>59.01</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Booster 23</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>59.02</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
@@ -1349,17 +1415,6 @@
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
         <Value>81</Value>
-        <IsRegexMatch>false</IsRegexMatch>
-      </AppearanceOptions>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string />
-    </key>
-    <value>
-      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>90</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
