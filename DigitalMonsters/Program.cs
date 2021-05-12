@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
 namespace DigitalMonsters
@@ -21,6 +22,7 @@ namespace DigitalMonsters
             //CompareMedals();
             //CompareNewList();
             //CompareReferenceList();
+            //CompareReferenceAndMedalList();
 
             Application.Run(new DigimonAnalyser());
         }
@@ -45,6 +47,37 @@ namespace DigitalMonsters
                 && !x.Name.Contains("X-Antibody")
                 && !x.Name.StartsWith("Bio")
                 && !digimonList.IsInvalidMonster(x.Name)).OrderBy(x => x.Name);
+        }
+
+        private static void CompareReferenceAndMedalList()
+        {
+            var directory = Directory.GetCurrentDirectory();
+            var listFilePath = Path.Combine(directory, "InRefeBook.txt");
+            var referenceList = new DigimonList();
+            foreach (var line in File.ReadAllLines(listFilePath))
+            {
+                if (!String.IsNullOrWhiteSpace(line))
+                {
+                    referenceList.DigimonCollection.Add(new Digimon { Name = line.Trim() });
+                }
+            }
+            listFilePath = Path.Combine(directory, "InMedal.txt");
+            var medalList = new DigimonList();
+            foreach (var line in File.ReadAllLines(listFilePath))
+            {
+                if (!String.IsNullOrWhiteSpace(line))
+                {
+                    if (Regex.IsMatch(line, "\\[(.*?)\\]"))
+                    {
+                        var digimon = Regex.Match(line, "\\[(.*?)\\]").Value.Replace("[", string.Empty).Replace("]", string.Empty);
+                        medalList.DigimonCollection.Add(new Digimon { Name = digimon });
+                    }
+                }
+            }
+            var notInMedalList = referenceList.DigimonCollection.Where(x => !medalList.DigimonAlreadyExists(x.Name)
+                && !medalList.IsInvalidMonster(x.Name));
+            var notInRefList = medalList.DigimonCollection.Where(x => !referenceList.DigimonAlreadyExists(x.Name)
+                && !medalList.IsInvalidMonster(x.Name)).OrderBy(x => x.Name);
             var y = 5;
         }
 

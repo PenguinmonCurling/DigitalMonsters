@@ -67,7 +67,6 @@ namespace DigitalMonsters
 "Lykamon",
 "Panimon",
 "Kohagurumon",
-"Minidekachimon",
 "Citramon",
 "Dukemon: Chaos Mode",
 "Gaiamon",
