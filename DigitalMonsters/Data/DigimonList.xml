@@ -17747,19 +17747,27 @@
     <DebutedIn>[[Digimon Tamers: Brave Tamer]]</DebutedIn>
     <Level>Baby II</Level>
     <DubName />
-    <ImageUrl>https://wikimon.net/images/4/4f/Hopmon.gif</ImageUrl>
+    <ImageUrl>https://wikimon.net/images/thumb/2/24/Hopmon2.jpg/600px-Hopmon2.jpg</ImageUrl>
     <Number>388</Number>
     <Digivolutions>
-      <string />
+      <string>Gabumon</string>
+      <string>Jazamon</string>
+      <string>Junkmon</string>
+      <string>Monodramon</string>
+      <string>Wolfmon</string>
     </Digivolutions>
     <Appearances>
       <Appearance>
         <Name>Digimon Tamers</Name>
-        <AppearanceCategory>Anime</AppearanceCategory>
+        <AppearanceCategory>Manga</AppearanceCategory>
       </Appearance>
       <Appearance>
         <Name>Digimon Savers 3D: The Digital World in Imminent Danger!</Name>
-        <AppearanceCategory>Anime</AppearanceCategory>
+        <AppearanceCategory>Manga</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Xros Wars (Manga)|Digimon Xros Wars</Name>
+        <AppearanceCategory>Manga</AppearanceCategory>
       </Appearance>
       <Appearance>
         <Name>Digimon Tamers: Brave Tamer</Name>
@@ -17772,6 +17780,22 @@
       <Appearance>
         <Name>Digimon Soul Chaser</Name>
         <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>D-Spirit</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>D-Spirit 2</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Pendulum Z II</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Vital Bracelet Digital Monster</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
       </Appearance>
     </Appearances>
     <Type>Slime</Type>
@@ -24942,7 +24966,7 @@
     <Level>Perfect</Level>
     <DubName>Mermaimon</DubName>
     <ImageUrl>https://wikimon.net/images/4/40/Mermaimon.jpg</ImageUrl>
-    <Number>590</Number>
+    <Number>591</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -34638,7 +34662,7 @@
     <DebutedIn>[[Digimon Adventure 02: D1 Tamers]]</DebutedIn>
     <Level>Adult</Level>
     <DubName />
-    <ImageUrl>https://wikimon.net/images/1/13/Redv-dramon_battle_da02d1t.png</ImageUrl>
+    <ImageUrl>https://wikimon.net/images/3/3c/Redv-dramon.png</ImageUrl>
     <Number>377</Number>
     <Digivolutions>
       <string />
@@ -46691,7 +46715,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/30/Agumonx2.jpg</ImageUrl>
-    <Number>597</Number>
+    <Number>598</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -46784,7 +46808,7 @@
     <DebutedIn>[[Bx-41]] ([[Booster 21]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/7/77/Allomonx.jpg</ImageUrl>
-    <Number>633</Number>
+    <Number>634</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -46814,7 +46838,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/2/29/Alphamon.jpg</ImageUrl>
-    <Number>622</Number>
+    <Number>623</Number>
     <Digivolutions>
       <string>Alphamon: Ouryuken</string>
     </Digivolutions>
@@ -46948,7 +46972,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/39/Alphamon_ouryuken.jpg</ImageUrl>
-    <Number>657</Number>
+    <Number>658</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -47637,7 +47661,7 @@
     <DebutedIn>[[Bx-62]] ([[Booster 21]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/9/96/Anomalocarimonx.jpg</ImageUrl>
-    <Number>671</Number>
+    <Number>672</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -47766,7 +47790,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/2/24/Astamon.jpg</ImageUrl>
-    <Number>702</Number>
+    <Number>703</Number>
     <Digivolutions>
       <string>belphemon: sleep mode</string>
     </Digivolutions>
@@ -47820,7 +47844,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/a4/Barbamon2.jpg</ImageUrl>
-    <Number>687</Number>
+    <Number>688</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -48066,7 +48090,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/93/Belphemon_rage.jpg</ImageUrl>
-    <Number>703</Number>
+    <Number>704</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -48168,7 +48192,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/d/da/Belphemon_sleep2.jpg</ImageUrl>
-    <Number>704</Number>
+    <Number>705</Number>
     <Digivolutions>
       <string>Belphemon: Rage Mode</string>
     </Digivolutions>
@@ -48297,7 +48321,7 @@
     <DebutedIn>[[Sx-20]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/7/73/Betamonx.jpg</ImageUrl>
-    <Number>598</Number>
+    <Number>599</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -48802,7 +48826,7 @@
     <DebutedIn>[[Bo-26L]] ([[Lotteria|Lotteria Booster]])</DebutedIn>
     <Level>Adult</Level>
     <DubName>Burgermon</DubName>
-    <ImageUrl>https://wikimon.net/images/e/e9/Burgemon_adult.jpg</ImageUrl>
+    <ImageUrl>https://wikimon.net/images/a/a8/Burgamon_adult.jpg</ImageUrl>
     <Number>476</Number>
     <Digivolutions>
       <string />
@@ -48878,7 +48902,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/a1/Cannonbeemon.jpg</ImageUrl>
-    <Number>655</Number>
+    <Number>656</Number>
     <Digivolutions>
       <string>tigervespamon</string>
     </Digivolutions>
@@ -48969,7 +48993,7 @@
     <DebutedIn>[[Sx-23]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/0/0d/Cerberumonx.jpg</ImageUrl>
-    <Number>607</Number>
+    <Number>608</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -49068,7 +49092,7 @@
     <DebutedIn>[[Bx-119]] ([[Booster 23]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/9/9c/Chaosdramonx.jpg</ImageUrl>
-    <Number>697</Number>
+    <Number>698</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -49224,7 +49248,7 @@
     <Level>Adult</Level>
     <DubName>DexDorugamon</DubName>
     <ImageUrl>https://wikimon.net/images/3/3a/Deathxdorugamon.jpg</ImageUrl>
-    <Number>617</Number>
+    <Number>618</Number>
     <Digivolutions>
       <string>Death-X-DORUguremon</string>
     </Digivolutions>
@@ -49262,7 +49286,7 @@
     <Level>Ultimate</Level>
     <DubName>DexDorugoramon</DubName>
     <ImageUrl>https://wikimon.net/images/d/d4/Death-X-DORUgoramon.jpg</ImageUrl>
-    <Number>623</Number>
+    <Number>624</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -49304,7 +49328,7 @@
     <Level>Perfect</Level>
     <DubName>DexDoruGreymon</DubName>
     <ImageUrl>https://wikimon.net/images/9/9f/Deathxdoruguremon.jpg</ImageUrl>
-    <Number>628</Number>
+    <Number>629</Number>
     <Digivolutions>
       <string>DexDorugoramon</string>
     </Digivolutions>
@@ -49346,7 +49370,7 @@
     <Level>Ultimate</Level>
     <DubName>Dexmon</DubName>
     <ImageUrl>https://wikimon.net/images/c/c1/Deathxmon.jpg</ImageUrl>
-    <Number>658</Number>
+    <Number>659</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -49449,7 +49473,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/2/25/Dinorexmon.jpg</ImageUrl>
-    <Number>643</Number>
+    <Number>644</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -49495,7 +49519,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/34/Dinotigermon.jpg</ImageUrl>
-    <Number>644</Number>
+    <Number>645</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -49540,7 +49564,7 @@
     <DebutedIn>[[Sx-22]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/2/2d/Dobermon_x.jpg</ImageUrl>
-    <Number>602</Number>
+    <Number>603</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -49566,7 +49590,7 @@
     <Level>Baby I</Level>
     <DubName>Dodomon</DubName>
     <ImageUrl>https://wikimon.net/images/0/02/Dodomon.jpg</ImageUrl>
-    <Number>614</Number>
+    <Number>615</Number>
     <Digivolutions>
       <string>Dorimon</string>
     </Digivolutions>
@@ -49631,7 +49655,7 @@
     <Level>Baby II</Level>
     <DubName>Dorimon</DubName>
     <ImageUrl>https://wikimon.net/images/f/f0/Dorimon.jpg</ImageUrl>
-    <Number>615</Number>
+    <Number>616</Number>
     <Digivolutions>
       <string>Dorumon</string>
     </Digivolutions>
@@ -49689,7 +49713,7 @@
     <Level>Adult</Level>
     <DubName>Dorugamon</DubName>
     <ImageUrl>https://wikimon.net/images/e/e3/Dorugamon.jpg</ImageUrl>
-    <Number>618</Number>
+    <Number>619</Number>
     <Digivolutions>
       <string>Doruguremon</string>
     </Digivolutions>
@@ -49783,7 +49807,7 @@
     <Level>Ultimate</Level>
     <DubName>Dorugoramon</DubName>
     <ImageUrl>https://wikimon.net/images/6/63/Dorugoramon.jpg</ImageUrl>
-    <Number>624</Number>
+    <Number>625</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -49853,7 +49877,7 @@
     <Level>Perfect</Level>
     <DubName>DoruGreymon</DubName>
     <ImageUrl>https://wikimon.net/images/a/a6/Doruguremon.jpg</ImageUrl>
-    <Number>620</Number>
+    <Number>621</Number>
     <Digivolutions>
       <string>Alphamon</string>
       <string>Dorugoramon</string>
@@ -49948,7 +49972,7 @@
     <Level>Child</Level>
     <DubName>Dorumon</DubName>
     <ImageUrl>https://wikimon.net/images/1/17/Dorumon.jpg</ImageUrl>
-    <Number>616</Number>
+    <Number>617</Number>
     <Digivolutions>
       <string>DexDorugamon</string>
       <string>Dorugamon</string>
@@ -50071,7 +50095,7 @@
     <DebutedIn />
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/3/3e/Dukemonx.jpg</ImageUrl>
-    <Number>645</Number>
+    <Number>646</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -50276,7 +50300,7 @@
     <DebutedIn>[[Pendulum X 3.0]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/a/af/Dynasmonx.jpg</ImageUrl>
-    <Number>659</Number>
+    <Number>660</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -50309,7 +50333,7 @@
     <DebutedIn>[[Bx-83]] ([[Booster 22]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/a/a3/Ebemonx.jpg</ImageUrl>
-    <Number>688</Number>
+    <Number>689</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -50569,7 +50593,7 @@
     <Level>Baby I</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/4/48/Fufumon.jpg</ImageUrl>
-    <Number>629</Number>
+    <Number>630</Number>
     <Digivolutions>
       <string>Kyokyomon</string>
     </Digivolutions>
@@ -50599,7 +50623,7 @@
     <Level>Child</Level>
     <DubName>FanBeemon</DubName>
     <ImageUrl>https://wikimon.net/images/5/58/Funbeemon.jpg</ImageUrl>
-    <Number>651</Number>
+    <Number>652</Number>
     <Digivolutions>
       <string>waspmon</string>
     </Digivolutions>
@@ -50686,7 +50710,7 @@
     <DebutedIn>[[Sx-7]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/c/cb/Gabumonx.jpg</ImageUrl>
-    <Number>599</Number>
+    <Number>600</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -50727,15 +50751,19 @@
     <DebutedIn>[[Pendulum X 1.5]]</DebutedIn>
     <Level>Ultimate</Level>
     <DubName />
-    <ImageUrl>https://wikimon.net/images/6/6e/Gaioumon.jpg</ImageUrl>
-    <Number>625</Number>
+    <ImageUrl>https://wikimon.net/images/thumb/6/6e/Gaioumon.jpg/600px-Gaioumon.jpg</ImageUrl>
+    <Number>626</Number>
     <Digivolutions>
-      <string />
+      <string>Gaioumon: Itto Mode</string>
     </Digivolutions>
     <Appearances>
       <Appearance>
         <Name>Digimon Xros Wars</Name>
-        <AppearanceCategory>Anime</AppearanceCategory>
+        <AppearanceCategory>Manga</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>D-Cyber</Name>
+        <AppearanceCategory>Manga</AppearanceCategory>
       </Appearance>
       <Appearance>
         <Name>Digimon Story: Sunburst &amp;amp; Digimon Story: Moonlight|Moonlight</Name>
@@ -50782,10 +50810,52 @@
         <AppearanceCategory>Game</AppearanceCategory>
       </Appearance>
       <Appearance>
+        <Name>Digimon World -next 0rder- International Edition</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Story: Cyber Sleuth Hacker's Memory</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon ReArise</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Encounters</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon New Century</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Masters</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
         <Name>Pendulum X 1.0|Pendulum X 1.5</Name>
         <AppearanceCategory>VirtualPet</AppearanceCategory>
       </Appearance>
+      <Appearance>
+        <Name>D-Cyber Version 1.0</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>D-Spirit 2</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digital Monster X Ver.3</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Vital Bracelet Digital Monster</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
     </Appearances>
+    <Type>Dragon Man</Type>
+    <Attribute>Virus</Attribute>
   </Digimon>
   <Digimon>
     <Name>Ganimon X-Antibody</Name>
@@ -50793,7 +50863,7 @@
     <DebutedIn>[[Bx-58]] ([[Booster 21]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/0/0c/Ganimonx.jpg</ImageUrl>
-    <Number>667</Number>
+    <Number>668</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -50884,7 +50954,7 @@
     <DebutedIn>[[Bx-4]] ([[Booster 19]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/5/5d/Garudamonx.jpg</ImageUrl>
-    <Number>595</Number>
+    <Number>596</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -50925,7 +50995,7 @@
     <DebutedIn>[[Sx-9]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/7/79/Garurumonx.jpg</ImageUrl>
-    <Number>603</Number>
+    <Number>604</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -50954,7 +51024,7 @@
     <DebutedIn>[[Bx-92]] ([[Booster 22]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/4/45/Gazimonx.jpg</ImageUrl>
-    <Number>675</Number>
+    <Number>676</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -50980,7 +51050,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/35/Gesomonx.jpg</ImageUrl>
-    <Number>665</Number>
+    <Number>666</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -51008,7 +51078,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f7/Gigaseadramon.jpg</ImageUrl>
-    <Number>626</Number>
+    <Number>627</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -51124,7 +51194,7 @@
     <Level>Adult</Level>
     <DubName>Ginryumon</DubName>
     <ImageUrl>https://wikimon.net/images/2/27/Ginryumon.jpg</ImageUrl>
-    <Number>634</Number>
+    <Number>635</Number>
     <Digivolutions>
       <string>Hisyaryumon</string>
     </Digivolutions>
@@ -51177,8 +51247,8 @@
     <DebutedIn>[[St-854]] ([[Ultimate Battle Deck 4]])</DebutedIn>
     <Level>Adult</Level>
     <DubName>Gladimon</DubName>
-    <ImageUrl>https://wikimon.net/images/thumb/3/37/Gradimon.jpg/600px-Gradimon.jpg</ImageUrl>
-    <Number>1047</Number>
+    <ImageUrl>https://wikimon.net/images/c/cf/Gladimon.jpg</ImageUrl>
+    <Number>590</Number>
     <Digivolutions>
       <string>Digimon Card Game Colors and Levels#Yellow Lv.5 Digimon|Any Yellow Lv.5 Digimon from the ''Digimon Card Game''</string>
       <string>Dinobeemon</string>
@@ -51214,6 +51284,10 @@
         <Name>D-Spirit 2</Name>
         <AppearanceCategory>VirtualPet</AppearanceCategory>
       </Appearance>
+      <Appearance>
+        <Name>Ultimate Battle Deck 4</Name>
+        <AppearanceCategory>Card</AppearanceCategory>
+      </Appearance>
     </Appearances>
     <Type>Warrior</Type>
     <Attribute>Vaccine</Attribute>
@@ -51225,7 +51299,7 @@
     <Level>Ultimate</Level>
     <DubName>Goldramon</DubName>
     <ImageUrl>https://wikimon.net/images/d/dc/Goddramon_X.jpg</ImageUrl>
-    <Number>689</Number>
+    <Number>690</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -51258,7 +51332,7 @@
     <DebutedIn>[[Bx-60]] ([[Booster 21]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/e/ea/Gomamonx.jpg</ImageUrl>
-    <Number>668</Number>
+    <Number>669</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -51287,7 +51361,7 @@
     <DebutedIn>[[Bx-80]] ([[Booster 22]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/9/9a/Gottsumon_x.jpg</ImageUrl>
-    <Number>676</Number>
+    <Number>677</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -51317,7 +51391,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/78/Grademon.jpg</ImageUrl>
-    <Number>621</Number>
+    <Number>622</Number>
     <Digivolutions>
       <string>alphamon</string>
     </Digivolutions>
@@ -51443,7 +51517,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/72/Grandiskuwagamon2.jpg</ImageUrl>
-    <Number>627</Number>
+    <Number>628</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -51484,7 +51558,7 @@
     <DebutedIn>[[Sx-8]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/1/1d/GreymonX2.jpg</ImageUrl>
-    <Number>604</Number>
+    <Number>605</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -51571,7 +51645,7 @@
     <DebutedIn>[[Bx-51]] ([[Booster 21]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/9/98/Growmonx.jpg</ImageUrl>
-    <Number>635</Number>
+    <Number>636</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -51674,7 +51748,7 @@
     <DebutedIn>[[Bx-52]] ([[Booster 21]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/6/69/Guilmonx.jpg</ImageUrl>
-    <Number>631</Number>
+    <Number>632</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -51707,7 +51781,7 @@
     <DebutedIn>[[Bx-124]] ([[Booster 23]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/0/0b/Hagurumon_x.jpg</ImageUrl>
-    <Number>693</Number>
+    <Number>694</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -51815,7 +51889,7 @@
     <Level>Perfect</Level>
     <DubName>Hisyaryumon</DubName>
     <ImageUrl>https://wikimon.net/images/1/1f/Hisyaryumon.jpg</ImageUrl>
-    <Number>638</Number>
+    <Number>639</Number>
     <Digivolutions>
       <string>Owryumon</string>
     </Digivolutions>
@@ -51864,7 +51938,7 @@
     <DebutedIn>[[Bx-88]] ([[Booster 22]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/8/85/Holydramonx.jpg</ImageUrl>
-    <Number>690</Number>
+    <Number>691</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -52190,7 +52264,7 @@
     <DebutedIn>{{url2|http://i.ebayimg.com/00/s/MTQzMVgxMDAw/z/yhwAAOxyNo9Sykv3/$_57.JPG|Digimon Tamers Koushiki Daizukan Vol. VI}}</DebutedIn>
     <Level>Baby I</Level>
     <DubName />
-    <ImageUrl>https://wikimon.net/images/thumb/8/86/Kiimon.jpg/600px-Kiimon.jpg</ImageUrl>
+    <ImageUrl>https://wikimon.net/images/5/52/Keemon.jpg</ImageUrl>
     <Number>466</Number>
     <Digivolutions>
       <string>Yaamon</string>
@@ -52268,7 +52342,7 @@
     <DebutedIn>[[Sx-15]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/6/62/Kokuwamon_x.jpg</ImageUrl>
-    <Number>600</Number>
+    <Number>601</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -52409,7 +52483,7 @@
     <DebutedIn>[[Sx-16]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/7/7e/Kuwagamonx.jpg</ImageUrl>
-    <Number>605</Number>
+    <Number>606</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -52439,7 +52513,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f2/Kyokyomon.jpg</ImageUrl>
-    <Number>630</Number>
+    <Number>631</Number>
     <Digivolutions>
       <string>Ryudamon</string>
     </Digivolutions>
@@ -52510,7 +52584,7 @@
     <DebutedIn>[[Bx-5]] ([[Booster 19]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/1/1f/Leomonx.jpg</ImageUrl>
-    <Number>594</Number>
+    <Number>595</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -52548,7 +52622,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/4/42/Leviamon.jpg</ImageUrl>
-    <Number>691</Number>
+    <Number>692</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -52645,7 +52719,7 @@
     <DebutedIn>[[Bx-94]] ([[Booster 22]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/9/91/Lilimonx.jpg</ImageUrl>
-    <Number>683</Number>
+    <Number>684</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53340,7 +53414,7 @@
     <DebutedIn>[[Bx-99]] ([[Booster 22]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/d/d2/Magnamonx.jpg</ImageUrl>
-    <Number>652</Number>
+    <Number>653</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53381,7 +53455,7 @@
     <DebutedIn>[[Bx-120]] ([[Booster 23]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/6/6d/Mamemon_X.jpg</ImageUrl>
-    <Number>695</Number>
+    <Number>696</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53415,7 +53489,7 @@
     <Level>Perfect</Level>
     <DubName>Mametyramon</DubName>
     <ImageUrl>https://wikimon.net/images/9/9b/Mametyramon2.jpg</ImageUrl>
-    <Number>639</Number>
+    <Number>640</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -53456,7 +53530,7 @@
     <DebutedIn>[[Bx-55]] ([[Booster 21]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/5/5f/Mammonx.jpg</ImageUrl>
-    <Number>672</Number>
+    <Number>673</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53481,7 +53555,7 @@
     <DebutedIn>[[Bx-61]] ([[Booster 21]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/e/ef/Mantaraymon_x.jpg</ImageUrl>
-    <Number>669</Number>
+    <Number>670</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53565,7 +53639,7 @@
     <Level>Ultimate</Level>
     <DubName>MedievalDukemon</DubName>
     <ImageUrl>https://wikimon.net/images/f/f8/Medievaldukemon.jpg</ImageUrl>
-    <Number>646</Number>
+    <Number>647</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -53602,7 +53676,7 @@
     <DebutedIn>[[Sx-25]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/d/d7/Megaseadramonx.jpg</ImageUrl>
-    <Number>608</Number>
+    <Number>609</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53635,7 +53709,7 @@
     <DebutedIn>[[Bx-50]] ([[Booster 21]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/5/58/Megalogrowmonx.jpg</ImageUrl>
-    <Number>640</Number>
+    <Number>641</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53676,7 +53750,7 @@
     <DebutedIn>[[Sx-44]] ([[Ultimate Battle Deck 5]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/6/6b/Megidramonx.jpg</ImageUrl>
-    <Number>666</Number>
+    <Number>667</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53760,7 +53834,7 @@
     <Level>Perfect</Level>
     <DubName>MetalPhantomon</DubName>
     <ImageUrl>https://wikimon.net/images/1/1e/Metalfantomon.jpg</ImageUrl>
-    <Number>656</Number>
+    <Number>657</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -53797,7 +53871,7 @@
     <DebutedIn>[[Bx-1]] ([[Booster 19]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/0/0a/Metalgarurumonx.jpg</ImageUrl>
-    <Number>596</Number>
+    <Number>597</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53854,7 +53928,7 @@
     <DebutedIn>[[Sx-10]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/2/23/Metalgreymonx.jpg</ImageUrl>
-    <Number>609</Number>
+    <Number>610</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53891,7 +53965,7 @@
     <DebutedIn>[[Bx-118]] ([[Booster 23]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/e/ef/Metalmamemon_X.jpg</ImageUrl>
-    <Number>696</Number>
+    <Number>697</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -53921,7 +53995,7 @@
     <Level>Ultimate</Level>
     <DubName>MetalPiranimon</DubName>
     <ImageUrl>https://wikimon.net/images/7/7d/Metalpiranimon.jpg</ImageUrl>
-    <Number>660</Number>
+    <Number>661</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -53962,7 +54036,7 @@
     <DebutedIn>[[Bx-86]] ([[Booster 22]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/0/0d/Metaltyranomonx.jpg</ImageUrl>
-    <Number>684</Number>
+    <Number>685</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54011,7 +54085,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/6/68/Mistymon2.jpg</ImageUrl>
-    <Number>591</Number>
+    <Number>592</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -54044,7 +54118,7 @@
     <DebutedIn>[[Bx-45]] ([[Booster 21]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/8/8c/Monochromonx.jpg</ImageUrl>
-    <Number>636</Number>
+    <Number>637</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54185,7 +54259,7 @@
     <DebutedIn>[[Bx-98]] ([[Booster 22]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/b/b4/Nefertimonx.jpg</ImageUrl>
-    <Number>678</Number>
+    <Number>679</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54260,7 +54334,7 @@
     <DebutedIn>[[Sx-5]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/d/d7/Omegamonx.jpg</ImageUrl>
-    <Number>612</Number>
+    <Number>613</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54326,7 +54400,7 @@
     <Level>Adult</Level>
     <DubName>Omekamon</DubName>
     <ImageUrl>https://wikimon.net/images/8/81/Omekamon.jpg</ImageUrl>
-    <Number>653</Number>
+    <Number>654</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -54375,7 +54449,7 @@
     <DebutedIn>[[Sx-17]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/f/fd/Ookuwamonx.jpg</ImageUrl>
-    <Number>610</Number>
+    <Number>611</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54450,7 +54524,7 @@
     <DebutedIn>[[Sx-57]] ([[Ultimate Battle Deck 5]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/f/fd/Otamamonx.jpg</ImageUrl>
-    <Number>663</Number>
+    <Number>664</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54476,7 +54550,7 @@
     <Level>Ultimate</Level>
     <DubName>Owryumon</DubName>
     <ImageUrl>https://wikimon.net/images/a/af/Ouryumon.jpg</ImageUrl>
-    <Number>647</Number>
+    <Number>648</Number>
     <Digivolutions>
       <string>Alphamon: Ouryuken</string>
     </Digivolutions>
@@ -54545,7 +54619,7 @@
     <DebutedIn>[[Bx-96]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/b/bd/Palmonx.jpg</ImageUrl>
-    <Number>677</Number>
+    <Number>678</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54574,7 +54648,7 @@
     <DebutedIn>[[Bx-90]]</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/9/96/Panjamonx.jpg</ImageUrl>
-    <Number>685</Number>
+    <Number>686</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54714,7 +54788,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/03/Phascomon.jpg</ImageUrl>
-    <Number>700</Number>
+    <Number>701</Number>
     <Digivolutions>
       <string>porcupamon</string>
     </Digivolutions>
@@ -54798,7 +54872,7 @@
     <Level>Ultimate</Level>
     <DubName>PileVolcanomon</DubName>
     <ImageUrl>https://wikimon.net/images/1/12/Pilevolcamon.jpg</ImageUrl>
-    <Number>593</Number>
+    <Number>594</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -54827,7 +54901,7 @@
     <DebutedIn />
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/f/f7/Plesiomonx.jpg</ImageUrl>
-    <Number>673</Number>
+    <Number>674</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54856,7 +54930,7 @@
     <DebutedIn />
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/e/ef/Plotmonx.jpg</ImageUrl>
-    <Number>601</Number>
+    <Number>602</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54882,7 +54956,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/75/Porcupamon.jpg</ImageUrl>
-    <Number>701</Number>
+    <Number>702</Number>
     <Digivolutions>
       <string>astamon</string>
     </Digivolutions>
@@ -54915,7 +54989,7 @@
     <DebutedIn />
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/7/7a/Princemamemon_X.jpg</ImageUrl>
-    <Number>698</Number>
+    <Number>699</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -54945,7 +55019,7 @@
     <Level>Adult</Level>
     <DubName>Puteranomon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/7/74/Pteranomon_X.jpg/600px-Pteranomon_X.jpg</ImageUrl>
-    <Number>1095</Number>
+    <Number>1092</Number>
     <Digivolutions>
       <string>Andromon</string>
       <string>Blossomon</string>
@@ -54975,7 +55049,7 @@
     <Level>Baby I</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/d/df/Pupumon.jpg</ImageUrl>
-    <Number>649</Number>
+    <Number>650</Number>
     <Digivolutions>
       <string>Pulolomon</string>
     </Digivolutions>
@@ -55001,7 +55075,7 @@
     <Level>Baby II</Level>
     <DubName>Pulolomon</DubName>
     <ImageUrl>https://wikimon.net/images/4/44/Puroromon.jpg</ImageUrl>
-    <Number>650</Number>
+    <Number>651</Number>
     <Digivolutions>
       <string>Funbeemon</string>
     </Digivolutions>
@@ -55171,7 +55245,7 @@
     <Level>Adult</Level>
     <DubName>Reptiledramon</DubName>
     <ImageUrl>https://wikimon.net/images/4/49/Raptordramon.jpg</ImageUrl>
-    <Number>619</Number>
+    <Number>620</Number>
     <Digivolutions>
       <string>grademon</string>
     </Digivolutions>
@@ -55319,7 +55393,7 @@
     <DebutedIn>[[Bx-84]] ([[Booster 22]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/3/34/Rhinomon_X.jpg</ImageUrl>
-    <Number>679</Number>
+    <Number>680</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -55348,7 +55422,7 @@
     <DebutedIn>[[Bx-93]] ([[Booster 22]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/2/29/Rosemon_X.jpg</ImageUrl>
-    <Number>692</Number>
+    <Number>693</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -55382,7 +55456,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/a4/Ryudamon.jpg</ImageUrl>
-    <Number>632</Number>
+    <Number>633</Number>
     <Digivolutions>
       <string>Ginryumon</string>
     </Digivolutions>
@@ -55485,7 +55559,7 @@
     <DebutedIn>[[Sx-24]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/0/00/Seadramonx.jpg</ImageUrl>
-    <Number>606</Number>
+    <Number>607</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -55564,7 +55638,7 @@
     <DebutedIn>[[Sx-55]] ([[Ultimate Battle Deck 5]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/0/0a/Shakomonx.jpg</ImageUrl>
-    <Number>664</Number>
+    <Number>665</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -55644,7 +55718,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/a4/Skullbaluchimon.jpg</ImageUrl>
-    <Number>641</Number>
+    <Number>642</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -55693,7 +55767,7 @@
     <DebutedIn />
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/2/2c/Skullmammonx.jpg</ImageUrl>
-    <Number>674</Number>
+    <Number>675</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -55806,7 +55880,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/3/3d/Starmon_x.jpg</ImageUrl>
-    <Number>680</Number>
+    <Number>681</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -55981,7 +56055,7 @@
     <DebutedIn>[[Bx-97]] ([[Booster 22]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/5/52/Tailmonx.jpg</ImageUrl>
-    <Number>681</Number>
+    <Number>682</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -56010,7 +56084,7 @@
     <DebutedIn>[[Bx-122]] ([[Booster 23]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/e/e8/Thunderballmonx.jpg</ImageUrl>
-    <Number>694</Number>
+    <Number>695</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -56090,7 +56164,7 @@
     <Level>Ultimate</Level>
     <DubName>TigerVespamon</DubName>
     <ImageUrl>https://wikimon.net/images/8/8e/Tigervespamon.jpg</ImageUrl>
-    <Number>661</Number>
+    <Number>662</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -56152,7 +56226,7 @@
     <Level>Adult</Level>
     <DubName>Tobucatmon</DubName>
     <ImageUrl>https://wikimon.net/images/c/c9/Tobucatmon.jpg</ImageUrl>
-    <Number>637</Number>
+    <Number>638</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -56185,7 +56259,7 @@
     <DebutedIn>[[Bx-95]] ([[Booster 22]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/8/8a/Togemonx.jpg</ImageUrl>
-    <Number>682</Number>
+    <Number>683</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -56457,7 +56531,7 @@
     <DebutedIn>[[Bx-53]] ([[Booster 21]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/8/81/Triceramonx.jpg</ImageUrl>
-    <Number>642</Number>
+    <Number>643</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -56498,7 +56572,7 @@
     <DebutedIn>[[Bx-59]] ([[Booster 21]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/0/02/Tylomonx.jpg</ImageUrl>
-    <Number>670</Number>
+    <Number>671</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -56643,7 +56717,7 @@
     <DebutedIn>[[Sp-28]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/1/15/Ulforcev-dramon_X.jpg</ImageUrl>
-    <Number>699</Number>
+    <Number>700</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -56693,7 +56767,7 @@
     <Level>Ultimate</Level>
     <DubName>UltimateBrakimon</DubName>
     <ImageUrl>https://wikimon.net/images/0/05/Ultimatebrachimon.jpg</ImageUrl>
-    <Number>648</Number>
+    <Number>649</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -56726,7 +56800,7 @@
     <DebutedIn>[[Bx-82]]</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/f/fd/Vademonx.jpg</ImageUrl>
-    <Number>686</Number>
+    <Number>687</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -56905,7 +56979,7 @@
     <DebutedIn>[[Sx-12]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/b/b3/Wargreymonx.jpg</ImageUrl>
-    <Number>613</Number>
+    <Number>614</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -56971,7 +57045,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f2/Waspmon.jpg</ImageUrl>
-    <Number>654</Number>
+    <Number>655</Number>
     <Digivolutions>
       <string>cannonbeemon</string>
     </Digivolutions>
@@ -57016,7 +57090,7 @@
     <DebutedIn>[[Sx-11]] ([[Starter Ver. 9]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/b/bc/Weregarurumonx.jpg</ImageUrl>
-    <Number>611</Number>
+    <Number>612</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -57058,7 +57132,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/8d/Wisemon2.jpg</ImageUrl>
-    <Number>592</Number>
+    <Number>593</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -57197,7 +57271,7 @@
     <DebutedIn>[[DT51|Digimon Tamers: "Dreaming Power is Our Future"]]</DebutedIn>
     <Level>Baby II</Level>
     <DubName>Yaamon</DubName>
-    <ImageUrl>https://wikimon.net/images/8/8d/Yaamon.jpg</ImageUrl>
+    <ImageUrl>https://wikimon.net/images/f/f5/Yarmon.jpg</ImageUrl>
     <Number>390</Number>
     <Digivolutions>
       <string>Impmon</string>
@@ -57226,7 +57300,7 @@
     <Level>Ultimate</Level>
     <DubName>BanchoLeomon</DubName>
     <ImageUrl>https://wikimon.net/images/8/8f/Bancholeomon.jpg</ImageUrl>
-    <Number>718</Number>
+    <Number>719</Number>
     <Digivolutions>
       <string>Chaosmon</string>
     </Digivolutions>
@@ -57347,7 +57421,7 @@
     <DebutedIn>[[Digimon World X]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/0/02/Beelzebumonx.jpg</ImageUrl>
-    <Number>705</Number>
+    <Number>706</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -57388,7 +57462,7 @@
     <DebutedIn>[[Digimon World X]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/0/06/Blackwargreymonx.jpg</ImageUrl>
-    <Number>706</Number>
+    <Number>707</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -57434,7 +57508,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/74/Bladekuwagamon.jpg</ImageUrl>
-    <Number>713</Number>
+    <Number>714</Number>
     <Digivolutions>
       <string>MetallifeKuwagamon</string>
     </Digivolutions>
@@ -57468,7 +57542,7 @@
     <Level>Baby I</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/2/2e/Bommon.jpg</ImageUrl>
-    <Number>721</Number>
+    <Number>722</Number>
     <Digivolutions>
       <string>Missimon</string>
     </Digivolutions>
@@ -57494,7 +57568,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/93/Chaosmon.jpg</ImageUrl>
-    <Number>719</Number>
+    <Number>720</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -57596,7 +57670,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/03/Clavisangemon.jpg</ImageUrl>
-    <Number>707</Number>
+    <Number>708</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -57634,7 +57708,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/a0/Commandramon.jpg</ImageUrl>
-    <Number>723</Number>
+    <Number>724</Number>
     <Digivolutions>
       <string>Sealsdramon</string>
     </Digivolutions>
@@ -57684,7 +57758,7 @@
     <Level>Ultimate</Level>
     <DubName>Craniamon</DubName>
     <ImageUrl>https://wikimon.net/images/e/eb/Craniummon.jpg</ImageUrl>
-    <Number>773</Number>
+    <Number>774</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -57770,7 +57844,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f2/Darkdramon.jpg</ImageUrl>
-    <Number>729</Number>
+    <Number>730</Number>
     <Digivolutions>
       <string>Chaosmon</string>
     </Digivolutions>
@@ -57868,7 +57942,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/c/c0/Diatrymon.jpg</ImageUrl>
-    <Number>735</Number>
+    <Number>736</Number>
     <Digivolutions>
       <string>Yatagaramon</string>
       <string>Crowmon</string>
@@ -57907,7 +57981,7 @@
     <Level>Child</Level>
     <DubName>Dracmon</DubName>
     <ImageUrl>https://wikimon.net/images/0/08/Dracumon.jpg</ImageUrl>
-    <Number>724</Number>
+    <Number>725</Number>
     <Digivolutions>
       <string>Sangloupmon</string>
     </Digivolutions>
@@ -57977,7 +58051,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/8d/Falcomon.jpg</ImageUrl>
-    <Number>733</Number>
+    <Number>734</Number>
     <Digivolutions>
       <string>Peckmon</string>
       <string>Diatrymon</string>
@@ -58076,7 +58150,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/b/b8/Frimon.jpg</ImageUrl>
-    <Number>710</Number>
+    <Number>711</Number>
     <Digivolutions>
       <string>Liollmon</string>
       <string>Kokabuterimon</string>
@@ -58103,7 +58177,7 @@
     <Level>Ultimate</Level>
     <DubName>GranDracmon</DubName>
     <ImageUrl>https://wikimon.net/images/3/31/Granddracumon.jpg</ImageUrl>
-    <Number>730</Number>
+    <Number>731</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -58156,7 +58230,7 @@
     <DebutedIn>[[Battle 01|Digimon Next: "Welcome to the Digimon Net Game!!"]]</DebutedIn>
     <Level>No Level</Level>
     <ImageUrl>https://wikimon.net/images/8/86/Guidemon.jpg</ImageUrl>
-    <Number>1172</Number>
+    <Number>1174</Number>
     <Digivolutions />
     <Appearances />
   </Digimon>
@@ -58166,7 +58240,7 @@
     <DebutedIn>[[Digimon World X]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/3/30/Heraklekabuterimonx.jpg</ImageUrl>
-    <Number>708</Number>
+    <Number>709</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -58184,7 +58258,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/1/1e/Kokabuterimon.jpg</ImageUrl>
-    <Number>711</Number>
+    <Number>712</Number>
     <Digivolutions>
       <string>Kabuterimon</string>
       <string>Kuwagamon</string>
@@ -58224,7 +58298,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/80/Kudamon3.jpg</ImageUrl>
-    <Number>743</Number>
+    <Number>744</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -58334,7 +58408,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/c/ca/Kyaromon2.jpg</ImageUrl>
-    <Number>742</Number>
+    <Number>743</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -58364,7 +58438,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/71/Liamon.jpg</ImageUrl>
-    <Number>714</Number>
+    <Number>715</Number>
     <Digivolutions>
       <string>LoaderLiomon</string>
     </Digivolutions>
@@ -58398,7 +58472,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/7f/Liollmon.jpg</ImageUrl>
-    <Number>712</Number>
+    <Number>713</Number>
     <Digivolutions>
       <string>Liamon</string>
       <string>Leomon</string>
@@ -58433,7 +58507,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/88/Loaderliomon.jpg</ImageUrl>
-    <Number>715</Number>
+    <Number>716</Number>
     <Digivolutions>
       <string>Baihumon</string>
       <string>BanchoLeomon</string>
@@ -58476,7 +58550,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/75/Matadrmon.jpg</ImageUrl>
-    <Number>727</Number>
+    <Number>728</Number>
     <Digivolutions>
       <string>Grandracmon</string>
     </Digivolutions>
@@ -58554,7 +58628,7 @@
     <Level>Ultimate</Level>
     <DubName>Merukimon</DubName>
     <ImageUrl>https://wikimon.net/images/f/f4/Mercurymon.jpg</ImageUrl>
-    <Number>737</Number>
+    <Number>738</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -58624,7 +58698,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f9/Metallifekuwagamon.jpg</ImageUrl>
-    <Number>716</Number>
+    <Number>717</Number>
     <Digivolutions>
       <string>TyrantKabuterimon</string>
     </Digivolutions>
@@ -58665,7 +58739,7 @@
     <DebutedIn>[[Bo-1182]] ([[Digitalize Booster Pack 2]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/c/c7/Minervamon.jpg</ImageUrl>
-    <Number>788</Number>
+    <Number>790</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -58749,7 +58823,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/2/29/Missimon.jpg</ImageUrl>
-    <Number>722</Number>
+    <Number>723</Number>
     <Digivolutions>
       <string>Dracumon</string>
       <string>Commandramon</string>
@@ -58780,7 +58854,7 @@
     <Level>Ultimate</Level>
     <DubName>Neptunmon</DubName>
     <ImageUrl>https://wikimon.net/images/5/56/Neptunemon.jpg</ImageUrl>
-    <Number>738</Number>
+    <Number>739</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -58858,7 +58932,7 @@
     <Level>Baby I</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/e/e7/Pafumon.jpg</ImageUrl>
-    <Number>741</Number>
+    <Number>742</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -58880,7 +58954,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/39/Pinamon.jpg</ImageUrl>
-    <Number>732</Number>
+    <Number>733</Number>
     <Digivolutions>
       <string>Proto Falcomon</string>
       <string>Falcomon</string>
@@ -58915,7 +58989,7 @@
     <Level>Baby I</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/06/Popomon.jpg</ImageUrl>
-    <Number>709</Number>
+    <Number>710</Number>
     <Digivolutions>
       <string>Frimon</string>
     </Digivolutions>
@@ -58945,7 +59019,7 @@
     <Level>Baby I</Level>
     <DubName>Puwamon</DubName>
     <ImageUrl>https://wikimon.net/images/3/38/Puwamon.jpg</ImageUrl>
-    <Number>731</Number>
+    <Number>732</Number>
     <Digivolutions>
       <string>Pinamon</string>
     </Digivolutions>
@@ -58979,7 +59053,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/56/Reppamon.jpg</ImageUrl>
-    <Number>744</Number>
+    <Number>745</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59085,7 +59159,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/1/14/Sangloupmon.jpg</ImageUrl>
-    <Number>725</Number>
+    <Number>726</Number>
     <Digivolutions>
       <string>Matadrmon</string>
     </Digivolutions>
@@ -59143,7 +59217,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f5/Sealsdramon.jpg</ImageUrl>
-    <Number>726</Number>
+    <Number>727</Number>
     <Digivolutions>
       <string>Tankdramon</string>
     </Digivolutions>
@@ -59193,7 +59267,7 @@
     <Level>Ultimate</Level>
     <DubName>Kentaurosmon</DubName>
     <ImageUrl>https://wikimon.net/images/c/ca/Sleipmon.jpg</ImageUrl>
-    <Number>746</Number>
+    <Number>747</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59307,7 +59381,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/d/d5/Spinomon.jpg</ImageUrl>
-    <Number>739</Number>
+    <Number>740</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59361,7 +59435,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/0d/Swimmon.jpg</ImageUrl>
-    <Number>734</Number>
+    <Number>735</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59402,7 +59476,7 @@
     <DebutedIn>[[Digital Monster X-evolution]]</DebutedIn>
     <Level>Baby II</Level>
     <ImageUrl>https://wikimon.net/images/1/16/Tokomonx.jpg</ImageUrl>
-    <Number>662</Number>
+    <Number>663</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -59420,7 +59494,7 @@
     <Level>Perfect</Level>
     <DubName>Tyilinmon</DubName>
     <ImageUrl>https://wikimon.net/images/a/a9/Tyilinmon.jpg</ImageUrl>
-    <Number>745</Number>
+    <Number>746</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59518,7 +59592,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/91/Tyrantkabuterimon.jpg</ImageUrl>
-    <Number>720</Number>
+    <Number>721</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59580,7 +59654,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/c/cc/Ultimatechaosmon.jpg</ImageUrl>
-    <Number>747</Number>
+    <Number>748</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59606,7 +59680,7 @@
     <Level>Ultimate</Level>
     <DubName>Varodurumon</DubName>
     <ImageUrl>https://wikimon.net/images/e/e0/Valdurmon.jpg</ImageUrl>
-    <Number>740</Number>
+    <Number>741</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59656,7 +59730,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/ac/Volcdramon.jpg</ImageUrl>
-    <Number>717</Number>
+    <Number>718</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59698,7 +59772,7 @@
     <Level>Perfect</Level>
     <DubName>Yatakaramon</DubName>
     <ImageUrl>https://wikimon.net/images/0/05/Yatagaramon.jpg</ImageUrl>
-    <Number>736</Number>
+    <Number>737</Number>
     <Digivolutions>
       <string>Ravemon</string>
     </Digivolutions>
@@ -59800,7 +59874,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/b/bd/Aegiochusmon.jpg</ImageUrl>
-    <Number>961</Number>
+    <Number>958</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59824,7 +59898,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/b/bb/Aegiochusmon_blue2.jpg</ImageUrl>
-    <Number>962</Number>
+    <Number>959</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59844,7 +59918,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/7a/Aegiochusmon_dark.jpg</ImageUrl>
-    <Number>963</Number>
+    <Number>960</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59864,7 +59938,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/d/d4/Aegiochusmon_green.jpg</ImageUrl>
-    <Number>964</Number>
+    <Number>961</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59884,7 +59958,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/0b/Aegiochusmon_holly.jpg</ImageUrl>
-    <Number>965</Number>
+    <Number>962</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59904,7 +59978,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/9/98/Aegiomon2.jpg/600px-Aegiomon2.jpg</ImageUrl>
-    <Number>951</Number>
+    <Number>948</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -59927,7 +60001,7 @@
     <DebutedIn>[[Digimon Story: Lost Evolution]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/8/83/Ageisdramon.jpg</ImageUrl>
-    <Number>833</Number>
+    <Number>834</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -59955,30 +60029,12 @@
     <Attribute>Vaccine</Attribute>
   </Digimon>
   <Digimon>
-    <Name>Agumon (Black) (2006 Anime Version)</Name>
-    <DebutYear>2006</DebutYear>
-    <DebutedIn>[[Digimon Savers: Another Mission]] or [[DM-120]] ([[Battle Terminal Ver. 5]])</DebutedIn>
-    <Level>Child</Level>
-    <DubName>BlackAgumon</DubName>
-    <ImageUrl>https://wikimon.net/images/9/97/Agumon_black_2006.jpg</ImageUrl>
-    <Number>803</Number>
-    <Digivolutions />
-    <Appearances>
-      <Appearance>
-        <Name>Digimon Savers: Another Mission</Name>
-        <AppearanceCategory>Game</AppearanceCategory>
-      </Appearance>
-    </Appearances>
-    <Type>Dinosaur</Type>
-    <Attribute>Virus</Attribute>
-  </Digimon>
-  <Digimon>
     <Name>Agumon Hakase</Name>
     <DebutYear>2006</DebutYear>
     <DebutedIn>[[Digivice iC 20X]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/1/1a/Agumon_hakase.jpg</ImageUrl>
-    <Number>787</Number>
+    <Number>789</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -60044,7 +60100,7 @@
     <Level>Perfect</Level>
     <DubName>Argomon Ultimate</DubName>
     <ImageUrl>https://wikimon.net/images/d/d6/Algomon.jpg</ImageUrl>
-    <Number>785</Number>
+    <Number>786</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60092,7 +60148,7 @@
     <Level>Ultimate</Level>
     <DubName>Argomon</DubName>
     <ImageUrl>https://wikimon.net/images/3/36/Algomon_ultimate.jpg</ImageUrl>
-    <Number>786</Number>
+    <Number>787</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60143,7 +60199,7 @@
     <DebutedIn>[[Digimon Story: Sunburst]] &amp; [[Digimon Story: Moonlight|Moonlight]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/d/d7/Apollomon.jpg</ImageUrl>
-    <Number>817</Number>
+    <Number>818</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -60212,7 +60268,7 @@
     <DebutedIn>[[Digimon Story: Super Xros Wars Blue]] &amp; [[Digimon Story: Super Xros Wars Red|Red]]</DebutedIn>
     <Level>No Level</Level>
     <ImageUrl>https://wikimon.net/images/6/6c/Armamon.jpg</ImageUrl>
-    <Number>940</Number>
+    <Number>937</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -60297,7 +60353,7 @@
     <DebutedIn>[[DigiWindow]] ({{url|http://web.archive.org/web/20141007204612/http://www.digitalmonsters.net/DVR/digiviceIC/dw_index.html|Digimon Pocket Wars}})</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/4/49/Atamadekachimon.jpg</ImageUrl>
-    <Number>796</Number>
+    <Number>799</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -60315,7 +60371,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/72/Atlurballistamon.jpg</ImageUrl>
-    <Number>936</Number>
+    <Number>933</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60339,7 +60395,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/6/6c/Avengekidmon.jpg</ImageUrl>
-    <Number>973</Number>
+    <Number>970</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60363,7 +60419,7 @@
     <Level>Perfect</Level>
     <DubName>Reapmon</DubName>
     <ImageUrl>https://wikimon.net/images/3/3a/Baalmon2.jpg</ImageUrl>
-    <Number>872</Number>
+    <Number>873</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -60404,7 +60460,7 @@
     <Level>Baby II</Level>
     <DubName>Bebydomon</DubName>
     <ImageUrl>https://wikimon.net/images/1/17/Babydmon.jpg</ImageUrl>
-    <Number>822</Number>
+    <Number>823</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -60438,7 +60494,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/b/b7/Bacchusmon.jpg</ImageUrl>
-    <Number>974</Number>
+    <Number>971</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60474,7 +60530,7 @@
     <Level>Ultimate</Level>
     <DubName>Bagramon</DubName>
     <ImageUrl>https://wikimon.net/images/5/52/Bagramon.jpg</ImageUrl>
-    <Number>883</Number>
+    <Number>884</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -60541,7 +60597,7 @@
     <DebutedIn>[[Digimon Reference Book]] ([[Digimon Web]])</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/5/52/Ballistamon.jpg</ImageUrl>
-    <Number>852</Number>
+    <Number>853</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -60598,7 +60654,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f4/Banchogolemon.jpg</ImageUrl>
-    <Number>975</Number>
+    <Number>972</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60618,7 +60674,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/b/b9/Bancholilimon.jpg/600px-Bancholilimon.jpg</ImageUrl>
-    <Number>976</Number>
+    <Number>973</Number>
     <Digivolutions>
       <string>Chaosmon</string>
       <string>Chaosmon: Valdur Arm</string>
@@ -60656,7 +60712,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f3/Banchomamemon.jpg</ImageUrl>
-    <Number>977</Number>
+    <Number>974</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60680,7 +60736,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/51/Banchostingmon.jpg</ImageUrl>
-    <Number>978</Number>
+    <Number>975</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60704,7 +60760,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/2/28/Baohuckmon.jpg/600px-Baohuckmon.jpg</ImageUrl>
-    <Number>952</Number>
+    <Number>949</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60756,7 +60812,7 @@
     <Level>Ultimate</Level>
     <DubName>Beelzemon</DubName>
     <ImageUrl>https://wikimon.net/images/8/83/Beelzebumon_2010.jpg</ImageUrl>
-    <Number>884</Number>
+    <Number>885</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -60802,7 +60858,7 @@
     <Level>Ultimate</Level>
     <DubName>BelleStarmon</DubName>
     <ImageUrl>https://wikimon.net/images/7/74/Beelstarmon.jpg</ImageUrl>
-    <Number>979</Number>
+    <Number>976</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60824,30 +60880,13 @@
     <Attribute>Virus</Attribute>
   </Digimon>
   <Digimon>
-    <Name>Bishop Chessmon (Black)</Name>
-    <DebutYear>2011</DebutYear>
-    <DebutedIn>[[Digimon Xros Wars - Episode 52|Digimon Xros Wars: "Bagra Brothers, The Bond of Darkness!"]]</DebutedIn>
-    <Level>Perfect</Level>
-    <ImageUrl>https://wikimon.net/images/7/7b/BishopChessmon_Black.png</ImageUrl>
-    <Number>893</Number>
-    <Digivolutions />
-    <Appearances>
-      <Appearance>
-        <Name>Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms</Name>
-        <AppearanceCategory>Anime</AppearanceCategory>
-      </Appearance>
-    </Appearances>
-    <Type>Puppet</Type>
-    <Attribute>Virus</Attribute>
-  </Digimon>
-  <Digimon>
     <Name>Bishop Chessmon (White)</Name>
     <DebutYear>2006</DebutYear>
     <DebutedIn>[[DigiWindow]]</DebutedIn>
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/b/b5/Bishopchessmon_white.jpg</ImageUrl>
-    <Number>765</Number>
+    <Number>766</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60895,7 +60934,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/1/16/Black_gaogamon.jpg</ImageUrl>
-    <Number>953</Number>
+    <Number>950</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60915,7 +60954,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/4/4a/Blackmachgaogamon.jpg</ImageUrl>
-    <Number>966</Number>
+    <Number>963</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -60934,7 +60973,7 @@
     <DebutedIn>[[Digimon Xros Wars - Episode 01|Digimon Xros Wars: "Taiki, Go to Another World!"]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/e/e7/Blastmon2.jpg</ImageUrl>
-    <Number>885</Number>
+    <Number>886</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -60982,7 +61021,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/2/2d/Blitzgreymon.jpg</ImageUrl>
-    <Number>1018</Number>
+    <Number>1015</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61004,7 +61043,7 @@
     <Level>Ultimate</Level>
     <DubName>Boltboutamon</DubName>
     <ImageUrl>https://wikimon.net/images/8/82/Voltobautamon.jpg</ImageUrl>
-    <Number>1061</Number>
+    <Number>1058</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61026,7 +61065,7 @@
     <Level>Baby I</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/30/Bommon_2010_2.jpg</ImageUrl>
-    <Number>891</Number>
+    <Number>892</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61073,7 +61112,7 @@
     <Level>Ultimate</Level>
     <DubName>Breakdramon</DubName>
     <ImageUrl>https://wikimon.net/images/7/7c/Breakdramon.jpg</ImageUrl>
-    <Number>828</Number>
+    <Number>829</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61135,7 +61174,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f9/Budmon.jpg</ImageUrl>
-    <Number>748</Number>
+    <Number>749</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61186,7 +61225,7 @@
     <DebutedIn>[[Digimon Story: Lost Evolution]]</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/a/a2/Buraimon.jpg</ImageUrl>
-    <Number>831</Number>
+    <Number>832</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61207,7 +61246,7 @@
     <DebutedIn>[[DigiWindow]] ({{url|http://web.archive.org/web/20141007204612/http://www.digitalmonsters.net/DVR/digiviceIC/dw_index.html|Digimon Pocket Wars}})</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/8/83/BushiAgumon.jpg</ImageUrl>
-    <Number>795</Number>
+    <Number>797</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61228,7 +61267,7 @@
     <DebutedIn>[[Digimon Story: Lost Evolution]]</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/4/44/Butenmon.jpg</ImageUrl>
-    <Number>832</Number>
+    <Number>833</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61250,7 +61289,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/94/Captainhookmon.jpg</ImageUrl>
-    <Number>967</Number>
+    <Number>964</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61274,7 +61313,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f2/Catchmamemon.jpg</ImageUrl>
-    <Number>968</Number>
+    <Number>965</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61322,7 +61361,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/f/fa/Cerberumon_jinrou.jpg/600px-Cerberumon_jinrou.jpg</ImageUrl>
-    <Number>969</Number>
+    <Number>966</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61342,7 +61381,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/c/c9/Ceresmon.jpg/605px-Ceresmon.jpg</ImageUrl>
-    <Number>980</Number>
+    <Number>977</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61366,7 +61405,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/55/Ceresmon_medium.jpg</ImageUrl>
-    <Number>981</Number>
+    <Number>978</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61385,7 +61424,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/a3/Chaosmon_valdurarm.jpg</ImageUrl>
-    <Number>982</Number>
+    <Number>979</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61412,7 +61451,7 @@
     <DebutedIn>[[Digivice iC 20X]]</DebutedIn>
     <Level>Baby II</Level>
     <ImageUrl>https://wikimon.net/images/1/1c/Chapmon.jpg</ImageUrl>
-    <Number>791</Number>
+    <Number>793</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61441,7 +61480,7 @@
     <DebutedIn>[[Digimon Xros Wars - Episode 05|Digimon Xros Wars: "DigiMemory, Shine"]]</DebutedIn>
     <Level>Baby I</Level>
     <ImageUrl>https://wikimon.net/images/3/38/Chibickmon.jpg</ImageUrl>
-    <Number>836</Number>
+    <Number>837</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61469,7 +61508,7 @@
     <DebutedIn>[[Digimon Xros Wars - Chapter 01|Digimon Xros Wars: "Xrosroad!! The Boys' Paths Cross"]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/7/78/Chikurimon.jpg</ImageUrl>
-    <Number>839</Number>
+    <Number>840</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61534,7 +61573,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/4/47/Coredramon_blue2.jpg</ImageUrl>
-    <Number>824</Number>
+    <Number>825</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61598,7 +61637,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/78/Coredramon_green2.jpg</ImageUrl>
-    <Number>825</Number>
+    <Number>826</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61658,7 +61697,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/82/Coronamon.jpg</ImageUrl>
-    <Number>809</Number>
+    <Number>810</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61717,7 +61756,7 @@
     <DebutedIn>[[Digimon Pendulum Ver.20th]]</DebutedIn>
     <Level>Baby I</Level>
     <ImageUrl>https://wikimon.net/images/0/02/Cotsucomon.jpg</ImageUrl>
-    <Number>1052</Number>
+    <Number>1049</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61734,7 +61773,7 @@
     <DebutedIn>[[Re-108]] ([[Digimon 20th Memorial Set]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/6/63/Craniummonx.jpg/600px-Craniummonx.jpg</ImageUrl>
-    <Number>1066</Number>
+    <Number>1063</Number>
     <Digivolutions>
       <string>Alphamon</string>
       <string>Lord Knightmon (X-Antibody)</string>
@@ -61767,7 +61806,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/6/61/Crescemon.jpg</ImageUrl>
-    <Number>815</Number>
+    <Number>816</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -61826,7 +61865,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/7/70/Cresgarurumon.jpg</ImageUrl>
-    <Number>1019</Number>
+    <Number>1016</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61847,7 +61886,7 @@
     <DebutedIn>[[Digimon Xros Wars - Episode 02|Digimon Xros Wars: "Shoutmon, Roar!"]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/3/3a/Cutemon4.jpg</ImageUrl>
-    <Number>840</Number>
+    <Number>841</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61908,7 +61947,7 @@
     <DebutedIn />
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/a/af/Cyberdramon_2010.jpg</ImageUrl>
-    <Number>873</Number>
+    <Number>874</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61948,7 +61987,7 @@
     <DebutedIn>{{url|www.toei-anim.co.jp/tv/digimon_xw2010/digixw_name.html|Become this Digimon's Namer! Contest}}</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/6/66/Damemon.jpg</ImageUrl>
-    <Number>853</Number>
+    <Number>854</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -61989,7 +62028,7 @@
     <Level>Perfect</Level>
     <DubName>AxeKnightmon</DubName>
     <ImageUrl>https://wikimon.net/images/4/4c/Darkknightmon2.jpg</ImageUrl>
-    <Number>874</Number>
+    <Number>875</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -62046,7 +62085,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/7c/Darksuperstarmon.jpg</ImageUrl>
-    <Number>970</Number>
+    <Number>967</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -62078,7 +62117,7 @@
     <Level>No Level</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/86/Darkvolumon2.jpg</ImageUrl>
-    <Number>888</Number>
+    <Number>889</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -62133,7 +62172,7 @@
     <Level>Adult</Level>
     <DubName>Axemon</DubName>
     <ImageUrl>https://wikimon.net/images/8/8d/Deadlyaxemon.jpg</ImageUrl>
-    <Number>854</Number>
+    <Number>855</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -62169,7 +62208,7 @@
     <DebutedIn>[[Digimon Xros Loader (Toy)|Digimon Xros Loader]]</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/2/21/Deckergreymon.jpg</ImageUrl>
-    <Number>875</Number>
+    <Number>876</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -62201,7 +62240,7 @@
     <DebutedIn>[[Digimon Xros Loader (Toy)|Digimon Xros Loader]]</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/a/a1/Deckerdramon.jpg</ImageUrl>
-    <Number>855</Number>
+    <Number>856</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -62238,7 +62277,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/a2/Dianamon.jpg</ImageUrl>
-    <Number>818</Number>
+    <Number>819</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -62313,7 +62352,7 @@
     <DebutedIn>[[Digimon Xros Wars - Episode 02|Digimon Xros Wars: "Shoutmon, Roar!"]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/1/17/Dondokomon.jpg</ImageUrl>
-    <Number>841</Number>
+    <Number>842</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -62410,7 +62449,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/6/6a/Dorulumon.jpg</ImageUrl>
-    <Number>857</Number>
+    <Number>858</Number>
     <Digivolutions>
       <string>Jäger Dorulumon</string>
       <string>Shoutmon + Dorulu Cannon</string>
@@ -62470,7 +62509,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/71/Dracomon.jpg</ImageUrl>
-    <Number>823</Number>
+    <Number>824</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -62546,7 +62585,7 @@
     <Level>Ultimate</Level>
     <DubName>Leopardmon</DubName>
     <ImageUrl>https://wikimon.net/images/5/56/Duftmon.jpg</ImageUrl>
-    <Number>774</Number>
+    <Number>775</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -62629,7 +62668,7 @@
     <DebutedIn>[[Dα-551]] ([[X-Antibody × Hybrid]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/e/e5/Duftmonx.jpg</ImageUrl>
-    <Number>983</Number>
+    <Number>980</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -62666,7 +62705,7 @@
     <DebutedIn>[[Dα-416]] ([[Alpha Evolve 5]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/d/d4/Duftmon_leopard.jpg</ImageUrl>
-    <Number>819</Number>
+    <Number>820</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -62715,7 +62754,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/a/a1/Duramon.jpg</ImageUrl>
-    <Number>1015</Number>
+    <Number>1012</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -62748,7 +62787,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/5/58/Durandamon.jpg</ImageUrl>
-    <Number>1020</Number>
+    <Number>1017</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -62805,7 +62844,7 @@
     <Level>Ultimate</Level>
     <DubName>ElDradimon</DubName>
     <ImageUrl>https://wikimon.net/images/c/cb/Eldoradimon.jpg</ImageUrl>
-    <Number>775</Number>
+    <Number>776</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -62844,7 +62883,7 @@
     <DebutedIn>[[DM02-094]] ([[Battle Terminal 02 Set 3]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/9/93/Examon.jpg</ImageUrl>
-    <Number>834</Number>
+    <Number>835</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -62941,7 +62980,7 @@
     <DebutedIn>[[Digimon Savers - Episode 12|Digimon Savers: "I Will Protect Chika! Piyomon's Decision!"]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/c/cb/Falcomon_black.jpg</ImageUrl>
-    <Number>749</Number>
+    <Number>750</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -63023,7 +63062,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/9e/Firamon.jpg</ImageUrl>
-    <Number>811</Number>
+    <Number>812</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -63074,7 +63113,7 @@
     <DebutedIn>[[Digimon Story: Sunburst]]</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/f/f1/Flaremon.jpg</ImageUrl>
-    <Number>816</Number>
+    <Number>817</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -63124,7 +63163,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/7d/Footmon.jpg</ImageUrl>
-    <Number>971</Number>
+    <Number>968</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -63144,7 +63183,7 @@
     <Level>No Level</Level>
     <DubName>GreatestCutemon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/4/4b/Greatestcutemon.jpg/603px-Greatestcutemon.jpg</ImageUrl>
-    <Number>889</Number>
+    <Number>890</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -63184,7 +63223,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/d/da/Gankoomon.jpg</ImageUrl>
-    <Number>984</Number>
+    <Number>981</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -63244,7 +63283,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/78/Gaogamon.jpg</ImageUrl>
-    <Number>757</Number>
+    <Number>758</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -63356,7 +63395,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/7f/Gaomon.jpg</ImageUrl>
-    <Number>750</Number>
+    <Number>751</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -63479,7 +63518,7 @@
     <DebutedIn />
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/0/0f/Gaossmon.jpg</ImageUrl>
-    <Number>842</Number>
+    <Number>843</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -63528,7 +63567,7 @@
     <Level>Adult</Level>
     <DubName>Gwappamon</DubName>
     <ImageUrl>https://wikimon.net/images/9/95/Gawappamon.jpg</ImageUrl>
-    <Number>758</Number>
+    <Number>759</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -63604,7 +63643,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/0a/Geo_Greymon.jpg</ImageUrl>
-    <Number>759</Number>
+    <Number>760</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -63708,7 +63747,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f6/Ginkakumon.jpg</ImageUrl>
-    <Number>954</Number>
+    <Number>951</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -63732,7 +63771,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/3b/Gizmon_at_crusader.jpg</ImageUrl>
-    <Number>760</Number>
+    <Number>761</Number>
     <Digivolutions>
       <string>Gizmon: XT</string>
     </Digivolutions>
@@ -63784,7 +63823,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f9/Goldnumemon.jpg</ImageUrl>
-    <Number>805</Number>
+    <Number>806</Number>
     <Digivolutions>
       <string>PlatinumNumemon</string>
     </Digivolutions>
@@ -63823,7 +63862,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/4/42/Gracenovamon.jpg</ImageUrl>
-    <Number>1021</Number>
+    <Number>1018</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -63844,7 +63883,7 @@
     <DebutedIn>[[Digimon Xros Wars - Episode 50|Digimon Xros Wars: "Resurrect! The Appearance of All Seven Death Generals!!"]]</DebutedIn>
     <Level>No Level</Level>
     <ImageUrl>https://wikimon.net/images/d/d9/Grand_generamon.jpg</ImageUrl>
-    <Number>890</Number>
+    <Number>891</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -63897,7 +63936,7 @@
     <Level>No Level</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/58/Greyknightsmon.jpg</ImageUrl>
-    <Number>941</Number>
+    <Number>938</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -63927,7 +63966,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/8/88/Greymon_2010_2.jpg</ImageUrl>
-    <Number>858</Number>
+    <Number>859</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -63976,7 +64015,7 @@
     <DebutedIn>[[SP02-005]] ([[Alpha Promo]]) or [[Dα-540]] ([[Alpha Evolve 7]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/5/5b/Groundramon2.jpg</ImageUrl>
-    <Number>826</Number>
+    <Number>827</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -64040,8 +64079,8 @@
     <DebutYear>2016</DebutYear>
     <DebutedIn>[[Digimon World -next 0rder-]]</DebutedIn>
     <Level>Adult</Level>
-    <ImageUrl>https://wikimon.net/images/thumb/7/72/Guardromon_gold_next0rder.jpg/800px-Guardromon_gold_next0rder.jpg</ImageUrl>
-    <Number>1048</Number>
+    <ImageUrl>https://wikimon.net/images/7/72/Guardromon_gold.jpg</ImageUrl>
+    <Number>1045</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -64119,7 +64158,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/96/Gundramon.jpg</ImageUrl>
-    <Number>985</Number>
+    <Number>982</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64138,8 +64177,8 @@
     <DebutedIn>[[Digimon Collectors]]</DebutedIn>
     <Level>Child</Level>
     <DubName>Hackmon</DubName>
-    <ImageUrl>https://wikimon.net/images/thumb/9/98/Hackmon.jpg/600px-Hackmon.jpg</ImageUrl>
-    <Number>946</Number>
+    <ImageUrl>https://wikimon.net/images/b/b9/Huckmon.jpg</ImageUrl>
+    <Number>943</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64215,7 +64254,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/34/Hivisionmonitamon.jpg</ImageUrl>
-    <Number>859</Number>
+    <Number>860</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64249,7 +64288,7 @@
     <DebutedIn>[[Digimon Story: Cyber Sleuth Hacker's Memory]]</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/e/ea/Hudiemon.jpg</ImageUrl>
-    <Number>1049</Number>
+    <Number>1046</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -64261,31 +64300,12 @@
     <Attribute>Free</Attribute>
   </Digimon>
   <Digimon>
-    <Name>Hustle Nanimon</Name>
-    <DebutYear>2010</DebutYear>
-    <DebutedIn>[[Digimon Xros Wars - Special 01|Digimon Xros Wars: "Xros Hustle!! The Great Digimon Athletic Meet!!"]]</DebutedIn>
-    <Level>No Level</Level>
-    <DubName />
-    <ImageUrl>https://wikimon.net/images/thumb/8/89/Hustlenanimon.png/600px-Hustlenanimon.png</ImageUrl>
-    <Number>927</Number>
-    <Digivolutions>
-      <string />
-    </Digivolutions>
-    <Appearances>
-      <Appearance>
-        <Name>Digimon Xros Wars (Manga)|Digimon Xros Wars</Name>
-        <AppearanceCategory>Manga</AppearanceCategory>
-      </Appearance>
-    </Appearances>
-    <Type>Invade</Type>
-  </Digimon>
-  <Digimon>
     <Name>Hyokomon</Name>
     <DebutYear>2010</DebutYear>
     <DebutedIn>[[Digimon Story: Lost Evolution]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/2/26/Hyokomon.jpg</ImageUrl>
-    <Number>830</Number>
+    <Number>831</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -64307,7 +64327,7 @@
     <Level>Child</Level>
     <DubName>Ignitemon</DubName>
     <ImageUrl>https://wikimon.net/images/a/a5/Iguneetmon.jpg</ImageUrl>
-    <Number>892</Number>
+    <Number>893</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64329,8 +64349,8 @@
     <DebutedIn>[[Digimon Xros Wars - Chapter 17|Digimon Xros Wars: "Xros Warrior!! The Released Demon!!"]]</DebutedIn>
     <Level>Perfect</Level>
     <DubName />
-    <ImageUrl>https://wikimon.net/images/9/94/Jager_dorulumon.jpg</ImageUrl>
-    <Number>937</Number>
+    <ImageUrl>https://wikimon.net/images/4/40/Yaegerdorulumon.jpg</ImageUrl>
+    <Number>934</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64358,7 +64378,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/56/Jesmon.jpg</ImageUrl>
-    <Number>986</Number>
+    <Number>983</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64413,7 +64433,7 @@
     <DebutedIn>[[Digimon Pendulum Ver.20th]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/4/49/Jesmonx.jpg</ImageUrl>
-    <Number>1058</Number>
+    <Number>1055</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -64517,7 +64537,7 @@
     <DebutedIn>[[Digivice iC 20X]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/2/2f/Jumbogamemon.jpg</ImageUrl>
-    <Number>792</Number>
+    <Number>794</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -64583,7 +64603,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/89/Junomon.jpg</ImageUrl>
-    <Number>987</Number>
+    <Number>984</Number>
     <Digivolutions>
       <string>Junomon: Hysteric Mode</string>
     </Digivolutions>
@@ -64607,7 +64627,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/09/Junomon_hysteric.jpg</ImageUrl>
-    <Number>988</Number>
+    <Number>985</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64631,7 +64651,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/e/e0/Jupitermon.jpg</ImageUrl>
-    <Number>989</Number>
+    <Number>986</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64655,7 +64675,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/1/1f/Jupitermon_wrath.jpg</ImageUrl>
-    <Number>990</Number>
+    <Number>987</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64674,7 +64694,7 @@
     <DebutedIn>[[Digimon Pendulum Ver.20th]]</DebutedIn>
     <Level>Baby II</Level>
     <ImageUrl>https://wikimon.net/images/9/90/Kakkinmon.jpg</ImageUrl>
-    <Number>1053</Number>
+    <Number>1050</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -64692,7 +64712,7 @@
     <Level>Child</Level>
     <DubName>Kamemon</DubName>
     <ImageUrl>https://wikimon.net/images/4/43/Kamemon.jpg</ImageUrl>
-    <Number>751</Number>
+    <Number>752</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64791,7 +64811,7 @@
     <DebutedIn>[[DigiWindow]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/3/38/Kingchessmon_white.jpg</ImageUrl>
-    <Number>798</Number>
+    <Number>801</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -64841,7 +64861,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/e/ee/Kinkakumon.jpg</ImageUrl>
-    <Number>955</Number>
+    <Number>952</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64865,7 +64885,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/fb/Knightchessmon_black.jpg</ImageUrl>
-    <Number>761</Number>
+    <Number>762</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -64917,7 +64937,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/b/b7/Knightchessmon_white.jpg</ImageUrl>
-    <Number>762</Number>
+    <Number>763</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -65007,7 +65027,7 @@
     <DebutedIn>[[Digimon Savers - Episode 01|Digimon Savers: "I am Masaru! Cockatrimon Strikes"]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/e/e8/Kudamon2.jpg</ImageUrl>
-    <Number>752</Number>
+    <Number>753</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -65101,7 +65121,7 @@
     <Level>Child</Level>
     <DubName>Lalamon</DubName>
     <ImageUrl>https://wikimon.net/images/5/59/Lalamon.jpg</ImageUrl>
-    <Number>753</Number>
+    <Number>754</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -65208,7 +65228,7 @@
     <DebutedIn>[[Digimon Linkz]]</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/8/85/Lavorvomon.jpg</ImageUrl>
-    <Number>1026</Number>
+    <Number>1023</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -65229,7 +65249,7 @@
     <DebutedIn>[[Digimon Linkz]]</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/8/8d/Lavogaritamon.jpg</ImageUrl>
-    <Number>1028</Number>
+    <Number>1025</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -65251,7 +65271,7 @@
     <Level>Adult</Level>
     <DubName>Lekismon</DubName>
     <ImageUrl>https://wikimon.net/images/3/38/Lekismon.jpg</ImageUrl>
-    <Number>813</Number>
+    <Number>814</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -65309,7 +65329,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/74/Lilamon.jpg</ImageUrl>
-    <Number>767</Number>
+    <Number>768</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -65409,7 +65429,7 @@
     <Level>Ultimate</Level>
     <DubName>Lotosmon</DubName>
     <ImageUrl>https://wikimon.net/images/3/32/Lotusmon.jpg</ImageUrl>
-    <Number>776</Number>
+    <Number>777</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -65472,7 +65492,7 @@
     <DebutedIn>[[Digimon Pendulum Ver.20th]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/0/03/Ludomon.jpg</ImageUrl>
-    <Number>1054</Number>
+    <Number>1051</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -65490,7 +65510,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/c/c3/Luminamon3.jpg/600px-Luminamon3.jpg</ImageUrl>
-    <Number>938</Number>
+    <Number>935</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -65518,7 +65538,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/57/Lunamon.jpg</ImageUrl>
-    <Number>810</Number>
+    <Number>811</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -65590,7 +65610,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/d/d8/Machgaogamon.jpg</ImageUrl>
-    <Number>768</Number>
+    <Number>769</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -65688,31 +65708,13 @@
     <Attribute>Data</Attribute>
   </Digimon>
   <Digimon>
-    <Name>Mach Leomon</Name>
-    <DebutYear>2010</DebutYear>
-    <DebutedIn>[[Digimon Xros Wars - Chapter 01|Digimon Xros Wars: "Xrosroad!! The Boys' Paths Cross"]]</DebutedIn>
-    <Level>No Level</Level>
-    <DubName />
-    <ImageUrl>https://wikimon.net/images/f/f4/Machleomon.jpg</ImageUrl>
-    <Number>928</Number>
-    <Digivolutions>
-      <string>Mush-Upped Mach Leomon</string>
-    </Digivolutions>
-    <Appearances>
-      <Appearance>
-        <Name>Digimon Xros Wars (Manga)</Name>
-        <AppearanceCategory>Manga</AppearanceCategory>
-      </Appearance>
-    </Appearances>
-  </Digimon>
-  <Digimon>
     <Name>Mad Leomon</Name>
     <DebutYear>2010</DebutYear>
     <DebutedIn>[[Digimon Xros Wars - Episode 01|Digimon Xros Wars: "Taiki, Go to Another World!"]]</DebutedIn>
     <Level>Adult</Level>
     <DubName>MadLeomon</DubName>
     <ImageUrl>https://wikimon.net/images/9/97/Madleomon2.jpg</ImageUrl>
-    <Number>860</Number>
+    <Number>861</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -65755,7 +65757,7 @@
     <DebutedIn>[[Digimon Xros Wars - Episode 01|Digimon Xros Wars: "Taiki, Go to Another World!"]]</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/4/4a/Madleomon_armed.jpg</ImageUrl>
-    <Number>861</Number>
+    <Number>862</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -65800,7 +65802,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/8d/Magnukidmon.jpg</ImageUrl>
-    <Number>992</Number>
+    <Number>989</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -65823,7 +65825,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/e/ef/Mailbirdramon2.jpg</ImageUrl>
-    <Number>862</Number>
+    <Number>863</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -65868,7 +65870,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/0/0d/Mastemon2.jpg/600px-Mastemon2.jpg</ImageUrl>
-    <Number>993</Number>
+    <Number>990</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -65923,7 +65925,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/a/aa/Meicrackmon.jpg</ImageUrl>
-    <Number>1016</Number>
+    <Number>1013</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -65941,7 +65943,7 @@
     <Level>Perfect</Level>
     <DubName>Maycrackmon</DubName>
     <ImageUrl>https://wikimon.net/images/e/e4/Meicrackmon_vicious.jpg</ImageUrl>
-    <Number>1007</Number>
+    <Number>1004</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -65975,7 +65977,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/2/21/Meicoomon.jpg</ImageUrl>
-    <Number>1006</Number>
+    <Number>1003</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -66067,7 +66069,7 @@
     <DebutedIn />
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/6/6c/Metalgreymon_2010.jpg</ImageUrl>
-    <Number>876</Number>
+    <Number>877</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -66168,7 +66170,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/1/18/Miragegaogamon.jpg</ImageUrl>
-    <Number>777</Number>
+    <Number>778</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -66272,7 +66274,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/86/Miragegaogamon_burst.jpg</ImageUrl>
-    <Number>778</Number>
+    <Number>779</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -66343,7 +66345,7 @@
     <DebutedIn />
     <Level>Baby II</Level>
     <ImageUrl>https://wikimon.net/images/2/29/Monimon.jpg</ImageUrl>
-    <Number>837</Number>
+    <Number>838</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -66379,7 +66381,7 @@
     <DebutedIn />
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/8/8c/Monitamon.jpg</ImageUrl>
-    <Number>843</Number>
+    <Number>844</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -66510,7 +66512,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/51/Niseagumon_hakase.jpg</ImageUrl>
-    <Number>947</Number>
+    <Number>944</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -66554,7 +66556,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f7/Ofanimon_falldown.jpg</ImageUrl>
-    <Number>994</Number>
+    <Number>991</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -66606,7 +66608,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/d/de/Ogudomon.jpg/600px-Ogudomon.jpg</ImageUrl>
-    <Number>995</Number>
+    <Number>992</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -66701,7 +66703,7 @@
     <DebutedIn>[[Digimon Story: Super Xros Wars Blue]] &amp; [[Digimon Story: Super Xros Wars Red|Red]]</DebutedIn>
     <Level>No Level</Level>
     <ImageUrl>https://wikimon.net/images/e/e8/Omegaarmamon_burst.jpg</ImageUrl>
-    <Number>942</Number>
+    <Number>939</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -66718,7 +66720,7 @@
     <Level>Perfect</Level>
     <DubName>OmniShoutmon</DubName>
     <ImageUrl>https://wikimon.net/images/6/62/Omegashoutmon.jpg</ImageUrl>
-    <Number>878</Number>
+    <Number>879</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -66796,7 +66798,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/c/c3/Omegamon_alter-b.jpg</ImageUrl>
-    <Number>1030</Number>
+    <Number>1027</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -66824,7 +66826,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/03/Omegamon_alter-s.jpg</ImageUrl>
-    <Number>996</Number>
+    <Number>993</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -66872,7 +66874,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/d/d9/Executor.jpg</ImageUrl>
-    <Number>998</Number>
+    <Number>995</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -66900,7 +66902,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/0/04/Omegamon_zwart.jpg/600px-Omegamon_zwart.jpg</ImageUrl>
-    <Number>997</Number>
+    <Number>994</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -66967,7 +66969,7 @@
     <DebutedIn>[[Digimon Adventure tri. - "Coexistence"]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/0/03/Ordinemon.jpg</ImageUrl>
-    <Number>1009</Number>
+    <Number>1006</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -66988,7 +66990,7 @@
     <DebutedIn>{{url2|http://oi56.tinypic.com/157fbbc.jpg|Toei Studio Tour Special}}</DebutedIn>
     <Level>No Level</Level>
     <ImageUrl>https://wikimon.net/images/9/94/Panbachimon.jpg</ImageUrl>
-    <Number>835</Number>
+    <Number>836</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -67004,7 +67006,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/a5/Pawnchessmon_black.jpg</ImageUrl>
-    <Number>754</Number>
+    <Number>755</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -67064,7 +67066,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/b/b1/Pawnchessmon_white.jpg</ImageUrl>
-    <Number>755</Number>
+    <Number>756</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -67136,7 +67138,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/2/29/Peckmon3.jpg</ImageUrl>
-    <Number>763</Number>
+    <Number>764</Number>
     <Digivolutions>
       <string>Crowmon</string>
       <string>Yatagaramon</string>
@@ -67229,7 +67231,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/8e/Petermon.jpg</ImageUrl>
-    <Number>956</Number>
+    <Number>953</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -67257,7 +67259,7 @@
     <Level>Baby I</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/4/41/Petitmon.jpg</ImageUrl>
-    <Number>821</Number>
+    <Number>822</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -67284,7 +67286,7 @@
     <DebutedIn />
     <Level>Baby II</Level>
     <ImageUrl>https://wikimon.net/images/a/ad/Pickmon.jpg</ImageUrl>
-    <Number>838</Number>
+    <Number>839</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -67351,7 +67353,7 @@
     <DebutedIn />
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/b/bc/Platinumnumemon.jpg</ImageUrl>
-    <Number>799</Number>
+    <Number>802</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -67429,7 +67431,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/d/d9/Plutomon2.jpg</ImageUrl>
-    <Number>999</Number>
+    <Number>996</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -67482,7 +67484,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/3c/Queenchessmon.jpg</ImageUrl>
-    <Number>800</Number>
+    <Number>803</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -67537,7 +67539,7 @@
     <DebutedIn>[[Digimon Pendulum Ver.20th]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/c/c1/Rafflesimon.jpg</ImageUrl>
-    <Number>1059</Number>
+    <Number>1056</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -67554,7 +67556,7 @@
     <DebutedIn>[[Digimon Pendulum Ver.20th]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/5/5f/Ragnaloardmon.jpg</ImageUrl>
-    <Number>1060</Number>
+    <Number>1057</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -67571,7 +67573,7 @@
     <DebutedIn>[[Digimon Adventure tri. - "Coexistence"]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/7/7e/Raguelmon2.jpg</ImageUrl>
-    <Number>1010</Number>
+    <Number>1007</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -67596,7 +67598,7 @@
     <DebutedIn>[[Digimon Pendulum Ver.20th]]</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/9/92/Raijiludomon.jpg</ImageUrl>
-    <Number>1056</Number>
+    <Number>1053</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -67608,31 +67610,13 @@
     <Attribute>Data</Attribute>
   </Digimon>
   <Digimon>
-    <Name>Rampage Greymon</Name>
-    <DebutYear>2011</DebutYear>
-    <DebutedIn>[[Digimon Xros Wars - Chapter 09|Digimon Xros Wars: "Xros Darkness!! Conspiracy's Dark Fortress!!"]]</DebutedIn>
-    <Level>No Level</Level>
-    <DubName />
-    <ImageUrl>https://wikimon.net/images/thumb/4/48/Rampagegreymon.png/404px-Rampagegreymon.png</ImageUrl>
-    <Number>929</Number>
-    <Digivolutions>
-      <string />
-    </Digivolutions>
-    <Appearances>
-      <Appearance>
-        <Name>Digimon Xros Wars (Manga)|Digimon Xros Wars</Name>
-        <AppearanceCategory>Manga</AppearanceCategory>
-      </Appearance>
-    </Appearances>
-  </Digimon>
-  <Digimon>
     <Name>Raptor Sparrowmon</Name>
     <DebutYear>2011</DebutYear>
     <DebutedIn />
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/f/f0/Raptor_sparrowmon.jpg/600px-Raptor_sparrowmon.jpg</ImageUrl>
-    <Number>933</Number>
+    <Number>930</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -67655,7 +67639,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/5/5d/Rasielmon.jpg</ImageUrl>
-    <Number>1022</Number>
+    <Number>1019</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -67673,7 +67657,7 @@
     <Level>Ultimate</Level>
     <DubName>Ravemon</DubName>
     <ImageUrl>https://wikimon.net/images/b/b0/Ravmon.jpg</ImageUrl>
-    <Number>779</Number>
+    <Number>780</Number>
     <Digivolutions>
       <string>Ravmon:BurstMode</string>
     </Digivolutions>
@@ -67765,7 +67749,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/d/d5/Ravmon_burst.jpg</ImageUrl>
-    <Number>780</Number>
+    <Number>781</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -67837,7 +67821,7 @@
     <Level>No Level</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/c/c9/Rebirthweddinmon.jpg</ImageUrl>
-    <Number>930</Number>
+    <Number>927</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -67855,7 +67839,7 @@
     <Level>Perfect</Level>
     <DubName>RizeGreymon</DubName>
     <ImageUrl>https://wikimon.net/images/9/91/Rizegreymon.jpg</ImageUrl>
-    <Number>769</Number>
+    <Number>770</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -67959,7 +67943,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/1/1f/Rookchessmon.jpg</ImageUrl>
-    <Number>770</Number>
+    <Number>771</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -68027,7 +68011,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/02/Rosemon_burst.jpg</ImageUrl>
-    <Number>781</Number>
+    <Number>782</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -68103,7 +68087,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/9d/Rusttyranomon.jpg</ImageUrl>
-    <Number>1000</Number>
+    <Number>997</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -68179,7 +68163,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Baby I</Level>
     <ImageUrl>https://wikimon.net/images/4/48/Sakumon.jpg</ImageUrl>
-    <Number>1011</Number>
+    <Number>1008</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -68200,7 +68184,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Baby II</Level>
     <ImageUrl>https://wikimon.net/images/4/46/Sakuttomon.jpg</ImageUrl>
-    <Number>1012</Number>
+    <Number>1009</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -68246,7 +68230,7 @@
     <DebutedIn>[[Digivice Ver.15th]]</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/c/c1/Saviorhuckmon.jpg</ImageUrl>
-    <Number>1017</Number>
+    <Number>1014</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -68276,7 +68260,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/1/11/Shademon.jpg</ImageUrl>
-    <Number>934</Number>
+    <Number>931</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -68300,7 +68284,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/c/c0/Shakamon.jpg</ImageUrl>
-    <Number>1001</Number>
+    <Number>998</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -68323,7 +68307,7 @@
     <Level>Perfect</Level>
     <DubName>Shawjamon</DubName>
     <ImageUrl>https://wikimon.net/images/2/2c/Shawujinmon.jpg</ImageUrl>
-    <Number>771</Number>
+    <Number>772</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -68394,7 +68378,7 @@
     <DebutedIn>[[Digivice iC 10X]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/9/90/Shinegreymon.jpg</ImageUrl>
-    <Number>782</Number>
+    <Number>783</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -68519,7 +68503,7 @@
     <DebutedIn>[[Digimon Savers - Episode 34|Digimon Savers: "The Day of Parting, The Strongest Enemy - Thoma!"]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/8/88/Shinegreymon_ruin.jpg</ImageUrl>
-    <Number>784</Number>
+    <Number>785</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -68544,7 +68528,7 @@
     <DebutedIn>[[Digivice Burst (Toy)|Digivice Burst]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/6/67/Shinegreymon_burst.jpg</ImageUrl>
-    <Number>783</Number>
+    <Number>784</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -68630,7 +68614,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/e/ed/Shootingstarmon2.jpg</ImageUrl>
-    <Number>935</Number>
+    <Number>932</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -68654,7 +68638,7 @@
     <Level>No Level</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/7f/Shortmon.jpg</ImageUrl>
-    <Number>931</Number>
+    <Number>928</Number>
     <Digivolutions>
       <string>Reverse Weddinmon</string>
     </Digivolutions>
@@ -68671,7 +68655,7 @@
     <DebutedIn>[[Digimon Reference Book]] ([[Digimon Web]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/4/44/Shoutmon.jpg</ImageUrl>
-    <Number>844</Number>
+    <Number>845</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -68810,7 +68794,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/1/18/Shoutmon_ex6.jpg/600px-Shoutmon_ex6.jpg</ImageUrl>
-    <Number>939</Number>
+    <Number>936</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -68833,7 +68817,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/2/26/Shoutmonx2_2.jpg</ImageUrl>
-    <Number>864</Number>
+    <Number>865</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -68881,7 +68865,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/6/65/Shoutmonx3.jpg</ImageUrl>
-    <Number>865</Number>
+    <Number>866</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -68927,7 +68911,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/7/70/Shoutmonx3gm.jpg/600px-Shoutmonx3gm.jpg</ImageUrl>
-    <Number>944</Number>
+    <Number>941</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -68957,7 +68941,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/6/64/Shoutmonx3sd.jpg</ImageUrl>
-    <Number>945</Number>
+    <Number>942</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -68980,7 +68964,7 @@
     <DebutedIn>[[Digimon Xros Wars - Chapter 01|Digimon Xros Wars: "Xrosroad!! The Boys' Paths Cross"]]</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/8/8f/Shoutmonx4.jpg</ImageUrl>
-    <Number>866</Number>
+    <Number>867</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69037,7 +69021,7 @@
     <DebutedIn />
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/0/06/Shoutmonx4b.jpg</ImageUrl>
-    <Number>879</Number>
+    <Number>880</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69086,7 +69070,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/4/4e/Shoutmonx4k.jpg/600px-Shoutmonx4k.jpg</ImageUrl>
-    <Number>880</Number>
+    <Number>881</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -69118,7 +69102,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/b/b7/Shoutmonx4s.jpg</ImageUrl>
-    <Number>881</Number>
+    <Number>882</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -69148,7 +69132,7 @@
     <DebutedIn />
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/6/69/Shoutmonx5.jpg</ImageUrl>
-    <Number>882</Number>
+    <Number>883</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69197,7 +69181,7 @@
     <DebutedIn />
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/a/a9/Shoutmonx5b.jpg</ImageUrl>
-    <Number>886</Number>
+    <Number>887</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69303,7 +69287,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/5f/Sirenmon.jpg</ImageUrl>
-    <Number>972</Number>
+    <Number>969</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -69331,7 +69315,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/a/ae/Sistermon_blanc.jpg/600px-Sistermon_blanc.jpg</ImageUrl>
-    <Number>948</Number>
+    <Number>945</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -69379,7 +69363,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/51/Sistermon_blanc_awaken.jpg</ImageUrl>
-    <Number>949</Number>
+    <Number>946</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -69411,7 +69395,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/5b/Sistermon_ciel.jpg</ImageUrl>
-    <Number>1050</Number>
+    <Number>1047</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -69434,7 +69418,7 @@
     <DebutedIn>[[Digimon Story: Cyber Sleuth Hacker's Memory]] (NA)</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/thumb/0/0e/Sistermon_ciel_awaken2.png/800px-Sistermon_ciel_awaken2.png</ImageUrl>
-    <Number>1051</Number>
+    <Number>1048</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69452,7 +69436,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/b/b9/Sistermon_noir.jpg/600px-Sistermon_noir.jpg</ImageUrl>
-    <Number>957</Number>
+    <Number>954</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -69500,7 +69484,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f0/Sistermon_noir_awaken.jpg</ImageUrl>
-    <Number>958</Number>
+    <Number>955</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -69531,7 +69515,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/9/93/Skullknightmon.jpg</ImageUrl>
-    <Number>867</Number>
+    <Number>868</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69583,7 +69567,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/d/dd/Skullknightmon_bigaxe.jpg</ImageUrl>
-    <Number>868</Number>
+    <Number>869</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69611,7 +69595,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/5/5c/Skullknightmon_cavalier.jpg</ImageUrl>
-    <Number>869</Number>
+    <Number>870</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69640,7 +69624,7 @@
     <Level>Ultimate</Level>
     <DubName>Thuraiyadramon</DubName>
     <ImageUrl>https://wikimon.net/images/c/ca/Slayerdramon.jpg</ImageUrl>
-    <Number>829</Number>
+    <Number>830</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69697,7 +69681,7 @@
     <DebutedIn>[[Re-107]] ([[Digimon 20th Memorial Set]])</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/4/40/Sleipmonx.jpg/600px-Sleipmonx.jpg</ImageUrl>
-    <Number>1071</Number>
+    <Number>1068</Number>
     <Digivolutions>
       <string>Alphamon</string>
       <string>Minervamon (X-Antibody)</string>
@@ -69761,7 +69745,7 @@
     <DebutedIn />
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/9/9d/Spadamon.jpg</ImageUrl>
-    <Number>848</Number>
+    <Number>849</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69789,7 +69773,7 @@
     <DebutedIn />
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/5/57/Sparrowmon2.jpg</ImageUrl>
-    <Number>849</Number>
+    <Number>850</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69894,7 +69878,7 @@
     <DebutedIn>[[Digimon Reference Book]] ([[Digimon Web]])</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/1/1c/Starmons.jpg</ImageUrl>
-    <Number>850</Number>
+    <Number>851</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -69947,7 +69931,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/2/2c/Sunflowmon.jpg</ImageUrl>
-    <Number>764</Number>
+    <Number>765</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -70039,7 +70023,7 @@
     <Level>Ultimate</Level>
     <DubName>Surfymon</DubName>
     <ImageUrl>https://wikimon.net/images/4/45/Surfimon.jpg</ImageUrl>
-    <Number>1002</Number>
+    <Number>999</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -70062,7 +70046,7 @@
     <DebutedIn>[[Digimon Xros Wars - Episode 01|Digimon Xros Wars: "Taiki, Go to Another World!"]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/c/c8/Tactimon2.jpg</ImageUrl>
-    <Number>887</Number>
+    <Number>888</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70115,7 +70099,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/5d/Tankdramon.jpg</ImageUrl>
-    <Number>728</Number>
+    <Number>729</Number>
     <Digivolutions>
       <string>Darkdramon</string>
     </Digivolutions>
@@ -70163,7 +70147,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/b/b9/Targetmon.jpg/600px-Targetmon.jpg</ImageUrl>
-    <Number>959</Number>
+    <Number>956</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -70198,7 +70182,7 @@
     <DebutedIn>[[Digimon Pendulum Ver.20th]]</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/b/b7/Tialudomon.jpg</ImageUrl>
-    <Number>1055</Number>
+    <Number>1052</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70216,7 +70200,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/6/6c/Tinkermon.jpg</ImageUrl>
-    <Number>950</Number>
+    <Number>947</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -70248,7 +70232,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/c/c3/Titamon.jpg</ImageUrl>
-    <Number>1003</Number>
+    <Number>1000</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -70287,7 +70271,7 @@
     <DebutedIn>[[Digivice iC 20X]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/4/48/Tonosamamamemon.jpg</ImageUrl>
-    <Number>793</Number>
+    <Number>795</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70324,7 +70308,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/8/8f/Troopmon.jpg</ImageUrl>
-    <Number>870</Number>
+    <Number>871</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70376,7 +70360,7 @@
     <DebutedIn />
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/c/c3/Tuwarmon.jpg</ImageUrl>
-    <Number>871</Number>
+    <Number>872</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70421,7 +70405,7 @@
     <Level>Child</Level>
     <DubName>Tyutyumon</DubName>
     <ImageUrl>https://wikimon.net/images/9/9c/Tyutyumon.jpg</ImageUrl>
-    <Number>851</Number>
+    <Number>852</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70454,7 +70438,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/e/e1/Venusmon.jpg</ImageUrl>
-    <Number>1004</Number>
+    <Number>1001</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -70489,7 +70473,7 @@
     <DebutedIn>[[Digimon Twin R]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/5/5a/Victorygreymon.jpg</ImageUrl>
-    <Number>789</Number>
+    <Number>791</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70550,7 +70534,7 @@
     <DebutedIn>[[Digimon Linkz]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/6/6d/Vorvomon.jpg</ImageUrl>
-    <Number>1024</Number>
+    <Number>1021</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70571,7 +70555,7 @@
     <DebutedIn>[[Digimon Linkz]]</DebutedIn>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/8/82/Volcanicdramon.jpg</ImageUrl>
-    <Number>1031</Number>
+    <Number>1028</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70593,7 +70577,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/e/e9/Vulcanusmon.jpg</ImageUrl>
-    <Number>1005</Number>
+    <Number>1002</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -70628,7 +70612,7 @@
     <DebutedIn>[[Digivice iC 10X]]</DebutedIn>
     <Level>Baby II</Level>
     <ImageUrl>https://wikimon.net/images/f/f2/Wanyamon.jpg</ImageUrl>
-    <Number>794</Number>
+    <Number>796</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70694,7 +70678,7 @@
     <Level>No Level</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/7c/Weddinmon.jpg</ImageUrl>
-    <Number>932</Number>
+    <Number>929</Number>
     <Digivolutions>
       <string>Reverse Weddinmon</string>
     </Digivolutions>
@@ -70711,7 +70695,7 @@
     <DebutedIn>[[DM02-084]] ([[Battle Terminal 02 Set 3]])</DebutedIn>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/3/31/Wingdramon.jpg</ImageUrl>
-    <Number>827</Number>
+    <Number>828</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70801,7 +70785,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/1/16/Yakiimon.jpg/600px-Yakiimon.jpg</ImageUrl>
-    <Number>960</Number>
+    <Number>957</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -70825,7 +70809,7 @@
     <Level>Perfect</Level>
     <DubName>Crowmon</DubName>
     <ImageUrl>https://wikimon.net/images/7/71/Yatagaramon2.jpg</ImageUrl>
-    <Number>772</Number>
+    <Number>773</Number>
     <Digivolutions>
       <string>Ravmon</string>
     </Digivolutions>
@@ -70907,12 +70891,12 @@
     <Attribute>Vaccine</Attribute>
   </Digimon>
   <Digimon>
-    <Name>Yoxtu!Yoxtu!mon</Name>
+    <Name>Yo!Yo!mon</Name>
     <DebutYear>2006</DebutYear>
     <DebutedIn>[[DigiWindow]] ({{url|http://web.archive.org/web/20141007204612/http://www.digitalmonsters.net/DVR/digiviceIC/dw_index.html|Digimon Pocket Wars}})</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/thumb/3/33/Yoxtuyoxtumon.jpg/600px-Yoxtuyoxtumon.jpg</ImageUrl>
-    <Number>797</Number>
+    <Number>800</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -70924,35 +70908,13 @@
     <Attribute>Virus</Attribute>
   </Digimon>
   <Digimon>
-    <Name>Yuki Agumon (2006 Anime Version)</Name>
-    <DebutYear>2006</DebutYear>
-    <DebutedIn>[[DM-092]]</DebutedIn>
-    <Level>Child</Level>
-    <DubName>SnowAgumon</DubName>
-    <ImageUrl>https://wikimon.net/images/f/f5/Yukiagumon2.jpg</ImageUrl>
-    <Number>804</Number>
-    <Digivolutions />
-    <Appearances>
-      <Appearance>
-        <Name>Digimon Savers: Another Mission</Name>
-        <AppearanceCategory>Game</AppearanceCategory>
-      </Appearance>
-      <Appearance>
-        <Name>Digimon Championship</Name>
-        <AppearanceCategory>Game</AppearanceCategory>
-      </Appearance>
-    </Appearances>
-    <Type>Dinosaur</Type>
-    <Attribute>Vaccine</Attribute>
-  </Digimon>
-  <Digimon>
     <Name>Z'd Garurumon</Name>
     <DebutYear>2007</DebutYear>
     <DebutedIn>[[Digimon Twin L]]</DebutedIn>
     <Level>Ultimate</Level>
     <DubName>ZeedGarurumon</DubName>
     <ImageUrl>https://wikimon.net/images/3/32/Zdgarurumon.jpg</ImageUrl>
-    <Number>790</Number>
+    <Number>792</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71109,7 +71071,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/5/5a/Zubaeagermon.jpg</ImageUrl>
-    <Number>1014</Number>
+    <Number>1011</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71142,7 +71104,7 @@
     <DebutedIn>[[Digital Monster Ver.20th]]</DebutedIn>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/6/6e/Zubamon.jpg</ImageUrl>
-    <Number>1013</Number>
+    <Number>1010</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71175,7 +71137,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/8d/Moonmon.jpg</ImageUrl>
-    <Number>807</Number>
+    <Number>808</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -71221,7 +71183,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/b/b4/Sunmon.jpg</ImageUrl>
-    <Number>808</Number>
+    <Number>809</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -71263,7 +71225,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/0c/Grimmon.jpg</ImageUrl>
-    <Number>812</Number>
+    <Number>813</Number>
     <Digivolutions>
       <string>Chaos Grimmon</string>
     </Digivolutions>
@@ -71281,7 +71243,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/d/dd/ChaosGrimmon.jpg</ImageUrl>
-    <Number>814</Number>
+    <Number>815</Number>
     <Digivolutions>
       <string>Exo Grimmon</string>
     </Digivolutions>
@@ -71298,7 +71260,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/5d/Exogrimmon.jpg</ImageUrl>
-    <Number>820</Number>
+    <Number>821</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71313,7 +71275,7 @@
     <Level>Child</Level>
     <DubName>Gizumon</DubName>
     <ImageUrl>https://wikimon.net/images/2/20/Proto_gizmon_crusader.jpg</ImageUrl>
-    <Number>756</Number>
+    <Number>757</Number>
     <Digivolutions>
       <string>Gizmon: AT</string>
     </Digivolutions>
@@ -71334,7 +71296,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/1/11/Gizmon_xt_crusader.jpg</ImageUrl>
-    <Number>766</Number>
+    <Number>767</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -71407,7 +71369,7 @@
     <Level>No Level</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/39/Shoutmonx5s.jpg</ImageUrl>
-    <Number>943</Number>
+    <Number>940</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71430,7 +71392,7 @@
     <Level>Adult</Level>
     <DubName>Shounitamon</DubName>
     <ImageUrl>https://wikimon.net/images/b/b9/Shonitamon.jpg</ImageUrl>
-    <Number>863</Number>
+    <Number>864</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71467,7 +71429,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/e/ea/Donshoutmon.jpg</ImageUrl>
-    <Number>856</Number>
+    <Number>857</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71496,7 +71458,7 @@
     <Level>Ultimate</Level>
     <DubName>NoblePumpkinmon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/4/48/Noblepumpmon.jpg/600px-Noblepumpmon.jpg</ImageUrl>
-    <Number>1044</Number>
+    <Number>1042</Number>
     <Digivolutions>
       <string>Duftmon (X-Antibody)</string>
       <string>Dukemon (X-Antibody)</string>
@@ -71522,7 +71484,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/c/ce/Hexeblaumon.jpg/600px-Hexeblaumon.jpg</ImageUrl>
-    <Number>1035</Number>
+    <Number>1032</Number>
     <Digivolutions>
       <string>Duftmon (X-Antibody)</string>
       <string>Gankoomon (X-Antibody)</string>
@@ -71549,7 +71511,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/b/b5/Metallicdramon.jpg/600px-Metallicdramon.jpg</ImageUrl>
-    <Number>1029</Number>
+    <Number>1026</Number>
     <Digivolutions>
       <string>Craniummon (X-Antibody)</string>
       <string>Dynasmon (X-Antibody)</string>
@@ -71577,7 +71539,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/c/c0/Jazamon.jpg/600px-Jazamon.jpg</ImageUrl>
-    <Number>1023</Number>
+    <Number>1020</Number>
     <Digivolutions>
       <string>Jazardmon</string>
       <string>Omekamon</string>
@@ -71604,7 +71566,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/0/04/Jazardmon.jpg/600px-Jazardmon.jpg</ImageUrl>
-    <Number>1025</Number>
+    <Number>1022</Number>
     <Digivolutions>
       <string>Angewomon (X-Antibody)</string>
       <string>Anomalocarimon (X-Antibody)</string>
@@ -71632,7 +71594,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/f/fd/Jesmongx.jpg/600px-Jesmongx.jpg</ImageUrl>
-    <Number>1107</Number>
+    <Number>1104</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -71655,7 +71617,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/c/cc/Jazarichmon.jpg/600px-Jazarichmon.jpg</ImageUrl>
-    <Number>1027</Number>
+    <Number>1024</Number>
     <Digivolutions>
       <string>Cherubimon (Virtue) (X-Antibody)</string>
       <string>Ebemon (X-Antibody)</string>
@@ -71685,7 +71647,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/b/b9/Agumon_bondofcourage.jpg/600px-Agumon_bondofcourage.jpg</ImageUrl>
-    <Number>1115</Number>
+    <Number>1112</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71710,7 +71672,7 @@
     <Level>Adult</Level>
     <DubName>Argomon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/3/3b/Algomon_adult.jpg/600px-Algomon_adult.jpg</ImageUrl>
-    <Number>1124</Number>
+    <Number>1121</Number>
     <Digivolutions>
       <string>*Algomon (Perfect)</string>
       <string>Digimon Card Game Colors and Levels#Green Lv.5 Digimon|Any Green Lv.5 Digimon from the ''Digimon Card Game''</string>
@@ -71734,7 +71696,7 @@
     <Level>Baby I</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/0/00/Algomon_baby1.jpg/600px-Algomon_baby1.jpg</ImageUrl>
-    <Number>1118</Number>
+    <Number>1115</Number>
     <Digivolutions>
       <string>Algomon (Baby II)</string>
     </Digivolutions>
@@ -71757,7 +71719,7 @@
     <Level>Baby II</Level>
     <DubName>Argomon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/4/48/Algomon_baby2.jpg/600px-Algomon_baby2.jpg</ImageUrl>
-    <Number>1119</Number>
+    <Number>1116</Number>
     <Digivolutions>
       <string>*Algomon (Child)</string>
       <string>Digimon Card Game Colors and Levels#Green Lv.3 Digimon|Any Green Lv.3 Digimon from the ''Digimon Card Game''</string>
@@ -71783,7 +71745,7 @@
     <Level>Child</Level>
     <DubName>Argomon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/f/f6/Algomon_child.jpg/600px-Algomon_child.jpg</ImageUrl>
-    <Number>1120</Number>
+    <Number>1117</Number>
     <Digivolutions>
       <string>*Algomon (Adult)</string>
       <string>Digimon Card Game Colors and Levels#Green Lv.4 Digimon|Any Green Lv.4 Digimon from the ''Digimon Card Game''</string>
@@ -71807,7 +71769,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/e/e2/Baboongamon.jpg/600px-Baboongamon.jpg</ImageUrl>
-    <Number>1125</Number>
+    <Number>1122</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71824,7 +71786,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/8/8a/Eosmon_adult.jpg/600px-Eosmon_adult.jpg</ImageUrl>
-    <Number>1113</Number>
+    <Number>1110</Number>
     <Digivolutions>
       <string>Eosmon (Perfect)</string>
     </Digivolutions>
@@ -71847,7 +71809,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/a/ae/Eosmon_perfect.jpg/600px-Eosmon_perfect.jpg</ImageUrl>
-    <Number>1114</Number>
+    <Number>1111</Number>
     <Digivolutions>
       <string>Eosmon (Ultimate)</string>
     </Digivolutions>
@@ -71870,7 +71832,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/7/70/Eosmon_ultimate.jpg/600px-Eosmon_ultimate.jpg</ImageUrl>
-    <Number>1116</Number>
+    <Number>1113</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71891,7 +71853,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/2/22/Eyesmon.jpg/600px-Eyesmon.jpg</ImageUrl>
-    <Number>1166</Number>
+    <Number>1168</Number>
     <Digivolutions>
       <string>Orochimon</string>
     </Digivolutions>
@@ -71910,7 +71872,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/1/10/Eyesmon_scatter.jpg/600px-Eyesmon_scatter.jpg</ImageUrl>
-    <Number>1167</Number>
+    <Number>1169</Number>
     <Digivolutions>
       <string>Eyesmon</string>
     </Digivolutions>
@@ -71929,7 +71891,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/7/77/Gabumon_bondoffriendship.jpg/600px-Gabumon_bondoffriendship.jpg</ImageUrl>
-    <Number>1117</Number>
+    <Number>1114</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71950,7 +71912,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/0/0d/Ghostmon.jpg/600px-Ghostmon.jpg</ImageUrl>
-    <Number>1121</Number>
+    <Number>1118</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71967,7 +71929,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/f/fe/Gogmamon.jpg/600px-Gogmamon.jpg</ImageUrl>
-    <Number>1127</Number>
+    <Number>1124</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -71984,7 +71946,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/2/23/Gusokumon.jpg/600px-Gusokumon.jpg</ImageUrl>
-    <Number>1128</Number>
+    <Number>1125</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72001,7 +71963,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/d/d6/Marinchimairamon.jpg/600px-Marinchimairamon.jpg</ImageUrl>
-    <Number>1129</Number>
+    <Number>1126</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72018,7 +71980,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/91/Mitamamon.jpg</ImageUrl>
-    <Number>1043</Number>
+    <Number>1041</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72035,7 +71997,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/2/2f/Morphomon3.jpg/600px-Morphomon3.jpg</ImageUrl>
-    <Number>1112</Number>
+    <Number>1109</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72056,7 +72018,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/1/1d/Piranimon.jpg/600px-Piranimon.jpg</ImageUrl>
-    <Number>1130</Number>
+    <Number>1127</Number>
     <Digivolutions>
       <string>*Metal Piranimon</string>
     </Digivolutions>
@@ -72075,7 +72037,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/6/6a/Regalecusmon.jpg/600px-Regalecusmon.jpg</ImageUrl>
-    <Number>1133</Number>
+    <Number>1130</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72092,7 +72054,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/7/7a/Sangomon.jpg/600px-Sangomon.jpg</ImageUrl>
-    <Number>1122</Number>
+    <Number>1119</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72109,7 +72071,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/8/8b/Sunalizamon.jpg/600px-Sunalizamon.jpg</ImageUrl>
-    <Number>1123</Number>
+    <Number>1120</Number>
     <Digivolutions>
       <string>Baboongamon</string>
       <string>Golemon</string>
@@ -72131,7 +72093,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/8/88/Tobiumon.jpg/600px-Tobiumon.jpg</ImageUrl>
-    <Number>1126</Number>
+    <Number>1123</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72147,8 +72109,8 @@
     <DebutYear>2020</DebutYear>
     <Level>Child</Level>
     <DubName />
-    <ImageUrl>https://wikimon.net/images/4/40/Blucomon.jpg</ImageUrl>
-    <Number>1032</Number>
+    <ImageUrl>https://wikimon.net/images/c/c6/Bulucomon.jpg</ImageUrl>
+    <Number>1029</Number>
     <Digivolutions>
       <string>Ginryumon</string>
       <string>Paledramon</string>
@@ -72181,7 +72143,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/e/e5/Bryweludramon.jpg/600px-Bryweludramon.jpg</ImageUrl>
-    <Number>1057</Number>
+    <Number>1054</Number>
     <Digivolutions>
       <string>Ragna Lordmon</string>
     </Digivolutions>
@@ -72200,7 +72162,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/7f/Chicchimon.jpg</ImageUrl>
-    <Number>806</Number>
+    <Number>807</Number>
     <Digivolutions>
       <string>Falcomon</string>
       <string>Hyokomon</string>
@@ -72225,7 +72187,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/6/69/Chronomon_destroymode.jpg</ImageUrl>
-    <Number>801</Number>
+    <Number>804</Number>
     <Digivolutions>
       <string>Chronomon Holy Mode</string>
     </Digivolutions>
@@ -72242,7 +72204,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/6/6b/Chronomon_Holymode.jpg</ImageUrl>
-    <Number>802</Number>
+    <Number>805</Number>
     <Digivolutions>
       <string>Chronomon Destroy Mode</string>
       <string>Shine Greymon Burst Mode</string>
@@ -72273,7 +72235,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/6/69/Cryspaledramon.jpg/600px-Cryspaledramon.jpg</ImageUrl>
-    <Number>1034</Number>
+    <Number>1031</Number>
     <Digivolutions>
       <string>Alphamon</string>
       <string>Goddramon (X-Antibody)</string>
@@ -72301,7 +72263,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/b/b9/Filmon.jpg/600px-Filmon.jpg</ImageUrl>
-    <Number>1039</Number>
+    <Number>1036</Number>
     <Digivolutions>
       <string>Kaiser Leomon</string>
       <string>Mametyramon</string>
@@ -72330,7 +72292,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/e/e6/Herissmon.jpg/600px-Herissmon.jpg</ImageUrl>
-    <Number>1038</Number>
+    <Number>1035</Number>
     <Digivolutions>
       <string>Damemon</string>
       <string>Filmon</string>
@@ -72369,7 +72331,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/99/Kuzuhamon_miko2.jpg</ImageUrl>
-    <Number>991</Number>
+    <Number>988</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -72400,7 +72362,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/1/1d/Omegamon_mm.jpg/600px-Omegamon_mm.jpg</ImageUrl>
-    <Number>1008</Number>
+    <Number>1005</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72429,7 +72391,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/d/d6/Paledramon.jpg/600px-Paledramon.jpg</ImageUrl>
-    <Number>1033</Number>
+    <Number>1030</Number>
     <Digivolutions>
       <string>Crys Paledramon</string>
       <string>Cyberdramon (X-Antibody)</string>
@@ -72457,7 +72419,7 @@
     <Level>Baby I</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/9c/Pusumon.jpg</ImageUrl>
-    <Number>1036</Number>
+    <Number>1033</Number>
     <Digivolutions>
       <string>Pusurimon</string>
     </Digivolutions>
@@ -72476,7 +72438,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/e/ec/Pusurimon.jpg</ImageUrl>
-    <Number>1037</Number>
+    <Number>1034</Number>
     <Digivolutions>
       <string>Herissmon</string>
     </Digivolutions>
@@ -72495,7 +72457,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/0/02/Rasenmon.jpg/600px-Rasenmon.jpg</ImageUrl>
-    <Number>1045</Number>
+    <Number>1043</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72516,7 +72478,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/1/18/Rasenmon_gm.jpg/600px-Rasenmon_gm.jpg</ImageUrl>
-    <Number>1046</Number>
+    <Number>1044</Number>
     <Digivolutions>
       <string>Diablomon (X-Antibody)</string>
       <string>Rasenmon</string>
@@ -72570,7 +72532,7 @@
     <Level>Perfect</Level>
     <DubName>Stefilmon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/6/6b/Stiffilmon.jpg/600px-Stiffilmon.jpg</ImageUrl>
-    <Number>1040</Number>
+    <Number>1037</Number>
     <Digivolutions>
       <string>Bagramon</string>
       <string>Black War Greymon (X-Antibody)</string>
@@ -72600,7 +72562,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/aa/Terriermon_assistant.jpg</ImageUrl>
-    <Number>1174</Number>
+    <Number>1176</Number>
     <Digivolutions>
       <string>Digimon Card Game Colors and Levels#Green Lv.4 Digimon|Any Green Lv.4 Digimon from the ''Digimon Card Game''</string>
     </Digivolutions>
@@ -72619,7 +72581,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://vignette.wikia.nocookie.net/digimon-frontier/images/6/6b/Mamemon_Elder_speaks_to_the_humans.png/</ImageUrl>
-    <Number>1176</Number>
+    <Number>1178</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -72633,7 +72595,7 @@
     <Level>Perfect</Level>
     <DubName>Proto Cherrymon</DubName>
     <ImageUrl>http://dma.wtw-x.net/DMA/DigimonStands/Other/I/CherrymonDW1.png</ImageUrl>
-    <Number>1177</Number>
+    <Number>1179</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -72647,7 +72609,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://vignette.wikia.nocookie.net/digimon-fusion752/images/b/b9/Cutemon's_Parents.png</ImageUrl>
-    <Number>1175</Number>
+    <Number>1177</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -72661,7 +72623,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/5/53/Nidhoggmon.jpg/600px-Nidhoggmon.jpg</ImageUrl>
-    <Number>1132</Number>
+    <Number>1129</Number>
     <Digivolutions>
       <string>Chaosmon</string>
       <string>Chaosmon: Valdur Arm</string>
@@ -72694,7 +72656,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/7/71/Metalgreymon_cyberlauncher.jpg</ImageUrl>
-    <Number>877</Number>
+    <Number>878</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72735,7 +72697,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/c/c5/Shoutmon_jetsparrow.jpg</ImageUrl>
-    <Number>846</Number>
+    <Number>847</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72788,7 +72750,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/91/Shoutmon_starsword.jpg</ImageUrl>
-    <Number>847</Number>
+    <Number>848</Number>
     <Digivolutions>
       <string>Shoutmon X4</string>
     </Digivolutions>
@@ -72827,7 +72789,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/5/55/Dorulucannon.jpg</ImageUrl>
-    <Number>845</Number>
+    <Number>846</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72872,7 +72834,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/d/dc/Pomumon.jpg/600px-Pomumon.jpg</ImageUrl>
-    <Number>1135</Number>
+    <Number>1132</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72889,7 +72851,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/3/31/Parasaumon.jpg</ImageUrl>
-    <Number>1140</Number>
+    <Number>1137</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72906,7 +72868,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/1/1c/Entmon.jpg</ImageUrl>
-    <Number>1141</Number>
+    <Number>1138</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72923,7 +72885,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/6/6b/Toropiamon.jpg</ImageUrl>
-    <Number>1144</Number>
+    <Number>1141</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72940,7 +72902,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/9d/Heavyleomon.jpg</ImageUrl>
-    <Number>1041</Number>
+    <Number>1039</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72961,7 +72923,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/6/69/Machmon.jpg</ImageUrl>
-    <Number>1138</Number>
+    <Number>1135</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72978,7 +72940,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/8/80/Junkmon.jpg</ImageUrl>
-    <Number>1134</Number>
+    <Number>1131</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -72995,7 +72957,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f1/Rebellimon.jpg</ImageUrl>
-    <Number>1143</Number>
+    <Number>1140</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73057,7 +73019,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/d/d6/Metalgreymon_alterous.jpg/600px-Metalgreymon_alterous.jpg</ImageUrl>
-    <Number>1169</Number>
+    <Number>1171</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73074,7 +73036,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/7/76/Weregarurumon_sagittarius.jpg/600px-Weregarurumon_sagittarius.jpg</ImageUrl>
-    <Number>1171</Number>
+    <Number>1173</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73091,7 +73053,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/6/60/Darkmaildramon.jpg/600px-Darkmaildramon.jpg</ImageUrl>
-    <Number>1165</Number>
+    <Number>1167</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73108,7 +73070,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/d/de/Mimicmon.jpg/600px-Mimicmon.jpg</ImageUrl>
-    <Number>1139</Number>
+    <Number>1136</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73125,7 +73087,7 @@
     <Level>Adult</Level>
     <DubName>Valquimon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/5/5d/Baluchimon.jpg/600px-Baluchimon.jpg</ImageUrl>
-    <Number>1136</Number>
+    <Number>1133</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73142,7 +73104,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/2/28/Manticoremon.jpg/600px-Manticoremon.jpg</ImageUrl>
-    <Number>1142</Number>
+    <Number>1139</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73159,7 +73121,7 @@
     <Level>Ultimate</Level>
     <DubName>DanDevimon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/1/10/Donedevimon.jpg/600px-Donedevimon.jpg</ImageUrl>
-    <Number>1131</Number>
+    <Number>1128</Number>
     <Digivolutions>
       <string>Millenniumon</string>
     </Digivolutions>
@@ -73186,7 +73148,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/b/b4/Komondomon.jpg/600px-Komondomon.jpg</ImageUrl>
-    <Number>1137</Number>
+    <Number>1134</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73207,7 +73169,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/2/23/Pulsemon.jpg/600px-Pulsemon.jpg</ImageUrl>
-    <Number>1148</Number>
+    <Number>1147</Number>
     <Digivolutions>
       <string>Bulkmon</string>
       <string>Exermon</string>
@@ -73229,7 +73191,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/d/dd/Namakemon.jpg/600px-Namakemon.jpg</ImageUrl>
-    <Number>1151</Number>
+    <Number>1150</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73246,7 +73208,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/5/5e/Runnermon.jpg/600px-Runnermon.jpg</ImageUrl>
-    <Number>1152</Number>
+    <Number>1151</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73263,7 +73225,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/c/c8/Exermon.jpg/600px-Exermon.jpg</ImageUrl>
-    <Number>1150</Number>
+    <Number>1149</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73280,7 +73242,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/f/f0/Bulkmon.jpg/600px-Bulkmon.jpg</ImageUrl>
-    <Number>1149</Number>
+    <Number>1148</Number>
     <Digivolutions>
       <string>Boutmon</string>
     </Digivolutions>
@@ -73299,7 +73261,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/c/ca/Lovelyangemon.jpg/600px-Lovelyangemon.jpg</ImageUrl>
-    <Number>1042</Number>
+    <Number>1040</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73352,7 +73314,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/e/ec/Bibimon.jpg/600px-Bibimon.jpg</ImageUrl>
-    <Number>1146</Number>
+    <Number>1144</Number>
     <Digivolutions>
       <string>Pulsemon</string>
     </Digivolutions>
@@ -73371,7 +73333,7 @@
     <Level>Baby I</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/8/82/Dokimon.jpg/600px-Dokimon.jpg</ImageUrl>
-    <Number>1145</Number>
+    <Number>1142</Number>
     <Digivolutions>
       <string>Bibimon</string>
     </Digivolutions>
@@ -73419,12 +73381,12 @@
     <Attribute>Virus</Attribute>
   </Digimon>
   <Digimon>
-    <Name>Kaduchimon</Name>
-    <DebutYear>2021</DebutYear>
+    <Name>Kazuchimon</Name>
+    <DebutYear>2020</DebutYear>
     <Level>Ultimate</Level>
-    <DubName />
-    <ImageUrl>https://wikimon.net/images/6/6c/Kaduchimon.jpg</ImageUrl>
-    <Number>1162</Number>
+    <DubName>Kazuchimon</DubName>
+    <ImageUrl>https://wikimon.net/images/thumb/3/3a/Kazuchimon.jpg/600px-Kazuchimon.jpg</ImageUrl>
+    <Number>1164</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73441,8 +73403,10 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/e/ec/Shivamon.jpg</ImageUrl>
-    <Number>1163</Number>
-    <Digivolutions />
+    <Number>1165</Number>
+    <Digivolutions>
+      <string />
+    </Digivolutions>
     <Appearances>
       <Appearance>
         <Name>Vital Bracelet Digital Monster</Name>
@@ -73458,7 +73422,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/4/4f/Achillesmon.jpg</ImageUrl>
-    <Number>1160</Number>
+    <Number>1161</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73475,7 +73439,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/0/0c/Potamon.jpg</ImageUrl>
-    <Number>1168</Number>
+    <Number>1170</Number>
     <Digivolutions>
       <string>Jyagamon</string>
     </Digivolutions>
@@ -73534,7 +73498,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/f/f4/Shroudmon.jpg</ImageUrl>
-    <Number>1164</Number>
+    <Number>1166</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73583,7 +73547,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/2/23/Rareraremon.jpg/600px-Rareraremon.jpg</ImageUrl>
-    <Number>1170</Number>
+    <Number>1172</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73600,7 +73564,7 @@
     <Level>Baby II</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/4/4a/Hiyarimon.jpg/600px-Hiyarimon.jpg</ImageUrl>
-    <Number>1147</Number>
+    <Number>1146</Number>
     <Digivolutions>
       <string>Blucomon</string>
     </Digivolutions>
@@ -73636,7 +73600,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/a/ae/Frosvelgrmon.jpg/600px-Frosvelgrmon.jpg</ImageUrl>
-    <Number>1161</Number>
+    <Number>1163</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73705,7 +73669,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/thumb/0/02/Monzaemonx.jpg/600px-Monzaemonx.jpg</ImageUrl>
-    <Number>1100</Number>
+    <Number>1097</Number>
     <Digivolutions>
       <string>Cherubimon (Virtue) (X-Antibody)</string>
       <string>Dinotigermon</string>
@@ -73728,7 +73692,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/thumb/2/27/Numemonx.jpg/600px-Numemonx.jpg</ImageUrl>
-    <Number>1075</Number>
+    <Number>1072</Number>
     <Digivolutions>
       <string>Kaiser Leomon</string>
       <string>Lady Devimon (X-Antibody)</string>
@@ -73753,7 +73717,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/thumb/3/34/Agumon_blackx.jpg/600px-Agumon_blackx.jpg</ImageUrl>
-    <Number>1072</Number>
+    <Number>1069</Number>
     <Digivolutions>
       <string>Allomon (X-Antibody)</string>
       <string>Dark Tyranomon (X-Antibody)</string>
@@ -73774,7 +73738,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/thumb/5/5d/Angewomonx.jpg/600px-Angewomonx.jpg</ImageUrl>
-    <Number>1098</Number>
+    <Number>1095</Number>
     <Digivolutions>
       <string>Dinotigermon</string>
       <string>Ebemon (X-Antibody)</string>
@@ -73799,7 +73763,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/d/d1/Examonx.jpg/600px-Examonx.jpg</ImageUrl>
-    <Number>1104</Number>
+    <Number>1101</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73819,7 +73783,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/thumb/2/2e/Impmonx.jpg/600px-Impmonx.jpg</ImageUrl>
-    <Number>1073</Number>
+    <Number>1070</Number>
     <Digivolutions>
       <string>Allomon (X-Antibody)</string>
       <string>Numemon (X-Antibody)</string>
@@ -73840,7 +73804,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/9/92/Ofanimonx.jpg/600px-Ofanimonx.jpg</ImageUrl>
-    <Number>1109</Number>
+    <Number>1106</Number>
     <Digivolutions>
       <string>Duftmon (X-Antibody)</string>
       <string>Sleipmon (X-Antibody)</string>
@@ -73863,7 +73827,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/c/c5/Ofanimon_falldownx.jpg/600px-Ofanimon_falldownx.jpg</ImageUrl>
-    <Number>1089</Number>
+    <Number>1086</Number>
     <Digivolutions>
       <string>Barbamon (X-Antibody)</string>
       <string>Lilithmon (X-Antibody)</string>
@@ -73886,7 +73850,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/1/11/Ogudomonx.jpg/600px-Ogudomonx.jpg</ImageUrl>
-    <Number>1110</Number>
+    <Number>1107</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -73906,7 +73870,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/thumb/1/1d/Omegashoutmonx.jpg/600px-Omegashoutmonx.jpg</ImageUrl>
-    <Number>1101</Number>
+    <Number>1098</Number>
     <Digivolutions>
       <string>Alphamon</string>
       <string>Dinotigermon</string>
@@ -73929,7 +73893,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/thumb/2/22/Ogremon_X.png/585px-Ogremon_X.png</ImageUrl>
-    <Number>1076</Number>
+    <Number>1073</Number>
     <Digivolutions>
       <string>Mametyramon</string>
       <string>Mammon (X-Antibody)</string>
@@ -73950,7 +73914,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/thumb/5/59/Wizarmonx.jpg/600px-Wizarmonx.jpg</ImageUrl>
-    <Number>1097</Number>
+    <Number>1094</Number>
     <Digivolutions>
       <string>Anomalocarimon (X-Antibody)</string>
       <string>Mamemon (X-Antibody)</string>
@@ -73975,7 +73939,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/a/ae/Cherubimon_Vicex.jpg/600px-Cherubimon_Vicex.jpg</ImageUrl>
-    <Number>1083</Number>
+    <Number>1080</Number>
     <Digivolutions>
       <string>Barbamon (X-Antibody)</string>
       <string>Belphemon (X-Antibody)</string>
@@ -73998,7 +73962,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/c/cb/Cherubimon_virtuex.jpg/600px-Cherubimon_virtuex.jpg</ImageUrl>
-    <Number>1103</Number>
+    <Number>1100</Number>
     <Digivolutions>
       <string>Sleipmon (X-Antibody)</string>
       <string>Ulforce V-dramon (X-Antibody)</string>
@@ -74021,7 +73985,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/6/6d/Gankoomonx.jpg/600px-Gankoomonx.jpg</ImageUrl>
-    <Number>1105</Number>
+    <Number>1102</Number>
     <Digivolutions>
       <string>Jesmon GX</string>
     </Digivolutions>
@@ -74043,7 +74007,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/thumb/0/00/Keramonx.jpg/600px-Keramonx.jpg</ImageUrl>
-    <Number>1090</Number>
+    <Number>1087</Number>
     <Digivolutions>
       <string>Diablomon (X-Antibody)</string>
     </Digivolutions>
@@ -74065,7 +74029,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/thumb/c/c5/Cyberdramonx.jpg/600px-Cyberdramonx.jpg</ImageUrl>
-    <Number>1099</Number>
+    <Number>1096</Number>
     <Digivolutions>
       <string>Ebemon (X-Antibody)</string>
       <string>Gaioumon</string>
@@ -74088,7 +74052,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/1/1e/Justimonx.jpg/600px-Justimonx.jpg</ImageUrl>
-    <Number>1108</Number>
+    <Number>1105</Number>
     <Digivolutions>
       <string>Gankoomon (X-Antibody)</string>
       <string>Lord Knightmon (X-Antibody)</string>
@@ -74111,7 +74075,7 @@
     <DebutYear>2018</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/6/61/Sakuyamonx.jpg/600px-Sakuyamonx.jpg</ImageUrl>
-    <Number>1070</Number>
+    <Number>1067</Number>
     <Digivolutions>
       <string>Dukemon (X-Antibody)</string>
     </Digivolutions>
@@ -74133,7 +74097,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/thumb/9/93/Siesamonx.jpg/600px-Siesamonx.jpg</ImageUrl>
-    <Number>1096</Number>
+    <Number>1093</Number>
     <Digivolutions>
       <string>DORUguremon</string>
       <string>Garudamon (X-Antibody)</string>
@@ -74158,7 +74122,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/2/2e/Darkknightmonx.jpg/600px-Darkknightmonx.jpg</ImageUrl>
-    <Number>1084</Number>
+    <Number>1081</Number>
     <Digivolutions>
       <string>Barbamon (X-Antibody)</string>
       <string>Darkness Bagramon</string>
@@ -74182,7 +74146,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/thumb/f/fe/Darktyranomonx.jpg/600px-Darktyranomonx.jpg</ImageUrl>
-    <Number>1074</Number>
+    <Number>1071</Number>
     <Digivolutions>
       <string>Mametyramon</string>
       <string>Metal Greymon (Virus) (X-Antibody)</string>
@@ -74202,7 +74166,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/a/ac/Demonx.jpg/600px-Demonx.jpg</ImageUrl>
-    <Number>1085</Number>
+    <Number>1082</Number>
     <Digivolutions>
       <string>Ogudomon X-Antibody</string>
     </Digivolutions>
@@ -74228,7 +74192,7 @@
     <DebutYear>2018</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/1/18/Diablomonx.jpg/600px-Diablomonx.jpg</ImageUrl>
-    <Number>1067</Number>
+    <Number>1064</Number>
     <Digivolutions>
       <string>Ogudomon (X-Antibody)</string>
     </Digivolutions>
@@ -74258,7 +74222,7 @@
     <DebutYear>2018</DebutYear>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/thumb/9/98/Dracomonx.jpg/600px-Dracomonx.jpg</ImageUrl>
-    <Number>1062</Number>
+    <Number>1059</Number>
     <Digivolutions>
       <string>Damemon</string>
       <string>Growmon (X-Antibody)</string>
@@ -74282,7 +74246,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/thumb/0/0d/Terriermonx.jpg/600px-Terriermonx.jpg</ImageUrl>
-    <Number>1092</Number>
+    <Number>1089</Number>
     <Digivolutions>
       <string>DORUgamon</string>
       <string>Meramon (X-Antibody)</string>
@@ -74303,7 +74267,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/thumb/d/d2/Lopmonx.jpg/600px-Lopmonx.jpg</ImageUrl>
-    <Number>1091</Number>
+    <Number>1088</Number>
     <Digivolutions>
       <string>Ginryumon</string>
       <string>Pegasmon (X-Antibody)</string>
@@ -74324,7 +74288,7 @@
     <DebutYear>2018</DebutYear>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/thumb/d/da/Tyranomonx.jpg/600px-Tyranomonx.jpg</ImageUrl>
-    <Number>1064</Number>
+    <Number>1061</Number>
     <Digivolutions>
       <string>Metal Greymon (X-Antibody)</string>
       <string>Metal Tyranomon (X-Antibody)</string>
@@ -74348,7 +74312,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/2/2d/Barbamonx.jpg/600px-Barbamonx.jpg</ImageUrl>
-    <Number>1081</Number>
+    <Number>1078</Number>
     <Digivolutions>
       <string>Ogudomon X-Antibody</string>
     </Digivolutions>
@@ -74374,7 +74338,7 @@
     <DebutYear>2018</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/0/04/Beelstarmonx.jpg/600px-Beelstarmonx.jpg</ImageUrl>
-    <Number>1065</Number>
+    <Number>1062</Number>
     <Digivolutions>
       <string>Beelzebumon (X-Antibody)</string>
       <string>Diablomon (X-Antibody)</string>
@@ -74401,7 +74365,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/4/44/Hououmonx.jpg</ImageUrl>
-    <Number>1106</Number>
+    <Number>1103</Number>
     <Digivolutions>
       <string>Dynasmon (X-Antibody)</string>
       <string>Lord Knightmon (X-Antibody)</string>
@@ -74424,7 +74388,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/thumb/8/8b/Pegasmonx.jpg/600px-Pegasmonx.jpg</ImageUrl>
-    <Number>1094</Number>
+    <Number>1091</Number>
     <Digivolutions>
       <string>Angewomon (X-Antibody)</string>
       <string>Grademon</string>
@@ -74445,7 +74409,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/thumb/0/07/Mephismonx.jpg/600px-Mephismonx.jpg</ImageUrl>
-    <Number>1078</Number>
+    <Number>1075</Number>
     <Digivolutions>
       <string>Beel Starmon (X-Antibody)</string>
       <string>Cherubimon (Vice) (X-Antibody)</string>
@@ -74470,7 +74434,7 @@
     <DebutYear>2018</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/6/6f/Minervamonx.jpg/600px-Minervamonx.jpg</ImageUrl>
-    <Number>1069</Number>
+    <Number>1066</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -74490,7 +74454,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/thumb/e/e8/Ladydevimonx.jpg/600px-Ladydevimonx.jpg</ImageUrl>
-    <Number>1077</Number>
+    <Number>1074</Number>
     <Digivolutions>
       <string>Beel Starmon (X-Antibody)</string>
       <string>Grandis Kuwagamon</string>
@@ -74515,7 +74479,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/8/84/Leviamonx.jpg/600px-Leviamonx.jpg</ImageUrl>
-    <Number>1086</Number>
+    <Number>1083</Number>
     <Digivolutions>
       <string>Ogudomon X-Antibody</string>
     </Digivolutions>
@@ -74541,7 +74505,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/7/70/Lilithmonx.jpg/600px-Lilithmonx.jpg</ImageUrl>
-    <Number>1087</Number>
+    <Number>1084</Number>
     <Digivolutions>
       <string>Ogudomon X-Antibody</string>
     </Digivolutions>
@@ -74567,7 +74531,7 @@
     <DebutYear>2018</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/5/53/Lordknightmonx.jpg/600px-Lordknightmonx.jpg</ImageUrl>
-    <Number>1068</Number>
+    <Number>1065</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -74595,7 +74559,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/9/95/Lucemonx.jpg/600px-Lucemonx.jpg</ImageUrl>
-    <Number>1088</Number>
+    <Number>1085</Number>
     <Digivolutions>
       <string>Ogudomon X-Antibody</string>
     </Digivolutions>
@@ -74621,7 +74585,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/5/52/Rapidmonx.jpg/600px-Rapidmonx.jpg</ImageUrl>
-    <Number>1111</Number>
+    <Number>1108</Number>
     <Digivolutions>
       <string>Magnamon (X-Antibody)</string>
     </Digivolutions>
@@ -74639,7 +74603,7 @@
     <DebutYear>2018</DebutYear>
     <Level>Child</Level>
     <ImageUrl>https://wikimon.net/images/thumb/0/0f/Renamonx.jpg/600px-Renamonx.jpg</ImageUrl>
-    <Number>1063</Number>
+    <Number>1060</Number>
     <Digivolutions>
       <string>Damemon</string>
       <string>Leomon (X-Antibody)</string>
@@ -74663,7 +74627,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/thumb/8/85/Rizegreymonx.jpg/600px-Rizegreymonx.jpg</ImageUrl>
-    <Number>1102</Number>
+    <Number>1099</Number>
     <Digivolutions>
       <string>Ebemon (X-Antibody)</string>
       <string>Gaioumon</string>
@@ -74686,7 +74650,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/thumb/8/8f/Vamdemonx.jpg/600px-Vamdemonx.jpg</ImageUrl>
-    <Number>1080</Number>
+    <Number>1077</Number>
     <Digivolutions>
       <string>Chaosdramon (X-Antibody)</string>
       <string>Cherubimon (Vice) (X-Antibody)</string>
@@ -74712,7 +74676,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Adult</Level>
     <ImageUrl>https://wikimon.net/images/thumb/9/9d/Meramonx.jpg/600px-Meramonx.jpg</ImageUrl>
-    <Number>1093</Number>
+    <Number>1090</Number>
     <Digivolutions>
       <string>Cyberdramon (X-Antibody)</string>
       <string>Garudamon (X-Antibody)</string>
@@ -74734,7 +74698,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Perfect</Level>
     <ImageUrl>https://wikimon.net/images/thumb/0/0d/Metalgreymon_virusx.jpg/600px-Metalgreymon_virusx.jpg</ImageUrl>
-    <Number>1079</Number>
+    <Number>1076</Number>
     <Digivolutions>
       <string>Black War Greymon (X-Antibody)</string>
       <string>Chaosdramon (X-Antibody)</string>
@@ -74758,7 +74722,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/c/cd/Belphemonx.jpg/600px-Belphemonx.jpg</ImageUrl>
-    <Number>1082</Number>
+    <Number>1079</Number>
     <Digivolutions>
       <string>Ogudomon X-Antibody</string>
     </Digivolutions>
@@ -74785,7 +74749,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/7/78/Kodokugumon2.jpg/600px-Kodokugumon2.jpg</ImageUrl>
-    <Number>1173</Number>
+    <Number>1175</Number>
     <Digivolutions />
     <Appearances />
     <Type>Insect</Type>
@@ -74832,7 +74796,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/9/92/Minidekachimon.jpg/600px-Minidekachimon.jpg</ImageUrl>
-    <Number>0</Number>
+    <Number>798</Number>
     <Digivolutions>
       <string>Atamadekachimon</string>
     </Digivolutions>
@@ -74848,5 +74812,149 @@
     </Appearances>
     <Type>Small Dragon</Type>
     <Attribute>Data</Attribute>
+  </Digimon>
+  <Digimon>
+    <Name>Burpmon</Name>
+    <DebutYear>2007</DebutYear>
+    <Level>Unknown</Level>
+    <DubName />
+    <ImageUrl>https://wikimon.net/images/thumb/b/bf/Burpmon.jpg/600px-Burpmon.jpg</ImageUrl>
+    <Number>788</Number>
+    <Digivolutions />
+    <Appearances>
+      <Appearance>
+        <Name>Digimon Adventure:</Name>
+        <AppearanceCategory>Manga</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Twin L and Digimon Twin R|R</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+    </Appearances>
+    <Type>Mutant</Type>
+    <Attribute>Unknown</Attribute>
+  </Digimon>
+  <Digimon>
+    <Name>Vulturemon</Name>
+    <DebutYear>2021</DebutYear>
+    <Level>Perfect</Level>
+    <DubName />
+    <ImageUrl>https://wikimon.net/images/thumb/3/3e/Vulturemon.jpg/600px-Vulturemon.jpg</ImageUrl>
+    <Number>1160</Number>
+    <Digivolutions />
+    <Appearances>
+      <Appearance>
+        <Name>Vital Bracelet Digital Monster</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+    </Appearances>
+    <Type>Bird Man</Type>
+    <Attribute>Virus</Attribute>
+  </Digimon>
+  <Digimon>
+    <Name>Goromon</Name>
+    <DebutYear>2021</DebutYear>
+    <Level>Baby II</Level>
+    <DubName />
+    <ImageUrl>https://wikimon.net/images/thumb/9/9b/Goromon.jpg/600px-Goromon.jpg</ImageUrl>
+    <Number>1145</Number>
+    <Digivolutions>
+      <string>Sunarizamon</string>
+    </Digivolutions>
+    <Appearances>
+      <Appearance>
+        <Name>Vital Bracelet Digital Monster</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+    </Appearances>
+    <Type>Ore</Type>
+    <Attribute>None</Attribute>
+  </Digimon>
+  <Digimon>
+    <Name>Sunamon</Name>
+    <DebutYear>2021</DebutYear>
+    <Level>Baby I</Level>
+    <DubName />
+    <ImageUrl>https://wikimon.net/images/thumb/1/14/Sunamon.jpg/600px-Sunamon.jpg</ImageUrl>
+    <Number>1143</Number>
+    <Digivolutions>
+      <string>Goromon</string>
+    </Digivolutions>
+    <Appearances>
+      <Appearance>
+        <Name>Vital Bracelet Digital Monster</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+    </Appearances>
+    <Type>Slime</Type>
+    <Attribute>None</Attribute>
+  </Digimon>
+  <Digimon>
+    <Name>Gaioumon: Itto Mode</Name>
+    <DebutYear>2021</DebutYear>
+    <Level>Ultimate</Level>
+    <DubName />
+    <ImageUrl>https://wikimon.net/images/thumb/c/ce/Gaioumon_ittonokata.jpg/600px-Gaioumon_ittonokata.jpg</ImageUrl>
+    <Number>1038</Number>
+    <Digivolutions />
+    <Appearances>
+      <Appearance>
+        <Name>Digimon ReArise</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+    </Appearances>
+    <Type>Dragon Man</Type>
+    <Attribute>Virus</Attribute>
+  </Digimon>
+  <Digimon>
+    <Name>Ajatarmon</Name>
+    <DebutYear>2021</DebutYear>
+    <Level>Perfect</Level>
+    <DubName />
+    <ImageUrl>https://wikimon.net/images/thumb/e/e1/Ajatarmon.jpg/600px-Ajatarmon.jpg</ImageUrl>
+    <Number>1152</Number>
+    <Digivolutions />
+    <Appearances>
+      <Appearance>
+        <Name>Vital Bracelet Digital Monster</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+    </Appearances>
+    <Type>Plant</Type>
+    <Attribute>Vaccine</Attribute>
+  </Digimon>
+  <Digimon>
+    <Name>Bloom Lordmon</Name>
+    <DebutYear>2021</DebutYear>
+    <Level>Ultimate</Level>
+    <DubName />
+    <ImageUrl>https://wikimon.net/images/thumb/3/3e/Bloomlordmon.jpg/600px-Bloomlordmon.jpg</ImageUrl>
+    <Number>1162</Number>
+    <Digivolutions />
+    <Appearances>
+      <Appearance>
+        <Name>Vital Bracelet Digital Monster</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+    </Appearances>
+    <Type>Fairy</Type>
+    <Attribute>Vaccine</Attribute>
+  </Digimon>
+  <Digimon>
+    <Name>Hydramon</Name>
+    <DebutYear>2021</DebutYear>
+    <Level>Ultimate</Level>
+    <DubName />
+    <ImageUrl>https://wikimon.net/images/thumb/c/c2/Hydramon.jpg/600px-Hydramon.jpg</ImageUrl>
+    <Number>0</Number>
+    <Digivolutions />
+    <Appearances>
+      <Appearance>
+        <Name>Vital Bracelet Digital Monster</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+    </Appearances>
+    <Type>Plant</Type>
+    <Attribute>Virus</Attribute>
   </Digimon>
 </ArrayOfDigimon>

@@ -197,9 +197,9 @@ namespace DigitalMonsters
                 {
                     try
                     {
-                        if (digimon.ImageUrl != null)
+                        if (digimon.ImageUrl != null && string.Equals(_currentDigimon.Name, digimon.Name))
                         {
-                            pictureBox2.Load(digimon.ImageUrl);
+                            pictureBox2.LoadAsync(digimon.ImageUrl);
                         }
                     }
                     catch (Exception ex)
@@ -306,6 +306,14 @@ namespace DigitalMonsters
         {
             var editForm = new EditForm(_digimonList, _currentDigimon);
             editForm.ShowDialog();
+        }
+
+        private void pictureBox2_LoadCompleted(object sender, System.ComponentModel.AsyncCompletedEventArgs e)
+        {
+            if (!string.Equals(pictureBox2.ImageLocation, _currentDigimon.ImageUrl))
+            {
+                pictureBox2.LoadAsync(_currentDigimon.ImageUrl);
+            }
         }
     }
 }
