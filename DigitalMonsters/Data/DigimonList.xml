@@ -19566,7 +19566,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/6/6f/Justimon_trinityarm.jpg</ImageUrl>
-    <Number>417</Number>
+    <Number>1</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -58088,7 +58088,7 @@
     <DebutedIn>[[Battle 01|Digimon Next: "Welcome to the Digimon Net Game!!"]]</DebutedIn>
     <Level>No Level</Level>
     <ImageUrl>https://wikimon.net/images/8/86/Guidemon.jpg</ImageUrl>
-    <Number>1210</Number>
+    <Number>1213</Number>
     <Digivolutions />
     <Appearances />
   </Digimon>
@@ -72404,7 +72404,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/a/aa/Terriermon_assistant.jpg</ImageUrl>
-    <Number>1212</Number>
+    <Number>1193</Number>
     <Digivolutions>
       <string>Digimon Card Game Colors and Levels#Also Evolves From Green Lv.3|Any Digimon that also Evolves from Green Lv.3 Digimon from the ''Digimon Card Game''</string>
       <string>Digimon Card Game Colors and Levels#Green Lv.4 Digimon|Any Green Lv.4 Digimon from the ''Digimon Card Game''</string>
@@ -72432,7 +72432,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://vignette.wikia.nocookie.net/digimon-frontier/images/6/6b/Mamemon_Elder_speaks_to_the_humans.png/</ImageUrl>
-    <Number>1216</Number>
+    <Number>1215</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -72446,7 +72446,7 @@
     <Level>Perfect</Level>
     <DubName>Proto Cherrymon</DubName>
     <ImageUrl>http://dma.wtw-x.net/DMA/DigimonStands/Other/I/CherrymonDW1.png</ImageUrl>
-    <Number>1217</Number>
+    <Number>1216</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -72460,7 +72460,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://vignette.wikia.nocookie.net/digimon-fusion752/images/b/b9/Cutemon's_Parents.png</ImageUrl>
-    <Number>1213</Number>
+    <Number>1214</Number>
     <Digivolutions>
       <string />
     </Digivolutions>
@@ -73907,7 +73907,7 @@
     <DebutYear>2019</DebutYear>
     <Level>Ultimate</Level>
     <ImageUrl>https://wikimon.net/images/thumb/1/1e/Justimonx.jpg/600px-Justimonx.jpg</ImageUrl>
-    <Number>1096</Number>
+    <Number>4</Number>
     <Digivolutions>
       <string>Gankoomon (X-Antibody)</string>
       <string>Lord Knightmon (X-Antibody)</string>
@@ -75310,7 +75310,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/4/4c/Blacktailmon_Uver.jpg/600px-Blacktailmon_Uver.jpg</ImageUrl>
-    <Number>1193</Number>
+    <Number>1194</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75569,7 +75569,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/0/05/Xiquemon.jpg/600px-Xiquemon.jpg</ImageUrl>
-    <Number>1207</Number>
+    <Number>1208</Number>
     <Digivolutions>
       <string>Huankunmon</string>
     </Digivolutions>
@@ -75588,31 +75588,16 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/d/dc/Greymon_bluex.jpg/600px-Greymon_bluex.jpg</ImageUrl>
-    <Number>1214</Number>
+    <Number>1211</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
         <Name>Digimon Card Game BT11</Name>
         <AppearanceCategory>Card</AppearanceCategory>
       </Appearance>
-	</Appearances>
+    </Appearances>
     <Type>Dinosaur</Type>
     <Attribute>Virus</Attribute>
-  </Digimon>
-  <Digimon>
-    <Name>Ukkomon</Name>
-    <DebutYear>2021</DebutYear>
-    <Level />
-    <DubName />
-    <ImageUrl>https://wikimon.net/images/thumb/2/25/Ukkomon.png/600px-Ukkomon.png</ImageUrl>
-    <Number>1211</Number>
-    <Digivolutions />
-    <Appearances>
-      <Appearance>
-        <Name>Digimon Adventure 02: The Beginning</Name>
-        <AppearanceCategory>Anime</AppearanceCategory>
-      </Appearance>
-    </Appearances>
   </Digimon>
   <Digimon>
     <Name>Lianpumon</Name>
@@ -75620,7 +75605,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/3/33/Lianpumon_new_century.png/600px-Lianpumon_new_century.png</ImageUrl>
-    <Number>1206</Number>
+    <Number>1207</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75637,7 +75622,7 @@
     <Level>Adult</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/1/15/Publimon.jpg/600px-Publimon.jpg</ImageUrl>
-    <Number>1195</Number>
+    <Number>1196</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75654,7 +75639,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/a/aa/Oleamon.jpg/600px-Oleamon.jpg</ImageUrl>
-    <Number>1196</Number>
+    <Number>1197</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75671,7 +75656,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/1/1b/Huankunmon.jpg/600px-Huankunmon.jpg</ImageUrl>
-    <Number>1208</Number>
+    <Number>1209</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75688,7 +75673,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/9/98/Xiangpengmon.jpg</ImageUrl>
-    <Number>1209</Number>
+    <Number>1210</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75705,7 +75690,7 @@
     <Level>Adult</Level>
     <DubName>Chamblemon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/c/c2/Chamblemon.jpg/600px-Chamblemon.jpg</ImageUrl>
-    <Number>1194</Number>
+    <Number>1195</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75722,14 +75707,14 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/b/b2/Baalmonx.jpg/600px-Baalmonx.jpg</ImageUrl>
-    <Number>1215</Number>
+    <Number>1212</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
         <Name>Digimon Card Game BT12</Name>
         <AppearanceCategory>Card</AppearanceCategory>
       </Appearance>
-	</Appearances>
+    </Appearances>
     <Type>Demon Man</Type>
     <Attribute>Free</Attribute>
   </Digimon>
@@ -75739,7 +75724,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/2/2b/Fumamon.jpg/600px-Fumamon.jpg</ImageUrl>
-    <Number>1203</Number>
+    <Number>1204</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75756,7 +75741,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/3/34/Ghilliedhumon.jpg/600px-Ghilliedhumon.jpg</ImageUrl>
-    <Number>1204</Number>
+    <Number>1205</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75773,7 +75758,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/d/dd/Bombermon.jpg/600px-Bombermon.jpg</ImageUrl>
-    <Number>1202</Number>
+    <Number>1203</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75790,7 +75775,7 @@
     <Level>Perfect</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/d/d4/Zanmetsumon.jpg/600px-Zanmetsumon.jpg</ImageUrl>
-    <Number>1205</Number>
+    <Number>1206</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75807,7 +75792,7 @@
     <Level>Ultimate</Level>
     <DubName>Siriusmon</DubName>
     <ImageUrl>https://wikimon.net/images/thumb/9/9a/Siriusmon.jpg/600px-Siriusmon.jpg</ImageUrl>
-    <Number>1200</Number>
+    <Number>1201</Number>
     <Digivolutions>
       <string>Digimon Card Game Colors and Levels#Also Evolves From Red Lv.6|Any Digimon that also Evolves from Red Lv.6 Digimon from the ''Digimon Card Game''</string>
       <string>Digimon Card Game Colors and Levels#Red Lv.7 Digimon|Any Red Lv.7 Digimon from the ''Digimon Card Game''</string>
@@ -75841,7 +75826,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/b/b2/Diarbbitmon.jpg/600px-Diarbbitmon.jpg</ImageUrl>
-    <Number>1199</Number>
+    <Number>1200</Number>
     <Digivolutions>
       <string>Digimon Card Game Colors and Levels#Also Evolves From Green Lv.6|Any Digimon that also Evolves from Green Lv.6 Digimon from the ''Digimon Card Game''</string>
       <string>Digimon Card Game Colors and Levels#Green Lv.7 Digimon|Any Green Lv.7 Digimon from the ''Digimon Card Game''</string>
@@ -75865,7 +75850,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/c/c1/Amphimon.jpg/600px-Amphimon.jpg</ImageUrl>
-    <Number>1197</Number>
+    <Number>1198</Number>
     <Digivolutions>
       <string>Digimon Card Game Colors and Levels#Blue Lv.7 Digimon|Any Blue Lv.7 Digimon from the ''Digimon Card Game''</string>
       <string>Digimon Card Game Colors and Levels#Also Evolves From Blue Lv.6|Any Digimon that also Evolves from Blue Lv.6 Digimon from the ''Digimon Card Game''</string>
@@ -75889,7 +75874,7 @@
     <Level>Ultimate</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/5/58/Cthyllamon.jpg/600px-Cthyllamon.jpg</ImageUrl>
-    <Number>1198</Number>
+    <Number>1199</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75906,7 +75891,7 @@
     <Level>Child</Level>
     <DubName />
     <ImageUrl>https://wikimon.net/images/thumb/6/6e/Loogamon.jpg/600px-Loogamon.jpg</ImageUrl>
-    <Number>1201</Number>
+    <Number>1202</Number>
     <Digivolutions />
     <Appearances>
       <Appearance>
@@ -75916,5 +75901,79 @@
     </Appearances>
     <Type>Demon Beast</Type>
     <Attribute>Virus</Attribute>
+  </Digimon>
+  <Digimon>
+    <Name>Justimon: Accel Arm</Name>
+    <DebutYear>2002</DebutYear>
+    <Level>Ultimate</Level>
+    <DubName />
+    <ImageUrl>https://wikimon.net/images/7/7c/Justimon.jpg</ImageUrl>
+    <Number>2</Number>
+    <Digivolutions>
+      <string>Digimon Card Game Colors and Levels#Black Lv.7 Digimon|Any Black Lv.7 Digimon from the ''Digimon Card Game''</string>
+      <string>Digimon Card Game Colors and Levels#Also Evolves From Black Lv.6|Any Digimon that also Evolves from Black Lv.6 Digimon from the ''Digimon Card Game''</string>
+      <string>Justimon (X-Antibody)</string>
+      <string>Justimon: Blitz Arm</string>
+      <string>Justimon: Critical Arm</string>
+    </Digivolutions>
+    <Appearances>
+      <Appearance>
+        <Name>Digimon Tamers</Name>
+        <AppearanceCategory>Anime</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Tamers: The Runaway Digimon Express</Name>
+        <AppearanceCategory>Anime</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Collectors</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Crusader</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Vital Bracelet Digital Monster</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+    </Appearances>
+    <Type>Cyborg</Type>
+    <Attribute>Vaccine</Attribute>
+  </Digimon>
+  <Digimon>
+    <Name>Justimon: Critical Arm</Name>
+    <DebutYear>2002</DebutYear>
+    <Level>Ultimate</Level>
+    <DubName />
+    <ImageUrl>https://wikimon.net/images/a/ad/Justimon_criticalarm.jpg</ImageUrl>
+    <Number>3</Number>
+    <Digivolutions>
+      <string>Digimon Card Game Colors and Levels#Black Lv.7 Digimon|Any Black Lv.7 Digimon from the ''Digimon Card Game''</string>
+      <string>Digimon Card Game Colors and Levels#Also Evolves From Black Lv.6|Any Digimon that also Evolves from Black Lv.6 Digimon from the ''Digimon Card Game''</string>
+      <string>Justimon (X-Antibody)</string>
+      <string>Justimon: Accel Arm</string>
+      <string>Justimon: Blitz Arm</string>
+    </Digivolutions>
+    <Appearances>
+      <Appearance>
+        <Name>Digimon Tamers</Name>
+        <AppearanceCategory>Anime</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Collectors</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Digimon Crusader</Name>
+        <AppearanceCategory>Game</AppearanceCategory>
+      </Appearance>
+      <Appearance>
+        <Name>Vital Bracelet Digital Monster</Name>
+        <AppearanceCategory>VirtualPet</AppearanceCategory>
+      </Appearance>
+    </Appearances>
+    <Type>Cyborg</Type>
+    <Attribute>Vaccine</Attribute>
   </Digimon>
 </ArrayOfDigimon>
