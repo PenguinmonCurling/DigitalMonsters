@@ -1619,6 +1619,61 @@
   </item>
   <item>
     <key>
+	<string>Digimon Ghost Game</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>93</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Vital Bracelet BE</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>94</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon New Century</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>95</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Card Game BT11</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>96</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Card Game BT12</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>97</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
 	<string>Digimon Adventure V-Tamer 01</string>
     </key>
     <value>

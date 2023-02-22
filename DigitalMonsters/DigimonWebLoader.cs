@@ -216,10 +216,10 @@ namespace DigitalMonsters
 
         private static void GetMangaAppearances(Digimon digimon, string downloadString)
         {
-            if (Regex.IsMatch(downloadString, "=Appearances=(.{1,})==Manga==(.*?)[^=]==[^=]", RegexOptions.Singleline))
+            if (Regex.IsMatch(downloadString, "==Manga==(.*?)[^=]==[^=]", RegexOptions.Singleline))
             {
                 var appearances = new List<Appearance>();
-                var appearancesText = Regex.Match(downloadString, "=Appearances=(.{1,})==Manga==(.*?)[^=]==[^=]", RegexOptions.Singleline).Value;
+                var appearancesText = Regex.Match(downloadString, "==Manga==(.*?)[^=]==[^=]", RegexOptions.Singleline).Value;
                 foreach (var match in Regex.Matches(appearancesText, "===(.*?)===", RegexOptions.Singleline))
                 {
                     appearances.Add(new Appearance
@@ -228,7 +228,14 @@ namespace DigitalMonsters
                         AppearanceCategory = Appearance.AppearanceType.Manga
                     });
                 }
-                digimon.Appearances = appearances;
+                if (digimon.Appearances == null)
+                {
+                    digimon.Appearances = appearances;
+                }
+                else
+                {
+                    digimon.Appearances.AddRange(appearances);
+                }
             }
         }
 
