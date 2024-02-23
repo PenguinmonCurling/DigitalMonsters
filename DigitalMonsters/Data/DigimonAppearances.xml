@@ -1685,6 +1685,28 @@
   </item>
   <item>
     <key>
+	<string>Digimon Pendulum COLOR</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>99</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
+	<string>Digimon Liberator</string>
+    </key>
+    <value>
+      <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <Value>99.1</Value>
+        <IsRegexMatch>false</IsRegexMatch>
+      </AppearanceOptions>
+    </value>
+  </item>
+  <item>
+    <key>
 	<string>Digimon Adventure V-Tamer 01</string>
     </key>
     <value>
