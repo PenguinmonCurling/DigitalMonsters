@@ -212,7 +212,7 @@ namespace DigitalMonsters
                 textBox3.Lines = new string[3] { digimon.DubLevel, digimon.Attribute, digimon.Type };
                 if (digimon.Appearances != null)
                 {
-                    textBox4.Lines = digimon.Appearances.Where(y => y.AppearanceValue() < 100).OrderBy(x => x.AppearanceValue()).Select(y => y.AppearanceNameConvert()).ToArray();
+                    textBox4.Lines = digimon.Appearances.Where(y => y.AppearanceValue() < 1000).OrderBy(x => x.AppearanceValue()).Select(y => y.AppearanceNameConvert()).ToArray();
                     if (textBox4.Lines.Count() > 3)
                     {
                         textBox4.ScrollBars = ScrollBars.Vertical;
