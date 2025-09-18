@@ -88,9 +88,15 @@ namespace DigitalMonsters
 
         public void FilterList(DigimonFilter digimonFilter)
         {
-            _DigimonFilteredList = _DigimonList.Where(
+            _DigimonFilteredList = _DigimonFilteredList.Where(
                 x => digimonFilter.AntiFilter ? !FilterList(digimonFilter, x) : FilterList(digimonFilter, x))
                 .ToList();
+            DigimonLoader.SetNumbers(_DigimonFilteredList);
+        }
+
+        public void ResetList(DigimonFilter digimonFilter)
+        {
+            _DigimonFilteredList = _DigimonList.ToList();
             DigimonLoader.SetNumbers(_DigimonFilteredList);
         }
 

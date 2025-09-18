@@ -264,6 +264,7 @@ namespace DigitalMonsters
         {
             var filterForm = new FilterForm(_filter);
             filterForm.FilterSet += Filter;
+            filterForm.Reset += Reset;
             filterForm.ShowDialog();
         }
 
@@ -276,6 +277,20 @@ namespace DigitalMonsters
             if (form != null)
             {
                 form.FilterSet -= Filter;
+                form.Reset -= Reset;
+            }
+        }
+
+        private void Reset(object sender, DigimonFilter e)
+        {
+            _digimonList.ResetList(e);
+            SetDigimon(_digimonList.DigimonCollection.FirstOrDefault(x => x.Number == 1));
+            _filter = e;
+            var form = sender as FilterForm;
+            if (form != null)
+            {
+                form.FilterSet -= Filter;
+                form.Reset -= Reset;
             }
         }
 

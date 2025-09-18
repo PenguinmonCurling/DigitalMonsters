@@ -13,6 +13,7 @@ namespace DigitalMonsters
     public partial class FilterForm : Form
     {
         public event EventHandler<DigimonFilter> FilterSet;
+        public event EventHandler<DigimonFilter> Reset;
 
         public FilterForm(DigimonFilter filter)
         {
@@ -50,7 +51,7 @@ namespace DigitalMonsters
         {
             var filter = new DigimonFilter();
             filter.AppearanceTypeFilter = Appearance.AppearanceType.Any;
-            FilterSet(this, filter);
+            Reset(this, filter);
             Close();
         }
 

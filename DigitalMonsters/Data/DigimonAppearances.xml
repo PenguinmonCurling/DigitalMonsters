@@ -1700,7 +1700,7 @@
     </key>
     <value>
       <AppearanceOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-        <Value>100</Value>
+        <Value>99.1</Value>
         <IsRegexMatch>false</IsRegexMatch>
       </AppearanceOptions>
     </value>
